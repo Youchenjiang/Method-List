@@ -11,10 +11,12 @@ Describe how to solve "Github Clone Failed" Problem
 ![image](https://github.com/user-attachments/assets/5e9f9a8b-af5e-4fc4-bd5d-15e655862fd4)
 
 `git config --global core.compression 0`
+
 (試著關閉在複製專案時，複製壓縮的內容，但這會讓複製專案的過程變慢。)
 ![image](https://github.com/user-attachments/assets/40a950ab-14db-41bc-990a-fa26a8118067)
 
 `git config --global http.postBuffer 524288000`
+
 (在複製專案時，設定並加大較大的buffer size。)
 ![image](https://github.com/user-attachments/assets/2ffbe095-fa68-4a37-93a3-71adeb06bd0f)
 
