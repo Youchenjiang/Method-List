@@ -10,18 +10,18 @@ Describe how to solve "Github Clone Failed" Problem
 在路徑處輸入cmd
 ![image](https://github.com/user-attachments/assets/5e9f9a8b-af5e-4fc4-bd5d-15e655862fd4)
 
-git config --global core.compression 0 
+`git config --global core.compression 0`
 (試著關閉在複製專案時，複製壓縮的內容，但這會讓複製專案的過程變慢。)
 ![image](https://github.com/user-attachments/assets/40a950ab-14db-41bc-990a-fa26a8118067)
 
-git config --global http.postBuffer 524288000
+`git config --global http.postBuffer 524288000`
 (在複製專案時，設定並加大較大的buffer size。)
 ![image](https://github.com/user-attachments/assets/2ffbe095-fa68-4a37-93a3-71adeb06bd0f)
 
 複製「專案Clone網址」
 ![image](https://github.com/user-attachments/assets/8e353b7e-a717-44a5-ace1-407d0152c1ce)
 
-git clone 「專案Clone網址」
+`git clone `+「專案Clone網址」
 ![image](https://github.com/user-attachments/assets/7efcf94f-d50e-4305-a877-21ea558d2cb5)
 
 成功複製儲存庫
