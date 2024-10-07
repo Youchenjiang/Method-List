@@ -35,5 +35,9 @@ Describe how to solve "Github Clone Failed" Problem
 選擇剛才的「準備存放儲存庫的資料夾」
 ![image](https://github.com/user-attachments/assets/42a6a132-69ed-4d09-b838-097e201c5628)
 
+如果還是不行，可以試試看
+`git clone`+「專案Clone網址」+ `--depth 1`
+![image](https://github.com/user-attachments/assets/595458cd-3f8a-46cd-b039-519276f89d08)
+
 參考：
 [如何避免Git clone指令在複製大專案時候出錯？](https://peterli.website/%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8Dgit-clone%E6%8C%87%E4%BB%A4%E5%9C%A8%E8%A4%87%E8%A3%BD%E5%A4%A7%E5%B0%88%E6%A1%88%E6%99%82%E5%80%99%E5%87%BA%E9%8C%AF%EF%BC%9F/)
