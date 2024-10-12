@@ -16,6 +16,7 @@ Refer to [Ko-Ko-Kirk/devdaysasia2024demo](https://github.com/Ko-Ko-Kirk/devdaysa
 2. `poetry new chatbotdemo` 
 
 poetry建立虛擬環境地點
+
 3. `cd chatbotdemo` 
 
 進入建好的地點
