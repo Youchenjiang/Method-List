@@ -9,15 +9,23 @@ Refer to [Ko-Ko-Kirk/devdaysasia2024demo](https://github.com/Ko-Ko-Kirk/devdaysa
 這是 20240810 [Ko-Ko-Kirk](https://github.com/Ko-Ko-Kirk) 在 DevDays Asia 分享 幫助帶大家快速建立 LangServe 的來給 Chatbot 串接的內容，我對其加入一些補充。
 
 #### 安裝環境
-0. `pip install poetry ` 
+0. `pip install poetry `
+
 我們會使用到poetry建立虛擬環境
-1. `poetry new chatbotdemo` 
+
+2. `poetry new chatbotdemo` 
+
 poetry建立虛擬環境地點
-2. `cd chatbotdemo` 
+3. `cd chatbotdemo` 
+
 進入建好的地點
-3. `poetry add langchain langchain-openai langchain-community langchain-cli qdrant-client pypdf` 
+
+4. `poetry add langchain langchain-openai langchain-community langchain-cli qdrant-client pypdf`
+
 安裝這個環境需要的套件
-4. `poetry env use 3.11 ` 
+
+5. `poetry env use 3.11 ` 
+
 記得要讓你的 Python 虛擬環境是 3.11 以上
 
 ####  設定好你的 Azure OpenAI 和 Qdrant
