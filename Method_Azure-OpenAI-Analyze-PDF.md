@@ -29,7 +29,7 @@ Refer to [Ko-Ko-Kirk/devdaysasia2024demo](https://github.com/Ko-Ko-Kirk/devdaysa
 
 `poetry env use 3.11 `
 
-####  設定好你的 Azure OpenAI 和 Qdrant
+####  設定好 Azure OpenAI 和 Qdrant
 
 1. 取得 Azure OpenAI 的 key 和 endpoint
 2. 如果你是 OpenAI 的使用者要記得改程式碼
