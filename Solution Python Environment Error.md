@@ -12,7 +12,10 @@
 ![image](https://github.com/user-attachments/assets/2a9d1d4e-c8ec-49bd-9008-a1cd99110a15)
 
 【解法】改用Python3.4~3.9版本
-，我是直接安裝3.9.13( https://www.python.org/downloads/release/python-3913/ )，再進行套件安裝
+`py -0`: 列出當前安裝的所有Python版本(*)表示預設執行環境
+`py -3.14 install numpy`: 在3.14版本環境安裝numpy
+
+可以直接安裝[Python3.9.13](https://www.python.org/downloads/release/python-3913/)，再進行套件安裝
  
 face-detector依賴的absl-py判斷python版本的問題(v3.10以上判斷為小於v3.4)，[所以跳出版本過低問題](https://stackoverflow.com/questions/75250036/runtimeerror-python-version-2-7-or-3-4-is-required-even-if-i-already-have-3-10)，目前嘗試的其他繞過限制方法失敗
 
