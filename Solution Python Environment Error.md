@@ -1,6 +1,27 @@
 Windows操作Python
 ---
 
+【問題】無法使用pip
+
+![image](https://github.com/user-attachments/assets/383974b8-e78c-4fac-ae03-615ac308d670)
+
+【解法1】繼續使用Python環境，加上 -m 指令
+
+`python -m pip`
+
+![image](https://github.com/user-attachments/assets/ed8e3cc0-de84-48f0-86ac-d2c740202a11)
+
+【解法2】退出Python環境，直接使用pip
+
+Ctrl + Z 
+
+`pip`
+
+![image](https://github.com/user-attachments/assets/895fc0ba-12d2-416f-9821-cb90f2a6ba5d)
+
+
+---
+
 【問題】Python3.14無法安裝numpy
 
 ![image](https://github.com/user-attachments/assets/5ba0a2ac-1383-46ee-b4c5-ff12db7f3f8e)
@@ -19,6 +40,8 @@ Windows操作Python
 
 `py -3.14 install numpy`: 在3.14版本環境安裝numpy
 
+`pip install --verbose numpy`: --verbose參數可提供安裝出錯詳細原因
+
 可以直接安裝[Python3.9.13](https://www.python.org/downloads/release/python-3913/)，再進行套件安裝
  
 face-detector依賴的absl-py套件無法有效比較python3.9以上版本(v3.10以上判斷為小於v3.4)，所以跳出版本過低問題(參考以下)，嘗試的其他繞過限制方法均失敗
@@ -26,6 +49,14 @@ face-detector依賴的absl-py套件無法有效比較python3.9以上版本(v3.10
 [RuntimeError: Python version 2.7 or 3.4+ is required even if I already have 3.10.6 version](https://stackoverflow.com/questions/75250036/runtimeerror-python-version-2-7-or-3-4-is-required-even-if-i-already-have-3-10) 
 
 [How solve "python setup.py egg_info did not run successfully" in Anaconda, installing rasa](https://stackoverflow.com/questions/76887424/how-solve-python-setup-py-egg-info-did-not-run-successfully-in-anaconda-insta)
+
+[pip install安装的时候在Preparing metadata (setup.py) ...卡住](https://blog.csdn.net/sinat_29957455/article/details/130285223)
+
+[多版本 Python 使用 pip 安装 package](https://blog.csdn.net/DunkyZ/article/details/128091318)
+
+[Python: Python 多版本管理](https://magicjackting.pixnet.net/blog/post/225113189)
+
+[python学习笔记（1）----python安装](https://www.cnblogs.com/wanghaihong200/p/7587326.html)
 
 ▼ 先選擇3.9的環境，再安裝cvzone,mediapipe,face-detector
  ![image](https://github.com/user-attachments/assets/0cf15d68-ecf0-4361-b2a6-1ec90a9c5dd9)
