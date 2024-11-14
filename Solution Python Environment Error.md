@@ -12,7 +12,9 @@
 ![image](https://github.com/user-attachments/assets/2a9d1d4e-c8ec-49bd-9008-a1cd99110a15)
 
 【解法】改用Python3.4~3.9版本
+
 `py -0`: 列出當前安裝的所有Python版本(*)表示預設執行環境
+
 `py -3.14 install numpy`: 在3.14版本環境安裝numpy
 
 可以直接安裝[Python3.9.13](https://www.python.org/downloads/release/python-3913/)，再進行套件安裝
