@@ -13,7 +13,7 @@ Windows操作Python
 
 【解法2】退出Python環境，直接使用pip
 
-輸入 quit() 或是 Ctrl + Z 退出python運行環境
+輸入 quit() 或是點擊鍵盤 Ctrl-Z 退出python運行環境
 
 `pip` 直接使用pip
 
