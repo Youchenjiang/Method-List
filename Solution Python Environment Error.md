@@ -13,9 +13,9 @@ Windows操作Python
 
 【解法2】退出Python環境，直接使用pip
 
-Ctrl + Z 
+輸入 quit() 或是 Ctrl + Z 退出python運行環境
 
-`pip`
+`pip` 直接使用pip
 
 ![image](https://github.com/user-attachments/assets/895fc0ba-12d2-416f-9821-cb90f2a6ba5d)
 
