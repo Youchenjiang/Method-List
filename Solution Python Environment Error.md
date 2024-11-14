@@ -1,11 +1,14 @@
 
 【問題】Python3.14無法安裝numpy
-【解法】改用Python3.14以下版本安裝numpy
 
 ![image](https://github.com/user-attachments/assets/5ba0a2ac-1383-46ee-b4c5-ff12db7f3f8e)
 
+【解法】改用Python3.14以下版本安裝numpy
+
+---
+
 【問題】Python3.12安裝face-detector出現版本錯誤
-【解法】Python
+【解法】改用Python3.4~3.9版本
 
 ![image](https://github.com/user-attachments/assets/2a9d1d4e-c8ec-49bd-9008-a1cd99110a15)
 
