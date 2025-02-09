@@ -67,6 +67,12 @@ face-detector依賴的absl-py套件無法有效比較python3.9以上版本(v3.10
 ---
 
 【問題】
-【解法】
+
+「ImportError: DLL load failed while importing _framework_bindings: 找不到指定的模塊。」
+
 
 ![image](https://github.com/user-attachments/assets/21987403-1ef6-4f20-8f04-649d331238b7)
+
+【解法】
+
+將Anaconda更新到最新版、執行`conda update --all`
