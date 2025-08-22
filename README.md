@@ -30,52 +30,96 @@ Method List 是一個專門收集和整理技術方法、工具資源和問題�
 
 ```
 Method-List/
-├── README.md                           # 專案說明文件
-├── Methods/                            # 技術方法與教學
-│   ├── azure-openai-analyze-pdf.md    # Azure OpenAI PDF 分析教學
-│   └── vs2022-import-excel.md          # VS2022 匯入 Excel 資料方法
-├── Resources/                          # 工具資源整理
-│   ├── media-channel-classification.md # 影音頻道分類
-│   ├── software-tools-computer.md     # 電腦軟體工具大全
-│   ├── software-tools-phone.md        # 手機軟體工具
-│   └── software-tools-web.md          # 網頁工具服務
-└── Solutions/                          # 問題解決方案
-    ├── github-clone-failed.md         # GitHub Clone 失敗解決方案
-    └── python-environment-error.md    # Python 環境錯誤解決方案
+├── README.md                                    # 專案說明文件
+├── Methods/                                     # 技術方法與教學
+│   ├── ai/                                     # AI 相關技術
+│   │   └── azure-openai-analyze-pdf.md        # Azure OpenAI PDF 分析教學
+│   ├── development/                            # 開發技術
+│   │   └── vs2022-import-excel.md              # VS2022 匯入 Excel 資料方法
+│   └── tools/                                  # 工具使用方法
+├── Resources/                                   # 工具資源整理
+│   ├── software/                               # 軟體工具
+│   │   ├── software-tools-computer.md         # 電腦軟體工具大全
+│   │   └── software-tools-phone.md            # 手機軟體工具
+│   ├── media/                                  # 媒體資源
+│   │   └── media-channel-classification.md    # 影音頻道分類
+│   └── online/                                 # 線上服務
+│       └── software-tools-web.md              # 網頁工具服務
+└── Solutions/                                   # 問題解決方案
+    ├── development/                            # 開發問題
+    │   ├── github-clone-failed.md             # GitHub Clone 失敗解決方案
+    │   └── python-environment-error.md        # Python 環境錯誤解決方案
+    ├── system/                                 # 系統問題
+    └── network/                                # 網路問題
 ```
 
 ## 📖 內容概覽
 
 ### 🛠️ Methods - 技術方法
 
+#### 🤖 AI 相關技術 ([Methods/ai/](Methods/ai/))
 | 文件名稱 | 描述 | 難度 | 標籤 |
 |---------|------|------|------|
-| [Azure OpenAI PDF 分析](Methods/azure-openai-analyze-pdf.md) | 使用 Azure OpenAI 分析 PDF 文件的完整教學 | 中級 | `Azure` `OpenAI` `Python` `RAG` |
-| [VS2022 匯入 Excel](Methods/vs2022-import-excel.md) | Visual Studio 2022 匯入 Excel 資料到 SQL Server 的方法 | 初級 | `VS2022` `Excel` `SQL Server` |
+| [Azure OpenAI PDF 分析](Methods/ai/azure-openai-analyze-pdf.md) | 使用 Azure OpenAI 分析 PDF 文件的完整教學 | 中級 | `Azure` `OpenAI` `Python` `RAG` |
+
+#### 💻 開發技術 ([Methods/development/](Methods/development/))
+| 文件名稱 | 描述 | 難度 | 標籤 |
+|---------|------|------|------|
+| [VS2022 匯入 Excel](Methods/development/vs2022-import-excel.md) | Visual Studio 2022 匯入 Excel 資料到 SQL Server 的方法 | 初級 | `VS2022` `Excel` `SQL Server` |
+
+#### 🔧 工具使用方法 ([Methods/tools/](Methods/tools/))
+（待新增內容）
 
 ### 📚 Resources - 工具資源
 
+#### 💾 軟體工具 ([Resources/software/](Resources/software/))
 | 文件名稱 | 描述 | 內容數量 |
 |---------|------|---------|
-| [影音頻道分類](Resources/media-channel-classification.md) | YouTube、Bilibili、Facebook 優質頻道整理 | 300+ 頻道 |
-| [電腦軟體工具](Resources/software-tools-computer.md) | 電腦端各類軟體工具分類整理 | 200+ 工具 |
-| [手機軟體工具](Resources/software-tools-phone.md) | 手機端實用 APP 推薦 | - |
-| [網頁工具服務](Resources/software-tools-web.md) | 線上工具和網頁服務整理 | - |
+| [電腦軟體工具大全](Resources/software/software-tools-computer.md) | 電腦端各類軟體工具分類整理 | 200+ 工具 |
+| [手機軟體工具](Resources/software/software-tools-phone.md) | 手機端實用 APP 推薦 | - |
+
+#### 📺 媒體資源 ([Resources/media/](Resources/media/))
+| 文件名稱 | 描述 | 內容數量 |
+|---------|------|---------|
+| [影音頻道分類](Resources/media/media-channel-classification.md) | YouTube、Bilibili、Facebook 優質頻道整理 | 300+ 頻道 |
+
+#### 🌐 線上服務 ([Resources/online/](Resources/online/))
+| 文件名稱 | 描述 | 內容數量 |
+|---------|------|---------|
+| [網頁工具服務](Resources/online/software-tools-web.md) | 線上工具和網頁服務整理 | - |
 
 ### 🔧 Solutions - 解決方案
 
+#### 🐛 開發問題 ([Solutions/development/](Solutions/development/))
 | 文件名稱 | 描述 | 問題類型 |
 |---------|------|---------|
-| [GitHub Clone 失敗](Solutions/github-clone-failed.md) | 解決 GitHub 專案複製失敗的問題 | 版本控制 |
-| [Python 環境錯誤](Solutions/python-environment-error.md) | Python 套件安裝和環境問題解決方案 | 開發環境 |
+| [GitHub Clone 失敗](Solutions/development/github-clone-failed.md) | 解決 GitHub 專案複製失敗的問題 | 版本控制 |
+| [Python 環境錯誤](Solutions/development/python-environment-error.md) | Python 套件安裝和環境問題解決方案 | 開發環境 |
+
+#### 💻 系統問題 ([Solutions/system/](Solutions/system/))
+（待新增內容）
+
+#### 🌐 網路問題 ([Solutions/network/](Solutions/network/))
+（待新增內容）
 
 ## 🚀 使用指南
 
 ### 快速導航
 
-1. **尋找教學方法**：瀏覽 `Methods/` 資料夾，查看詳細的技術教學
-2. **查找工具資源**：在 `Resources/` 中找到各類實用工具和服務
-3. **解決技術問題**：在 `Solutions/` 中搜尋相關問題的解決方案
+1. **尋找教學方法**：
+   - AI 技術：`Methods/ai/` - 人工智慧相關教學
+   - 開發技術：`Methods/development/` - 程式開發方法
+   - 工具使用：`Methods/tools/` - 各種工具的使用教學
+
+2. **查找工具資源**：
+   - 軟體工具：`Resources/software/` - 電腦和手機軟體推薦
+   - 媒體資源：`Resources/media/` - 優質頻道和創作者
+   - 線上服務：`Resources/online/` - 網頁工具和雲端服務
+
+3. **解決技術問題**：
+   - 開發問題：`Solutions/development/` - 程式開發相關問題
+   - 系統問題：`Solutions/system/` - 作業系統和硬體問題
+   - 網路問題：`Solutions/network/` - 網路連線和安全問題
 
 ### 搜尋技巧
 
@@ -116,19 +160,10 @@ Method-List/
 - 使用描述性的文件名
 - 例如：`azure-openai-tutorial.md`
 
-## 📝 更新日誌
-
-### 最近更新
-
-- **2024-01** - 新增 Azure OpenAI PDF 分析教學
-- **2024-01** - 更新電腦軟體工具清單
-- **2024-01** - 完善 README.md 文件
-
 ### 計劃更新
 
 - [ ] 增加更多 AI 相關教學
 - [ ] 擴充移動端工具資源
-- [ ] 建立內容索引和標籤系統
 - [ ] 新增更多開發環境問題解決方案
 
 ## 📞 聯絡資訊
