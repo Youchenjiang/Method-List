@@ -1,8 +1,27 @@
 # 影音頻道分類
 
+- [影音頻道分類](#影音頻道分類)
+  - [Youtube](#youtube)
+    - [綜合類頻道](#綜合類頻道)
+    - [知識教學](#知識教學)
+    - [娛樂](#娛樂)
+    - [音樂與藝術](#音樂與藝術)
+    - [生活](#生活)
+    - [新聞與時事](#新聞與時事)
+    - [其他](#其他)
+  - [Bilibili](#bilibili)
+    - [知識教學](#知識教學-1)
+    - [娛樂](#娛樂-1)
+    - [音樂與藝術](#音樂與藝術-1)
+    - [生活與推薦](#生活與推薦)
+    - [遊戲](#遊戲)
+  - [Facebook](#facebook)
+    - [音樂與藝術](#音樂與藝術-2)
+
 ## Youtube
 
 ### 綜合類頻道
+
 - [GQ Taiwan](https://www.youtube.com/channel/UCI1zO6-A3h7DHg-R_x34vLg) - 國外小資訊
 - [台灣達人秀](https://www.youtube.com/channel/UCIECJyQ6meDyN-UnVHgXAMA) - 推薦優秀頻道
 - [CFABC 鵝肉麵](https://www.youtube.com/channel/UCAsJVaqMX97EU8SOhtaKXgw) - 動畫介紹生活
