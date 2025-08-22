@@ -7,6 +7,11 @@
     - [歷史](#歷史)
     - [自然與科學](#自然與科學)
     - [電腦與科技](#電腦與科技)
+      - [綜合](#綜合-2)
+      - [AI與機器學習](#ai與機器學習)
+      - [電腦維修](#電腦維修)
+      - [程式設計](#程式設計)
+      - [軟體/網站破解](#軟體網站破解)
     - [生活技能與教學](#生活技能與教學)
     - [語言學習](#語言學習)
     - [動物與昆蟲](#動物與昆蟲)
@@ -149,6 +154,13 @@
   - Ele实验室 [(Bilibili)](https://space.bilibili.com/481434238) - 進階
   - 偶尔有点小迷糊 [(Bilibili)](https://space.bilibili.com/39665558) - 入門
   - 马士兵教育知识分享官 [(Bilibili)](https://space.bilibili.com/488200087)
+- **AI與機器學習**
+  - 跟李沐学AI [(Youtube)](https://www.youtube.com/@mu_li) [(Bilibili)](https://space.bilibili.com/1567748478) - AI論文解讀
+  - 最佳拍檔 [(Youtube)](https://www.youtube.com/@bestpartners) - AI論文解讀
+  - ReadPaper(沈向洋带你读论文) [(Youtube)](https://www.youtube.com/@ReadPaper) [(Bilibili)](https://space.bilibili.com/1706874133) - AI論文解讀
+  - EZ.Encoder Academy [(Youtube)](https://www.youtube.com/@ez.encoder.academy) - AI論文解讀
+  - hu-po [(Youtube)](https://www.youtube.com/@hu-po) - AI論文解讀
+  - AI Research Roundup [(Youtube)](https://www.youtube.com/@AIResearchRoundup) - AI論文解讀
 - **電腦維修**
   - 修电脑的张哥 [(Youtube)](https://www.youtube.com/channel/UC-uhnCKiiJ1wyzSPit2yWuQ/videos)
   - 靚仔修機 PC-Repair [(Youtube)](https://www.youtube.com/channel/UC14zIcHXIYwNuft5GrGnVxQ)
