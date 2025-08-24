@@ -161,6 +161,9 @@
   - EZ.Encoder Academy [(Youtube)](https://www.youtube.com/@ez.encoder.academy) - AI論文解讀
   - hu-po [(Youtube)](https://www.youtube.com/@hu-po) - AI論文解讀
   - AI Research Roundup [(Youtube)](https://www.youtube.com/@AIResearchRoundup) - AI論文解讀
+  - Vincent教你学AI [(Youtube)](https://www.youtube.com/@vincenttalk) [(Bilibili)](https://space.bilibili.com/494163254) - AI教學
+  - Latent Space [(Youtube)](https://www.youtube.com/channel/UCxBcwypKK-W3GHd_RZ9FZrQ) - AI技術討論
+  - Sa神带你学AI [(Bilibili)](https://space.bilibili.com/3546681717033402) - AI教學
 - **電腦維修**
   - 修电脑的张哥 [(Youtube)](https://www.youtube.com/channel/UC-uhnCKiiJ1wyzSPit2yWuQ/videos)
   - 靚仔修機 PC-Repair [(Youtube)](https://www.youtube.com/channel/UC14zIcHXIYwNuft5GrGnVxQ)
