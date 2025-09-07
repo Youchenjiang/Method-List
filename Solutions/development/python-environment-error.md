@@ -76,3 +76,14 @@ face-detector依賴的absl-py套件無法有效比較python3.9以上版本(v3.10
 【解法】
 
 將Anaconda更新到最新版、執行`conda update --all`
+
+---
+【問題】
+「UnicodeDecodeError: 'cp950' codec can't decode byte 0xf0 in position 2391: illegal multibyte sequence」
+
+![image](https://github.com/user-attachments/assets/bc294cfb-be48-4384-81f0-ca811c250738)
+
+【解法】
+切換Vscode左下角UTF-8編碼為UTF-8 with BOM，重新儲存，即可正常繼續安裝環境
+
+![image](https://github.com/user-attachments/assets/422e24c0-7d77-497c-a565-e6f73eb4f8ea)
