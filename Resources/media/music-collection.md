@@ -48,7 +48,8 @@
 [**Lee Phil Ho \- Queen for 7 Days**](https://www.youtube.com/watch?v=KJ-9lTMS-fM)  
 [**Two Steps From Hell \- Dark Ages**](https://www.youtube.com/watch?v=dU-q4Ifntnk)  
 [**Derek Fiechter \- Papyrus Scrolls**](https://www.youtube.com/watch?v=R47YbIL9_wU)  
-[**Michael Giacchino \- Light The Fuse**](https://www.youtube.com/watch?v=x0BWklF1MG4)
+[**Michael Giacchino \- Light The Fuse**](https://www.youtube.com/watch?v=x0BWklF1MG4)  
+[**迪鹿 \- 吉時已到**](https://www.youtube.com/watch?v=Iw5bZQRrY4Q)**(\*)**
 
 ## **憂傷與失落**
 
@@ -141,7 +142,10 @@
 [**Shirfine \- Illusionary Daytime**](https://www.youtube.com/watch?v=n5G45OpqPNw)  
 [**Lewis Capaldi \- Someone You Loved**](https://www.youtube.com/watch?v=zABLecsR5UE)  
 [**Elton John \- Sorry Seems To Be The Hardest Word**](https://www.youtube.com/watch?v=c3nScN89Klo)**(\*)**  
-[**Dr Dre, Eminem and Skylar Gray. \- I need a doctor**](https://www.youtube.com/watch?v=6m3vtWYCuMg&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=32)
+[**Dr Dre, Eminem and Skylar Gray. \- I need a doctor**](https://www.youtube.com/watch?v=6m3vtWYCuMg&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=32)  
+[**鞠文嫻 \- BINGBIAN**](https://www.youtube.com/watch?v=ZFw6rTEw1hA)  
+[**洋瀾一 \- 化風行萬裡**](https://www.youtube.com/watch?v=MiOjTw1sQ1o)  
+[**李一桐 \- 等**](https://www.youtube.com/watch?v=18Bft1SfK8I)
 
 ## **懷舊與回憶**
 
@@ -311,7 +315,8 @@
 [**Lightscape \- Collapsing World**](https://www.youtube.com/watch?v=rT-AqiJ-tVM)  
 [**Richard Clayderman \- 秋日私语**](https://www.youtube.com/watch?v=26e3yaPIEWs)  
 [**Crusader Kings II \- The Byzantine Empire**](https://www.youtube.com/watch?v=fdsN80yoRMs)  
-[**Sweet Rain \- The Days Falling Like a Rain**](https://www.youtube.com/watch?v=89cd1cSINcY)
+[**Sweet Rain \- The Days Falling Like a Rain**](https://www.youtube.com/watch?v=89cd1cSINcY)  
+[**周深 \- 時間之海**](https://www.youtube.com/watch?v=uMEOAzBVG8A)
 
 ## **平靜與舒緩**
 
