@@ -8,7 +8,7 @@
   - [**釋放與解脫**](#釋放與解脫)
   - [**愉悅與活力**](#愉悅與活力)
   - [**激勵與奮鬥**](#激勵與奮鬥)
-  - [額外](#額外)
+  - [**額外**](#額外)
     - [**財閥家的小兒子-OST**](#財閥家的小兒子-ost)
     - [**慶餘年-BGM**](#慶餘年-bgm)
     - [**古風**](#古風)
@@ -146,7 +146,7 @@
 ## **懷舊與回憶**
 
 [**July \- Fake**](https://www.youtube.com/watch?v=M5pQH9GwfgM)  
-**July [\- Autumn](https://www.youtube.com/watch?v=BeqogO3g8NY)**  
+[**July \- Autumn**](https://www.youtube.com/watch?v=BeqogO3g8NY)  
 [**July \- My Soul**](https://www.youtube.com/watch?v=935RgNLNuno&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=2)  
 [**July \- Moonlight Night Got Dark**](https://www.youtube.com/watch?v=pO0HpZICldI)  
 [**葉里 \- 仙瑤**](https://www.youtube.com/watch?v=ZKRhzriYIlA)**(\*)**  
@@ -323,7 +323,7 @@
 [**傅许 \- 星之幻**](https://www.youtube.com/watch?v=iVDHQp_znNo)  
 [**傅许 \- 寂静之空**](https://www.youtube.com/watch?v=SR6r0IDnqpA)  
 [**楊青 \- 歸來**](https://www.youtube.com/watch?v=e2tVwrWMHs0&ab_channel=%E6%9D%A8%E9%9D%92-Topic)  
-**楊青 [\- 半山聽雨](https://www.youtube.com/watch?v=3XFVORZNYTM)**  
+[**楊青 \- 半山聽雨**](https://www.youtube.com/watch?v=3XFVORZNYTM)  
 [**周杰倫 \- 安靜**](https://www.youtube.com/watch?v=7oIyZvsnkI0)  
 [**周杰倫 \- 蒲公英的約定**](https://www.youtube.com/watch?v=VitJnr3IySc&ab_channel=%E5%91%A8%E6%9D%B0%E5%80%ABJayChou)  
 [**전창엽 \- Memory**](https://www.youtube.com/watch?v=ZYdBnPnBMFg&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=20)  
@@ -522,8 +522,8 @@
 [**DJ OKAWARI \- Flower Dance Pt2**](https://www.youtube.com/watch?v=ZLX-nyMUW_8)  
 [**Taylor Swift \- Love Story**](https://www.youtube.com/watch?v=aXzVF3XeS8M4)  
 [**Taylor Swift \- The Story Of Us**](https://www.youtube.com/watch?v=nN6VR92V70M)  
-**S.E.N.S. Project \- Charmer**  
-**S.E.N.S. Project \- The Advisors Alliance Main Theme**  
+**S.E.N.S. Project \- Charmer** (暫無連結)  
+**S.E.N.S. Project \- The Advisors Alliance Main Theme** (暫無連結)  
 [**Tobu \- Life**](https://www.youtube.com/watch?v=bQOmKD-sMt8)  
 [**于果 \- 極光**](https://www.youtube.com/watch?v=WLvgWB1V5Jg)  
 [**夢然 \- 少年**](https://www.youtube.com/watch?v=LGzDEu7Sh5g&ab_channel=BobaBeats)  
@@ -699,4 +699,6 @@
 
 [**『古韵遗风』渺渺兮予怀，望美人兮天一方**](https://music.163.com/#/playlist?id=1984937420)
 
-Fine music \- 優質音樂：<https://music.youtube.com/playlist?list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b\&jct=54niiG-dOnsLduPMRZXPIlkpg67PNg>
+---
+
+**Fine music - 優質音樂**：[YouTube播放清單](https://music.youtube.com/playlist?list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&jct=54niiG-dOnsLduPMRZXPIlkpg67PNg)
