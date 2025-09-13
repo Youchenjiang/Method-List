@@ -24,6 +24,7 @@
 ## **其他**
 
 [Squoosh](https://squoosh.app/)：任意壓縮圖片  
+[CleverPDF](https://www.cleverpdf.com/zh-tw/gif-to-png)：GIF 轉 PNG 檔案轉換  
 [Ytrestrict](https://polsy.org.uk/stuff/ytrestrict.cgi)：YouTube 區域限制檢查器  
 [Tuberipper](https://tuberipper.com/36/save/mp3)：下載 Youtube 音樂/影片  
 [出走工程師 Up](https://txtconv.arpuli.com/)：簡繁互換(csv)  
