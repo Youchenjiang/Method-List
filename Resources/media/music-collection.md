@@ -668,22 +668,22 @@
 [**Eternal Eclipse \- Revelations**](https://www.youtube.com/watch?v=rEK5JNvvnis)  
 [**Audiomachine \- Breath and Life**](https://www.youtube.com/watch?v=qHohWh5likw&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=30)  
 [**We Own The Skye \- New Horizons**](https://www.youtube.com/watch?v=1fzx_Km92HQ)  
-[**Vangelis \- Conquest of paradise**](https://www.youtube.com/watch?v=WYeDsa4Tw0c&ab_channel=Makmian)  
-[**Brand X Music \- Helmet To Helmet**](https://www.youtube.com/watch?v=oGvrVeOP6zA)
+[**Vangelis \- Conquest of paradise**](https://www.youtube.com/watch?v=WYeDsa4Tw0c)  
+[**Brand X Music \- Helmet To Helmet**](https://www.youtube.com/watch?v=oGvrVeOP6zA)  
 [**Egzod & Maestro Chives \- Royalty**](https://www.youtube.com/watch?v=C5fLxtJH2Qs)  
 [**Frogmonster \- Remember Our Summer**](https://www.youtube.com/watch?v=UnRl4byPlMk)  
-[**Maksim Mrvica \- Croatian Rhapsody**](https://www.youtube.com/watch?v=3aTEjyzWKFQ&ab_channel=AndranikAzizbekyan)  
+[**Maksim Mrvica \- Croatian Rhapsody**](https://www.youtube.com/watch?v=3aTEjyzWKFQ)  
 [**Game of Thrones \- Opening Credits**](https://www.youtube.com/watch?v=TZE9gVF1QbA)  
 [**Epic Soul Factory \- Hero Memories**](https://www.youtube.com/watch?v=odZJMAy4JKE)  
 [**Twisted Jukebox \- Angels Will Rise**](https://www.youtube.com/watch?v=0zAspzNfHCs)  
 [**PiscesRising \- EPIC Game of Thrones**](https://www.youtube.com/watch?v=v8aokfpvS7M)  
 [**HOAPROX, NICK STRAND & MIO \- WITH YOU**](https://www.youtube.com/watch?v=3KadWjpqDXs)  
 [**Hearts of Iron IV \- The Royal Airforce**](https://www.youtube.com/watch?v=Z6DUroYNI4s&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=3)  
-[**Crusader Kings 2 Soundtrack \- Main Theme**](https://www.youtube.com/watch?v=168eM_5IKf8&ab_channel=mush)  
+[**Crusader Kings 2 Soundtrack \- Main Theme**](https://www.youtube.com/watch?v=168eM_5IKf8)  
 [**The Glitch Mob, Mako, and The Word Alive \- RISE**](https://www.youtube.com/watch?v=fB8TyLTD7EE)  
 [**Danny McCarthy, Mark Petrie \- Rags to Rings Extended**](https://www.youtube.com/watch?v=9-MVzYGOMlU)
 
-## 額外
+## **額外**
 
 ### **財閥家的小兒子-OST**
 
