@@ -10,11 +10,11 @@
 [Passport Photo](https://apps.apple.com/app/passport-photo-id-visa-maker/id6677057383)(背景去除、裁減)  
 [Lono](https://apps.apple.com/us/app/lono-photo-video-editor/id1632742723?l=zh-Hant-TW)(照片影片編輯)
 
-### iPhone-Green Screen Background Editor
+[Green Screen Background Editor](https://apps.apple.com/us/app/green-screen-background-editor/id577037255)(替換背景)
 
 [Visual LabX](https://apps.apple.com/us/app/visual-labx-ai-photo-editor/id6449296377)(AI照片編輯)
 
-### iPhone-AI Face Swap
+[AI Face Swap](https://apps.apple.com/app/ai-face-swap-app-celeb-replace/id1493363916)(AI換臉)
 
 [GrainLab Film Grain Editor](https://www.newmobilelife.com/2024/12/25/grainlab-film-grain-editor-%E9%99%90%E6%99%82%E5%85%8D%E8%B2%BB/)(懷舊照片特效)  
 [FreeStyle](https://apps.apple.com/us/app/photo2art-aesthetic-drawing/id1561895862)(照片濾鏡)  
