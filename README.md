@@ -1,10 +1,11 @@
 # Method List - 技術方法與解決方案知識庫
 
 [![GitHub](https://img.shields.io/badge/GitHub-Method--List-blue)](https://github.com/Youchenjiang/Method-List)
-[![License](https://img.sh3. **學習理論概念**：
-   - AI 概念：`Learning-Notes/ai/` - 人工智慧理論與概念
-   - 量子科技：`Learning-Notes/Quantum/` - 量子計算與量子通訊lds.io/badge/License-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+ **學習理論概念**：
+   - AI 概念：`Learning-Notes/ai/` - 人工智慧理論與概念
+   - 量子科技：`Learning-Notes/Quantum/` - 量子計算與量子通訊
 > 一個集合技術教學、工具資源與問題解決方案的綜合知識庫
 
 ## 📋 目錄
@@ -25,6 +26,7 @@
     - [📚 Resources - 工具資源](#-resources---工具資源)
       - [💾 軟體工具 (Resources/software/)](#-軟體工具-resourcessoftware)
       - [📺 媒體資源 (Resources/media/)](#-媒體資源-resourcesmedia)
+      - [🔧 工具使用方法 (Resources/tools/)](#-工具使用方法-resourcestools)
       - [🌐 線上服務 (Resources/online/)](#-線上服務-resourcesonline)
     - [🔧 Solutions - 解決方案](#-solutions---解決方案)
       - [🐛 開發問題 (Solutions/development/)](#-開發問題-solutionsdevelopment)
