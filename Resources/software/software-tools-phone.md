@@ -75,6 +75,7 @@
 [Luca - Photo Editor, Filters](https://apps.apple.com/us/app/luca-photo-editor-filters/id1611968438?l=zh-Hant-TW)(照片編輯與濾鏡)
 [PixieClean](https://apps.apple.com/us/app/pixieclean/id6745176117?l=zh-Hant-TW)(照片清理工具)
 [Picture Collage Maker & Editor](https://apps.apple.com/us/app/picture-collage-maker-editor/id6747819888?l=zh-Hant-TW)(照片拼貼製作與編輯)
+[Batch Video Compressor: Saving](https://apps.apple.com/us/app/%E6%89%B9%E9%87%8F%E5%BD%B1%E7%89%87%E5%A3%93%E7%B8%AE-%E8%A7%86%E9%A2%91-%E5%89%AA%E7%89%87-%E6%89%8B%E6%A9%9F%E6%B8%85%E7%90%86-%E6%B8%85%E7%90%86/id6447493571?l=zh-Hant-TW)(批量影片壓縮與剪輯)
 
 ### iPhone-鈴聲製作
 
@@ -87,6 +88,7 @@
 [Schoolify](https://apps.apple.com/us/app/schoolify-school-planner/id6711361448)(學校日程規劃)  
 [Country Days Calendar Tracker](https://apps.apple.com/us/app/country-days-calendar-tracker/id6738502107?l=zh-Hant-TW)(特定國家的節日)  
 [Dog & Cat Tracker - PetNoter](https://apps.apple.com/us/app/dog-cat-tracker-petnoter/id1580581463%3Fl%3Dzh-Hant-TW)(寵物照護追蹤)
+[Cupla: Apps for Couples](https://apps.apple.com/us/app/cupla-apps-for-couples/id1557764033?l=zh-Hant-TW)(情侶共享行事曆與待辦)
 
 ### iPhone-螢幕投屏
 
@@ -119,6 +121,9 @@
 [BreatheInn: Guided Breathwork](https://apps.apple.com/us/app/breatheinn-guided-breathwork/id6744612926?l=zh-Hant-TW)(引導式呼吸練習)
 [PillMate: Medicine Tracker](https://apps.apple.com/us/app/pillmate-medicine-tracker/id6743670524?l=zh-Hant-TW)(藥物服用追蹤與提醒)
 [Vent, Reflect: Mood Journal](https://apps.apple.com/us/app/vent-reflect-mood-journal/id6748589340?l=zh-Hant-TW)(情緒抒發與心情日記)
+[QuitIt - 戒菸追蹤器](https://apps.apple.com/us/app/quitit-%E6%88%92%E8%8F%B8%E8%BF%BD%E8%B9%A4%E5%99%A8/id6744225705?l=zh-Hant-TW)(戒菸進度追蹤)
+[Calorie AI - Protein Tracker](https://apps.apple.com/us/app/calorie-ai-protein-tracker/id6737493244?l=zh-Hant-TW)(AI卡路里與蛋白質追蹤)
+[Health App Widgets & Watch](https://apps.apple.com/us/app/health-app-widgets-watch/id6745725161?l=zh-Hant-TW)(健康數據桌面小工具)
 
 ### iPhone-語文教學
 
@@ -162,6 +167,7 @@
 [PortfolioX](https://apps.apple.com/app/portfoliox-investment-tracker/id6482978134)(市場趨勢)  
 [Budget Flow](https://apps.apple.com/tw/app/budget-flow-%E5%85%A8%E5%B9%B3%E5%8F%B0%E8%A8%98%E5%B8%B3%E8%BB%9F%E9%AB%94/id1640091876)(記帳)
 [Money Tracker: Budget Planner](https://apps.apple.com/us/app/money-tracker-budget-planner/id6444917344?l=zh-Hant-TW)(開銷追蹤與預算規劃)
+[ShopPad - Shopping Tracker](https://apps.apple.com/us/app/shoppad-shopping-tracker/id6529523495?l=zh-Hant-TW)(購物開銷追蹤)
 
 ### iPhone-介面美觀
 
@@ -191,6 +197,7 @@
 [轉盤抽籤抽獎輪盤 - 小決定選擇遊戲工具](https://apps.apple.com/us/app/%E8%BD%89%E7%9B%A4%E6%8A%BD%E7%B1%A4%E6%8A%BD%E7%8D%8E%E8%BC%AA%E7%9B%A4-%E5%B0%8F%E6%B1%BA%E5%AE%9A%E9%81%B8%E6%93%87%E9%81%8A%E6%88%B2%E5%B7%A5%E5%85%B7%E5%8C%85/id6670761036?l=zh-Hant-TW)(決定輪盤與抽籤工具)
 [ASMR Games - Relief Stress](https://apps.apple.com/us/app/asmr-games-relief-stress/id6478853004?l=zh-Hant-TW)(ASMR舒壓遊戲)
 [10+ Puzzle Games Offline: PGQ](https://apps.apple.com/us/app/10-puzzle-games-offline-pgq/id6474549464?l=zh-Hant-TW)(離線益智遊戲合輯)
+[Colouring games for kids](https://apps.apple.com/us/app/colouring-games-for-kids/id6476297325?l=zh-Hant-TW)(兒童著色遊戲)
 
 ### iPhone-地理
 
@@ -245,6 +252,7 @@
 [Alarmify™ Alarm for Spotify](http://Alarm%20)(Spotify作為鬧鐘鈴聲)  
 [LOUDER: AI Volume Booster](https://apps.apple.com/us/app/louder-ai-volume-booster/id6504086142?l=zh-Hant-TW)(增強音訊和影片檔案的音量)
 [Live Microphone](https://apps.apple.com/us/app/live-microphone/id6743944518?l=zh-Hant-TW)(手機作為即時麥克風)
+[Audio Cleaner-Volume Booster](https://apps.apple.com/us/app/audio-cleaner-volume-booster/id6747992229?l=zh-Hant-TW)(音訊降噪與音量增強)
 
 ### iPhone-生成
 
@@ -255,6 +263,9 @@
 [PDF Scanner & Signature Maker](https://apps.apple.com/us/app/pdf-scanner-signature-maker/id6450445023?l=zh-Hant-TW)(掃描文件並轉換為PDF)  
 [PDF converter & scan documents](https://apps.apple.com/us/app/pdf-converter-scan-documents/id6444711058?l=zh-Hant-TW)(掃描文件並轉換為PDF)
 [Convert Photo to PDF: PhotoPDF](https://apps.apple.com/us/app/convert-photo-to-pdf-photopdf/id6751737119?l=zh-Hant-TW)(圖片轉換為PDF)
+[iPrint and Scan - Print Photo](https://apps.apple.com/us/app/iprint-and-scan-print-photo/id6446086183?l=zh-Hant-TW)(無線列印與掃描)
+[QR Code Maker](https://apps.apple.com/us/app/qr-code-maker/id6736972682?l=zh-Hant-TW)(QR碼生成器)
+[MagicKit Pro: AI智慧工具箱](https://apps.apple.com/us/app/magickit-pro-ai%E6%99%BA%E6%85%A7%E5%B7%A5%E5%85%B7%E7%AE%B1/id6746649752?l=zh-Hant-TW)(AI多功能工具箱)
 
 ### iPhone-截圖
 
