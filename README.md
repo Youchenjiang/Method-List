@@ -1,7 +1,9 @@
 # Method List - 技術方法與解決方案知識庫
 
 [![GitHub](https://img.shields.io/badge/GitHub-Method--List-blue)](https://github.com/Youchenjiang/Method-List)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License](https://img.sh3. **學習理論概念**：
+   - AI 概念：`Learning-Notes/ai/` - 人工智慧理論與概念
+   - 量子科技：`Learning-Notes/Quantum/` - 量子計算與量子通訊lds.io/badge/License-MIT-green.svg)](LICENSE)
 
 > 一個集合技術教學、工具資源與問題解決方案的綜合知識庫
 
@@ -17,6 +19,9 @@
       - [🤖 AI 相關技術 (Methods/ai/)](#-ai-相關技術-methodsai)
       - [💻 開發技術 (Methods/development/)](#-開發技術-methodsdevelopment)
       - [🔧 工具使用方法 (Methods/tools/)](#-工具使用方法-methodstools)
+    - [📝 Learning-Notes - 學習筆記](#-learning-notes---學習筆記)
+      - [🤖 AI 相關概念 (Learning-Notes/ai/)](#-ai-相關概念-learning-notesai)
+      - [⚛️ 量子科技 (Learning-Notes/Quantum/)](#️-量子科技-learning-notesquantum)
     - [📚 Resources - 工具資源](#-resources---工具資源)
       - [💾 軟體工具 (Resources/software/)](#-軟體工具-resourcessoftware)
       - [📺 媒體資源 (Resources/media/)](#-媒體資源-resourcesmedia)
@@ -61,16 +66,22 @@ Method-List/
 │   │   └── vs2022-import-excel.md              # VS2022 匯入 Excel 資料方法
 │   └── tools/                                  # 工具使用方法
 ├── Learning-Notes/                              # 學習筆記與概念整理
-│   └── ai/                                     # AI 相關概念
-│       ├── ai-machine-learning-concepts.md    # AI 領域知識全景圖
-│       ├── ai-schools-symbolic-connectionist.md # AI 思想體系學派分析
-│       └── ai-classification-frameworks-comparison.md # AI 分類框架對比分析
+│   ├── ai/                                     # AI 相關概念
+│   │   ├── ai-machine-learning-concepts.md    # AI 領域知識全景圖
+│   │   ├── ai-schools-symbolic-connectionist.md # AI 思想體系學派分析
+│   │   └── ai-classification-frameworks-comparison.md # AI 分類框架對比分析
+│   └── Quantum/                                # 量子科技相關
+│       └── quantum-research.md                # 量子研究筆記
 ├── Resources/                                   # 工具資源整理
 │   ├── software/                               # 軟體工具
 │   │   ├── software-tools-computer.md         # 電腦軟體工具大全
 │   │   └── software-tools-phone.md            # 手機軟體工具
 │   ├── media/                                  # 媒體資源
-│   │   └── media-channel-classification.md    # 影音頻道分類
+│   │   ├── media-channel-classification.md    # 影音頻道分類
+│   │   ├── music-collection.md                # 音樂收藏
+│   │   └── video-collection.md                # 影片收藏
+│   ├── tools/                                  # 工具使用方法
+│   │   └── computer-commands-reference.md     # 電腦指令參考大全
 │   └── online/                                 # 線上服務
 │       └── software-tools-web.md              # 網頁工具服務
 └── Solutions/                                   # 問題解決方案
@@ -111,6 +122,12 @@ Method-List/
 | [AI 思想體系三大學派](Learning-Notes/ai/ai-schools-symbolic-connectionist.md) | 符號主義、連結主義、行為主義三大AI學派的思想分析 | 思想史筆記 | `符號主義AI` `連結主義AI` `行為主義AI` `AI學派` `思想體系` |
 | [AI 分類框架對比分析](Learning-Notes/ai/ai-classification-frameworks-comparison.md) | 功能導向與思想體系分類的對比，「番茄悖論」方法論探討 | 方法論筆記 | `分類框架` `方法論` `番茄悖論` `多維度分析` |
 
+#### ⚛️ 量子科技 ([Learning-Notes/Quantum/](Learning-Notes/Quantum/))
+
+| 文件名稱 | 描述 | 類型 | 標籤 |
+|---------|------|------|------|
+| [量子研究筆記](Learning-Notes/Quantum/quantum-research.md) | 量子計算、量子通訊等前沿科技研究筆記 | 研究筆記 | `量子計算` `量子通訊` `前沿科技` `研究筆記` |
+
 ### 📚 Resources - 工具資源
 
 #### 💾 軟體工具 ([Resources/software/](Resources/software/))
@@ -125,6 +142,14 @@ Method-List/
 | 文件名稱 | 描述 | 內容數量 |
 |---------|------|---------|
 | [影音頻道分類](Resources/media/media-channel-classification.md) | YouTube、Bilibili、Facebook 優質頻道整理 | 300+ 頻道 |
+| [音樂收藏](Resources/media/music-collection.md) | 音樂收藏整理 | - |
+| [影片收藏](Resources/media/video-collection.md) | 影片收藏整理 | - |
+
+#### 🔧 工具使用方法 ([Resources/tools/](Resources/tools/))
+
+| 文件名稱 | 描述 | 內容數量 |
+|---------|------|---------|
+| [電腦指令參考大全](Resources/tools/computer-commands-reference.md) | CMD、PowerShell、Git 等常用指令整理 | 50+ 指令 |
 
 #### 🌐 線上服務 ([Resources/online/](Resources/online/))
 
@@ -160,10 +185,12 @@ Method-List/
 
 2. **學習理論概念**：
    - AI 概念：`Learning-Notes/ai/` - 人工智慧理論與概念
+   - 量子科技：`Learning-Notes/Quantum/` - 量子計算與量子通訊
 
 3. **查找工具資源**：
    - 軟體工具：`Resources/software/` - 電腦和手機軟體推薦
    - 媒體資源：`Resources/media/` - 優質頻道和創作者
+   - 工具使用：`Resources/tools/` - 常用指令和工具操作方法
    - 線上服務：`Resources/online/` - 網頁工具和雲端服務
 
 4. **解決技術問題**：
@@ -212,9 +239,12 @@ Method-List/
 
 ### 計劃更新
 
-- [ ] 增加更多 AI 相關教學
-- [ ] 擴充移動端工具資源
+- [ ] 增加更多 AI 相關教學與實作案例
+- [ ] 擴充移動端工具資源和使用教學
 - [ ] 新增更多開發環境問題解決方案
+- [ ] 完善量子科技相關學習筆記
+- [ ] 增加更多媒體資源收藏整理
+- [ ] 建立工具評測和比較文章
 
 ## 📞 聯絡資訊
 
