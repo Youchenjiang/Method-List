@@ -1,19 +1,19 @@
 # **音樂收藏(作者-曲名)**
 
 - [**音樂收藏(作者-曲名)**](#音樂收藏作者-曲名)
-  - [**神秘與懸疑**](#神秘與懸疑)
-  - [**憂傷與失落**](#憂傷與失落)
-  - [**懷舊與回憶**](#懷舊與回憶)
-  - [**平靜與舒緩**](#平靜與舒緩)
-  - [**釋放與解脫**](#釋放與解脫)
-  - [**愉悅與活力**](#愉悅與活力)
-  - [**激勵與奮鬥**](#激勵與奮鬥)
+  - [**神秘與懸疑 Mystery \& Suspense**](#神秘與懸疑-mystery--suspense)
+  - [**憂傷與失落 Melancholy \& Loss**](#憂傷與失落-melancholy--loss)
+  - [**懷舊與回憶 Nostalgia \& Memories**](#懷舊與回憶-nostalgia--memories)
+  - [**平靜與舒緩 Peaceful \& Soothing**](#平靜與舒緩-peaceful--soothing)
+  - [**釋放與解脫 Release \& Liberation**](#釋放與解脫-release--liberation)
+  - [**愉悅與活力 Joy \& Vitality**](#愉悅與活力-joy--vitality)
+  - [**激勵與奮鬥 Inspiration \& Struggle**](#激勵與奮鬥-inspiration--struggle)
   - [**額外**](#額外)
     - [**財閥家的小兒子-OST**](#財閥家的小兒子-ost)
     - [**慶餘年-BGM**](#慶餘年-bgm)
     - [**古風**](#古風)
 
-## **神秘與懸疑**
+## **神秘與懸疑 Mystery & Suspense**
 
 [**전창엽 \- Identity**](https://www.youtube.com/watch?v=E5I9-agINUg&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=50)  
 [**전창엽 \- Black Out**](https://www.youtube.com/watch?v=zCfkSGcx_Ig)**(\*)**  
@@ -51,7 +51,7 @@
 [**Michael Giacchino \- Light The Fuse**](https://www.youtube.com/watch?v=x0BWklF1MG4)  
 [**迪鹿 \- 吉時已到**](https://www.youtube.com/watch?v=Iw5bZQRrY4Q)**(\*)**
 
-## **憂傷與失落**
+## **憂傷與失落 Melancholy & Loss**
 
 [**殘雪 \- 我聽說**](https://www.youtube.com/watch?v=RUUcCwvhCzg)  
 [**殘雪 \- 花落苦海**](https://www.youtube.com/watch?app=desktop&v=jbGEvj0I9g8)  
@@ -147,7 +147,7 @@
 [**洋瀾一 \- 化風行萬裡**](https://www.youtube.com/watch?v=MiOjTw1sQ1o)  
 [**李一桐 \- 等**](https://www.youtube.com/watch?v=18Bft1SfK8I)
 
-## **懷舊與回憶**
+## **懷舊與回憶 Nostalgia & Memories**
 
 [**July \- Fake**](https://www.youtube.com/watch?v=M5pQH9GwfgM)  
 [**July \- Autumn**](https://www.youtube.com/watch?v=BeqogO3g8NY)  
@@ -318,7 +318,7 @@
 [**Sweet Rain \- The Days Falling Like a Rain**](https://www.youtube.com/watch?v=89cd1cSINcY)  
 [**周深 \- 時間之海**](https://www.youtube.com/watch?v=uMEOAzBVG8A)
 
-## **平靜與舒緩**
+## **平靜與舒緩 Peaceful & Soothing**
 
 [**CMJ \- 星夜**](https://www.youtube.com/watch?v=Ia0Sv1nv8Ho)  
 [**CMJ \- 所念皆星河**](https://www.youtube.com/watch?v=JubGFVWadc8&ab_channel=WCYMusicStudio)  
@@ -443,7 +443,7 @@
 [**Japanese Fantasy Music \- Princess of the Moon**](https://www.youtube.com/watch?v=gDwb2liNKlU)  
 [**Samuel Kim & Lorien \- I Really Want to Stay at Your House**](https://www.youtube.com/watch?v=9B0yX0UIN9M&t=246s)
 
-## **釋放與解脫**
+## **釋放與解脫 Release & Liberation**
 
 [**MoreanP \- 遇晴**](https://www.youtube.com/watch?v=eGKH01pCwKg)  
 [**MoreanP \- Invisible Umbrella**](https://www.youtube.com/watch?v=5nvCqt1pvnQ)  
@@ -496,7 +496,7 @@
 [**Matryoshka \- Sacred play secret place**](https://www.youtube.com/watch?v=DSvksh6d21w)  
 [**Sasha Alex Sloan \- Dancing With Your Ghost**](https://www.youtube.com/watch?v=Qzc_aX8c8g4)
 
-## **愉悅與活力**
+## **愉悅與活力 Joy & Vitality**
 
 [**灰澈 \- Hana**](https://www.youtube.com/watch?v=VOnBUV6WaKY)  
 [**灰澈 \- 星茶會**](https://www.youtube.com/watch?v=zf1dF0bxqM0)  
@@ -573,7 +573,7 @@
 [**Frederik Wiedmann \- When The Going Gets Tough**](https://www.youtube.com/watch?v=HfsjDuMx9wE)  
 [**蕭全 \- 不僅僅是喜歡**](https://www.youtube.com/watch?v=N_9DQTpVwxQ)**(\*)**  
 
-## **激勵與奮鬥**
+## **激勵與奮鬥 Inspiration & Struggle**
 
 [**趙季平 \- 崛起**](https://www.youtube.com/watch?v=duDo2kmIMbo)  
 [**趙季平 \- 天下大秦**](https://www.youtube.com/watch?v=eQPNnQknq5E&list=OLAK5uy_kvp7L-f_S6INxH3OW7fZosqUVOyX5Kdcw&index=12)  
