@@ -570,7 +570,8 @@
 [**7th Dimension Music \- Vast Journey**](https://www.youtube.com/watch?v=DVpbjZ6a-Rk)  
 [**Marcus Warner \- If Elephants Could Fly**](https://www.youtube.com/watch?v=UfHgEvv_BwM&ab_channel=TrailerMusicWorldII)  
 [**Wiz Khalifa ft. Charlie Puth \- See You Again**](https://www.youtube.com/watch?v=HOtCQA6S0NA)  
-[**Frederik Wiedmann \- When The Going Gets Tough**](https://www.youtube.com/watch?v=HfsjDuMx9wE)
+[**Frederik Wiedmann \- When The Going Gets Tough**](https://www.youtube.com/watch?v=HfsjDuMx9wE)  
+[**蕭全 \- 不僅僅是喜歡**](https://www.youtube.com/watch?v=N_9DQTpVwxQ)**(\*)**  
 
 ## **激勵與奮鬥**
 
