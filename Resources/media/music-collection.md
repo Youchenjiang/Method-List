@@ -72,6 +72,7 @@
     - [**Alan Walker (愉,活)**](#alan-walker-愉活)
     - [**Taylor Swift (愉,活)**](#taylor-swift-愉活)
     - [**S.E.N.S. Project (愉,活)**](#sens-project-愉活)
+    - [**封茗囧菌 (愉,活)**](#封茗囧菌-愉活)
     - [**其他歌手 (愉,活)**](#其他歌手-愉活)
   - [**激勵與奮鬥 Inspiration \& Struggle**](#激勵與奮鬥-inspiration--struggle)
     - [**Europa Universalis IV (激,奮)**](#europa-universalis-iv-激奮)
@@ -636,6 +637,10 @@
 
 Charmer (暫無連結) | The Advisors Alliance Main Theme (暫無連結)
 
+### **封茗囧菌 (愉,活)**
+
+[有何不可](https://www.youtube.com/watch?v=DKYpSNS2rM8) | [靜悄悄](https://www.youtube.com/watch?v=W1aT20Hp-M0)
+
 ### **其他歌手 (愉,活)**
 
 [**Tobu \- Life**](https://www.youtube.com/watch?v=bQOmKD-sMt8)  
@@ -651,7 +656,6 @@ Charmer (暫無連結) | The Advisors Alliance Main Theme (暫無連結)
 [**TheFatRat \- Monody**](https://www.youtube.com/watch?v=B7xai5u_tnk)  
 [**逆时针向 \- 风摇盛夏**](https://www.youtube.com/watch?v=bKpDcfSUvRE)  
 [**김성율 \- Model Taxi**](https://www.youtube.com/watch?v=1SUNVWSpOUA)  
-[**封茗囧菌 \- 有何不可**](https://www.youtube.com/watch?v=DKYpSNS2rM8)  
 [**Ed Sheeran \- Perfect**](https://www.youtube.com/watch?v=2Vv-BfVoq4g)**(\*)**  
 [**大可 \- 永遠吵不散的人**](https://www.youtube.com/watch?v=cz8sfMypixk&ab_channel=PenQMusic)  
 [**凤凰传奇 \- 最炫民族风**](https://www.youtube.com/watch?v=Ynypvs5s75Y)  
