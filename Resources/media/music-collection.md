@@ -921,4 +921,6 @@ Charmer (暫無連結) | The Advisors Alliance Main Theme (暫無連結)
 
 ---
 
-**Fine music - 優質音樂**：[YouTube播放清單](https://music.youtube.com/playlist?list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&jct=54niiG-dOnsLduPMRZXPIlkpg67PNg)
+**Fine Music**：[YouTube播放清單](https://www.youtube.com/playlist?list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b) | [Youtube Music](https://music.youtube.com/playlist?list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&jct=54niiG-dOnsLduPMRZXPIlkpg67PNg)
+
+**Fine Song**：[YouTube播放清單](https://www.youtube.com/watch?v=4IVu66BR9nw&list=PLjoWqaOyqJaEA7uOrk-AB-4kKa71n9fmV) | [Youtube Music](https://music.youtube.com/playlist?list=PLjoWqaOyqJaEA7uOrk-AB-4kKa71n9fmV)
