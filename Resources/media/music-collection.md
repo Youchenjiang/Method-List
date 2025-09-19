@@ -2,12 +2,92 @@
 
 - [**音樂收藏(作者-曲名)**](#音樂收藏作者-曲名)
   - [**神秘與懸疑 Mystery \& Suspense**](#神秘與懸疑-mystery--suspense)
+    - [**전창엽 (神,疑)**](#전창엽-神疑)
+    - [**Hearts of Iron IV (神,疑)**](#hearts-of-iron-iv-神疑)
+    - [**Europa Universalis IV (神,疑)**](#europa-universalis-iv-神疑)
+    - [**Jennifer Thomas (神,疑)**](#jennifer-thomas-神疑)
+    - [**其他歌手 (神,疑)**](#其他歌手-神疑)
   - [**憂傷與失落 Melancholy \& Loss**](#憂傷與失落-melancholy--loss)
+    - [**殘雪 (憂,失)**](#殘雪-憂失)
+    - [**周杰倫 (憂,失)**](#周杰倫-憂失)
+    - [**黃詩扶 (憂,失)**](#黃詩扶-憂失)
+    - [**小阿七 (憂,失)**](#小阿七-憂失)
+    - [**一顆狼星 (憂,失)**](#一顆狼星-憂失)
+    - [**本兮 (憂,失)**](#本兮-憂失)
+    - [**毛不易 (憂,失)**](#毛不易-憂失)
+    - [**井朧 (憂,失)**](#井朧-憂失)
+    - [**五月天 (憂,失)**](#五月天-憂失)
+    - [**銀臨 (憂,失)**](#銀臨-憂失)
+    - [**其他歌手**](#其他歌手)
   - [**懷舊與回憶 Nostalgia \& Memories**](#懷舊與回憶-nostalgia--memories)
+    - [**July (懷,憶)**](#july-懷憶)
+    - [**葉里 (懷,憶)**](#葉里-懷憶)
+    - [**羽肿 (懷,憶)**](#羽肿-懷憶)
+    - [**鄧倫 (懷,憶)**](#鄧倫-懷憶)
+    - [**張碧晨 (懷,憶)**](#張碧晨-懷憶)
+    - [**毛不易 (懷,憶)**](#毛不易-懷憶)
+    - [**逆时针向 (懷舊)**](#逆时针向-懷舊)
+    - [**周杰倫 (懷,憶)**](#周杰倫-懷憶)
+    - [**dylanf (懷,憶)**](#dylanf-懷憶)
+    - [**周興哲 (懷,憶)**](#周興哲-懷憶)
+    - [**音頻怪物 (懷,憶)**](#音頻怪物-懷憶)
+    - [**Winky詩 (懷,憶)**](#winky詩-懷憶)
+    - [**趙海洋 (懷,憶)**](#趙海洋-懷憶)
+    - [**郁可唯 (懷,憶)**](#郁可唯-懷憶)
+    - [**只有影子 (懷,憶)**](#只有影子-懷憶)
+    - [**是七叔呢 (懷,憶)**](#是七叔呢-懷憶)
+    - [**變奏的夢想 (懷,憶)**](#變奏的夢想-懷憶)
+    - [**Candy Wind (懷,憶)**](#candy-wind-懷憶)
+    - [**高至豪 (懷,憶)**](#高至豪-懷憶)
+    - [**邱有句 (懷,憶)**](#邱有句-懷憶)
+    - [**阳山伟伟 (懷,憶)**](#阳山伟伟-懷憶)
+    - [**AniFace (懷,憶)**](#aniface-懷憶)
+    - [**BrunuhVille (懷,憶)**](#brunuhville-懷憶)
+    - [**其他歌手 (懷,憶)**](#其他歌手-懷憶)
   - [**平靜與舒緩 Peaceful \& Soothing**](#平靜與舒緩-peaceful--soothing)
+    - [**CMJ (平,緩)**](#cmj-平緩)
+    - [**傅许 (平,緩)**](#傅许-平緩)
+    - [**楊青 (平,緩)**](#楊青-平緩)
+    - [**周杰倫 (平,緩)**](#周杰倫-平緩)
+    - [**전창엽 (平,緩)**](#전창엽-平緩)
+    - [**July (平,緩)**](#july-平緩)
+    - [**MoreanP (平,緩)**](#moreanp-平緩)
+    - [**Fantasy Music (平,緩)**](#fantasy-music-平緩)
+    - [**Hearts of Iron IV (平,緩)**](#hearts-of-iron-iv-平緩)
+    - [**Europa Universalis III (平,緩)**](#europa-universalis-iii-平緩)
+    - [**Europa Universalis IV (平,緩)**](#europa-universalis-iv-平緩)
+    - [**其他歌手 (平,緩)**](#其他歌手-平緩)
   - [**釋放與解脫 Release \& Liberation**](#釋放與解脫-release--liberation)
+    - [**MoreanP (釋,脫)**](#moreanp-釋脫)
+    - [**Martin Ermen (釋,脫)**](#martin-ermen-釋脫)
+    - [**Hiroyuki Sawano (釋,脫)**](#hiroyuki-sawano-釋脫)
+    - [**其他歌手 (釋,脫)**](#其他歌手-釋脫)
   - [**愉悅與活力 Joy \& Vitality**](#愉悅與活力-joy--vitality)
+    - [**音闕詩聽 (愉,活)**](#音闕詩聽-愉活)
+    - [**전창엽 (愉,活)**](#전창엽-愉活)
+    - [**阳山伟伟 (愉,活)**](#阳山伟伟-愉活)
+    - [**DJ OKAWARI (愉,活)**](#dj-okawari-愉活)
+    - [**灰澈 (愉,活)**](#灰澈-愉活)
+    - [**周杰倫 (愉,活)**](#周杰倫-愉活)
+    - [**Alan Walker (愉,活)**](#alan-walker-愉活)
+    - [**Taylor Swift (愉,活)**](#taylor-swift-愉活)
+    - [**S.E.N.S. Project (愉,活)**](#sens-project-愉活)
+    - [**其他歌手 (愉,活)**](#其他歌手-愉活)
   - [**激勵與奮鬥 Inspiration \& Struggle**](#激勵與奮鬥-inspiration--struggle)
+    - [**Europa Universalis IV (激,奮)**](#europa-universalis-iv-激奮)
+    - [**Thomas Bergersen (激,奮)**](#thomas-bergersen-激奮)
+    - [**Two Steps From Hell (激,奮)**](#two-steps-from-hell-激奮)
+    - [**趙季平 (激,奮)**](#趙季平-激奮)
+    - [**Alan Walker (激,奮)**](#alan-walker-激奮)
+    - [**Phil Rey (激,奮)**](#phil-rey-激奮)
+    - [**John Dreamer (激,奮)**](#john-dreamer-激奮)
+    - [**Pirates of the Caribbean (激,奮)**](#pirates-of-the-caribbean-激奮)
+    - [**張韶涵 (激,奮)**](#張韶涵-激奮)
+    - [**詹雯婷 (激,奮)**](#詹雯婷-激奮)
+    - [**BrunuhVille (激,奮)**](#brunuhville-激奮)
+    - [**Joachim Rygg (激,奮)**](#joachim-rygg-激奮)
+    - [**Dmitry V. Silantyev (激,奮)**](#dmitry-v-silantyev-激奮)
+    - [**其他歌手 (激,奮)**](#其他歌手-激奮)
   - [**額外**](#額外)
     - [**財閥家的小兒子-OST**](#財閥家的小兒子-ost)
     - [**慶餘年-BGM**](#慶餘年-bgm)
@@ -15,30 +95,24 @@
 
 ## **神秘與懸疑 Mystery & Suspense**
 
-[**전창엽 \- Identity**](https://www.youtube.com/watch?v=E5I9-agINUg&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=50)  
-[**전창엽 \- Black Out**](https://www.youtube.com/watch?v=zCfkSGcx_Ig)**(\*)**  
-[**전창엽 \- Impossible**](https://www.youtube.com/watch?v=ySIFgB4Y6Wk&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=26)  
-[**전창엽 \- In Trouble**](https://www.youtube.com/watch?v=bd3ks7lEb9g&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=37)  
-[**전창엽 \- The Revenge**](https://www.youtube.com/watch?v=56Wco4Q9kWY&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=44)  
-[**전창엽 \- Wild Attack**](https://www.youtube.com/watch?v=I_LK-kZ8n6g&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=32)  
-[**전창엽 \- Broken Trust**](https://www.youtube.com/watch?v=WaOuuXV2ap8&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=24)  
-[**전창엽 \- Fateful Blood**](https://www.youtube.com/watch?v=ZFSC1Oe-uU8&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=25)  
-[**전창엽 \- Darker Change**](https://www.youtube.com/watch?v=gQNeWhKkroc&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=21)  
-[**전창엽 \- A Massive Plot**](https://www.youtube.com/watch?v=QKgnfuUXlCs&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=16)  
-[**전창엽 \- Secret Of Memory**](https://www.youtube.com/watch?v=zWb87lMmfWw&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=35)  
-[**전창엽 \- Nervous Disposition**](https://www.youtube.com/watch?v=CFYomKezSaA&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=30)  
-[**Jennifer Thomas \- Illumination**](https://www.youtube.com/watch?v=PEw629Bp7vU)  
-[**Jennifer Thomas \- Requiem For a Dream**](https://www.youtube.com/watch?v=qmizqVj7TWk)  
-[**Hearts of Iron IV \- The Attack**](https://www.youtube.com/watch?v=qvFT5KyXkGw&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=11)  
-[**Hearts of Iron IV \- Axis Theme**](https://www.youtube.com/watch?v=dZcj56XXrPM&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=7)  
-[**Hearts of Iron IV \- Heavy Water**](https://www.youtube.com/watch?v=436uSn4rB1k&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=12)  
-[**Hearts of Iron IV \- Operation Barbarossa**](https://www.youtube.com/watch?v=5q-gbzaQk0M&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=15)  
-[**Hearts of Iron IV \- Bring Forth the Tanks**](https://www.youtube.com/watch?v=D51212LJum8&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=10)  
-[**Europa Universalis IV \- The Caravan**](https://www.youtube.com/watch?v=LAdcwGA6quA&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=26)  
-[**Europa Universalis IV \- Monsoon Dawn**](https://www.youtube.com/watch?v=COD4bwj_lw0&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=70)  
-[**Europa Universalis IV \- Battle of Scandinavia**](https://www.youtube.com/watch?v=sZ0hMWD7KNU&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=101)  
-[**Europa Universalis IV \- At the gates of Constantinople**](https://www.youtube.com/watch?v=geB2bIV9_v4&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=26)  
-[**Europa Universalis IV \- Darkness falls (Guns, Drums & Steel)**](https://www.youtube.com/watch?v=b_0WwEO14tk&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=118)  
+### **전창엽 (神,疑)**
+
+[Identity](https://www.youtube.com/watch?v=E5I9-agINUg&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=50) | [Black Out](https://www.youtube.com/watch?v=zCfkSGcx_Ig)**(\*)** | [Impossible](https://www.youtube.com/watch?v=ySIFgB4Y6Wk&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=26) | [In Trouble](https://www.youtube.com/watch?v=bd3ks7lEb9g&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=37) | [The Revenge](https://www.youtube.com/watch?v=56Wco4Q9kWY&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=44) | [Wild Attack](https://www.youtube.com/watch?v=I_LK-kZ8n6g&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=32) | [Broken Trust](https://www.youtube.com/watch?v=WaOuuXV2ap8&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=24) | [Fateful Blood](https://www.youtube.com/watch?v=ZFSC1Oe-uU8&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=25) | [Darker Change](https://www.youtube.com/watch?v=gQNeWhKkroc&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=21) | [A Massive Plot](https://www.youtube.com/watch?v=QKgnfuUXlCs&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=16) | [Secret Of Memory](https://www.youtube.com/watch?v=zWb87lMmfWw&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=35) | [Nervous Disposition](https://www.youtube.com/watch?v=CFYomKezSaA&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=30)
+
+### **Hearts of Iron IV (神,疑)**
+
+[The Attack](https://www.youtube.com/watch?v=qvFT5KyXkGw&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=11) | [Axis Theme](https://www.youtube.com/watch?v=dZcj56XXrPM&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=7) | [Heavy Water](https://www.youtube.com/watch?v=436uSn4rB1k&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=12) | [Operation Barbarossa](https://www.youtube.com/watch?v=5q-gbzaQk0M&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=15) | [Bring Forth the Tanks](https://www.youtube.com/watch?v=D51212LJum8&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=10)
+
+### **Europa Universalis IV (神,疑)**
+
+[The Caravan](https://www.youtube.com/watch?v=LAdcwGA6quA&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=26) | [Monsoon Dawn](https://www.youtube.com/watch?v=COD4bwj_lw0&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=70) | [Battle of Scandinavia](https://www.youtube.com/watch?v=sZ0hMWD7KNU&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=101) | [At the gates of Constantinople](https://www.youtube.com/watch?v=geB2bIV9_v4&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=26) | [Darkness falls (Guns, Drums & Steel)](https://www.youtube.com/watch?v=b_0WwEO14tk&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=118)
+
+### **Jennifer Thomas (神,疑)**
+
+[Illumination](https://www.youtube.com/watch?v=PEw629Bp7vU) | [Requiem For a Dream](https://www.youtube.com/watch?v=qmizqVj7TWk)
+
+### **其他歌手 (神,疑)**
+
 [**Yanni \- Voyage**](https://www.youtube.com/watch?v=cFX-KcksGEg)  
 [**周杰倫 \- 夜的第七章**](https://www.youtube.com/watch?v=AdkkF6MT0R0&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=25)  
 [**許昊珂 \- 浩然正氣**](https://www.youtube.com/watch?v=g73_JDStzfA)  
@@ -53,31 +127,56 @@
 
 ## **憂傷與失落 Melancholy & Loss**
 
-[**殘雪 \- 我聽說**](https://www.youtube.com/watch?v=RUUcCwvhCzg)  
-[**殘雪 \- 花落苦海**](https://www.youtube.com/watch?app=desktop&v=jbGEvj0I9g8)  
-[**殘雪 \- 該死的寂寞**](https://www.youtube.com/watch?v=JCP7BsEvvoc&ab_channel=%E6%AE%8B%E9%9B%AA-Topic)  
-[**周杰倫 \- 夜曲**](https://www.youtube.com/watch?v=6Q0Pd53mojY)  
-[**周杰倫 \- 煙花易冷**](https://www.youtube.com/watch?v=COMHDRqAvYE)  
-[**周杰倫 \- 以父之名**](https://www.youtube.com/watch?v=9q7JOQfcJQM)  
-[**周杰倫 \- 止戰之殤**](https://www.youtube.com/watch?v=qIZ5MAwbeCg)  
-[**黃詩扶 \- 九萬字**](https://www.youtube.com/watch?v=AlMNb94ozuQ)**(\*)**  
-[**黃詩扶 \- 吹夢到西洲**](https://www.youtube.com/watch?v=X9LQmqwFt_0)  
-[**小阿七 \- 從前说**](https://www.youtube.com/watch?v=hEMRM6J7LlY)  
-[**小阿七 \- 五十年以后**](https://www.youtube.com/watch?v=0yCiG7XpZG0)  
-[**一顆狼星 \- 白嫁衣**](https://www.youtube.com/watch?v=7CPT4xVypyA)**(\*)**  
-[**一顆狼星 \- 無人區玫瑰**](https://www.youtube.com/watch?v=V89xw9kmQDs)**(\*)**  
+### **殘雪 (憂,失)**
+
+[我聽說](https://www.youtube.com/watch?v=RUUcCwvhCzg) | [花落苦海](https://www.youtube.com/watch?app=desktop&v=jbGEvj0I9g8) | [該死的寂寞](https://www.youtube.com/watch?v=JCP7BsEvvoc&ab_channel=%E6%AE%8B%E9%9B%AA-Topic)
+
+### **周杰倫 (憂,失)**
+
+[夜曲](https://www.youtube.com/watch?v=6Q0Pd53mojY) | [煙花易冷](https://www.youtube.com/watch?v=COMHDRqAvYE) | [以父之名](https://www.youtube.com/watch?v=9q7JOQfcJQM) | [止戰之殤](https://www.youtube.com/watch?v=qIZ5MAwbeCg)
+
+### **黃詩扶 (憂,失)**
+
+[九萬字](https://www.youtube.com/watch?v=AlMNb94ozuQ)**(*)** | [吹夢到西洲](https://www.youtube.com/watch?v=X9LQmqwFt_0)
+
+### **小阿七 (憂,失)**
+
+[從前说](https://www.youtube.com/watch?v=hEMRM6J7LlY) | [五十年以后](https://www.youtube.com/watch?v=0yCiG7XpZG0)
+
+### **一顆狼星 (憂,失)**
+
+[白嫁衣](https://www.youtube.com/watch?v=7CPT4xVypyA)**(*)** | [無人區玫瑰](https://www.youtube.com/watch?v=V89xw9kmQDs)**(*)**
+
+### **本兮 (憂,失)**
+
+[某個心跳](https://www.youtube.com/watch?v=poUeZeM5B2g) | [倾尽我所有](https://www.youtube.com/watch?v=poLyFKzCQUI&t=271s)
+
+### **毛不易 (憂,失)**
+
+[消愁](https://www.youtube.com/watch?v=9C3Nd5dRin8) | [像我這樣的人](https://www.youtube.com/watch?v=nBcYrqsv5tc)**(*)**
+
+### **井朧 (憂,失)**
+
+[丟了你](https://www.youtube.com/watch?v=v7y2Xdg_MZ8) | [三千世界不見你](https://www.youtube.com/watch?v=X4e-n5ZKxGo)
+
+### **五月天 (憂,失)**
+
+[命運](https://www.youtube.com/watch?v=LWmVK8K2QhM) | [後來的我們](https://www.youtube.com/watch?v=pd3eV-SG23E)
+
+### **銀臨 (憂,失)**
+
+[何须问](https://www.youtube.com/watch?v=SKm3WJhy_rE) | [錦鯉抄](https://www.youtube.com/watch?v=1N-1vFAbN2g) | [牵丝戏](https://www.youtube.com/watch?v=sKwOQKGJ6KQ)（與Aki阿杰合作）
+
+### **其他歌手**
+
 [**王菲 \- 如願**](https://www.youtube.com/watch?v=MgAGV6sITnU)  
 [**曹格 \- 背叛**](https://www.youtube.com/watch?v=xHsSWiLsIRY)  
 [**張遠 \- 嘉賓**](https://www.youtube.com/watch?v=8ux25IcLr8w)  
 [**不才 \- 參商**](https://www.youtube.com/watch?v=zW4kb2l2pcU)  
 [**司南 \- 夭娘**](https://www.youtube.com/watch?v=J3Ti8Zs8oc4)  
 [**小咪 \- 我走後**](https://www.youtube.com/watch?v=bt8bIAE88o8)**(\*)**  
-[**银临 \- 何须问**](https://www.youtube.com/watch?v=SKm3WJhy_rE)  
-[**井朧 \- 丟了你**](https://www.youtube.com/watch?v=v7y2Xdg_MZ8)  
-[**銀臨 \- 錦鯉抄**](https://www.youtube.com/watch?v=1N-1vFAbN2g)  
 [**橙翼 \- 春庭雪**](https://www.youtube.com/watch?v=r9lrb29a-4k)  
 [**韓磊 \- 平安夢**](https://www.youtube.com/watch?v=1MgvZD-n5yU)**(\*)**  
-[**毛不易 \- 消愁**](https://www.youtube.com/watch?v=9C3Nd5dRin8)  
 [**陳雪凝 \- 綠色**](https://www.youtube.com/watch?v=WY6nQK7zbsk)**(\*)**  
 [**林俊杰 \- 她说**](https://www.youtube.com/watch?v=GxZEM-sP9G8)  
 [**容祖兒 \- 小小**](https://www.youtube.com/watch?v=CQ9PLCXYFyk)  
@@ -85,7 +184,6 @@
 [**賀敬軒 \- 走心**](https://www.youtube.com/watch?v=EptAOgshrQ8)  
 [**談詩玲 \- 初雪**](https://www.youtube.com/watch?v=13uO5W4pM40)  
 [**姚六一 \- 隔岸**](https://www.youtube.com/watch?v=n9BKjfDQVxg)  
-[**五月天 \- 命運**](https://www.youtube.com/watch?v=LWmVK8K2QhM)  
 [**林俊傑 \- 她說**](https://www.youtube.com/watch?v=a03rusIcxmg)  
 [**張惠妹 \- 聽海**](https://www.youtube.com/watch?v=mLk61pfiHQ0)  
 [**張靚穎 \- 畫心**](https://www.youtube.com/watch?v=KXcdWoSMklM)  
@@ -94,14 +192,12 @@
 [**Elaine \- Child**](https://www.youtube.com/watch?v=IGgDXQ9N5ew)  
 [**Yoasobi \- Tabun**](https://www.youtube.com/watch?v=aeI77nTNFfs)  
 [**Zyboy忠宇 \- 墮**](https://www.youtube.com/watch?v=507hQiAHaDU)  
-[**本兮 \- 某個心跳**](https://www.youtube.com/watch?v=poUeZeM5B2g)  
 [**蔣雪兒 \- 燕無歇**](https://www.youtube.com/watch?v=XOqHoje9czk)  
 [**周深 \- 此生惟你**](https://www.youtube.com/watch?v=_4cWMY3397I)  
 [**鄧紫棋 \- 桃花诺**](https://www.youtube.com/watch?v=Sauj2kt3TP0)  
 [**張碧晨 \- 黑月光**](https://www.youtube.com/watch?v=qtbf_1pjenE)**(\*)**  
 [**一支榴蓮 \- 海底**](https://www.youtube.com/watch?v=v5gK8np-OTA)**(\*)**  
 [**S.H.E \- 不想長大**](https://www.youtube.com/watch?v=KV17QLB2BJs)**(\*)**  
-[**本兮 \- 倾尽我所有**](https://www.youtube.com/watch?v=poLyFKzCQUI&t=271s)  
 [**陳粒 \- 易燃易爆炸**](https://www.youtube.com/watch?v=jiCldCcf2r0)  
 [**張鑫 \- 我不要明天**](https://www.youtube.com/watch?v=UR5uQyW53D0)  
 [**徐佳瑩 \- 一愛難求**](https://www.youtube.com/watch?v=iXXqfP7cP1A)  
@@ -110,7 +206,6 @@
 [**闻人听書 \- 虞兮嘆**](https://www.youtube.com/watch?v=UQZO91Z2mi8)  
 [**July \- Cut In Love**](https://www.youtube.com/watch?v=uMZ-OCdU7OE)  
 [**周興哲 \- 如果雨之後**](https://www.youtube.com/watch?v=gdGdO6KjF1I)  
-[**五月天 \- 後來的我們**](https://www.youtube.com/watch?v=pd3eV-SG23E)  
 [**梁靜茹 \- 可惜不是你**](https://www.youtube.com/watch?v=k_l7FVsqUyM)  
 [**阿YueYue \- 不負人間**](https://www.youtube.com/watch?v=SaYYBeHQJMA)**(\*)**  
 [**Lancelot \- 別對我說**](https://www.youtube.com/watch?v=mIcfPhdJgFA)  
@@ -118,9 +213,7 @@
 [**蕭憶情&倫桑 \- 紅顏舊**](https://www.youtube.com/watch?v=Ym_24r9jtDU)  
 [**전창엽 \- Sad Revenge**](https://www.youtube.com/watch?v=22jxMU3oKYw&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=43)  
 [**인디고 왈츠 \- Sereno**](https://www.youtube.com/watch?v=YrH_LFhr674)  
-[**毛不易 \- 像我這樣的人**](https://www.youtube.com/watch?v=nBcYrqsv5tc)**(\*)**  
 [**北京智哥 \- 长大的时限**](https://www.youtube.com/watch?v=TMh_2-NihLc)  
-[**井朧 \- 三千世界不見你**](https://www.youtube.com/watch?v=X4e-n5ZKxGo)  
 [**王力宏 \- 你不知道的事**](https://www.youtube.com/watch?v=zvUsOXNPVxo)  
 [**SawanoHiroyuki \- Avid**](https://www.youtube.com/watch?v=hSzyI3u5DFo)  
 [**Yiruma \- Kiss the Rain**](https://www.youtube.com/watch?v=imGaOIm5HOk)  
@@ -130,7 +223,6 @@
 [**怪阿姨 \- 累了痛了不爱了**](https://www.youtube.com/watch?v=85I81Qn5MY4)  
 [**和田薫 \- 穿越时空的思念**](https://www.youtube.com/watch?v=FAiCZL0d90s)**(\*)**  
 [**kirara \- 年華都是無效信**](https://www.youtube.com/watch?v=HssiKQNr9pk)**(\*)**  
-[**銀臨 & Aki阿杰 \- 牵丝戏**](https://www.youtube.com/watch?v=sKwOQKGJ6KQ)  
 [**白銀河·金南玲 \- 逆流成河**](https://www.youtube.com/watch?v=AkR2BN2buGo)  
 [**W.K.&黄麒Eros \- 玉树流光**](https://www.youtube.com/watch?v=PNCW3WKKrz8)  
 [**磯村由紀子 \- 風居住的街道**](https://www.youtube.com/watch?v=kcUXCBF--Gs)**(\*)**  
@@ -149,74 +241,100 @@
 
 ## **懷舊與回憶 Nostalgia & Memories**
 
-[**July \- Fake**](https://www.youtube.com/watch?v=M5pQH9GwfgM)  
-[**July \- Autumn**](https://www.youtube.com/watch?v=BeqogO3g8NY)  
-[**July \- My Soul**](https://www.youtube.com/watch?v=935RgNLNuno&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=2)  
-[**July \- Moonlight Night Got Dark**](https://www.youtube.com/watch?v=pO0HpZICldI)  
-[**葉里 \- 仙瑤**](https://www.youtube.com/watch?v=ZKRhzriYIlA)**(\*)**  
-[**葉里 \- 謫仙**](https://www.youtube.com/watch?v=WdT5k0-pj6Y)  
-[**羽肿 \- 为霜**](https://www.youtube.com/watch?v=REQvrlTdjnw)  
-[**羽肿 \- City**](https://www.youtube.com/watch?v=_6oc62PqdwM)  
-[**羽肿 \- Seaside**](https://www.youtube.com/watch?v=RvGxyQuxovI)  
-[**羽肿 \- Windy Hill**](https://www.youtube.com/watch?v=1N9sd6tfgaI)  
-[**羽肿 \- 花火が瞬く夜に**](https://www.youtube.com/watch?v=OiqGU_Drs54)  
-[**鄧倫 \- 癡情冢**](https://www.youtube.com/watch?v=12i8s-QZX-U)  
-[**鄧倫 \- 天地無霜**](https://www.youtube.com/watch?v=LS3nmiCguhA)  
-[**張碧晨 \- 何物**](https://www.youtube.com/watch?v=9ocNhfaAgCc)  
-[**張碧晨 \- 涼涼**](https://www.youtube.com/watch?v=DBjzcjhdGgo)  
-[**毛不易 \- 不染**](https://www.youtube.com/watch?v=dDV36GmFP20)  
-[**毛不易 \- 一程山路**](https://www.youtube.com/watch?v=-s9LvPQyB1c)  
-[**逆时针向 \- 念**](https://www.youtube.com/watch?v=9H6HybAIoOc&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=41)  
-[**逆時針向 \- Once**](https://www.youtube.com/watch?v=UTGlakiDwUY&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=44)  
-[**逆时针向 \- 最初**](https://www.youtube.com/watch?v=RtXkaBLfMEE)  
-[**逆时针向 \- 夜光**](https://www.youtube.com/watch?v=qzMB6Ixk5bE)  
-[**逆时针向 \- 晚星**](https://www.youtube.com/watch?v=NGQnyrKoexY)  
-[**周杰倫 \- 明明就**](https://www.youtube.com/watch?v=UBySINroNkw)  
-[**周杰倫 \- 珊瑚海**](https://www.youtube.com/watch?v=kYhh1PpsOg4)  
-[**周杰倫 \- 最偉大的作品**](https://www.youtube.com/watch?v=1emA1EFsPMM)  
-[**dylanf \- Sakura**](https://www.youtube.com/watch?v=j1oypmyImWw)  
-[**dylanf \- Starry Night**](https://www.youtube.com/watch?v=C37pqJ67R-U)  
-[**dylanf \- 遇见萤火**](https://www.youtube.com/watch?v=SNYm7VXd92Q)  
-[**周興哲 \- 怎麼了**](https://www.youtube.com/watch?v=Y2ge3KrdeWs)  
-[**周興哲 \- 你，好不好**](https://www.youtube.com/watch?v=wSBXfzgqHtE&ab_channel=Eric%E5%91%A8%E8%88%88%E5%93%B2)**(\*)**  
-[**周興哲 \- 你不屬於我**](https://www.youtube.com/watch?v=6O_Zx9St9ik)**(\*)**  
-[**音頻怪物 \- 相守**](https://www.youtube.com/watch?v=TeFgBX3XmZ0)**(\*)**  
-[**音頻怪物 \- 琴師**](https://www.youtube.com/watch?v=QG9IKo9qEEY)  
-[**音頻怪物 \- 鳳隱天下**](https://www.youtube.com/watch?v=9KFSnsEXrHg)  
-[**音頻怪物 \- 路過江湖**](https://www.youtube.com/watch?v=tAd6V0dLBwY)**(\*)**  
-[**Winky詩 \- 標題**](https://www.youtube.com/watch?v=uw8ZSM9yM0I)  
-[**Winky詩 \- 離騷**](https://www.youtube.com/watch?v=Tsg2r0FPgmc)  
-[**Winky詩 \- 楚天阔**](https://www.youtube.com/watch?v=k0aFjbFEH88)  
-[**Winky詩 \- 一馬白衣**](https://www.youtube.com/watch?v=WHKFd51mZc0)  
-[**Winky詩 \- 離騷·開篇**](https://www.youtube.com/watch?v=yy6jRessPWQ)  
-[**Winky詩 \- 九歌·東皇太一**](https://www.youtube.com/watch?v=AlEV_pN-dZQ)  
-[**趙海洋 \- 秋的思念**](https://www.youtube.com/watch?v=csNAWxfyB8o)  
-[**趙海洋 \- 瞬間的永恆**](https://www.youtube.com/watch?v=HMfMratAHgo)  
-[**赵海洋 \- 夜空的寂静**](https://www.youtube.com/watch?v=BqDSNyOPSp8)  
-[**郁可唯 \- 知否知否**](https://www.youtube.com/watch?v=p7_mHXkj7EQ)**(\*)**  
-[**郁可唯 \- 時間煮雨**](https://www.youtube.com/watch?v=_l-Mtr-lCAU)  
-[**郁可唯 \- 去有風的地方**](https://www.youtube.com/watch?v=QeqDY_SfBSw)  
-[**只有影子 \- 遇螢**](https://www.youtube.com/watch?v=M-XO32stKbs)  
-[**只有影子 \- 煙影如畫**](https://www.youtube.com/watch?v=Z901Mr4OLOQ)  
-[**是七叔呢 \- 誅神訣**](https://www.youtube.com/watch?v=TpUrnIo_NB0)  
-[**是七叔呢 \- 踏山河**](https://www.youtube.com/watch?v=1v1CiLQXho8)  
-[**是七叔呢 \- 半生雪**](https://www.youtube.com/watch?v=lAZc4uOsSxo)  
-[**變奏的夢想 \- 鸿迹**](https://www.youtube.com/watch?v=IIvK8-N8HUQ)  
-[**變奏的夢想 \- 江上清風游**](https://www.youtube.com/watch?v=mQqsZP67LMk)  
-[**Candy Wind \- 青空**](https://www.youtube.com/watch?v=Ig2Kg74dPeY&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=5)  
-[**Candy Wind \- 十一月风**](https://www.youtube.com/watch?v=37yGj2LvbPg&ab_channel=Candy_Wind-Topic)  
-[**Candy Wind \- 繁华的风景**](https://www.youtube.com/watch?v=69donbnhX84)  
-[**高至豪 \- Annabelle**](https://www.youtube.com/watch?v=9Z_IsgW81uw)  
-[**高至豪 \- ALONE ON THE WAY**](https://www.youtube.com/watch?v=KIyYUduZf50)  
-[**高至豪 \- The truth that you leave**](https://www.youtube.com/watch?v=u6FcPuCs57o&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=30)  
-[**邱有句 \- 云村的烟花**](https://www.youtube.com/watch?v=X6vfPp5ZqIY)  
-[**邱有句 \- 樱花的幻想**](https://www.youtube.com/watch?v=v35sjhuZUj4)  
-[**阳山伟伟 \- 你的容颜**](https://www.youtube.com/watch?v=971kIsUzqv8&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=24)  
-[**阳山伟伟 \- 她的微笑**](https://www.youtube.com/watch?v=wvkGE4mtTB0&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=5)  
-[**AniFace \- Where are you**](https://www.youtube.com/watch?v=16QRR10BvUs&ab_channel=%E6%9D%8E%E6%97%B6%E7%8F%8D%E7%9A%AE)  
-[**AniFace \- 夜、萤火虫和你**](https://www.youtube.com/watch?v=DY7gDQnC3EI)  
-[**BrunuhVille \- The Wolf And The Moon**](https://www.youtube.com/watch?v=HEf_xrgmuRI)  
-[**BrunuhVille \- Guardians Of The Woods**](https://www.youtube.com/watch?v=M2yEnzVVX5s)  
+### **July (懷,憶)**
+
+[Fake](https://www.youtube.com/watch?v=M5pQH9GwfgM) | [Autumn](https://www.youtube.com/watch?v=BeqogO3g8NY) | [My Soul](https://www.youtube.com/watch?v=935RgNLNuno&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=2) | [Moonlight Night Got Dark](https://www.youtube.com/watch?v=pO0HpZICldI)
+
+### **葉里 (懷,憶)**
+
+[仙瑤](https://www.youtube.com/watch?v=ZKRhzriYIlA)**(*)** | [謫仙](https://www.youtube.com/watch?v=WdT5k0-pj6Y)
+
+### **羽肿 (懷,憶)**
+
+[为霜](https://www.youtube.com/watch?v=REQvrlTdjnw) | [City](https://www.youtube.com/watch?v=_6oc62PqdwM) | [Seaside](https://www.youtube.com/watch?v=RvGxyQuxovI) | [Windy Hill](https://www.youtube.com/watch?v=1N9sd6tfgaI) | [花火が瞬く夜に](https://www.youtube.com/watch?v=OiqGU_Drs54)
+
+### **鄧倫 (懷,憶)**
+
+[癡情冢](https://www.youtube.com/watch?v=12i8s-QZX-U) | [天地無霜](https://www.youtube.com/watch?v=LS3nmiCguhA)
+
+### **張碧晨 (懷,憶)**
+
+[何物](https://www.youtube.com/watch?v=9ocNhfaAgCc) | [涼涼](https://www.youtube.com/watch?v=DBjzcjhdGgo)
+
+### **毛不易 (懷,憶)**
+
+[不染](https://www.youtube.com/watch?v=dDV36GmFP20) | [一程山路](https://www.youtube.com/watch?v=-s9LvPQyB1c)
+
+### **逆时针向 (懷舊)**
+
+[念](https://www.youtube.com/watch?v=9H6HybAIoOc&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=41) | [Once](https://www.youtube.com/watch?v=UTGlakiDwUY&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=44) | [最初](https://www.youtube.com/watch?v=RtXkaBLfMEE) | [夜光](https://www.youtube.com/watch?v=qzMB6Ixk5bE) | [晚星](https://www.youtube.com/watch?v=NGQnyrKoexY)
+
+### **周杰倫 (懷,憶)**
+
+[明明就](https://www.youtube.com/watch?v=UBySINroNkw) | [珊瑚海](https://www.youtube.com/watch?v=kYhh1PpsOg4) | [最偉大的作品](https://www.youtube.com/watch?v=1emA1EFsPMM)
+
+### **dylanf (懷,憶)**
+
+[Sakura](https://www.youtube.com/watch?v=j1oypmyImWw) | [Starry Night](https://www.youtube.com/watch?v=C37pqJ67R-U) | [遇见萤火](https://www.youtube.com/watch?v=SNYm7VXd92Q)
+
+### **周興哲 (懷,憶)**
+
+[怎麼了](https://www.youtube.com/watch?v=Y2ge3KrdeWs) | [你，好不好](https://www.youtube.com/watch?v=wSBXfzgqHtE&ab_channel=Eric%E5%91%A8%E8%88%88%E5%93%B2)**(*)** | [你不屬於我](https://www.youtube.com/watch?v=6O_Zx9St9ik)**(*)**
+
+### **音頻怪物 (懷,憶)**
+
+[相守](https://www.youtube.com/watch?v=TeFgBX3XmZ0)**(*)** | [琴師](https://www.youtube.com/watch?v=QG9IKo9qEEY) | [鳳隱天下](https://www.youtube.com/watch?v=9KFSnsEXrHg) | [路過江湖](https://www.youtube.com/watch?v=tAd6V0dLBwY)**(*)**
+
+### **Winky詩 (懷,憶)**
+
+[標題](https://www.youtube.com/watch?v=uw8ZSM9yM0I) | [離騷](https://www.youtube.com/watch?v=Tsg2r0FPgmc) | [楚天阔](https://www.youtube.com/watch?v=k0aFjbFEH88) | [一馬白衣](https://www.youtube.com/watch?v=WHKFd51mZc0) | [離騷·開篇](https://www.youtube.com/watch?v=yy6jRessPWQ) | [九歌·東皇太一](https://www.youtube.com/watch?v=AlEV_pN-dZQ)
+
+### **趙海洋 (懷,憶)**
+
+[秋的思念](https://www.youtube.com/watch?v=csNAWxfyB8o) | [瞬間的永恆](https://www.youtube.com/watch?v=HMfMratAHgo) | [夜空的寂静](https://www.youtube.com/watch?v=BqDSNyOPSp8)
+
+### **郁可唯 (懷,憶)**
+
+[知否知否](https://www.youtube.com/watch?v=p7_mHXkj7EQ)**(\*)** | [時間煮雨](https://www.youtube.com/watch?v=_l-Mtr-lCAU) | [去有風的地方](https://www.youtube.com/watch?v=QeqDY_SfBSw)
+
+### **只有影子 (懷,憶)**
+
+[遇螢](https://www.youtube.com/watch?v=M-XO32stKbs) | [煙影如畫](https://www.youtube.com/watch?v=Z901Mr4OLOQ)
+
+### **是七叔呢 (懷,憶)**
+
+[誅神訣](https://www.youtube.com/watch?v=TpUrnIo_NB0) | [踏山河](https://www.youtube.com/watch?v=1v1CiLQXho8) | [半生雪](https://www.youtube.com/watch?v=lAZc4uOsSxo)
+
+### **變奏的夢想 (懷,憶)**
+
+[鸿迹](https://www.youtube.com/watch?v=IIvK8-N8HUQ) | [江上清風游](https://www.youtube.com/watch?v=mQqsZP67LMk)
+
+### **Candy Wind (懷,憶)**
+
+[青空](https://www.youtube.com/watch?v=Ig2Kg74dPeY&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=5) | [十一月风](https://www.youtube.com/watch?v=37yGj2LvbPg&ab_channel=Candy_Wind-Topic) | [繁华的风景](https://www.youtube.com/watch?v=69donbnhX84)
+
+### **高至豪 (懷,憶)**
+
+[Annabelle](https://www.youtube.com/watch?v=9Z_IsgW81uw) | [ALONE ON THE WAY](https://www.youtube.com/watch?v=KIyYUduZf50) | [The truth that you leave](https://www.youtube.com/watch?v=u6FcPuCs57o&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=30)
+
+### **邱有句 (懷,憶)**
+
+[云村的烟花](https://www.youtube.com/watch?v=X6vfPp5ZqIY) | [樱花的幻想](https://www.youtube.com/watch?v=v35sjhuZUj4)
+
+### **阳山伟伟 (懷,憶)**
+
+[你的容颜](https://www.youtube.com/watch?v=971kIsUzqv8&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=24) | [她的微笑](https://www.youtube.com/watch?v=wvkGE4mtTB0&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=5)
+
+### **AniFace (懷,憶)**
+
+[Where are you](https://www.youtube.com/watch?v=16QRR10BvUs&ab_channel=%E6%9D%8E%E6%97%B6%E7%8F%8D%E7%9A%AE) | [夜、萤火虫和你](https://www.youtube.com/watch?v=DY7gDQnC3EI)
+
+### **BrunuhVille (懷,憶)**
+
+[The Wolf And The Moon](https://www.youtube.com/watch?v=HEf_xrgmuRI) | [Guardians Of The Woods](https://www.youtube.com/watch?v=M2yEnzVVX5s)
+
+### **其他歌手 (懷,憶)**
+
 [**赵晨 \- 秋叶**](https://www.youtube.com/watch?v=FYon5jLgE2M)**(\*)**  
 [**李煒 \- 劍魂**](https://www.youtube.com/watch?v=gHXiR8YlYmA)  
 [**光良 \- 童話**](https://www.youtube.com/watch?v=OSCuOsaOE48)  
@@ -320,76 +438,53 @@
 
 ## **平靜與舒緩 Peaceful & Soothing**
 
-[**CMJ \- 星夜**](https://www.youtube.com/watch?v=Ia0Sv1nv8Ho)  
-[**CMJ \- 所念皆星河**](https://www.youtube.com/watch?v=JubGFVWadc8&ab_channel=WCYMusicStudio)  
-[**CMJ \- 所愛隔山海**](https://www.youtube.com/watch?v=OjDbY9IZ1HQ)  
-[**CMJ \- 穿越时空的爱恋**](https://www.youtube.com/watch?v=44XV5EUSAII)  
-[**傅许 \- 晚安**](https://www.youtube.com/watch?v=vauOCCgogB0)  
-[**傅许 \- 星之幻**](https://www.youtube.com/watch?v=iVDHQp_znNo)  
-[**傅许 \- 寂静之空**](https://www.youtube.com/watch?v=SR6r0IDnqpA)  
-[**楊青 \- 歸來**](https://www.youtube.com/watch?v=e2tVwrWMHs0&ab_channel=%E6%9D%A8%E9%9D%92-Topic)  
-[**楊青 \- 半山聽雨**](https://www.youtube.com/watch?v=3XFVORZNYTM)  
-[**周杰倫 \- 安靜**](https://www.youtube.com/watch?v=7oIyZvsnkI0)  
-[**周杰倫 \- 蒲公英的約定**](https://www.youtube.com/watch?v=VitJnr3IySc&ab_channel=%E5%91%A8%E6%9D%B0%E5%80%ABJayChou)  
-[**전창엽 \- Memory**](https://www.youtube.com/watch?v=ZYdBnPnBMFg&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=20)  
-[**전창엽 \- Savior**](https://www.youtube.com/watch?v=BVw1q3VXMaQ&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=34)  
-[**전창엽 \- Waiting**](https://www.youtube.com/watch?v=Q4w1yeMCYMo&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=29)  
-[**전창엽 \- End Game**](https://www.youtube.com/watch?v=3WeZtECvw2c&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=19)  
-[**전창엽 \- A Lonely Time**](https://www.youtube.com/watch?v=m5vHukPWh_E&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=22)  
-[**전창엽 \- Savior Of Life**](https://www.youtube.com/watch?v=gkrPeayUOFQ&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=41)  
-[**전창엽 \- Overcome The Dark**](https://www.youtube.com/watch?v=HAiwflxjfQI&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=38)  
-[**전창엽 \- Destiny And Tears**](https://www.youtube.com/watch?v=JmW20Y6PW7I&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=28)  
-[**전창엽 \- Light In The Darkness**](https://www.youtube.com/watch?v=_7d8YzGotVc&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=39)  
-[**July \- Night Bird**](https://www.youtube.com/watch?v=wmAf1eKtNhQ)  
-[**July \- Unknown Place**](https://www.youtube.com/watch?v=Z7TNv58R57M)  
-[**MoreanP \- An Old Song**](https://www.youtube.com/watch?v=hMpWtMiAoOI)  
-[**MoreanP \- Feeling The Rain**](https://www.youtube.com/watch?v=ER1_wIh5Ukg)  
-[**MoreanP \- Ephemeral Memories**](https://www.youtube.com/watch?v=XVxMckaRhHw)  
-[**Fantasy Music \- Lumina**](https://www.youtube.com/watch?v=wcBosWg1UfA)  
-[**Fantasy Music \- Age of Wonders**](https://www.youtube.com/watch?v=vIsBuFKy0YI)  
-[**Fantasy Music \- The Last of His Name**](https://www.youtube.com/watch?v=YFawgUfNXP8)  
-[**Hearts of Iron IV \- Krakow**](https://www.youtube.com/watch?v=A2LOzn62YdU&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=6)  
-[**Hearts of Iron IV \- Main Theme**](https://www.youtube.com/watch?v=IHgvavOWzD8&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=1)  
-[**Hearts of Iron IV \- Mother Russia**](https://www.youtube.com/watch?v=WHeNQQ_K8po&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=14)  
-[**Hearts of Iron IV \- Hearts of Men**](https://www.youtube.com/watch?v=BZiDxnuRUCU&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=9)  
-[**Hearts of Iron IV \- Comintern Theme**](https://www.youtube.com/watch?v=5wgADXfadKI&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=8)  
-[**Hearts of Iron IV \- End of the Tour**](https://www.youtube.com/watch?v=TL55Ryz2r6M&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=8)  
-[**Hearts of Iron IV \- Morning of D-day**](https://www.youtube.com/watch?v=cPW0Ge8QshM&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=2)  
-[**Hearts of Iron IV \- The Great Patriotic War**](https://www.youtube.com/watch?v=6PxlJLUqFzY&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=17)  
-[**Hearts of Iron IV \- Luftwaffe Strikers Again**](https://www.youtube.com/watch?v=2bKvD-YE4i0&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=13)  
-[**Hearts of Iron IV \- Song For the Children of WW2**](https://www.youtube.com/watch?v=9KXnacArn3M&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=5)  
-[**Europa Universalis III \- Para Bellum**](https://www.youtube.com/watch?v=0sKHYaMLl5A)  
-[**Europa Universalis IV \- Eire**](https://www.youtube.com/watch?v=HaSNVNYx9LA&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=6)  
-[**Europa Universalis IV \- Eire (Remix)**](https://www.youtube.com/watch?v=S-g66U6p8-A&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=48)  
-[**Europa Universalis IV \- Discovery**](https://www.youtube.com/watch?v=3s0FJ2S5l6g&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=12)  
-[**Europa Universalis IV \- Open Seas**](https://www.youtube.com/watch?v=mK3-i4djumw&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=18)  
-[**Europa Universalis IV \- Off to War**](https://www.youtube.com/watch?v=QhsqRBJmAyo&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=24)  
-[**Europa Universalis IV \- Carolus Rex**](https://www.youtube.com/watch?v=nxwv8-oAasI&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=157)  
-[**Europa Universalis IV \- Ivan's Dream**](https://www.youtube.com/watch?v=0U5YoKOqilU&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=64)  
-[**Europa Universalis IV \- Land in Sight**](https://www.youtube.com/watch?v=OGS9QzwtRbw&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=14)  
-[**Europa Universalis IV \- United We Stand**](https://www.youtube.com/watch?v=NOEj0DYo9NA&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=99)  
-[**Europa Universalis IV \- Le Premier Jour**](https://www.youtube.com/watch?v=DV-cwOnLXTc&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=85)  
-[**Europa Universalis IV \- Age of Discovery**](https://www.youtube.com/watch?v=HmJU0BEQwFw&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=20)  
-[**Europa Universalis IV \- Knights of Swords**](https://www.youtube.com/watch?v=nlmaWsoztT8&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=101)  
-[**Europa Universalis IV \- The Age of Discovery (Remix)**](https://www.youtube.com/watch?v=1Odpc395cSc&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=50)  
-[**Europa Universalis IV \- The Grand Armada**](https://www.youtube.com/watch?v=nRbGl9lbN18&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=29)  
-[**Europa Universalis IV \- A Lifetime Of War**](https://www.youtube.com/watch?v=zvdbDw5bXnQ&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=153)  
-[**Europa Universalis IV \- The End of an Era**](https://www.youtube.com/watch?v=h_euK27szfs&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=20)  
-[**Europa Universalis IV \- Rise of the Balts**](https://www.youtube.com/watch?v=03TUbaquFGo&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=103)  
-[**Europa Universalis IV \- The Snow is coming**](https://www.youtube.com/watch?v=tn_lFSQ9GdM&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=14)  
-[**Europa Universalis IV \- A New King Arrives**](https://www.youtube.com/watch?v=GBGAbUHNvzI&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=86)  
-[**Europa Universalis IV \- Undisclosed Tactics**](https://www.youtube.com/watch?v=yB1A1_vmlsg&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=78)  
-[**Europa Universalis IV \- The sound of summer**](https://www.youtube.com/watch?v=Lbq9x__K18M&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=22)  
-[**Europa Universalis IV \- De Hominis Dignitate**](https://www.youtube.com/watch?v=gpsCFt6KVtE&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=5)  
-[**Europa Universalis IV \- Travel The New World**](https://www.youtube.com/watch?v=NLMk4IHdZ0I&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=30)  
-[**Europa Universalis IV \- Back to the Motherland**](https://www.youtube.com/watch?v=h_6yYq2sgGs&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=136)  
-[**Europa Universalis IV \- Piper, Lead Your Clansmen**](https://www.youtube.com/watch?v=H9p8Kh9GAHQ&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=68)  
-[**Europa Universalis IV \- Commerce in the Peninsula**](https://www.youtube.com/watch?v=BDGkfwGvVNI&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=5)  
-[**Europa Universalis IV \- Aarle (Guns, Drums & Steel)**](https://www.youtube.com/watch?v=S9iRuK7XR9Q&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=116)  
-[**Europa Universalis IV \- Commerce in the Peninsula (Remix)**](https://www.youtube.com/watch?v=nklMsEq57DY&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=48)  
-[**Europa Universalis IV \- Birth of a Global Empire Soundtrack**](https://www.youtube.com/watch?v=TZJskRWREWo&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=72)  
-[**Europa Universalis IV \- After the Rain (Guns, Drums & Steel)**](https://www.youtube.com/watch?v=Yl-X7sHQORc&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=117)  
-[**THT \- 葬花**](https://www.youtube.com/watch?v=tYktEB8GtUE)
+### **CMJ (平,緩)**
+
+[星夜](https://www.youtube.com/watch?v=Ia0Sv1nv8Ho) | [所念皆星河](https://www.youtube.com/watch?v=JubGFVWadc8&ab_channel=WCYMusicStudio) | [所愛隔山海](https://www.youtube.com/watch?v=OjDbY9IZ1HQ) | [穿越时空的爱恋](https://www.youtube.com/watch?v=44XV5EUSAII)
+
+### **傅许 (平,緩)**
+
+[晚安](https://www.youtube.com/watch?v=vauOCCgogB0) | [星之幻](https://www.youtube.com/watch?v=iVDHQp_znNo) | [寂静之空](https://www.youtube.com/watch?v=SR6r0IDnqpA)
+
+### **楊青 (平,緩)**
+
+[歸來](https://www.youtube.com/watch?v=e2tVwrWMHs0&ab_channel=%E6%9D%A8%E9%9D%92-Topic) | [半山聽雨](https://www.youtube.com/watch?v=3XFVORZNYTM) | [春来花自放](https://www.youtube.com/watch?v=-kSpxF0Q1HQ&ab_channel=%E6%9D%A8%E9%9D%92-Topic)
+
+### **周杰倫 (平,緩)**
+
+[安靜](https://www.youtube.com/watch?v=7oIyZvsnkI0) | [蒲公英的約定](https://www.youtube.com/watch?v=VitJnr3IySc&ab_channel=%E5%91%A8%E6%9D%B0%E5%80%ABJayChou)
+
+### **전창엽 (平,緩)**
+
+[Memory](https://www.youtube.com/watch?v=ZYdBnPnBMFg&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=20) | [Savior](https://www.youtube.com/watch?v=BVw1q3VXMaQ&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=34) | [Waiting](https://www.youtube.com/watch?v=Q4w1yeMCYMo&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=29) | [End Game](https://www.youtube.com/watch?v=3WeZtECvw2c&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=19) | [A Lonely Time](https://www.youtube.com/watch?v=m5vHukPWh_E&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=22) | [Savior Of Life](https://www.youtube.com/watch?v=gkrPeayUOFQ&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=41) | [Overcome The Dark](https://www.youtube.com/watch?v=HAiwflxjfQI&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=38) | [Destiny And Tears](https://www.youtube.com/watch?v=JmW20Y6PW7I&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=28) | [Light In The Darkness](https://www.youtube.com/watch?v=_7d8YzGotVc&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=39)
+
+### **July (平,緩)**
+
+[Night Bird](https://www.youtube.com/watch?v=wmAf1eKtNhQ) | [Unknown Place](https://www.youtube.com/watch?v=Z7TNv58R57M)
+
+### **MoreanP (平,緩)**
+
+[An Old Song](https://www.youtube.com/watch?v=hMpWtMiAoOI) | [Feeling The Rain](https://www.youtube.com/watch?v=ER1_wIh5Ukg) | [Ephemeral Memories](https://www.youtube.com/watch?v=XVxMckaRhHw)
+
+### **Fantasy Music (平,緩)**
+
+[Lumina](https://www.youtube.com/watch?v=wcBosWg1UfA) | [Age of Wonders](https://www.youtube.com/watch?v=vIsBuFKy0YI) | [The Last of His Name](https://www.youtube.com/watch?v=YFawgUfNXP8)
+
+### **Hearts of Iron IV (平,緩)**
+
+[Krakow](https://www.youtube.com/watch?v=A2LOzn62YdU&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=6) | [Main Theme](https://www.youtube.com/watch?v=IHgvavOWzD8&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=1) | [Mother Russia](https://www.youtube.com/watch?v=WHeNQQ_K8po&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=14) | [Hearts of Men](https://www.youtube.com/watch?v=BZiDxnuRUCU&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=9) | [Comintern Theme](https://www.youtube.com/watch?v=5wgADXfadKI&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=8) | [End of the Tour](https://www.youtube.com/watch?v=TL55Ryz2r6M&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=8) | [Morning of D-day](https://www.youtube.com/watch?v=cPW0Ge8QshM&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=2) | [The Great Patriotic War](https://www.youtube.com/watch?v=6PxlJLUqFzY&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=17) | [Luftwaffe Strikers Again](https://www.youtube.com/watch?v=2bKvD-YE4i0&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=13) | [Song For the Children of WW2](https://www.youtube.com/watch?v=9KXnacArn3M&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=5)  
+
+### **Europa Universalis III (平,緩)**
+
+[Para Bellum](https://www.youtube.com/watch?v=0sKHYaMLl5A)
+
+### **Europa Universalis IV (平,緩)**
+
+[Eire](https://www.youtube.com/watch?v=HaSNVNYx9LA&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=6) | [Eire (Remix)](https://www.youtube.com/watch?v=S-g66U6p8-A&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=48) | [Discovery](https://www.youtube.com/watch?v=3s0FJ2S5l6g&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=12) | [Open Seas](https://www.youtube.com/watch?v=mK3-i4djumw&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=18) | [Off to War](https://www.youtube.com/watch?v=QhsqRBJmAyo&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=24) | [Carolus Rex](https://www.youtube.com/watch?v=nxwv8-oAasI&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=157) | [Ivan's Dream](https://www.youtube.com/watch?v=0U5YoKOqilU&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=64) | [Land in Sight](https://www.youtube.com/watch?v=OGS9QzwtRbw&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=14) | [United We Stand](https://www.youtube.com/watch?v=NOEj0DYo9NA&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=99) | [Le Premier Jour](https://www.youtube.com/watch?v=DV-cwOnLXTc&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=85) | [Age of Discovery](https://www.youtube.com/watch?v=HmJU0BEQwFw&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=20) | [Knights of Swords](https://www.youtube.com/watch?v=nlmaWsoztT8&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=101) | [The Age of Discovery (Remix)](https://www.youtube.com/watch?v=1Odpc395cSc&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=50) | [The Grand Armada](https://www.youtube.com/watch?v=nRbGl9lbN18&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=29) | [A Lifetime Of War](https://www.youtube.com/watch?v=zvdbDw5bXnQ&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=153) | [The End of an Era](https://www.youtube.com/watch?v=h_euK27szfs&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=20) | [Rise of the Balts](https://www.youtube.com/watch?v=03TUbaquFGo&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=103) | [The Snow is coming](https://www.youtube.com/watch?v=tn_lFSQ9GdM&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=14) | [A New King Arrives](https://www.youtube.com/watch?v=GBGAbUHNvzI&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=86) | [Undisclosed Tactics](https://www.youtube.com/watch?v=yB1A1_vmlsg&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=78) | [The sound of summer](https://www.youtube.com/watch?v=Lbq9x__K18M&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=22) | [De Hominis Dignitate](https://www.youtube.com/watch?v=gpsCFt6KVtE&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=5) | [Travel The New World](https://www.youtube.com/watch?v=NLMk4IHdZ0I&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=30) | [Back to the Motherland](https://www.youtube.com/watch?v=h_6yYq2sgGs&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=136) | [Piper, Lead Your Clansmen](https://www.youtube.com/watch?v=H9p8Kh9GAHQ&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=68) | [Commerce in the Peninsula](https://www.youtube.com/watch?v=BDGkfwGvVNI&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=5) | [Aarle (Guns, Drums & Steel)](https://www.youtube.com/watch?v=S9iRuK7XR9Q&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=116) | [Commerce in the Peninsula (Remix)](https://www.youtube.com/watch?v=nklMsEq57DY&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=48) | [Birth of a Global Empire Soundtrack](https://www.youtube.com/watch?v=TZJskRWREWo&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=72) | [After the Rain (Guns, Drums & Steel)](https://www.youtube.com/watch?v=Yl-X7sHQORc&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=117)
+
+### **其他歌手 (平,緩)**
+
+[**THT \- 葬花**](https://www.youtube.com/watch?v=tYktEB8GtUE)  
 [**西彬 \- 兩端**](https://www.youtube.com/watch?v=aFE3IsO9W4c)  
 [**昙轩 \- 海の形**](https://www.youtube.com/watch?v=hSQQESpK4p4)  
 [**Mich \- Somero**](https://www.youtube.com/watch?v=KoxbQiQUQYo)  
@@ -401,7 +496,6 @@
 [**逆时针向 \- 我们**](https://www.youtube.com/watch?v=Ul8pVV6Wbro)  
 [**악토버 \- Romance**](https://www.youtube.com/watch?v=hmGr62NE0hg)  
 [**Era \- Sinfoni Deo**](https://www.youtube.com/watch?v=H0kiJ5yqUhs&ab_channel=fabiomorais7)  
-[**杨青 \- 春来花自放**](https://www.youtube.com/watch?v=-kSpxF0Q1HQ&ab_channel=%E6%9D%A8%E9%9D%92-Topic)  
 [**邱有句 \- 仲夏之夜**](https://www.youtube.com/watch?v=UEkzWPgPi0U)  
 [**Zkaaai \- 如果的事**](https://www.youtube.com/watch?v=oqga8N_0wg8)  
 [**夏小舟 \- 晨光一现**](https://www.youtube.com/watch?v=xZ-3Eo_9gKA)  
@@ -414,7 +508,7 @@
 [**Taylor Swift \- Ronan**](https://www.youtube.com/watch?v=kdiBc40gW7s)  
 [**中村由利子 \- 火宵之月**](https://www.youtube.com/watch?v=WXWr5qkoQ2k)  
 [**梦绕火焰船 \- 繁星小镇**](https://www.youtube.com/watch?v=1dsNo8E0FfM)  
-[**COP \- walking seasons**](https://www.youtube.com/watch?v=bGHutNWmDzk)
+[**COP \- walking seasons**](https://www.youtube.com/watch?v=bGHutNWmDzk)  
 [**Noicybino \- Anonymous**](https://www.youtube.com/watch?v=jgzLCJcxEMw)  
 [**OCTOBER \- Time To Love**](https://www.youtube.com/watch?v=JjZrMrcYHws)  
 [**July Tun \- 清新的小女孩**](https://www.youtube.com/watch?v=y6OqTQ0ZHr4)  
@@ -445,11 +539,27 @@
 
 ## **釋放與解脫 Release & Liberation**
 
-[**MoreanP \- 遇晴**](https://www.youtube.com/watch?v=eGKH01pCwKg)  
-[**MoreanP \- Invisible Umbrella**](https://www.youtube.com/watch?v=5nvCqt1pvnQ)  
+### **MoreanP (釋,脫)**
+
+[遇晴](https://www.youtube.com/watch?v=eGKH01pCwKg) | [Invisible Umbrella](https://www.youtube.com/watch?v=5nvCqt1pvnQ)
+
+### **Martin Ermen (釋,脫)**
+
+[Apologize](https://www.youtube.com/watch?v=D4FyKPHQHR8&ab_channel=MartinErmen-Topic) | [Stay with Me](https://www.youtube.com/watch?v=sdwUX2IEZow&ab_channel=MartinErmen-Topic)
+
+### **Hiroyuki Sawano (釋,脫)**
+
+[ZipangU](https://www.youtube.com/watch?v=LbrmMzFi74I) | [BLUE DRAGON](https://www.youtube.com/watch?v=A9jbuinba0M)
+
+### **其他歌手 (釋,脫)**
+
+[**葉里 \- 葬仙**](https://www.youtube.com/watch?v=6fXfukw4C7g)**(\*)**  
+[**本兮 \- 下雪的季節**](https://www.youtube.com/watch?v=wa7XJQQW8og)  
+[**毛不易 \- 巔峰之上**](https://www.youtube.com/watch?v=79pc02W8F3U)**(\*)**  
+[**傅许 \- The Lost City**](https://www.youtube.com/watch?v=zMo_7YJyvHg)  
+[**전창엽 \- Final Victory**](https://www.youtube.com/watch?v=HPGdOqFW9_I)**(\*)**  
 [**陳冰 \- 崛起**](https://www.youtube.com/watch?v=ETDQqapx_k4)  
 [**雲汐 \- 荒漠**](https://www.youtube.com/watch?v=7BC78aP62_Q)  
-[**葉里 \- 葬仙**](https://www.youtube.com/watch?v=6fXfukw4C7g)**(\*)**  
 [**五音 \- 步戲**](https://www.youtube.com/watch?v=I-rInq2tycQ)**(\*)**  
 [**唐伯虎 \- 落**](https://www.youtube.com/watch?v=kyuas34_45Q)**(\*)**  
 [**趙季平 \- 秦舞**](https://www.youtube.com/watch?v=pvaEVG3GtiM&list=OLAK5uy_kvp7L-f_S6INxH3OW7fZosqUVOyX5Kdcw&index=14)  
@@ -462,33 +572,25 @@
 [**薛之謙 \- 剛剛好**](https://www.youtube.com/watch?v=BQCWEJ60TL4)  
 [**劉思達 \- 猜不透**](https://www.youtube.com/watch?v=O2qg33EnzeQ)  
 [**肥皂菌 \- 她本身**](https://www.youtube.com/watch?v=EpIWMm_g05s)**(\*)**  
-[**本兮 \- 下雪的季節**](https://www.youtube.com/watch?v=wa7XJQQW8og)  
-[**毛不易 \- 巔峰之上**](https://www.youtube.com/watch?v=79pc02W8F3U)**(\*)**  
 [**譚維維 \- 天下秦風**](https://www.youtube.com/watch?v=qD-ZAeCpORI&list=OLAK5uy_kvp7L-f_S6INxH3OW7fZosqUVOyX5Kdcw&index=19)  
 [**劍網三 \- 裁骨為俠**](https://www.youtube.com/watch?v=-wBj0XYJb0I)  
 [**黑崎子 \- 蒼生不配**](https://www.youtube.com/watch?v=MYTTengRcPc)  
 [**K.D \- 被神明寫的歌**](https://www.youtube.com/watch?v=8ADlBpbopPw&ab_channel=K.D)  
 [**初月 \- 雨是神的煙花**](https://www.youtube.com/watch?v=OEYI3DOJEOw)  
 [**Zeraphym \- Lifeline**](https://www.youtube.com/watch?v=1xMupsuP4yY)  
-[**傅许 \- The Lost City**](https://www.youtube.com/watch?v=zMo_7YJyvHg)  
 [**a\_hisa \- Moon Rabbit**](https://www.youtube.com/watch?v=uPYNsGXbuzY&ab_channel=a_hisa)  
 [**YOASOBI \- 夜に駆ける**](https://www.youtube.com/watch?v=_ZtBv0hTm1w)  
 [**浩旭 \- 悲歡離合戲一場**](https://www.youtube.com/watch?v=M032XqE4xQk)  
 [**買辣椒也用券 \- 起風了**](https://www.youtube.com/watch?v=3tJUflhYIpo)  
 [**MC몽 \- 죽을만큼 아파서**](https://www.youtube.com/watch?v=GqmbzfaddbQ)**(\*)**  
-[**전창엽 \- Final Victory**](https://www.youtube.com/watch?v=HPGdOqFW9_I)**(\*)**  
 [**Shirfine \- Warm Winter**](https://www.youtube.com/watch?v=vvxaY7IwsoM)  
 [**Ivan Torrent \- Skyborn**](https://www.youtube.com/watch?v=QpMzSVN3Peo&ab_channel=FreyaMusic)  
 [**やまだ豊 \- やわらかな光**](https://www.youtube.com/watch?v=TsNmvRuiNBg)  
 [**dance flow – 迷人的危險**](https://www.youtube.com/watch?v=qmr496mJb6w)  
 [**Tsukinosora \- Departures**](https://www.youtube.com/watch?v=jdioQEYjdRo)  
-[**Martin Ermen \- Apologize**](https://www.youtube.com/watch?v=D4FyKPHQHR8&ab_channel=MartinErmen-Topic)  
 [**헤이즈 \- Round and round**](https://www.youtube.com/watch?v=jZ0vU65Nats)  
-[**Hiroyuki Sawano \- ZipangU**](https://www.youtube.com/watch?v=LbrmMzFi74I)  
 [**TheFatRat \- Origin Reprise**](https://www.youtube.com/watch?v=GaLMjJZlEzk)  
-[**Martin Ermen \- Stay with Me**](https://www.youtube.com/watch?v=sdwUX2IEZow&ab_channel=MartinErmen-Topic)  
 [**伍华 feat 默默 \- 最心疼的玩笑**](https://www.youtube.com/watch?v=chJDoHpl_Dg&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=69)  
-[**Hiroyuki Sawano \- BLUE DRAGON**](https://www.youtube.com/watch?v=A9jbuinba0M)  
 [**Patrik Pietschmann \- MICROCHIP**](https://www.youtube.com/watch?v=jC79M6HFOOE)  
 [**Dominik A. Hecker \- CLOUDBURST**](https://www.youtube.com/watch?v=xtRFzp6KP2Y)  
 [**Martin Hurkens \- You Raise Me Up**](https://www.youtube.com/watch?v=pZwNzQhjcHE)**(\*)**  
@@ -498,37 +600,44 @@
 
 ## **愉悅與活力 Joy & Vitality**
 
-[**灰澈 \- Hana**](https://www.youtube.com/watch?v=VOnBUV6WaKY)  
-[**灰澈 \- 星茶會**](https://www.youtube.com/watch?v=zf1dF0bxqM0)  
-[**周杰倫 \- Mojito**](https://www.youtube.com/watch?v=-biOGdYiF-I)  
-[**周杰倫 \- 本草綱目**](https://www.youtube.com/watch?v=8CD06hC1KGU)  
-[**音闕詩聽 \- 芒種**](https://www.youtube.com/watch?v=ZHFgk8Eo0FE)  
-[**音闕詩聽 \- 食色**](https://www.youtube.com/watch?v=ADAOmrlDF68)  
-[**音闕詩聽 \- 小滿**](https://www.youtube.com/watch?v=RGtSdbjxVKU)  
-[**音闕詩聽 \- 小暑**](https://www.youtube.com/watch?v=Yr8LYmOTLyI)  
-[**音阙诗听 \- 大雪**](https://www.youtube.com/watch?v=WoJy3W-4hxE)  
-[**音闕詩聽 \- 立夏**](https://www.youtube.com/watch?v=ZbPDlv9qXWw)  
-[**音闕詩聽 \- 驚蟄**](https://www.youtube.com/watch?v=UTlJSAN-ihA)  
-[**阳山伟伟 \- 目光**](https://www.youtube.com/watch?v=7zJCTWi6dA0&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=17)  
-[**音阙诗听 \- 寅时**](https://www.youtube.com/watch?v=smjmzZP4R1E)  
-[**阳山伟伟 \- 你的形状**](https://www.youtube.com/watch?v=XZC0PmZXpwc&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=16)  
-[**阳山伟伟 \- AnoTher You**](https://www.youtube.com/watch?v=IB3MzSMQaWo&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=19)  
-[**阳山伟伟 \- 送给未来的你**](https://www.youtube.com/watch?v=7aIL-scAxmc&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=14)  
-[**전창엽 \- Nice Plan**](https://www.youtube.com/watch?v=NujelxEcfCQ&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=27)  
-[**전창엽 \- Reversed Life**](https://www.youtube.com/watch?v=C8BQEzMUXj8&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=18)  
-[**전창엽 \- Have A Delight**](https://www.youtube.com/watch?v=-19jQ3Bzh1Q&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=36)  
-[**전창엽 \- Who Was Killed**](https://www.youtube.com/watch?v=kWHnk1HE8Zo&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=33)  
-[**전창엽 \- Who Was Killed Me**](https://www.youtube.com/watch?v=ZSMGsclqvaI&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=49)  
-[**Alan Walker \- The Drum**](https://www.youtube.com/watch?v=TicGJQqrq2M&ab_channel=AlanWalker)  
-[**Alan Walker \- All Falls Down**](https://www.youtube.com/watch?v=6RLLOEzdxsM)  
-[**DJ Okawari \- Luv Letter**](https://www.youtube.com/watch?v=CGvIzFRcRMA)  
-[**DJ OKAWARI \- Perfect Blue**](https://www.youtube.com/watch?v=UjLnvXpkq68)  
-[**DJ OKAWARI \- Flower Dance**](https://www.youtube.com/watch?v=3ZIFNKYQj7g)  
-[**DJ OKAWARI \- Flower Dance Pt2**](https://www.youtube.com/watch?v=ZLX-nyMUW_8)  
-[**Taylor Swift \- Love Story**](https://www.youtube.com/watch?v=aXzVF3XeS8M4)  
-[**Taylor Swift \- The Story Of Us**](https://www.youtube.com/watch?v=nN6VR92V70M)  
-**S.E.N.S. Project \- Charmer** (暫無連結)  
-**S.E.N.S. Project \- The Advisors Alliance Main Theme** (暫無連結)  
+### **音闕詩聽 (愉,活)**
+
+[芒種](https://www.youtube.com/watch?v=ZHFgk8Eo0FE) | [食色](https://www.youtube.com/watch?v=ADAOmrlDF68) | [小滿](https://www.youtube.com/watch?v=RGtSdbjxVKU) | [小暑](https://www.youtube.com/watch?v=Yr8LYmOTLyI) | [大雪](https://www.youtube.com/watch?v=WoJy3W-4hxE) | [立夏](https://www.youtube.com/watch?v=ZbPDlv9qXWw) | [驚蟄](https://www.youtube.com/watch?v=UTlJSAN-ihA) | [寅时](https://www.youtube.com/watch?v=smjmzZP4R1E)
+
+### **전창엽 (愉,活)**
+
+[Nice Plan](https://www.youtube.com/watch?v=NujelxEcfCQ&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=27) | [Reversed Life](https://www.youtube.com/watch?v=C8BQEzMUXj8&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=18) | [Have A Delight](https://www.youtube.com/watch?v=-19jQ3Bzh1Q&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=36) | [Who Was Killed](https://www.youtube.com/watch?v=kWHnk1HE8Zo&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=33) | [Who Was Killed Me](https://www.youtube.com/watch?v=ZSMGsclqvaI&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=49)
+
+### **阳山伟伟 (愉,活)**
+
+[目光](https://www.youtube.com/watch?v=7zJCTWi6dA0&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=17) | [你的形状](https://www.youtube.com/watch?v=XZC0PmZXpwc&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=16) | [AnoTher You](https://www.youtube.com/watch?v=IB3MzSMQaWo&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=19) | [送给未来的你](https://www.youtube.com/watch?v=7aIL-scAxmc&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=14)
+
+### **DJ OKAWARI (愉,活)**
+
+[Luv Letter](https://www.youtube.com/watch?v=CGvIzFRcRMA) | [Perfect Blue](https://www.youtube.com/watch?v=UjLnvXpkq68) | [Flower Dance](https://www.youtube.com/watch?v=3ZIFNKYQj7g) | [Flower Dance Pt2](https://www.youtube.com/watch?v=ZLX-nyMUW_8)
+
+### **灰澈 (愉,活)**
+
+[Hana](https://www.youtube.com/watch?v=VOnBUV6WaKY) | [星茶會](https://www.youtube.com/watch?v=zf1dF0bxqM0)
+
+### **周杰倫 (愉,活)**
+
+[Mojito](https://www.youtube.com/watch?v=-biOGdYiF-I) | [本草綱目](https://www.youtube.com/watch?v=8CD06hC1KGU)
+
+### **Alan Walker (愉,活)**
+
+[The Drum](https://www.youtube.com/watch?v=TicGJQqrq2M&ab_channel=AlanWalker) | [All Falls Down](https://www.youtube.com/watch?v=6RLLOEzdxsM)
+
+### **Taylor Swift (愉,活)**
+
+[Love Story](https://www.youtube.com/watch?v=aXzVF3XeS8M4) | [The Story Of Us](https://www.youtube.com/watch?v=nN6VR92V70M)
+
+### **S.E.N.S. Project (愉,活)**
+
+Charmer (暫無連結) | The Advisors Alliance Main Theme (暫無連結)
+
+### **其他歌手 (愉,活)**
+
 [**Tobu \- Life**](https://www.youtube.com/watch?v=bQOmKD-sMt8)  
 [**于果 \- 極光**](https://www.youtube.com/watch?v=WLvgWB1V5Jg)  
 [**夢然 \- 少年**](https://www.youtube.com/watch?v=LGzDEu7Sh5g&ab_channel=BobaBeats)  
@@ -575,56 +684,123 @@
 
 ## **激勵與奮鬥 Inspiration & Struggle**
 
-[**趙季平 \- 崛起**](https://www.youtube.com/watch?v=duDo2kmIMbo)  
-[**趙季平 \- 天下大秦**](https://www.youtube.com/watch?v=eQPNnQknq5E&list=OLAK5uy_kvp7L-f_S6INxH3OW7fZosqUVOyX5Kdcw&index=12)  
-[**趙季平 \- 秦人古歌**](https://www.youtube.com/watch?v=7ni3OJP3Rso&list=OLAK5uy_kvp7L-f_S6INxH3OW7fZosqUVOyX5Kdcw&index=3)  
-[**趙季平 \- 秦軍讚歌**](https://www.youtube.com/watch?v=Z_WBCYDy4Ts&list=OLAK5uy_kvp7L-f_S6INxH3OW7fZosqUVOyX5Kdcw&index=11)  
-[**Phil Rey \- The Last Hero**](https://www.youtube.com/watch?v=L08FCKULC6s)**(\*)**  
-[**Phil Rey \- HEART OF LORE**](https://www.youtube.com/watch?v=pKHPjxm1fPM)  
-[**Phil Rey \- For Death and Glory**](https://www.youtube.com/watch?v=Y2HqUFozkcY)  
-[**Alan Walker \- PLAY**](https://www.youtube.com/watch?v=YQRHrco73g4)  
-[**Alan Walker \- The Spectre**](https://www.youtube.com/watch?v=wJnBTPUQS5A)  
-[**Alan Walker \- Different World**](https://www.youtube.com/watch?v=m-PJmmvyP10)  
-[**Thomas Bergersen \- Immortal**](https://www.youtube.com/watch?v=o65GSQPRhhw)  
-[**Thomas Bergersen \- Blackheart**](https://www.youtube.com/watch?v=n04CLB3UUAc)  
-[**Thomas Bergersen \- For the Win**](https://www.youtube.com/watch?v=rl_ndy61ON4)  
-[**Thomas Bergersen \- Mountain Call**](https://www.youtube.com/watch?v=ibufSTLNQrU)  
-[**Thomas Bergersen & Merethe Soltvedt \- Ocean Princess**](https://www.youtube.com/watch?v=kW3tKM2eJsw)  
-[**Europa Universalis IV \- Alba**](https://www.youtube.com/watch?v=5lC0Wk0SS20&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=66)  
-[**Europa Universalis IV \- The Hunt**](https://www.youtube.com/watch?v=qZO3QOlx-Gk&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=31)  
-[**Europa Universalis IV \- My Kingdom**](https://www.youtube.com/watch?v=l6ipvAAKH-4)  
-[**Europa Universalis IV \- My Kingdom (Remix)**](https://www.youtube.com/watch?v=3if5YpPDE9k&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=46)  
-[**Europa Universalis IV \- Main Theme**](https://www.youtube.com/watch?v=XdxOh5ooI5k&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj)  
-[**Europa Universalis IV \- Main theme (Remix)**](https://www.youtube.com/watch?v=8TCinCsDgVQ&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=43)  
-[**Europa Universalis IV \- The Stage is Set (Remix)**](https://www.youtube.com/watch?v=zhWbJce33sg&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=46)  
-[**Europa Universalis IV \- The Stonemasons**](https://www.youtube.com/watch?v=Uqv0pjkX-oo&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=24)  
-[**Europa Universalis IV \- The stage is set**](https://www.youtube.com/watch?v=sjekzZaRUXs&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=22)  
-[**Europa Universalis IV \- Battle of Lepanto**](https://www.youtube.com/watch?v=2NnGkpn2spM&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=3)  
-[**Europa Universalis IV \- Kings Court (Remix)**](https://www.youtube.com/watch?v=RBFDtZH_CnM&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=44)  
-[**Europa Universalis IV \- Kings in the North**](https://www.youtube.com/watch?v=f_We8aXKFKE&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=10)  
-[**Europa Universalis IV \- Battle of Breitenfeld**](https://www.youtube.com/watch?v=BnL4P4RcHGs&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=7)  
-[**Europa Universalis IV \- Ride Forth Victoriously**](https://www.youtube.com/watch?v=-X2kJSXl4YM&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=18)  
-[**Two Steps From Hell \- Star Sky**](https://www.youtube.com/watch?v=aPCgtIln6H8&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=11)  
-[**Two Steps From Hell \- Archangel**](https://www.youtube.com/watch?v=mLUguXpUIb0)  
-[**Two Steps From Hell \- Epic Music Mix**](https://www.youtube.com/watch?v=um35SL16nfc)  
-[**Two Steps From Hell \- Fields of Blood**](https://www.youtube.com/watch?v=I9-3SNvnw0s)
-[**Two Steps From Hell \- Strength of a Thousand Men**](https://www.youtube.com/watch?v=jIxas0a-KgM)  
-[**BrunuhVille \- Meaning of Life**](https://www.youtube.com/watch?v=MRrXKGQocCE)  
-[**BrunuhVille \- Spirit of the Wild**](https://www.youtube.com/watch?v=g-jGHbkM8e4)  
-[**John Dreamer \- Rise**](https://www.youtube.com/watch?v=v9H8PBUf_bI&ab_channel=JohnDreamer-Topic)  
-[**John Dreamer \- End of My Journey**](https://www.youtube.com/watch?v=90PRvlhOLSk&ab_channel=ThePrimeCronus)  
-[**John Dreamer \- Becoming A Legend**](https://www.youtube.com/watch?v=_sZYjWPJ2PQ)  
-[**Joachim Rygg \- Charmand's Empire**](https://www.youtube.com/watch?v=T5XGyUcxaHo&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=31)  
-[**Joachim Rygg \- The New York Nightfall**](https://www.youtube.com/watch?v=1hqHNNd5fR0&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=26)  
-[**Dmitry V. Silantyev \- Kenabres in Flames**](https://www.youtube.com/watch?v=b26cdSIGa80)  
-[**Dmitry V. Silantyev — Wrath Of The Righteous Main Theme**](https://www.youtube.com/watch?v=5a1rPHaQ5fQ)  
-[**Pirates of the Caribbean \- He's a Pirate**](https://www.youtube.com/watch?v=yRh-dzrI4Z4)  
-[**Pirates Of The Caribbean Soundtrack- The Black Pearl**](https://www.youtube.com/watch?v=AWgWLBUy8Gk)  
-[**Pirates of the Caribbean \- Captain Jack Sparrow Entrance**](https://www.youtube.com/watch?v=Vsf5K5ihy1Q)  
+### **Europa Universalis IV (激,奮)**
+
+[Alba](https://www.youtube.com/watch?v=5lC0Wk0SS20&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=66) | [The Hunt](https://www.youtube.com/watch?v=qZO3QOlx-Gk&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=31) | [My Kingdom](https://www.youtube.com/watch?v=l6ipvAAKH-4) | [My Kingdom (Remix)](https://www.youtube.com/watch?v=3if5YpPDE9k&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=46) | [Main Theme](https://www.youtube.com/watch?v=XdxOh5ooI5k&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj) | [Main theme (Remix)](https://www.youtube.com/watch?v=8TCinCsDgVQ&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=43) | [The Stage is Set (Remix)](https://www.youtube.com/watch?v=zhWbJce33sg&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=46) | [The Stonemasons](https://www.youtube.com/watch?v=Uqv0pjkX-oo&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=24) | [The stage is set](https://www.youtube.com/watch?v=sjekzZaRUXs&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=22) | [Battle of Lepanto](https://www.youtube.com/watch?v=2NnGkpn2spM&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=3) | [Kings Court (Remix)](https://www.youtube.com/watch?v=RBFDtZH_CnM&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=44) | [Kings in the North](https://www.youtube.com/watch?v=f_We8aXKFKE&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=10) | [Battle of Breitenfeld](https://www.youtube.com/watch?v=BnL4P4RcHGs&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=7) | [Ride Forth Victoriously](https://www.youtube.com/watch?v=-X2kJSXl4YM&list=PLMZ7ei-Wh6owOX3nXWdB-H-zCwxCptucj&index=18)
+
+### **Thomas Bergersen (激,奮)**
+
+[Immortal](https://www.youtube.com/watch?v=o65GSQPRhhw) | [Blackheart](https://www.youtube.com/watch?v=n04CLB3UUAc) | [For the Win](https://www.youtube.com/watch?v=rl_ndy61ON4) | [Mountain Call](https://www.youtube.com/watch?v=ibufSTLNQrU) | [Ocean Princess](https://www.youtube.com/watch?v=kW3tKM2eJsw) (與 Merethe Soltvedt 合作)
+
+### **Two Steps From Hell (激,奮)**
+
+[Star Sky](https://www.youtube.com/watch?v=aPCgtIln6H8&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=11) | [Archangel](https://www.youtube.com/watch?v=mLUguXpUIb0) | [Epic Music Mix](https://www.youtube.com/watch?v=um35SL16nfc) | [Fields of Blood](https://www.youtube.com/watch?v=I9-3SNvnw0s) | [Strength of a Thousand Men](https://www.youtube.com/watch?v=jIxas0a-KgM)
+
+### **趙季平 (激,奮)**
+
+[崛起](https://www.youtube.com/watch?v=duDo2kmIMbo) | [天下大秦](https://www.youtube.com/watch?v=eQPNnQknq5E&list=OLAK5uy_kvp7L-f_S6INxH3OW7fZosqUVOyX5Kdcw&index=12) | [秦人古歌](https://www.youtube.com/watch?v=7ni3OJP3Rso&list=OLAK5uy_kvp7L-f_S6INxH3OW7fZosqUVOyX5Kdcw&index=3) | [秦軍讚歌](https://www.youtube.com/watch?v=Z_WBCYDy4Ts&list=OLAK5uy_kvp7L-f_S6INxH3OW7fZosqUVOyX5Kdcw&index=11)
+
+### **Alan Walker (激,奮)**
+
+[PLAY](https://www.youtube.com/watch?v=YQRHrco73g4) | [The Spectre](https://www.youtube.com/watch?v=wJnBTPUQS5A) | [Different World](https://www.youtube.com/watch?v=m-PJmmvyP10)
+
+### **Phil Rey (激,奮)**
+
+[The Last Hero](https://www.youtube.com/watch?v=L08FCKULC6s)**(\*)** | [HEART OF LORE](https://www.youtube.com/watch?v=pKHPjxm1fPM) | [For Death and Glory](https://www.youtube.com/watch?v=Y2HqUFozkcY)
+
+### **John Dreamer (激,奮)**
+
+[Rise](https://www.youtube.com/watch?v=v9H8PBUf_bI&ab_channel=JohnDreamer-Topic) | [End of My Journey](https://www.youtube.com/watch?v=90PRvlhOLSk&ab_channel=ThePrimeCronus) | [Becoming A Legend](https://www.youtube.com/watch?v=_sZYjWPJ2PQ)
+
+### **Pirates of the Caribbean (激,奮)**
+
+[He's a Pirate](https://www.youtube.com/watch?v=yRh-dzrI4Z4) | [The Black Pearl](https://www.youtube.com/watch?v=AWgWLBUy8Gk) | [Captain Jack Sparrow Entrance](https://www.youtube.com/watch?v=Vsf5K5ihy1Q)
+
+### **張韶涵 (激,奮)**
+
+[吶喊](https://www.youtube.com/watch?v=UU4p0eb0IBQ) | [篇章](https://www.youtube.com/watch?v=FV_WikNJlhA&ab_channel=PLAYMUSIC)**(*)**
+
+### **詹雯婷 (激,奮)**
+
+[訣愛](https://www.youtube.com/watch?v=AsXtYDiwdbw)**(\*)** | [命運火焰](https://www.youtube.com/watch?v=jmJ4S2euqJk)
+
+### **BrunuhVille (激,奮)**
+
+[Meaning of Life](https://www.youtube.com/watch?v=MRrXKGQocCE) | [Spirit of the Wild](https://www.youtube.com/watch?v=g-jGHbkM8e4)
+
+### **Joachim Rygg (激,奮)**
+
+[Charmand's Empire](https://www.youtube.com/watch?v=T5XGyUcxaHo&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=31) | [The New York Nightfall](https://www.youtube.com/watch?v=1hqHNNd5fR0&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=26)
+
+### **Dmitry V. Silantyev (激,奮)**
+
+[Kenabres in Flames](https://www.youtube.com/watch?v=b26cdSIGa80) | [Wrath Of The Righteous Main Theme](https://www.youtube.com/watch?v=5a1rPHaQ5fQ)
+
+### **其他歌手 (激,奮)**
+
 [**劉宇寧 \- 無雙**](https://www.youtube.com/watch?v=FevzV91zt0M)  
-[**張韶涵 \- 吶喊**](https://www.youtube.com/watch?v=UU4p0eb0IBQ)  
-[**詹雯婷 \- 訣愛**](https://www.youtube.com/watch?v=AsXtYDiwdbw)**(\*)**  
-[**张韶涵 \- 篇章**](https://www.youtube.com/watch?v=FV_WikNJlhA&ab_channel=PLAYMUSIC)**(\*)**  
+[**ERA \- The Mass**](https://www.youtube.com/watch?v=qMa1kTobETc)  
+[**Jannik \- Grace**](https://www.youtube.com/watch?v=sMYgOZf7p38)**(\*)**  
+[**Winky诗 \- 不枉**](https://www.youtube.com/watch?v=yNlJCR0KTdY)**(\*)**  
+[**張杰 \- 三生三世**](https://www.youtube.com/watch?v=s-CcFyyPJiY)  
+[**關大洲 \- 少年遊**](https://www.youtube.com/watch?v=L98PWk_uc_k)**(\*)**  
+[**楊培安 \- 我相信**](https://www.youtube.com/watch?v=xl7enIAM4Go)  
+[**MDP \- Fake Love**](https://www.youtube.com/watch?v=jEdFoYb5Ssw)  
+[**阿冗 \- 你的答案**](https://www.youtube.com/watch?v=ye4jAQ0uxcQ)  
+[**萧炎 \- 斗破苍穹**](https://www.youtube.com/watch?v=-LgaQL7ccfA)  
+[**滿漢原創 \- 承劍**](https://www.youtube.com/watch?v=MZ47-WmEhWQ)  
+[**鐘嵐珠 \- Eutopia**](https://www.youtube.com/watch?v=dNcD5khGRnE)**(\*)**  
+[**薩頂頂 \- 左手指月**](https://www.youtube.com/watch?v=AbiMe64zeGM)  
+[**五音Jw \- 明月天涯**](https://www.youtube.com/watch?v=PN7Bn6aRyZY)  
+[**黃霄雲 \- 星辰大海**](https://www.youtube.com/watch?v=mFM9WXvNLe8&ab_channel=JJYMusic)**(\*)**  
+[**鄧紫棋 \- 光年之外**](https://www.youtube.com/watch?v=T4SimnaiktU)**(\*)**  
+[**Warriyo \- Mortals**](https://www.youtube.com/watch?v=zFXl1sjTdms)  
+[**Zoru Beat \- Light**](https://www.youtube.com/watch?v=fpCrYhOqs74&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=35)  
+[**周華健 \- 瀟瀟雨未歇**](https://www.youtube.com/watch?v=lkPFsJ4p0XY&ab_channel=%E6%BB%BE%E7%9F%B3%E5%94%B1%E7%89%87ROCKRECORDS)  
+[**范瑋琪 \- 最初的夢想**](https://www.youtube.com/watch?v=wGAmgmZg-48)  
+[**F Be I \- 將進酒李白**](https://www.youtube.com/watch?v=MLJ3pZlJWoo)  
+[**阿YueYue \- 不負人間**](https://www.youtube.com/watch?v=T0JW1T7-v5U)  
+[**Varien \- Future Funk**](https://www.youtube.com/watch?v=q1AVyOUzZJY)  
+[**SeVen.13 \- Limitless**](https://www.youtube.com/watch?v=kkbgx5N8y80)  
+[**Dreamtale \- The Dawn**](https://www.youtube.com/watch?v=kUTUTfZcb2w)  
+[**程今 \- 愛是無畏的冒險**](https://www.youtube.com/watch?v=dbUrlHfJkmg)  
+[**Camelot \- Rise & Fall**](https://www.youtube.com/watch?v=SgV7C3EsIYg)  
+[**Plum \- Night Sky City**](https://www.youtube.com/watch?v=1TtIIUV_-uE)**(\*)**  
+[**Kawai Kenji \- Maestro**](https://www.youtube.com/watch?v=G_F-4fww2Xc)  
+[**Janji \- Heroes Tonight**](https://www.youtube.com/watch?v=3nQNiWdeH2Q)**(\*)**  
+[**Emad Yaghoubi \- REACH**](https://www.youtube.com/watch?v=nKWanvwdupE)  
+[**Andreas Kübler \- Storm**](https://www.youtube.com/watch?v=faregbDxaWs)  
+[**徐小薇 \- 夜空中最亮的星**](https://www.youtube.com/watch?v=lSiRq525JTY)  
+[**Epic Score \- Liberators**](https://www.youtube.com/watch?v=a9Zbqv3Vx5Y)  
+[**Elektronomia \- Limitless**](https://www.youtube.com/watch?v=cNcy3J4x62M)  
+[**Andrew Wrangell \- Rush E**](https://www.youtube.com/watch?v=Qskm9MTz2V4)  
+[**전창엽 \- Last Opportunity**](https://www.youtube.com/watch?v=aFh0vZpWn8k&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=18)  
+[**Randy Dominguez \- Warrior**](https://www.youtube.com/watch?v=QN9SduuzoC4)  
+[**妙蓮華 \- 風吹草動,風雲飛揚**](https://www.youtube.com/watch?v=JeSxLp7LuEE)  
+[**張靚穎 \- Dream it Possible**](https://www.youtube.com/watch?v=J5TaDzMOKf0)  
+[**Steven Cooper \- Born To Do**](https://www.youtube.com/watch?v=jwEexKfuSJA&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=28)  
+[**Danny Elfman \- Hero's Theme**](https://www.youtube.com/watch?v=9CGgh3X4MXs)  
+[**Hillsong Young & Free \- Wake**](https://www.youtube.com/watch?v=e33zCUm1ZnY)  
+[**Epic Music VN \- LAST REUNION**](https://www.youtube.com/watch?v=95ghfm0vlrs)  
+[**Duality \- Twelve Titans Music**](https://www.youtube.com/watch?v=8uC4ZoJW3QA)  
+[**Josh Kramer \- Call Of Destiny**](https://www.youtube.com/watch?v=y9Ux9XRa-ww)**(\*)**  
+[**Eternal Eclipse \- Revelations**](https://www.youtube.com/watch?v=rEK5JNvvnis)  
+[**Audiomachine \- Breath and Life**](https://www.youtube.com/watch?v=qHohWh5likw&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=30)  
+[**We Own The Skye \- New Horizons**](https://www.youtube.com/watch?v=1fzx_Km92HQ)  
+[**Vangelis \- Conquest of paradise**](https://www.youtube.com/watch?v=WYeDsa4Tw0c)  
+[**Brand X Music \- Helmet To Helmet**](https://www.youtube.com/watch?v=oGvrVeOP6zA)  
+[**Egzod & Maestro Chives \- Royalty**](https://www.youtube.com/watch?v=C5fLxtJH2Qs)  
+[**Frogmonster \- Remember Our Summer**](https://www.youtube.com/watch?v=UnRl4byPlMk)  
+[**Maksim Mrvica \- Croatian Rhapsody**](https://www.youtube.com/watch?v=3aTEjyzWKFQ)  
+[**Game of Thrones \- Opening Credits**](https://www.youtube.com/watch?v=TZE9gVF1QbA)  
+[**Epic Soul Factory \- Hero Memories**](https://www.youtube.com/watch?v=odZJMAy4JKE)  
+[**Twisted Jukebox \- Angels Will Rise**](https://www.youtube.com/watch?v=0zAspzNfHCs)  
+[**PiscesRising \- EPIC Game of Thrones**](https://www.youtube.com/watch?v=v8aokfpvS7M)  
+[**HOAPROX, NICK STRAND & MIO \- WITH YOU**](https://www.youtube.com/watch?v=3KadWjpqDXs)  
+[**Hearts of Iron IV \- The Royal Airforce**](https://www.youtube.com/watch?v=Z6DUroYNI4s&list=PLEEAqATu11LwEEYoAyulGX1QSmkFDyq4J&index=3)  
+[**Crusader Kings 2 Soundtrack \- Main Theme**](https://www.youtube.com/watch?v=168eM_5IKf8)  
+[**The Glitch Mob, Mako, and The Word Alive \- RISE**](https://www.youtube.com/watch?v=fB8TyLTD7EE)  
+[**Danny McCarthy, Mark Petrie \- Rags to Rings Extended**](https://www.youtube.com/watch?v=9-MVzYGOMlU)  
 [**ERA \- The Mass**](https://www.youtube.com/watch?v=qMa1kTobETc)  
 [**Jannik \- Grace**](https://www.youtube.com/watch?v=sMYgOZf7p38)**(\*)**  
 [**Winky诗 \- 不枉**](https://www.youtube.com/watch?v=yNlJCR0KTdY)**(\*)**  
