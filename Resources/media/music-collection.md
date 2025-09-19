@@ -388,6 +388,7 @@
 [**宇西 \- 安和橋**](https://www.youtube.com/watch?v=EtdGcM_Ira0)  
 [**Jannik \- 浮光**](https://www.youtube.com/watch?v=kJnffLjHKnU)  
 [**陳妍希 \- 你我**](https://www.youtube.com/watch?v=gFonssvBNaw)  
+[**沈以誠 \- 我還記得那天**](https://www.youtube.com/watch?v=4IVu66BR9nw)  
 [**林俊傑 \- 江南**](https://www.youtube.com/watch?v=G97_rOdHcnY)  
 [**李紫婷 \- 無虞**](https://www.youtube.com/watch?v=ZTOTfuMRDNI)  
 [**旺仔小乔 \- 堕**](https://www.youtube.com/watch?v=V-hLZLTP56Q&ab_channel=LyricsMusic)**(\*)**  
