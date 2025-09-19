@@ -222,6 +222,7 @@
 [**張惠妹 \- 聽海**](https://www.youtube.com/watch?v=mLk61pfiHQ0)  
 [**張靚穎 \- 畫心**](https://www.youtube.com/watch?v=KXcdWoSMklM)  
 [**V.K \- 精靈之歌**](https://www.youtube.com/watch?v=EsiRTeCS47g&ab_channel=V.K-Topic)**(\*)**  
+[**WiFi歪歪 \- 摯友**](https://www.youtube.com/watch?v=ge0ahqnv8fY)  
 [**Yooh \- Eutopia**](https://www.youtube.com/watch?v=K_7ERvudnQ8)**(\*)**  
 [**Elaine \- Child**](https://www.youtube.com/watch?v=IGgDXQ9N5ew)  
 [**Yoasobi \- Tabun**](https://www.youtube.com/watch?v=aeI77nTNFfs)  
