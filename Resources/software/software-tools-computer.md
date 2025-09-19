@@ -1,11 +1,14 @@
-- [**一、系統與設備管理類**](#一系統與設備管理類)
-- [**二、網路與傳輸類**](#二網路與傳輸類)
-- [**三、內容創作與編輯類**](#三內容創作與編輯類)
-- [**五、程式開發類**](#五程式開發類)
-- [**六、外觀與個性化**](#六外觀與個性化)
-- [**七、其他工具類**](#七其他工具類)
+# Software Tools - Computer
 
-# **一、系統與設備管理類**
+- [Software Tools - Computer](#software-tools---computer)
+  - [**一、系統與設備管理類**](#一系統與設備管理類)
+  - [**二、網路與傳輸類**](#二網路與傳輸類)
+  - [**三、內容創作與編輯類**](#三內容創作與編輯類)
+  - [**五、程式開發類**](#五程式開發類)
+  - [**六、外觀與個性化**](#六外觀與個性化)
+  - [**七、其他工具類**](#七其他工具類)
+
+## **一、系統與設備管理類**
 
 1. ## **電腦安全防護**
 
@@ -82,7 +85,7 @@
      - [HEU\_KMS\_Activator](https://dhzy.lanzoui.com/iZgnnv7rbof)（Windows授權工具）(\!病毒風險\!)  
      - [Winget](https://stackoverflow.com/questions/74166150/install-winget-by-the-command-line-powershell)（軟件套件管理工具）
 
-# **二、網路與傳輸類**
+## **二、網路與傳輸類**
 
 1. ## **瀏覽器與輔助工具**
 
@@ -176,7 +179,7 @@
 
      - [Nmap](https://nmap.org/download#windows)
 
-# **三、內容創作與編輯類**
+## **三、內容創作與編輯類**
 
 1. ## **文檔編輯軟件**
 
@@ -299,7 +302,7 @@
 
      [Zotero](https://www.zotero.org/download/)
 
-# **五、程式開發類**
+## **五、程式開發類**
 
 1. ## **文本編輯器**
 
@@ -401,8 +404,6 @@
 
    - [Protocol Buffers](https://github.com/protocolbuffers/protobuf/releases)（資料序列化工具）
 
-7. ## **資料處理工具**
-
    - ### API測試工具
 
      [Postman](https://www.postman.com/downloads/)
@@ -411,13 +412,13 @@
 
      [LLVM](https://releases.llvm.org/)
 
-8. ## **其他編程語言開發工具**
+7. ## **其他編程語言開發工具**
 
    - [Rust](https://www.rust-lang.org/tools/install)（Rust開發工具）  
    - [Sui Move](https://github.com/MystenLabs/sui/releases/tag/mainnet-v1.30.1)（Move開發工具）  
    - [Sui dApp前端支架](https://github.com/Bucket-Protocol/sui-dapp-scaffold-v1)（Move開發工具）
 
-# **六、外觀與個性化**
+## **六、外觀與個性化**
 
 - ### 工作列
 
@@ -431,7 +432,7 @@
 
     [Lively Wallpaper](https://www.microsoft.com/zh-tw/p/lively-wallpaper/9ntm2qc6qws7?activetab=pivot:overviewtab)(動態桌布)
 
-# **七、其他工具類**
+## **七、其他工具類**
 
 1. ## **遊戲相關工具**
 
