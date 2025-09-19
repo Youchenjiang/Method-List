@@ -186,6 +186,7 @@
    - ### 筆記軟件
 
      - [Anytype](https://download.anytype.io/)  
+     - [Obsidian](https://obsidian.md/download)（卡片盒筆記法的筆記軟體）  
      - [Zotero](https://www.zotero.org/)：文獻管理軟體
 
    - ### 辦公套件
