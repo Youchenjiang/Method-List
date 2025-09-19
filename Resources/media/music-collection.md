@@ -76,6 +76,7 @@
     - [**阳山伟伟 (懷,憶)**](#阳山伟伟-懷憶)
     - [**AniFace (懷,憶)**](#aniface-懷憶)
     - [**BrunuhVille (懷,憶)**](#brunuhville-懷憶)
+    - [**周深 (懷,憶)**](#周深-懷憶)
     - [**其他歌手 (懷,憶)**](#其他歌手-懷憶)
   - [**平靜與舒緩 Peaceful \& Soothing**](#平靜與舒緩-peaceful--soothing)
     - [**CMJ (平,緩)**](#cmj-平緩)
@@ -368,13 +369,16 @@
 
 [The Wolf And The Moon](https://www.youtube.com/watch?v=HEf_xrgmuRI) | [Guardians Of The Woods](https://www.youtube.com/watch?v=M2yEnzVVX5s)
 
+### **周深 (懷,憶)**
+
+[余情](https://www.youtube.com/watch?v=bo8JMu_Kn5I) | [時間之海](https://www.youtube.com/watch?v=uMEOAzBVG8A) | [繭](https://www.youtube.com/watch?v=UGCXbVHxgrc)
+
 ### **其他歌手 (懷,憶)**
 
 [**赵晨 \- 秋叶**](https://www.youtube.com/watch?v=FYon5jLgE2M)**(\*)**  
 [**李煒 \- 劍魂**](https://www.youtube.com/watch?v=gHXiR8YlYmA)  
 [**光良 \- 童話**](https://www.youtube.com/watch?v=OSCuOsaOE48)  
 [**夢然 \- 是你**](https://www.youtube.com/watch?v=ToQbECL3ty0)  
-[**周深 \- 余情**](https://www.youtube.com/watch?v=bo8JMu_Kn5I)  
 [**阿涵 \- 過客**](https://www.youtube.com/watch?v=PrIFsYa9S7c)  
 [**東籬 \- 封疆**](https://www.youtube.com/watch?v=0ETrU5c1V10)  
 [**雙笙 \- 謂風**](https://www.youtube.com/watch?v=v8cMWjtcr-A)  
@@ -469,8 +473,7 @@
 [**Lightscape \- Collapsing World**](https://www.youtube.com/watch?v=rT-AqiJ-tVM)  
 [**Richard Clayderman \- 秋日私语**](https://www.youtube.com/watch?v=26e3yaPIEWs)  
 [**Crusader Kings II \- The Byzantine Empire**](https://www.youtube.com/watch?v=fdsN80yoRMs)  
-[**Sweet Rain \- The Days Falling Like a Rain**](https://www.youtube.com/watch?v=89cd1cSINcY)  
-[**周深 \- 時間之海**](https://www.youtube.com/watch?v=uMEOAzBVG8A)
+[**Sweet Rain \- The Days Falling Like a Rain**](https://www.youtube.com/watch?v=89cd1cSINcY)
 
 ## **平靜與舒緩 Peaceful & Soothing**
 
