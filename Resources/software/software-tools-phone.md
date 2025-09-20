@@ -76,6 +76,10 @@
 [PixieClean](https://apps.apple.com/us/app/pixieclean/id6745176117?l=zh-Hant-TW)(照片清理工具)
 [Picture Collage Maker & Editor](https://apps.apple.com/us/app/picture-collage-maker-editor/id6747819888?l=zh-Hant-TW)(照片拼貼製作與編輯)
 [Batch Video Compressor: Saving](https://apps.apple.com/us/app/%E6%89%B9%E9%87%8F%E5%BD%B1%E7%89%87%E5%A3%93%E7%B8%AE-%E8%A7%86%E9%A2%91-%E5%89%AA%E7%89%87-%E6%89%8B%E6%A9%9F%E6%B8%85%E7%90%86-%E6%B8%85%E7%90%86/id6447493571?l=zh-Hant-TW)(批量影片壓縮與剪輯)
+[ImageFlux RAW: Multiexposure](https://apps.apple.com/us/app/imageflux-raw-multiexposure/id6740700974?l=zh-Hant-TW)(RAW檔與多重曝光攝影)
+[Erasee - AI照片去背 & 摳圖換背景](https://apps.apple.com/us/app/erasee-ai%E7%85%A7%E7%89%87%E5%8E%BB%E8%83%8C-%E6%91%B3%E5%9C%96%E6%8F%9B%E8%83%8C%E6%99%AF/id6502436500?l=zh-Hant-TW)(AI去背與更換背景)
+[Light Paint Timelapse Camera](https://apps.apple.com/us/app/light-paint-timelapse-camera/id6746681444?l=zh-Hant-TW)(光繪與縮時攝影)
+[Compress Photos Pro](https://apps.apple.com/us/app/compress-photos-pro/id6748705091?l=zh-Hant-TW)(照片壓縮)
 
 ### iPhone-鈴聲製作
 
@@ -124,6 +128,7 @@
 [QuitIt - 戒菸追蹤器](https://apps.apple.com/us/app/quitit-%E6%88%92%E8%8F%B8%E8%BF%BD%E8%B9%A4%E5%99%A8/id6744225705?l=zh-Hant-TW)(戒菸進度追蹤)
 [Calorie AI - Protein Tracker](https://apps.apple.com/us/app/calorie-ai-protein-tracker/id6737493244?l=zh-Hant-TW)(AI卡路里與蛋白質追蹤)
 [Health App Widgets & Watch](https://apps.apple.com/us/app/health-app-widgets-watch/id6745725161?l=zh-Hant-TW)(健康數據桌面小工具)
+[My Plate AI: Calorie Tracking](https://apps.apple.com/us/app/my-plate-ai-calorie-tracking/id6744751535?l=zh-Hant-TW)(AI拍照計算卡路里)
 
 ### iPhone-語文教學
 
@@ -133,6 +138,7 @@
 [Exam Lift](https://apps.apple.com/app/exam-lift-english-practice/id1485564472)(英語練習)
 [AI Flashcards - Braindeck](https://apps.apple.com/us/app/ai-flashcards-braindeck/id6476791990?l=zh-Hant-TW)(AI生成學習字卡)
 [Word of the Day: Flashcards](https://apps.apple.com/us/app/word-of-the-day-flashcards/id6472224596?l=zh-Hant-TW)(每日一字與單字卡)
+[Geometry Solver](https://apps.apple.com/us/app/geometry-solver/id1226352729?l=zh-Hant-TW)(幾何問題求解)
 
 ### iPhone-活力加持
 
@@ -159,6 +165,9 @@
 [To Do List - Task Manager](https://apps.apple.com/us/app/to-do-list-task-manager/id6497716500?l=zh-Hant-TW)(待辦事項與任務管理)
 [Bookwise: Book Tracker 閱讀紀錄](https://apps.apple.com/us/app/bookwise-book-tracker-%E9%96%B1%E8%AE%80%E7%B4%80%E9%8C%84/id6477328466?l=zh-Hant-TW)(閱讀紀錄與書單追蹤)
 [Motiwords](https://apps.apple.com/us/app/motiwords/id6749818741?l=zh-Hant-TW)(勵志名言與語錄)
+[CalmTrack: Cozy Habit Tracker](https://apps.apple.com/us/app/calmtrack-cozy-habit-tracker/id6744504658?l=zh-Hant-TW)(習慣追蹤)
+[Daily life organizer: Prostir](https://apps.apple.com/us/app/daily-life-organizer-prostir/id6535696029?l=zh-Hant-TW)(日常事務規劃)
+[To-do list: Todo Reminders](https://apps.apple.com/us/app/to-do-list-todo-reminders/id6749473691?l=zh-Hant-TW)(待辦清單與提醒)
 
 ### iPhone-財務
 
@@ -168,6 +177,7 @@
 [Budget Flow](https://apps.apple.com/tw/app/budget-flow-%E5%85%A8%E5%B9%B3%E5%8F%B0%E8%A8%98%E5%B8%B3%E8%BB%9F%E9%AB%94/id1640091876)(記帳)
 [Money Tracker: Budget Planner](https://apps.apple.com/us/app/money-tracker-budget-planner/id6444917344?l=zh-Hant-TW)(開銷追蹤與預算規劃)
 [ShopPad - Shopping Tracker](https://apps.apple.com/us/app/shoppad-shopping-tracker/id6529523495?l=zh-Hant-TW)(購物開銷追蹤)
+[Receipto - 收據掃描器](https://apps.apple.com/us/app/receipto-%E6%94%B6%E6%8D%AE%E6%89%AB%E6%8F%8F%E5%99%A8/id6745450337?l=zh-Hant-TW)(收據掃描與管理)
 
 ### iPhone-介面美觀
 
@@ -213,6 +223,7 @@
 
 [Remote Control App Smart TV](https://apps.apple.com/app/remote-control-app-smart-tv/id6463640353)(智慧電視遙控)
 [Remote for Chromecast TV](https://apps.apple.com/us/app/remote-for-chromecast-tv/id6742780617?l=zh-Hant-TW)(Chromecast電視遙控器)
+[Remote Control: TV Universal](https://apps.apple.com/us/app/remote-control-tv-universal/id6744585363?l=zh-Hant-TW)(通用智慧電視遙控器)
 
 ### iPhone-螢幕控制
 
@@ -229,6 +240,7 @@
 
 [Art Space](https://apps.apple.com/tw/app/%E8%97%9D%E8%A1%93%E7%A9%BA%E9%96%93-%E8%97%9D%E8%A1%93%E5%93%81%E8%88%87%E5%9C%96%E7%89%87%E9%A0%90%E8%A6%BD%E5%B0%8F%E6%A8%A3%E7%94%9F%E6%88%90%E5%99%A8/id585692981)(藝術空間)  
 [Resume Maker: CV Maker](https://apps.apple.com/us/app/resume-maker-cv-maker/id6468965114?l=zh-Hant-TW)(個人履歷和求職信)
+[Logo Maker: Icon, Brand & Art](https://apps.apple.com/us/app/logo-maker-icon-brand-art/id6743794789?l=zh-Hant-TW)(Logo與圖示設計)
 
 ### iPhone-排水
 
