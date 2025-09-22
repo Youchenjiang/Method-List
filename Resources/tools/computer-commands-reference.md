@@ -82,7 +82,18 @@ PS C:\\Users\\jerry.jiang38\\Documents\\Project\\orange\_backend\> taskkill /F /
 
 ### **激活Office**
 
-irm https://massgrave.dev/get | iex
+[Microsoft Activation Scripts](https://massgrave.dev/):
+
+`irm https://get.activated.win | iex`
+
+確認腳本內容-1:
+
+`irm https://get.activated.win -OutFile .\check-script.ps1`
+
+確認腳本內容-2:
+
+`irm 'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/ab6b572af940fa0ea4255b327eb6f69a274d6725/MAS/All-In-One-Version-KL/MAS_AIO.cmd' -OutFile .\MAS_AIO.cmd`
+
 
 ### **將這次變更快取結果覆寫至檔案中**
 
