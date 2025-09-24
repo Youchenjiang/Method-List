@@ -226,6 +226,7 @@
 [**WiFi歪歪 \- 摯友**](https://www.youtube.com/watch?v=ge0ahqnv8fY)  
 [**自遊詩 \- 難解**](https://www.youtube.com/watch?v=_0ucLAJp4iM)**(\*)**
 [**田園 \- 你明明曾那麼驕傲**](https://www.youtube.com/watch?v=I6H2wbVcJXM)
+[**吳昊 \- 此去半生**](https://www.youtube.com/watch?v=WW0xE3Qtj50)  
 [**Yooh \- Eutopia**](https://www.youtube.com/watch?v=K_7ERvudnQ8)**(\*)**
 [**Elaine \- Child**](https://www.youtube.com/watch?v=IGgDXQ9N5ew)  
 [**Yoasobi \- Tabun**](https://www.youtube.com/watch?v=aeI77nTNFfs)  
@@ -785,6 +786,7 @@ Charmer (暫無連結) | The Advisors Alliance Main Theme (暫無連結)
 ### **其他歌手 (激,奮)**
 
 [**劉宇寧 \- 無雙**](https://www.youtube.com/watch?v=FevzV91zt0M)  
+[**鄭魚 \- 荒**](https://www.youtube.com/watch?v=CDo-BTZFrcc)  
 [**ERA \- The Mass**](https://www.youtube.com/watch?v=qMa1kTobETc)  
 [**Jannik \- Grace**](https://www.youtube.com/watch?v=sMYgOZf7p38)**(\*)**  
 [**Winky诗 \- 不枉**](https://www.youtube.com/watch?v=yNlJCR0KTdY)**(\*)**  
