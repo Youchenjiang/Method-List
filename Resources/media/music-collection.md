@@ -180,7 +180,7 @@
 
 ### **一顆狼星 (憂,失)**
 
-[白嫁衣](https://www.youtube.com/watch?v=7CPT4xVypyA)**(*)** | [無人區玫瑰](https://www.youtube.com/watch?v=V89xw9kmQDs)**(*)**
+[白嫁衣](https://www.youtube.com/watch?v=7CPT4xVypyA)**(*)** | [無人區玫瑰](https://www.youtube.com/watch?v=V89xw9kmQDs)**(*)** | [沙漠孤心](https://www.youtube.com/watch?v=8nNHVEkDssA)
 
 ### **本兮 (憂,失)**
 
@@ -225,6 +225,7 @@
 [**V.K \- 精靈之歌**](https://www.youtube.com/watch?v=EsiRTeCS47g&ab_channel=V.K-Topic)**(\*)**  
 [**WiFi歪歪 \- 摯友**](https://www.youtube.com/watch?v=ge0ahqnv8fY)  
 [**自遊詩 \- 難解**](https://www.youtube.com/watch?v=_0ucLAJp4iM)**(\*)**
+[**田園 \- 你明明曾那麼驕傲**](https://www.youtube.com/watch?v=I6H2wbVcJXM)
 [**Yooh \- Eutopia**](https://www.youtube.com/watch?v=K_7ERvudnQ8)**(\*)**
 [**Elaine \- Child**](https://www.youtube.com/watch?v=IGgDXQ9N5ew)  
 [**Yoasobi \- Tabun**](https://www.youtube.com/watch?v=aeI77nTNFfs)  
@@ -396,6 +397,7 @@
 [**陳妍希 \- 你我**](https://www.youtube.com/watch?v=gFonssvBNaw)  
 [**沈以誠 \- 我還記得那天**](https://www.youtube.com/watch?v=4IVu66BR9nw)  
 [**傅鏘鏘 \- 櫻花樹下的約定**](https://www.youtube.com/watch?v=DFaSma3ZyGI)  
+[**晚月 \- 小村莊月彎彎**](https://www.youtube.com/watch?v=di8ABmlHfyw)  
 [**林俊傑 \- 江南**](https://www.youtube.com/watch?v=G97_rOdHcnY)  
 [**李紫婷 \- 無虞**](https://www.youtube.com/watch?v=ZTOTfuMRDNI)  
 [**旺仔小乔 \- 堕**](https://www.youtube.com/watch?v=V-hLZLTP56Q&ab_channel=LyricsMusic)**(\*)**  
