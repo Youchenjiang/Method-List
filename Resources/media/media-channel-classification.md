@@ -173,6 +173,8 @@
   - Yilun [(Youtube)](https://www.youtube.com/channel/UCAFTHqCDhTtqbVKTSBKwEYg)
   - 约翰 John [(Youtube)](https://www.youtube.com/channel/UCqqtg7EPk2swpnVM-T799Qw)
   - The walking fish 步行魚 [(Youtube)](https://www.youtube.com/channel/UCXgnKgUBxUlRABoWK7a5A5Q)
+- **資訊安全**
+  - 奧義智慧科技 CyCraft Technology [(Youtube)](https://www.youtube.com/@CyCraftTechnology)
 
 ### 生活技能與教學
 
