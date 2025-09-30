@@ -51,6 +51,7 @@
     - [**井朧 (憂,失)**](#井朧-憂失)
     - [**五月天 (憂,失)**](#五月天-憂失)
     - [**銀臨 (憂,失)**](#銀臨-憂失)
+    - [**洋瀾一 (憂,失)**](#洋瀾一-憂失)
     - [**其他歌手**](#其他歌手)
   - [**懷舊與回憶 Nostalgia \& Memories**](#懷舊與回憶-nostalgia--memories)
     - [**July (懷,憶)**](#july-懷憶)
@@ -202,6 +203,10 @@
 
 [何须问](https://www.youtube.com/watch?v=SKm3WJhy_rE) | [錦鯉抄](https://www.youtube.com/watch?v=1N-1vFAbN2g) | [牵丝戏](https://www.youtube.com/watch?v=sKwOQKGJ6KQ)（與Aki阿杰合作）
 
+### **洋瀾一 (憂,失)**
+
+[化風行萬裡](https://www.youtube.com/watch?v=MiOjTw1sQ1o) | [風的憂傷只有雲知道](https://www.youtube.com/watch?v=V8MxeCefJjU)
+
 ### **其他歌手**
 
 [**王菲 \- 如願**](https://www.youtube.com/watch?v=MgAGV6sITnU)  
@@ -224,10 +229,10 @@
 [**張靚穎 \- 畫心**](https://www.youtube.com/watch?v=KXcdWoSMklM)  
 [**V.K \- 精靈之歌**](https://www.youtube.com/watch?v=EsiRTeCS47g&ab_channel=V.K-Topic)**(\*)**  
 [**WiFi歪歪 \- 摯友**](https://www.youtube.com/watch?v=ge0ahqnv8fY)  
-[**自遊詩 \- 難解**](https://www.youtube.com/watch?v=_0ucLAJp4iM)**(\*)**
-[**田園 \- 你明明曾那麼驕傲**](https://www.youtube.com/watch?v=I6H2wbVcJXM)
+[**自遊詩 \- 難解**](https://www.youtube.com/watch?v=_0ucLAJp4iM)**(\*)**  
+[**田園 \- 你明明曾那麼驕傲**](https://www.youtube.com/watch?v=I6H2wbVcJXM)  
 [**吳昊 \- 此去半生**](https://www.youtube.com/watch?v=WW0xE3Qtj50)  
-[**Yooh \- Eutopia**](https://www.youtube.com/watch?v=K_7ERvudnQ8)**(\*)**
+[**Yooh \- Eutopia**](https://www.youtube.com/watch?v=K_7ERvudnQ8)**(\*)**  
 [**Elaine \- Child**](https://www.youtube.com/watch?v=IGgDXQ9N5ew)  
 [**Yoasobi \- Tabun**](https://www.youtube.com/watch?v=aeI77nTNFfs)  
 [**Zyboy忠宇 \- 墮**](https://www.youtube.com/watch?v=507hQiAHaDU)  
@@ -275,7 +280,6 @@
 [**Elton John \- Sorry Seems To Be The Hardest Word**](https://www.youtube.com/watch?v=c3nScN89Klo)**(\*)**  
 [**Dr Dre, Eminem and Skylar Gray. \- I need a doctor**](https://www.youtube.com/watch?v=6m3vtWYCuMg&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=32)  
 [**鞠文嫻 \- BINGBIAN**](https://www.youtube.com/watch?v=ZFw6rTEw1hA)  
-[**洋瀾一 \- 化風行萬裡**](https://www.youtube.com/watch?v=MiOjTw1sQ1o)  
 [**李一桐 \- 等**](https://www.youtube.com/watch?v=18Bft1SfK8I)
 
 ## **懷舊與回憶 Nostalgia & Memories**
