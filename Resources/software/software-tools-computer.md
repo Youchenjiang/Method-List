@@ -129,7 +129,7 @@
 
    - #### 高速下載工具
 
-     - [Internet Download Manager](https://www.internetdownloadmanager.com/)（極速下載工具） [(破解)](http://h.qianqian.club/bd/jc/jc.html)
+     - [Internet Download Manager](https://www.internetdownloadmanager.com/)（極速下載工具） [(破解)](https://github.com/lstprjct/IDM-Activation-Script/tree/main)
 
    - #### Android 軟體
 
