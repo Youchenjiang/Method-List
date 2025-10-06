@@ -232,6 +232,9 @@
 [**自遊詩 \- 難解**](https://www.youtube.com/watch?v=_0ucLAJp4iM)**(\*)**  
 [**田園 \- 你明明曾那麼驕傲**](https://www.youtube.com/watch?v=I6H2wbVcJXM)  
 [**吳昊 \- 此去半生**](https://www.youtube.com/watch?v=WW0xE3Qtj50)  
+[**阮妍霏 \- 救贖者**](https://www.youtube.com/watch?v=Cil62GG5bKg)  
+[**袁小葳 \- 錯季花開**](https://www.youtube.com/watch?v=K4VHNrCVw_g)  
+[**九姨太 \- 比誰**](https://www.youtube.com/watch?v=Yp5hi3qkSgU)  
 [**Yooh \- Eutopia**](https://www.youtube.com/watch?v=K_7ERvudnQ8)**(\*)**  
 [**Elaine \- Child**](https://www.youtube.com/watch?v=IGgDXQ9N5ew)  
 [**Yoasobi \- Tabun**](https://www.youtube.com/watch?v=aeI77nTNFfs)  
@@ -403,6 +406,7 @@
 [**沈以誠 \- 我還記得那天**](https://www.youtube.com/watch?v=4IVu66BR9nw)  
 [**傅鏘鏘 \- 櫻花樹下的約定**](https://www.youtube.com/watch?v=DFaSma3ZyGI)  
 [**晚月 \- 小村莊月彎彎**](https://www.youtube.com/watch?v=di8ABmlHfyw)  
+[**言瑾羽 \- 未必**](https://www.youtube.com/watch?v=yEWxiWE1ZIg)  
 [**林俊傑 \- 江南**](https://www.youtube.com/watch?v=G97_rOdHcnY)  
 [**李紫婷 \- 無虞**](https://www.youtube.com/watch?v=ZTOTfuMRDNI)  
 [**旺仔小乔 \- 堕**](https://www.youtube.com/watch?v=V-hLZLTP56Q&ab_channel=LyricsMusic)**(\*)**  
@@ -604,6 +608,9 @@
 [**葉里 \- 葬仙**](https://www.youtube.com/watch?v=6fXfukw4C7g)**(\*)**  
 [**本兮 \- 下雪的季節**](https://www.youtube.com/watch?v=wa7XJQQW8og)  
 [**毛不易 \- 巔峰之上**](https://www.youtube.com/watch?v=79pc02W8F3U)**(\*)**  
+[**王一一 \- 生活不是為了趕路啊**](https://www.youtube.com/watch?v=IhJh9Igx3GY)  
+[**音闕詩聽 \- 空山新雨後**](https://www.youtube.com/watch?v=1vQ7b1gEfdM)  
+[**袁婭維 \- 界**](https://www.youtube.com/watch?v=m8EQDUC4D38)  
 [**傅许 \- The Lost City**](https://www.youtube.com/watch?v=zMo_7YJyvHg)  
 [**전창엽 \- Final Victory**](https://www.youtube.com/watch?v=HPGdOqFW9_I)**(\*)**  
 [**陳冰 \- 崛起**](https://www.youtube.com/watch?v=ETDQqapx_k4)  
