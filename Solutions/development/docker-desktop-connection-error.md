@@ -20,6 +20,8 @@ error during connect: Post "http://%2F%2F.%2Fpipe%2FdockerDesktopLinuxEngine/v1.
 
 ## 解決方法
 
+![image](https://github.com/user-attachments/assets/77491b3c-e4cc-4bbb-b9ea-6f426759f295)
+
 ### 方法 1：啟動 Docker Desktop
 
 1. 開啟 Docker Desktop 應用程式
