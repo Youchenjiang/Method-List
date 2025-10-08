@@ -385,7 +385,8 @@
 
    - #### 程式逆向工程工具
 
-     - [de4dot](https://www.52pojie.cn/thread-1297009-1-1.html)（.NET反混淆和脫殼工具）
+     - [de4dot](https://www.52pojie.cn/thread-1297009-1-1.html)（.NET反混淆和脫殼工具）  
+     - [JADX](https://github.com/skylot/jadx/releases)（Android APK反編譯工具）
 
    - #### 程式語言鑑定工具
 
