@@ -3,7 +3,7 @@
 ## 問題描述
 
 在執行 Docker 命令時出現以下錯誤：
-
+![image](https://github.com/user-attachments/assets/de03fed7-681f-422d-89d3-8a22c431a269)
 ```
 docker pull node:18-alpine
 error during connect: Post "http://%2F%2F.%2Fpipe%2FdockerDesktopLinuxEngine/v1.50/images/create?fromImage=docker.io%2Flibrary%2Fnode&tag=18-alpine": open //./pipe/dockerDesktopLinuxEngine: The system cannot find the file specified.
