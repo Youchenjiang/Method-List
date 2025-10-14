@@ -407,6 +407,7 @@
 [**傅鏘鏘 \- 櫻花樹下的約定**](https://www.youtube.com/watch?v=DFaSma3ZyGI)  
 [**晚月 \- 小村莊月彎彎**](https://www.youtube.com/watch?v=di8ABmlHfyw)  
 [**言瑾羽 \- 未必**](https://www.youtube.com/watch?v=yEWxiWE1ZIg)  
+[**八三夭 \- 想見你想見你想見你**](https://www.youtube.com/watch?v=4iRupuNet3Q)  
 [**林俊傑 \- 江南**](https://www.youtube.com/watch?v=G97_rOdHcnY)  
 [**李紫婷 \- 無虞**](https://www.youtube.com/watch?v=ZTOTfuMRDNI)  
 [**旺仔小乔 \- 堕**](https://www.youtube.com/watch?v=V-hLZLTP56Q&ab_channel=LyricsMusic)**(\*)**  
