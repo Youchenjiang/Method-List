@@ -5,6 +5,7 @@
     - [CMD](#cmd)
       - [更改資料檔名](#更改資料檔名)
       - [IP位置查詢](#ip位置查詢)
+      - [查詢本機 ARP 快取](#查詢本機-arp-快取)
       - [網路無法連線(參考)](#網路無法連線參考)
       - [自動修復系統功能](#自動修復系統功能)
       - [開啟任務管理員](#開啟任務管理員)
@@ -77,6 +78,10 @@ FOR %a in (109\*.\*) DO REN "%\~a" "0%\~nxa" (將所有109開頭檔檔名加上0
 #### IP位置查詢
 
 nslookup \+ 網址
+
+#### 查詢本機 ARP 快取
+
+arp -a
 
 #### 網路無法連線[(參考)](https://www.mytechgirl.com/tw/windows/fix-windows-10-wifi-can-not-connect-mtg6688.html)
 
