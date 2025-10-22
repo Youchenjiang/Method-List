@@ -216,6 +216,12 @@
 
 `acli rovodev run`
 
+### bmad-method
+
+#### install
+
+`npx bmad-method install`
+
 ## 搜尋工具
 
 ### 系統資訊
