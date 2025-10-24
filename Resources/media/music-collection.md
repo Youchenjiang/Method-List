@@ -209,6 +209,7 @@
 
 ### **其他歌手**
 
+[**陳黥語 \- 懲罰**](https://www.youtube.com/watch?v=zDXeL70o9js)  
 [**王菲 \- 如願**](https://www.youtube.com/watch?v=MgAGV6sITnU)  
 [**曹格 \- 背叛**](https://www.youtube.com/watch?v=xHsSWiLsIRY)  
 [**張遠 \- 嘉賓**](https://www.youtube.com/watch?v=8ux25IcLr8w)  
@@ -283,7 +284,8 @@
 [**Elton John \- Sorry Seems To Be The Hardest Word**](https://www.youtube.com/watch?v=c3nScN89Klo)**(\*)**  
 [**Dr Dre, Eminem and Skylar Gray. \- I need a doctor**](https://www.youtube.com/watch?v=6m3vtWYCuMg&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=32)  
 [**鞠文嫻 \- BINGBIAN**](https://www.youtube.com/watch?v=ZFw6rTEw1hA)  
-[**李一桐 \- 等**](https://www.youtube.com/watch?v=18Bft1SfK8I)
+[**李一桐 \- 等**](https://www.youtube.com/watch?v=18Bft1SfK8I)  
+[**一只白羊 \- 黑嫁衣**](https://www.youtube.com/watch?v=YAHF33ah-nc)
 
 ## **懷舊與回憶 Nostalgia & Memories**
 
@@ -698,6 +700,7 @@ Charmer (暫無連結) | The Advisors Alliance Main Theme (暫無連結)
 
 ### **其他歌手 (愉,活)**
 
+[**浠Mizuki \- 失眠飛行**](https://www.youtube.com/watch?v=JZz4Kxdcx5w)  
 [**Tobu \- Life**](https://www.youtube.com/watch?v=bQOmKD-sMt8)  
 [**于果 \- 極光**](https://www.youtube.com/watch?v=WLvgWB1V5Jg)  
 [**夢然 \- 少年**](https://www.youtube.com/watch?v=LGzDEu7Sh5g&ab_channel=BobaBeats)  
@@ -797,6 +800,7 @@ Charmer (暫無連結) | The Advisors Alliance Main Theme (暫無連結)
 
 ### **其他歌手 (激,奮)**
 
+[**李佳薇 \- 碧蒼**](https://www.youtube.com/watch?v=hO2TqDxGyjE)  
 [**劉宇寧 \- 無雙**](https://www.youtube.com/watch?v=FevzV91zt0M)  
 [**鄭魚 \- 荒**](https://www.youtube.com/watch?v=CDo-BTZFrcc)  
 [**ERA \- The Mass**](https://www.youtube.com/watch?v=qMa1kTobETc)  
