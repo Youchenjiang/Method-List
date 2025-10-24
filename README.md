@@ -46,9 +46,9 @@ Method-List/
 │       └── computer-commands-reference.md
 └── topics/
     ├── ai/
-    │   ├── ai-classification-frameworks-comparison.md
-    │   ├── ai-machine-learning-concepts.md
-    │   ├── ai-schools-symbolic-connectionist.md
+    │   ├── classification-frameworks-comparison.md
+    │   ├── machine-learning-concepts.md
+    │   ├── schools-symbolic-connectionist.md
     │   └── azure-openai-analyze-pdf.md
     ├── development/
     │   ├── docker-desktop-connection-error.md
@@ -56,7 +56,7 @@ Method-List/
     │   ├── python-environment-error.md
     │   └── vs2022-import-excel.md
     ├── quantum/
-    │   └── quantum-research.md
+    │   └── research.md
     ├── security/
     │   └── information-security-notes.md
     └── technology/
@@ -77,9 +77,9 @@ Method-List/
 | 文件名稱 | 描述 |
 |---------|------|
 | [Azure OpenAI PDF 分析](topics/ai/azure-openai-analyze-pdf.md) | 使用 Azure OpenAI 分析 PDF 文件的完整教學 |
-| [AI 領域知識全景圖](topics/ai/ai-machine-learning-concepts.md) | 人工智慧、機器學習與各種學習方式的概念解析 |
-| [AI 思想體系三大學派](topics/ai/ai-schools-symbolic-connectionist.md) | 符號主義、連結主義、行為主義三大AI學派的思想分析 |
-| [AI 分類框架對比分析](topics/ai/ai-classification-frameworks-comparison.md) | 功能導向與思想體系分類的對比與方法論探討 |
+| [AI 領域知識全景圖](topics/ai/machine-learning-concepts.md) | 人工智慧、機器學習與各種學習方式的概念解析 |
+| [AI 思想體系三大學派](topics/ai/schools-symbolic-connectionist.md) | 符號主義、連結主義、行為主義三大AI學派的思想分析 |
+| [AI 分類框架對比分析](topics/ai/classification-frameworks-comparison.md) | 功能導向與思想體系分類的對比與方法論探討 |
 
 #### 💻 開發 ([topics/development/](topics/development/))
 
@@ -94,7 +94,7 @@ Method-List/
 
 | 文件名稱 | 描述 |
 |---------|------|
-| [量子研究筆記](topics/quantum/quantum-research.md) | 量子計算、量子通訊等前沿科技研究筆記 |
+| [量子研究筆記](topics/quantum/research.md) | 量子計算、量子通訊等前沿科技研究筆記 |
 
 #### 🔒 資訊安全 ([topics/security/](topics/security/))
 
