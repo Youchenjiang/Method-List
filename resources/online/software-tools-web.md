@@ -75,6 +75,11 @@
 
 [葡萄看歷史-Facebook](https://www.facebook.com/%E8%91%A1%E8%90%84%E7%9C%8B%E6%AD%B7%E5%8F%B2-1502197973383495)：分享歷史資訊
 
+### 開發者工具
+
+[Amazon Cognito](https://aws.amazon.com/cognito/)：將使用者註冊、登入和存取控制新增至 Web 和行動應用程式  
+[Jules](https://jules.google.com/session)：協助開發的網站，能讀取GitHub來源並將修改完的提交回去作為新分支
+
 ## **推薦工具**
 
 [一网一匠极速版](https://ywyj.cn/)
