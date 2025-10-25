@@ -362,6 +362,7 @@
    - #### 遊戲開發工具
 
      - [Unity](https://unity.com/download)（跨平台遊戲引擎） [(破解)](https://github.com/YueWangChen/Uni-HubHacker)
+     - [Bezi](https://www.bezi.com/) (專為 Unity 開發的 AI 輔助工具，可協助編寫腳本、除錯、製作著色器等)
 
    - #### 商用數學軟件
 
