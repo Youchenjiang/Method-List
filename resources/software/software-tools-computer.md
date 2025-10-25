@@ -159,10 +159,15 @@
 
    - #### VPN工具
 
-     - [Radmin VPN](https://www.radmin-vpn.com/tw/)（遠端連接IP工具）  
-     - [VPN Gate](https://www.vpngate.net/cn/download.aspx)  
-     - [Fortinet VPN](https://www.fortinet.com/tw/support/product-downloads)  
-     - [GlobalProtect Portal](https://140.127.81.114/global-protect/getsoftwarepage.esp?user=)
+     - **現代化VPN (P2P/SDN)**:
+       - [Tailscale](https://tailscale.com/): 基於 `WireGuard`，設定極為簡單，專注於易用性與無縫整合。
+       - [ZeroTier](https://www.zerotier.com/): 提供更進階的網路控制與虛擬化功能，彈性較高。
+       - *(註: 兩者皆為點對點(P2P)虛擬私人網路，用於取代傳統VPN，可輕鬆串連多台裝置。Tailscale適合追求簡易的個人或小團隊，ZeroTier則提供更多專業網路設定。)*
+     - **傳統VPN及其他**:
+       - [Radmin VPN](https://www.radmin-vpn.com/tw/)（遠端連接IP工具）  
+       - [VPN Gate](https://www.vpngate.net/cn/download.aspx)  
+       - [Fortinet VPN](https://www.fortinet.com/tw/support/product-downloads)  
+       - [GlobalProtect Portal](https://140.127.81.114/global-protect/getsoftwarepage.esp?user=)
 
 4. ### **Network Security Tools**
 
