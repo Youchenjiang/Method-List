@@ -56,11 +56,11 @@
   - [**懷舊與回憶 Nostalgia \& Memories**](#懷舊與回憶-nostalgia--memories)
     - [**July (懷,憶)**](#july-懷憶)
     - [**葉里 (懷,憶)**](#葉里-懷憶)
-    - [**羽肿 (懷,憶)**](#羽肿-懷憶)
+    - [**羽腫 (懷,憶)**](#羽腫-懷憶)
     - [**鄧倫 (懷,憶)**](#鄧倫-懷憶)
     - [**張碧晨 (懷,憶)**](#張碧晨-懷憶)
     - [**毛不易 (懷,憶)**](#毛不易-懷憶)
-    - [**逆时针向 (懷舊)**](#逆时针向-懷舊)
+    - [**逆時針向 (懷舊)**](#逆時針向-懷舊)
     - [**周杰倫 (懷,憶)**](#周杰倫-懷憶)
     - [**dylanf (懷,憶)**](#dylanf-懷憶)
     - [**周興哲 (懷,憶)**](#周興哲-懷憶)
@@ -74,14 +74,14 @@
     - [**Candy Wind (懷,憶)**](#candy-wind-懷憶)
     - [**高至豪 (懷,憶)**](#高至豪-懷憶)
     - [**邱有句 (懷,憶)**](#邱有句-懷憶)
-    - [**阳山伟伟 (懷,憶)**](#阳山伟伟-懷憶)
+    - [**陽山偉偉 (懷,憶)**](#陽山偉偉-懷憶)
     - [**AniFace (懷,憶)**](#aniface-懷憶)
     - [**BrunuhVille (懷,憶)**](#brunuhville-懷憶)
     - [**周深 (懷,憶)**](#周深-懷憶)
     - [**其他歌手 (懷,憶)**](#其他歌手-懷憶)
   - [**平靜與舒緩 Peaceful \& Soothing**](#平靜與舒緩-peaceful--soothing)
     - [**CMJ (平,緩)**](#cmj-平緩)
-    - [**傅许 (平,緩)**](#傅许-平緩)
+    - [**傅許 (平,緩)**](#傅許-平緩)
     - [**楊青 (平,緩)**](#楊青-平緩)
     - [**周杰倫 (平,緩)**](#周杰倫-平緩)
     - [**전창엽 (平,緩)**](#전창엽-平緩)
@@ -100,7 +100,7 @@
   - [**愉悅與活力 Joy \& Vitality**](#愉悅與活力-joy--vitality)
     - [**音闕詩聽 (愉,活)**](#音闕詩聽-愉活)
     - [**전창엽 (愉,活)**](#전창엽-愉活)
-    - [**阳山伟伟 (愉,活)**](#阳山伟伟-愉活)
+    - [**陽山偉偉 (愉,活)**](#陽山偉偉-愉活)
     - [**DJ OKAWARI (愉,活)**](#dj-okawari-愉活)
     - [**灰澈 (愉,活)**](#灰澈-愉活)
     - [**周杰倫 (愉,活)**](#周杰倫-愉活)
@@ -177,7 +177,7 @@
 
 ### **小阿七 (憂,失)**
 
-[從前说](https://www.youtube.com/watch?v=hEMRM6J7LlY) | [五十年以后](https://www.youtube.com/watch?v=0yCiG7XpZG0)
+[從前說](https://www.youtube.com/watch?v=hEMRM6J7LlY) | [五十年以後](https://www.youtube.com/watch?v=0yCiG7XpZG0)
 
 ### **一顆狼星 (憂,失)**
 
@@ -185,7 +185,7 @@
 
 ### **本兮 (憂,失)**
 
-[某個心跳](https://www.youtube.com/watch?v=poUeZeM5B2g) | [倾尽我所有](https://www.youtube.com/watch?v=poLyFKzCQUI&t=271s)
+[某個心跳](https://www.youtube.com/watch?v=poUeZeM5B2g) | [傾盡我所有](https://www.youtube.com/watch?v=poLyFKzCQUI&t=271s)
 
 ### **毛不易 (憂,失)**
 
@@ -201,7 +201,7 @@
 
 ### **銀臨 (憂,失)**
 
-[何须问](https://www.youtube.com/watch?v=SKm3WJhy_rE) | [錦鯉抄](https://www.youtube.com/watch?v=1N-1vFAbN2g) | [牵丝戏](https://www.youtube.com/watch?v=sKwOQKGJ6KQ)（與Aki阿杰合作）
+[何須問](https://www.youtube.com/watch?v=SKm3WJhy_rE) | [錦鯉抄](https://www.youtube.com/watch?v=1N-1vFAbN2g) | [牽絲戲](https://www.youtube.com/watch?v=sKwOQKGJ6KQ)（與Aki阿杰合作）
 
 ### **洋瀾一 (憂,失)**
 
@@ -219,7 +219,7 @@
 [**橙翼 \- 春庭雪**](https://www.youtube.com/watch?v=r9lrb29a-4k)  
 [**韓磊 \- 平安夢**](https://www.youtube.com/watch?v=1MgvZD-n5yU)**(\*)**  
 [**陳雪凝 \- 綠色**](https://www.youtube.com/watch?v=WY6nQK7zbsk)**(\*)**  
-[**林俊杰 \- 她说**](https://www.youtube.com/watch?v=GxZEM-sP9G8)  
+[**林俊杰 \- 她說**](https://www.youtube.com/watch?v=GxZEM-sP9G8)  
 [**容祖兒 \- 小小**](https://www.youtube.com/watch?v=CQ9PLCXYFyk)  
 [**賈鵬芳 \- 寧月**](https://www.youtube.com/watch?v=Dv0TbQpCilU)  
 [**賀敬軒 \- 走心**](https://www.youtube.com/watch?v=EptAOgshrQ8)  
@@ -242,7 +242,7 @@
 [**Zyboy忠宇 \- 墮**](https://www.youtube.com/watch?v=507hQiAHaDU)  
 [**蔣雪兒 \- 燕無歇**](https://www.youtube.com/watch?v=XOqHoje9czk)  
 [**周深 \- 此生惟你**](https://www.youtube.com/watch?v=_4cWMY3397I)  
-[**鄧紫棋 \- 桃花诺**](https://www.youtube.com/watch?v=Sauj2kt3TP0)  
+[**鄧紫棋 \- 桃花諾**](https://www.youtube.com/watch?v=Sauj2kt3TP0)  
 [**張碧晨 \- 黑月光**](https://www.youtube.com/watch?v=qtbf_1pjenE)**(\*)**  
 [**一支榴蓮 \- 海底**](https://www.youtube.com/watch?v=v5gK8np-OTA)**(\*)**  
 [**S.H.E \- 不想長大**](https://www.youtube.com/watch?v=KV17QLB2BJs)**(\*)**  
@@ -251,7 +251,7 @@
 [**徐佳瑩 \- 一愛難求**](https://www.youtube.com/watch?v=iXXqfP7cP1A)  
 [**曲肖冰 \- 兩兩相忘**](https://www.youtube.com/watch?v=6hu7C6GxdEM)**(\*)**  
 [**陳一發兒 \- 童話鎮**](https://www.youtube.com/watch?v=Ap0huJwyT7g)  
-[**闻人听書 \- 虞兮嘆**](https://www.youtube.com/watch?v=UQZO91Z2mi8)  
+[**聞人聽書 \- 虞兮嘆**](https://www.youtube.com/watch?v=UQZO91Z2mi8)  
 [**July \- Cut In Love**](https://www.youtube.com/watch?v=uMZ-OCdU7OE)  
 [**周興哲 \- 如果雨之後**](https://www.youtube.com/watch?v=gdGdO6KjF1I)  
 [**梁靜茹 \- 可惜不是你**](https://www.youtube.com/watch?v=k_l7FVsqUyM)  
@@ -261,18 +261,18 @@
 [**蕭憶情&倫桑 \- 紅顏舊**](https://www.youtube.com/watch?v=Ym_24r9jtDU)  
 [**전창엽 \- Sad Revenge**](https://www.youtube.com/watch?v=22jxMU3oKYw&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=43)  
 [**인디고 왈츠 \- Sereno**](https://www.youtube.com/watch?v=YrH_LFhr674)  
-[**北京智哥 \- 长大的时限**](https://www.youtube.com/watch?v=TMh_2-NihLc)  
+[**北京智哥 \- 長大的時限**](https://www.youtube.com/watch?v=TMh_2-NihLc)  
 [**王力宏 \- 你不知道的事**](https://www.youtube.com/watch?v=zvUsOXNPVxo)  
 [**SawanoHiroyuki \- Avid**](https://www.youtube.com/watch?v=hSzyI3u5DFo)  
 [**Yiruma \- Kiss the Rain**](https://www.youtube.com/watch?v=imGaOIm5HOk)  
 [**유영석 \- Classic River**](https://www.youtube.com/watch?v=VsnsL0Q7kSQ)  
 [**Noicybino \- Fell for U**](https://www.youtube.com/watch?v=6I7sfAw8tww)  
 [**Samer Fanek \- Guide Me**](https://www.youtube.com/watch?v=JLi38Wqm3QM)  
-[**怪阿姨 \- 累了痛了不爱了**](https://www.youtube.com/watch?v=85I81Qn5MY4)  
-[**和田薫 \- 穿越时空的思念**](https://www.youtube.com/watch?v=FAiCZL0d90s)**(\*)**  
+[**怪阿姨 \- 累了痛了不愛了**](https://www.youtube.com/watch?v=85I81Qn5MY4)  
+[**和田薫 \- 穿越時空的思念**](https://www.youtube.com/watch?v=FAiCZL0d90s)**(\*)**  
 [**kirara \- 年華都是無效信**](https://www.youtube.com/watch?v=HssiKQNr9pk)**(\*)**  
 [**白銀河·金南玲 \- 逆流成河**](https://www.youtube.com/watch?v=AkR2BN2buGo)  
-[**W.K.&黄麒Eros \- 玉树流光**](https://www.youtube.com/watch?v=PNCW3WKKrz8)  
+[**W.K.&黃麒Eros \- 玉樹流光**](https://www.youtube.com/watch?v=PNCW3WKKrz8)  
 [**磯村由紀子 \- 風居住的街道**](https://www.youtube.com/watch?v=kcUXCBF--Gs)**(\*)**  
 [**Rauf & Faik \- колыбельная**](https://www.youtube.com/watch?v=oewANcF6hVY)  
 [**Second Moon \- Hidden Story**](https://www.youtube.com/watch?v=DIp_molhRMI)  
@@ -298,9 +298,9 @@
 
 [仙瑤](https://www.youtube.com/watch?v=ZKRhzriYIlA)**(*)** | [謫仙](https://www.youtube.com/watch?v=WdT5k0-pj6Y)
 
-### **羽肿 (懷,憶)**
+### **羽腫 (懷,憶)**
 
-[为霜](https://www.youtube.com/watch?v=REQvrlTdjnw) | [City](https://www.youtube.com/watch?v=_6oc62PqdwM) | [Seaside](https://www.youtube.com/watch?v=RvGxyQuxovI) | [Windy Hill](https://www.youtube.com/watch?v=1N9sd6tfgaI) | [花火が瞬く夜に](https://www.youtube.com/watch?v=OiqGU_Drs54)
+[爲霜](https://www.youtube.com/watch?v=REQvrlTdjnw) | [City](https://www.youtube.com/watch?v=_6oc62PqdwM) | [Seaside](https://www.youtube.com/watch?v=RvGxyQuxovI) | [Windy Hill](https://www.youtube.com/watch?v=1N9sd6tfgaI) | [花火が瞬く夜に](https://www.youtube.com/watch?v=OiqGU_Drs54)
 
 ### **鄧倫 (懷,憶)**
 
@@ -314,7 +314,7 @@
 
 [不染](https://www.youtube.com/watch?v=dDV36GmFP20) | [一程山路](https://www.youtube.com/watch?v=-s9LvPQyB1c)
 
-### **逆时针向 (懷舊)**
+### **逆時針向 (懷舊)**
 
 [念](https://www.youtube.com/watch?v=9H6HybAIoOc&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=41) | [Once](https://www.youtube.com/watch?v=UTGlakiDwUY&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=44) | [最初](https://www.youtube.com/watch?v=RtXkaBLfMEE) | [夜光](https://www.youtube.com/watch?v=qzMB6Ixk5bE) | [晚星](https://www.youtube.com/watch?v=NGQnyrKoexY)
 
@@ -324,7 +324,7 @@
 
 ### **dylanf (懷,憶)**
 
-[Sakura](https://www.youtube.com/watch?v=j1oypmyImWw) | [Starry Night](https://www.youtube.com/watch?v=C37pqJ67R-U) | [遇见萤火](https://www.youtube.com/watch?v=SNYm7VXd92Q)
+[Sakura](https://www.youtube.com/watch?v=j1oypmyImWw) | [Starry Night](https://www.youtube.com/watch?v=C37pqJ67R-U) | [遇見螢火](https://www.youtube.com/watch?v=SNYm7VXd92Q)
 
 ### **周興哲 (懷,憶)**
 
@@ -336,11 +336,11 @@
 
 ### **Winky詩 (懷,憶)**
 
-[標題](https://www.youtube.com/watch?v=uw8ZSM9yM0I) | [離騷](https://www.youtube.com/watch?v=Tsg2r0FPgmc) | [楚天阔](https://www.youtube.com/watch?v=k0aFjbFEH88) | [一馬白衣](https://www.youtube.com/watch?v=WHKFd51mZc0) | [離騷·開篇](https://www.youtube.com/watch?v=yy6jRessPWQ) | [九歌·東皇太一](https://www.youtube.com/watch?v=AlEV_pN-dZQ)
+[標題](https://www.youtube.com/watch?v=uw8ZSM9yM0I) | [離騷](https://www.youtube.com/watch?v=Tsg2r0FPgmc) | [楚天闊](https://www.youtube.com/watch?v=k0aFjbFEH88) | [一馬白衣](https://www.youtube.com/watch?v=WHKFd51mZc0) | [離騷·開篇](https://www.youtube.com/watch?v=yy6jRessPWQ) | [九歌·東皇太一](https://www.youtube.com/watch?v=AlEV_pN-dZQ)
 
 ### **趙海洋 (懷,憶)**
 
-[秋的思念](https://www.youtube.com/watch?v=csNAWxfyB8o) | [瞬間的永恆](https://www.youtube.com/watch?v=HMfMratAHgo) | [夜空的寂静](https://www.youtube.com/watch?v=BqDSNyOPSp8)
+[秋的思念](https://www.youtube.com/watch?v=csNAWxfyB8o) | [瞬間的永恆](https://www.youtube.com/watch?v=HMfMratAHgo) | [夜空的寂靜](https://www.youtube.com/watch?v=BqDSNyOPSp8)
 
 ### **郁可唯 (懷,憶)**
 
@@ -356,11 +356,11 @@
 
 ### **變奏的夢想 (懷,憶)**
 
-[鸿迹](https://www.youtube.com/watch?v=IIvK8-N8HUQ) | [江上清風游](https://www.youtube.com/watch?v=mQqsZP67LMk)
+[鴻跡](https://www.youtube.com/watch?v=IIvK8-N8HUQ) | [江上清風游](https://www.youtube.com/watch?v=mQqsZP67LMk)
 
 ### **Candy Wind (懷,憶)**
 
-[青空](https://www.youtube.com/watch?v=Ig2Kg74dPeY&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=5) | [十一月风](https://www.youtube.com/watch?v=37yGj2LvbPg&ab_channel=Candy_Wind-Topic) | [繁华的风景](https://www.youtube.com/watch?v=69donbnhX84)
+[青空](https://www.youtube.com/watch?v=Ig2Kg74dPeY&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=5) | [十一月風](https://www.youtube.com/watch?v=37yGj2LvbPg&ab_channel=Candy_Wind-Topic) | [繁華的風景](https://www.youtube.com/watch?v=69donbnhX84)
 
 ### **高至豪 (懷,憶)**
 
@@ -368,15 +368,15 @@
 
 ### **邱有句 (懷,憶)**
 
-[云村的烟花](https://www.youtube.com/watch?v=X6vfPp5ZqIY) | [樱花的幻想](https://www.youtube.com/watch?v=v35sjhuZUj4)
+[雲村的烟花](https://www.youtube.com/watch?v=X6vfPp5ZqIY) | [櫻花的幻想](https://www.youtube.com/watch?v=v35sjhuZUj4)
 
-### **阳山伟伟 (懷,憶)**
+### **陽山偉偉 (懷,憶)**
 
-[你的容颜](https://www.youtube.com/watch?v=971kIsUzqv8&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=24) | [她的微笑](https://www.youtube.com/watch?v=wvkGE4mtTB0&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=5)
+[你的容顏](https://www.youtube.com/watch?v=971kIsUzqv8&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=24) | [她的微笑](https://www.youtube.com/watch?v=wvkGE4mtTB0&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=5)
 
 ### **AniFace (懷,憶)**
 
-[Where are you](https://www.youtube.com/watch?v=16QRR10BvUs&ab_channel=%E6%9D%8E%E6%97%B6%E7%8F%8D%E7%9A%AE) | [夜、萤火虫和你](https://www.youtube.com/watch?v=DY7gDQnC3EI)
+[Where are you](https://www.youtube.com/watch?v=16QRR10BvUs&ab_channel=%E6%9D%8E%E6%97%B6%E7%8F%8D%E7%9A%AE) | [夜、螢火蟲和你](https://www.youtube.com/watch?v=DY7gDQnC3EI)
 
 ### **BrunuhVille (懷,憶)**
 
@@ -384,11 +384,11 @@
 
 ### **周深 (懷,憶)**
 
-[余情](https://www.youtube.com/watch?v=bo8JMu_Kn5I) | [時間之海](https://www.youtube.com/watch?v=uMEOAzBVG8A) | [繭](https://www.youtube.com/watch?v=UGCXbVHxgrc)
+[餘情](https://www.youtube.com/watch?v=bo8JMu_Kn5I) | [時間之海](https://www.youtube.com/watch?v=uMEOAzBVG8A) | [繭](https://www.youtube.com/watch?v=UGCXbVHxgrc)
 
 ### **其他歌手 (懷,憶)**
 
-[**赵晨 \- 秋叶**](https://www.youtube.com/watch?v=FYon5jLgE2M)**(\*)**  
+[**趙晨 \- 秋葉**](https://www.youtube.com/watch?v=FYon5jLgE2M)**(\*)**  
 [**李煒 \- 劍魂**](https://www.youtube.com/watch?v=gHXiR8YlYmA)  
 [**光良 \- 童話**](https://www.youtube.com/watch?v=OSCuOsaOE48)  
 [**夢然 \- 是你**](https://www.youtube.com/watch?v=ToQbECL3ty0)  
@@ -401,8 +401,8 @@
 [**銀臨 \- 東風志**](https://www.youtube.com/watch?v=2o79_vve6GY&list=RDEMLAQd1stIzMRocRW_0CqVPw&index=11)  
 [**奇然 \- 赤壁賦**](https://www.youtube.com/watch?v=_8WALnl0dZw)  
 [**秩厭 \- 木蘭柴**](https://www.youtube.com/watch?v=2JUyOgI4CHE)  
-[**别念 \- Funton**](https://www.youtube.com/watch?v=ChQan_4uauY)  
-[**海伦 \- 遊山戀**](https://www.youtube.com/watch?v=lpeAF7i3svw)  
+[**別念 \- Funton**](https://www.youtube.com/watch?v=ChQan_4uauY)  
+[**海倫 \- 遊山戀**](https://www.youtube.com/watch?v=lpeAF7i3svw)  
 [**宇西 \- 安和橋**](https://www.youtube.com/watch?v=EtdGcM_Ira0)  
 [**Jannik \- 浮光**](https://www.youtube.com/watch?v=kJnffLjHKnU)  
 [**陳妍希 \- 你我**](https://www.youtube.com/watch?v=gFonssvBNaw)  
@@ -413,10 +413,10 @@
 [**八三夭 \- 想見你想見你想見你**](https://www.youtube.com/watch?v=4iRupuNet3Q)  
 [**林俊傑 \- 江南**](https://www.youtube.com/watch?v=G97_rOdHcnY)  
 [**李紫婷 \- 無虞**](https://www.youtube.com/watch?v=ZTOTfuMRDNI)  
-[**旺仔小乔 \- 堕**](https://www.youtube.com/watch?v=V-hLZLTP56Q&ab_channel=LyricsMusic)**(\*)**  
+[**旺仔小喬 \- 墮**](https://www.youtube.com/watch?v=V-hLZLTP56Q&ab_channel=LyricsMusic)**(\*)**  
 [**전창엽 \- Alone**](https://www.youtube.com/watch?v=2DW9wuytwSc&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=23)  
 [**葉炫清 – 不逾**](https://www.youtube.com/watch?v=oigvd5qLb2I&ab_channel=ChineseTVdramamusic)  
-[**秩厌 \- 金陵遗梦**](https://www.youtube.com/watch?v=cwqKmqFg43w)  
+[**秩厭 \- 金陵遺夢**](https://www.youtube.com/watch?v=cwqKmqFg43w)  
 [**HITA \- 洛陽夜雨**](https://www.youtube.com/watch?v=uYCg86oTE68)  
 [**倫桑 \- 緣盡世間**](https://www.youtube.com/watch?app=desktop&v=IE9gCUp3iQs)  
 [**以冬 \- 為愛誅仙**](https://www.youtube.com/watch?v=qdoGblL3lZA)  
@@ -424,10 +424,10 @@
 [**西瓜 \- 一念山河**](https://www.youtube.com/watch?v=2QJO0lQWIAo&t=30s)  
 [**王菲 \- 匆匆那年**](https://www.youtube.com/watch?v=6jQbPco9_eQ)**(\*)**  
 [**魏琮霏 \- 青石巷**](https://www.youtube.com/watch?v=OWyhkZ2dQus)  
-[**解忧草 \- 渡人间**](https://www.youtube.com/watch?v=-ElK1-qJUNI)  
+[**解憂草 \- 渡人間**](https://www.youtube.com/watch?v=-ElK1-qJUNI)  
 [**汐音社 \- 三春序**](https://www.youtube.com/watch?v=faerTmuMQdg)  
 [**尹昔眠 \- 失餘年**](https://www.youtube.com/watch?v=Et0Fp5qvrMI)**(\*)**  
-[**浅影阿 \- 探故知**](https://www.youtube.com/watch?v=ZbmL4hc9Vh0)  
+[**淺影阿 \- 探故知**](https://www.youtube.com/watch?v=ZbmL4hc9Vh0)  
 [**焦若蔭 \- 西風斬**](https://www.youtube.com/watch?v=6muocht-9Mw&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=45)  
 [**鳳飛飛 \- 追夢人**](https://www.youtube.com/watch?v=dZqUFh96_JQ)  
 [**浮生夢 \- 星月落**](https://www.youtube.com/watch?v=x9ZqOp3oTpc&ab_channel=COYMusicChannel)  
@@ -437,19 +437,19 @@
 [**Ayasa \- 告白之夜**](https://www.youtube.com/watch?v=qDvKVxFe7VA)  
 [**郭靜 \- 該忘的日子**](https://www.youtube.com/watch?v=HO56HomZBtA)  
 [**藍心羽 \- 星空剪影**](https://www.youtube.com/watch?v=euwpeHyWwTI)  
-[**林玉涵 \- 情劫难渡**](https://www.youtube.com/watch?v=nVh_2rFI6NI)  
+[**林玉涵 \- 情劫難渡**](https://www.youtube.com/watch?v=nVh_2rFI6NI)  
 [**黃麗玲 \- 連名帶姓**](https://www.youtube.com/watch?v=nIWg5LeyK_I)  
 [**許昊珂 \- 洗淨鉛華**](https://www.youtube.com/watch?v=DJ_fQGyhJlY)  
 [**韋禮安 \- 如果可以**](https://www.youtube.com/watch?v=8MG--WuNW1Y)  
 [**王澤科 \- 最後一頁**](https://www.youtube.com/watch?v=qhaR9FgG4H4)  
 [**張紫豪 \- 可不可以**](https://www.youtube.com/watch?v=hgIDXTmmgDg)  
-[**张柏芝 \- 星语心愿**](https://www.youtube.com/watch?v=SB8x9SH8rIU)  
+[**張柏芝 \- 星語心願**](https://www.youtube.com/watch?v=SB8x9SH8rIU)  
 [**楊小壯 \- 愛情堡壘**](https://www.youtube.com/watch?v=Mjc4SMWaNTM)  
 [**BEYOND \- 海闊天空**](https://www.youtube.com/watch?v=qu_FSptjRic)  
 [**麋先生 \- 嗜愛動物**](https://www.youtube.com/watch?v=4JNb4fiT1VA)  
 [**阿YueYue \- 沈園外**](https://www.youtube.com/watch?v=S758pYf9x1Q)  
-[**茶鸣拾贰律 \- 溯渺**](https://www.youtube.com/watch?v=YP9GW_7RJUg)  
-[**MoreanP \- 忆夏思乡**](https://www.youtube.com/watch?v=OBVKyIJmm_0)  
+[**茶鳴拾貳律 \- 溯渺**](https://www.youtube.com/watch?v=YP9GW_7RJUg)  
+[**MoreanP \- 憶夏思鄉**](https://www.youtube.com/watch?v=OBVKyIJmm_0)  
 [**南風ZJN \- 如願以償**](https://www.youtube.com/watch?v=1HEfAceQEgI)  
 [**Summer \- Fireworks**](https://www.youtube.com/watch?v=E8tt7KtioFY&ab_channel=TheSoulofMoon)  
 [**陸虎 \- 雪落下的聲音**](https://www.youtube.com/watch?v=wBIpo6vTuYc)**(\*)**  
@@ -467,14 +467,14 @@
 [**洋瀾一 \- 烏蘭巴託的夜**](https://www.youtube.com/watch?v=mdZ9CHBIhLE&ab_channel=ClassicOldies666)  
 [**顏人中 \- 某年某月某天**](https://www.youtube.com/watch?v=V2sY5bjwBhg)  
 [**周興哲 \- 以後別做朋友**](https://www.youtube.com/watch?v=Ew4VvF0DPMc)**(\*)**  
-[**一颗狼星 \- 月落的声音**](https://www.youtube.com/watch?v=dgXeJjxaG_8)  
+[**一顆狼星 \- 月落的聲音**](https://www.youtube.com/watch?v=dgXeJjxaG_8)  
 [**隔壁老樊 \- 紅色高跟鞋**](https://www.youtube.com/watch?v=dfP4hmU2Wco)  
 [**Pooka – Kevin MacLeod**](https://www.youtube.com/watch?v=vlslyEOazXQ)  
-[**云萧诺 \- 飞向遥远的天空**](https://www.youtube.com/watch?v=eMUoHHsOh8c)  
+[**雲蕭諾 \- 飛向遙遠的天空**](https://www.youtube.com/watch?v=eMUoHHsOh8c)  
 [**자우림 \- 二十五，二十一**](https://www.youtube.com/watch?v=GFuZzMPaB3M)  
-[**饭碗的彼岸 \- 落月随山隐**](https://www.youtube.com/watch?v=aD84V0Kurbw)**(\*)**  
+[**飯碗的彼岸 \- 落月隨山隱**](https://www.youtube.com/watch?v=aD84V0Kurbw)**(\*)**  
 [**Edvin Marton \- Miss you**](https://www.youtube.com/watch?v=KjDRIoxZkLg)  
-[**王蕾与二胡的细语 \- 睡莲**](https://www.youtube.com/watch?v=49yUdmbpyAk)  
+[**王蕾與二胡的細語 \- 睡蓮**](https://www.youtube.com/watch?v=49yUdmbpyAk)  
 [**MK studio \- Gratefulness**](https://www.youtube.com/watch?v=8C-MnpMZD8E)  
 [**張韶涵 \- 親愛的那不是愛情**](https://www.youtube.com/watch?v=HwF1i_6Iwp8)  
 [**盧廣仲 \- 刻在我心底的名字**](https://www.youtube.com/watch?v=56z2jipIwSQ)**(\*)**  
@@ -488,7 +488,7 @@
 [**Teloupe \- Saddle of My Heart**](https://www.youtube.com/watch?v=w2qMGmfU4a0)  
 [**Everdream \- Epic Soul Factory**](https://www.youtube.com/watch?v=RCMXO9sBIcU)  
 [**Lightscape \- Collapsing World**](https://www.youtube.com/watch?v=rT-AqiJ-tVM)  
-[**Richard Clayderman \- 秋日私语**](https://www.youtube.com/watch?v=26e3yaPIEWs)  
+[**Richard Clayderman \- 秋日私語**](https://www.youtube.com/watch?v=26e3yaPIEWs)  
 [**Crusader Kings II \- The Byzantine Empire**](https://www.youtube.com/watch?v=fdsN80yoRMs)  
 [**Sweet Rain \- The Days Falling Like a Rain**](https://www.youtube.com/watch?v=89cd1cSINcY)
 
@@ -496,15 +496,15 @@
 
 ### **CMJ (平,緩)**
 
-[星夜](https://www.youtube.com/watch?v=Ia0Sv1nv8Ho) | [所念皆星河](https://www.youtube.com/watch?v=JubGFVWadc8&ab_channel=WCYMusicStudio) | [所愛隔山海](https://www.youtube.com/watch?v=OjDbY9IZ1HQ) | [穿越时空的爱恋](https://www.youtube.com/watch?v=44XV5EUSAII)
+[星夜](https://www.youtube.com/watch?v=Ia0Sv1nv8Ho) | [所念皆星河](https://www.youtube.com/watch?v=JubGFVWadc8&ab_channel=WCYMusicStudio) | [所愛隔山海](https://www.youtube.com/watch?v=OjDbY9IZ1HQ) | [穿越時空的愛戀](https://www.youtube.com/watch?v=44XV5EUSAII)
 
-### **傅许 (平,緩)**
+### **傅許 (平,緩)**
 
-[晚安](https://www.youtube.com/watch?v=vauOCCgogB0) | [星之幻](https://www.youtube.com/watch?v=iVDHQp_znNo) | [寂静之空](https://www.youtube.com/watch?v=SR6r0IDnqpA)
+[晚安](https://www.youtube.com/watch?v=vauOCCgogB0) | [星之幻](https://www.youtube.com/watch?v=iVDHQp_znNo) | [寂靜之空](https://www.youtube.com/watch?v=SR6r0IDnqpA)
 
 ### **楊青 (平,緩)**
 
-[歸來](https://www.youtube.com/watch?v=e2tVwrWMHs0&ab_channel=%E6%9D%A8%E9%9D%92-Topic) | [半山聽雨](https://www.youtube.com/watch?v=3XFVORZNYTM) | [春来花自放](https://www.youtube.com/watch?v=-kSpxF0Q1HQ&ab_channel=%E6%9D%A8%E9%9D%92-Topic)
+[歸來](https://www.youtube.com/watch?v=e2tVwrWMHs0&ab_channel=%E6%9D%A8%E9%9D%92-Topic) | [半山聽雨](https://www.youtube.com/watch?v=3XFVORZNYTM) | [春來花自放](https://www.youtube.com/watch?v=-kSpxF0Q1HQ&ab_channel=%E6%9D%A8%E9%9D%92-Topic)
 
 ### **周杰倫 (平,緩)**
 
@@ -542,19 +542,19 @@
 
 [**THT \- 葬花**](https://www.youtube.com/watch?v=tYktEB8GtUE)  
 [**西彬 \- 兩端**](https://www.youtube.com/watch?v=aFE3IsO9W4c)  
-[**昙轩 \- 海の形**](https://www.youtube.com/watch?v=hSQQESpK4p4)  
+[**曇軒 \- 海の形**](https://www.youtube.com/watch?v=hSQQESpK4p4)  
 [**Mich \- Somero**](https://www.youtube.com/watch?v=KoxbQiQUQYo)  
 [**Plum \- Mashed**](https://www.youtube.com/watch?v=N5NK98ymR90)  
 [**종호 \- GRAVITY**](https://www.youtube.com/watch?v=nyTmJszoGt0)  
 [**FTL \- Milky Way**](https://www.youtube.com/watch?v=tK7Aif72BoA)  
-[**魏晨 \- 梦的怒放**](https://www.youtube.com/watch?v=ZaOeLfXQxYs)  
+[**魏晨 \- 夢的怒放**](https://www.youtube.com/watch?v=ZaOeLfXQxYs)  
 [**海倫 \- 橋邊姑娘**](https://www.youtube.com/watch?v=IH2w-Vt0w4Q)  
-[**逆时针向 \- 我们**](https://www.youtube.com/watch?v=Ul8pVV6Wbro)  
+[**逆時針向 \- 我們**](https://www.youtube.com/watch?v=Ul8pVV6Wbro)  
 [**악토버 \- Romance**](https://www.youtube.com/watch?v=hmGr62NE0hg)  
 [**Era \- Sinfoni Deo**](https://www.youtube.com/watch?v=H0kiJ5yqUhs&ab_channel=fabiomorais7)  
 [**邱有句 \- 仲夏之夜**](https://www.youtube.com/watch?v=UEkzWPgPi0U)  
 [**Zkaaai \- 如果的事**](https://www.youtube.com/watch?v=oqga8N_0wg8)  
-[**夏小舟 \- 晨光一现**](https://www.youtube.com/watch?v=xZ-3Eo_9gKA)  
+[**夏小舟 \- 晨光一現**](https://www.youtube.com/watch?v=xZ-3Eo_9gKA)  
 [**吳亦凡 \- Two Three**](https://www.youtube.com/watch?v=2F5vX4qlRx0)  
 [**김우진 \- In The End**](https://www.youtube.com/watch?v=-76iNfEjVEI&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=5)  
 [**V.K克 \- 紙飛機的冒險**](https://www.youtube.com/watch?v=ITOsQKaW1Ag)  
@@ -563,7 +563,7 @@
 [**花粥&馬雨陽 \- 盜將行**](https://www.youtube.com/watch?v=TvY6Kc95zyQ)  
 [**Taylor Swift \- Ronan**](https://www.youtube.com/watch?v=kdiBc40gW7s)  
 [**中村由利子 \- 火宵之月**](https://www.youtube.com/watch?v=WXWr5qkoQ2k)  
-[**梦绕火焰船 \- 繁星小镇**](https://www.youtube.com/watch?v=1dsNo8E0FfM)  
+[**夢繞火焰船 \- 繁星小鎮**](https://www.youtube.com/watch?v=1dsNo8E0FfM)  
 [**COP \- walking seasons**](https://www.youtube.com/watch?v=bGHutNWmDzk)  
 [**Noicybino \- Anonymous**](https://www.youtube.com/watch?v=jgzLCJcxEMw)  
 [**OCTOBER \- Time To Love**](https://www.youtube.com/watch?v=JjZrMrcYHws)  
@@ -611,11 +611,11 @@
 
 [**葉里 \- 葬仙**](https://www.youtube.com/watch?v=6fXfukw4C7g)**(\*)**  
 [**本兮 \- 下雪的季節**](https://www.youtube.com/watch?v=wa7XJQQW8og)  
-[**毛不易 \- 巔峰之上**](https://www.youtube.com/watch?v=79pc02W8F3U)**(\*)**  
+[**毛不易 \- 巔峯之上**](https://www.youtube.com/watch?v=79pc02W8F3U)**(\*)**  
 [**王一一 \- 生活不是為了趕路啊**](https://www.youtube.com/watch?v=IhJh9Igx3GY)  
 [**音闕詩聽 \- 空山新雨後**](https://www.youtube.com/watch?v=1vQ7b1gEfdM)  
 [**袁婭維 \- 界**](https://www.youtube.com/watch?v=m8EQDUC4D38)  
-[**傅许 \- The Lost City**](https://www.youtube.com/watch?v=zMo_7YJyvHg)  
+[**傅許 \- The Lost City**](https://www.youtube.com/watch?v=zMo_7YJyvHg)  
 [**전창엽 \- Final Victory**](https://www.youtube.com/watch?v=HPGdOqFW9_I)**(\*)**  
 [**陳冰 \- 崛起**](https://www.youtube.com/watch?v=ETDQqapx_k4)  
 [**雲汐 \- 荒漠**](https://www.youtube.com/watch?v=7BC78aP62_Q)  
@@ -626,7 +626,7 @@
 [**鄧紫棋 \- 句號**](https://www.youtube.com/watch?v=7XlqcS6B7WA)  
 [**庾澄慶 \- 春泥**](https://www.youtube.com/watch?v=xAh377i2Rmg)**(\*)**  
 [**Lauv \- Breathe**](https://www.youtube.com/watch?v=Tkc_9OPC20E)  
-[**残雪 \- 棄佛入魔**](https://www.youtube.com/watch?v=LUBSTdjthnc)  
+[**殘雪 \- 棄佛入魔**](https://www.youtube.com/watch?v=LUBSTdjthnc)  
 [**清水er \- 大天蓬**](https://www.youtube.com/watch?v=AzjAouYrIxM)  
 [**薛之謙 \- 剛剛好**](https://www.youtube.com/watch?v=BQCWEJ60TL4)  
 [**劉思達 \- 猜不透**](https://www.youtube.com/watch?v=O2qg33EnzeQ)  
@@ -649,7 +649,7 @@
 [**Tsukinosora \- Departures**](https://www.youtube.com/watch?v=jdioQEYjdRo)  
 [**헤이즈 \- Round and round**](https://www.youtube.com/watch?v=jZ0vU65Nats)  
 [**TheFatRat \- Origin Reprise**](https://www.youtube.com/watch?v=GaLMjJZlEzk)  
-[**伍华 feat 默默 \- 最心疼的玩笑**](https://www.youtube.com/watch?v=chJDoHpl_Dg&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=69)  
+[**伍華 feat 默默 \- 最心疼的玩笑**](https://www.youtube.com/watch?v=chJDoHpl_Dg&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=69)  
 [**Patrik Pietschmann \- MICROCHIP**](https://www.youtube.com/watch?v=jC79M6HFOOE)  
 [**Dominik A. Hecker \- CLOUDBURST**](https://www.youtube.com/watch?v=xtRFzp6KP2Y)  
 [**Martin Hurkens \- You Raise Me Up**](https://www.youtube.com/watch?v=pZwNzQhjcHE)**(\*)**  
@@ -661,15 +661,15 @@
 
 ### **音闕詩聽 (愉,活)**
 
-[芒種](https://www.youtube.com/watch?v=ZHFgk8Eo0FE) | [食色](https://www.youtube.com/watch?v=ADAOmrlDF68) | [小滿](https://www.youtube.com/watch?v=RGtSdbjxVKU) | [小暑](https://www.youtube.com/watch?v=Yr8LYmOTLyI) | [大雪](https://www.youtube.com/watch?v=WoJy3W-4hxE) | [立夏](https://www.youtube.com/watch?v=ZbPDlv9qXWw) | [驚蟄](https://www.youtube.com/watch?v=UTlJSAN-ihA) | [寅时](https://www.youtube.com/watch?v=smjmzZP4R1E)
+[芒種](https://www.youtube.com/watch?v=ZHFgk8Eo0FE) | [食色](https://www.youtube.com/watch?v=ADAOmrlDF68) | [小滿](https://www.youtube.com/watch?v=RGtSdbjxVKU) | [小暑](https://www.youtube.com/watch?v=Yr8LYmOTLyI) | [大雪](https://www.youtube.com/watch?v=WoJy3W-4hxE) | [立夏](https://www.youtube.com/watch?v=ZbPDlv9qXWw) | [驚蟄](https://www.youtube.com/watch?v=UTlJSAN-ihA) | [寅時](https://www.youtube.com/watch?v=smjmzZP4R1E)
 
 ### **전창엽 (愉,活)**
 
 [Nice Plan](https://www.youtube.com/watch?v=NujelxEcfCQ&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=27) | [Reversed Life](https://www.youtube.com/watch?v=C8BQEzMUXj8&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=18) | [Have A Delight](https://www.youtube.com/watch?v=-19jQ3Bzh1Q&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=36) | [Who Was Killed](https://www.youtube.com/watch?v=kWHnk1HE8Zo&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=33) | [Who Was Killed Me](https://www.youtube.com/watch?v=ZSMGsclqvaI&list=PLYQwoOsHroTX3djXH3XtdCT6oCC8G8hm-&index=49)
 
-### **阳山伟伟 (愉,活)**
+### **陽山偉偉 (愉,活)**
 
-[目光](https://www.youtube.com/watch?v=7zJCTWi6dA0&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=17) | [你的形状](https://www.youtube.com/watch?v=XZC0PmZXpwc&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=16) | [AnoTher You](https://www.youtube.com/watch?v=IB3MzSMQaWo&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=19) | [送给未来的你](https://www.youtube.com/watch?v=7aIL-scAxmc&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=14)
+[目光](https://www.youtube.com/watch?v=7zJCTWi6dA0&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=17) | [你的形狀](https://www.youtube.com/watch?v=XZC0PmZXpwc&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=16) | [AnoTher You](https://www.youtube.com/watch?v=IB3MzSMQaWo&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=19) | [送給未來的你](https://www.youtube.com/watch?v=7aIL-scAxmc&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=14)
 
 ### **DJ OKAWARI (愉,活)**
 
@@ -713,17 +713,17 @@ Charmer (暫無連結) | The Advisors Alliance Main Theme (暫無連結)
 [**m-taku \- Komorebi**](https://www.youtube.com/watch?v=bQZ6zbwzaHA)  
 [**Vicetone \- Nevada**](https://www.youtube.com/watch?v=AnMhdn0wJ4I)  
 [**TheFatRat \- Monody**](https://www.youtube.com/watch?v=B7xai5u_tnk)  
-[**逆时针向 \- 风摇盛夏**](https://www.youtube.com/watch?v=bKpDcfSUvRE)  
+[**逆時針向 \- 風搖盛夏**](https://www.youtube.com/watch?v=bKpDcfSUvRE)  
 [**김성율 \- Model Taxi**](https://www.youtube.com/watch?v=1SUNVWSpOUA)  
 [**Ed Sheeran \- Perfect**](https://www.youtube.com/watch?v=2Vv-BfVoq4g)**(\*)**  
 [**大可 \- 永遠吵不散的人**](https://www.youtube.com/watch?v=cz8sfMypixk&ab_channel=PenQMusic)  
-[**凤凰传奇 \- 最炫民族风**](https://www.youtube.com/watch?v=Ynypvs5s75Y)  
+[**鳳凰傳奇 \- 最炫民族風**](https://www.youtube.com/watch?v=Ynypvs5s75Y)  
 [**Tony Igy \- Astronomia**](https://www.youtube.com/watch?v=--cxZbnmmoc)  
 [**ToTheMoon \- 정령의 성**](https://www.youtube.com/watch?v=gprl0HYBPWI)  
 [**變奏的夢想 \- 馮虛御風**](https://www.youtube.com/watch?v=F6QaA7zgaJw)**(\*)**  
 [**Miley Cyrus \- Flowers**](https://www.youtube.com/watch?v=G7KNmW9a75Y)  
 [**Joe Hisaishi \- Summer**](https://www.youtube.com/watch?v=l0GN40EL1VU)  
-[**鹭起Herons \- Colourful**](https://www.youtube.com/watch?v=-8Z5_6K_npw)  
+[**鷺起Herons \- Colourful**](https://www.youtube.com/watch?v=-8Z5_6K_npw)  
 [**Xomu & Amidst \- Pagoda**](https://www.youtube.com/watch?v=5PguQyvbtbc)  
 [**Jon Schmidt \- All of Me**](https://www.youtube.com/watch?v=9fAZIQ-vpdw)  
 [**Billie Eilish \- bad guy**](https://www.youtube.com/watch?v=q753DdnQinw)  
@@ -806,13 +806,13 @@ Charmer (暫無連結) | The Advisors Alliance Main Theme (暫無連結)
 [**鄭魚 \- 荒**](https://www.youtube.com/watch?v=CDo-BTZFrcc)  
 [**ERA \- The Mass**](https://www.youtube.com/watch?v=qMa1kTobETc)  
 [**Jannik \- Grace**](https://www.youtube.com/watch?v=sMYgOZf7p38)**(\*)**  
-[**Winky诗 \- 不枉**](https://www.youtube.com/watch?v=yNlJCR0KTdY)**(\*)**  
+[**Winky詩 \- 不枉**](https://www.youtube.com/watch?v=yNlJCR0KTdY)**(\*)**  
 [**張杰 \- 三生三世**](https://www.youtube.com/watch?v=s-CcFyyPJiY)  
 [**關大洲 \- 少年遊**](https://www.youtube.com/watch?v=L98PWk_uc_k)**(\*)**  
 [**楊培安 \- 我相信**](https://www.youtube.com/watch?v=xl7enIAM4Go)  
 [**MDP \- Fake Love**](https://www.youtube.com/watch?v=jEdFoYb5Ssw)  
 [**阿冗 \- 你的答案**](https://www.youtube.com/watch?v=ye4jAQ0uxcQ)  
-[**萧炎 \- 斗破苍穹**](https://www.youtube.com/watch?v=-LgaQL7ccfA)  
+[**蕭炎 \- 鬥破蒼穹**](https://www.youtube.com/watch?v=-LgaQL7ccfA)  
 [**滿漢原創 \- 承劍**](https://www.youtube.com/watch?v=MZ47-WmEhWQ)  
 [**鐘嵐珠 \- Eutopia**](https://www.youtube.com/watch?v=dNcD5khGRnE)**(\*)**  
 [**薩頂頂 \- 左手指月**](https://www.youtube.com/watch?v=AbiMe64zeGM)  
@@ -822,7 +822,7 @@ Charmer (暫無連結) | The Advisors Alliance Main Theme (暫無連結)
 [**Warriyo \- Mortals**](https://www.youtube.com/watch?v=zFXl1sjTdms)  
 [**Zoru Beat \- Light**](https://www.youtube.com/watch?v=fpCrYhOqs74&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=35)  
 [**周華健 \- 瀟瀟雨未歇**](https://www.youtube.com/watch?v=lkPFsJ4p0XY&ab_channel=%E6%BB%BE%E7%9F%B3%E5%94%B1%E7%89%87ROCKRECORDS)  
-[**范瑋琪 \- 最初的夢想**](https://www.youtube.com/watch?v=wGAmgmZg-48)  
+[**範瑋琪 \- 最初的夢想**](https://www.youtube.com/watch?v=wGAmgmZg-48)  
 [**F Be I \- 將進酒李白**](https://www.youtube.com/watch?v=MLJ3pZlJWoo)  
 [**阿YueYue \- 不負人間**](https://www.youtube.com/watch?v=T0JW1T7-v5U)  
 [**Varien \- Future Funk**](https://www.youtube.com/watch?v=q1AVyOUzZJY)  
@@ -868,13 +868,13 @@ Charmer (暫無連結) | The Advisors Alliance Main Theme (暫無連結)
 [**Danny McCarthy, Mark Petrie \- Rags to Rings Extended**](https://www.youtube.com/watch?v=9-MVzYGOMlU)  
 [**ERA \- The Mass**](https://www.youtube.com/watch?v=qMa1kTobETc)  
 [**Jannik \- Grace**](https://www.youtube.com/watch?v=sMYgOZf7p38)**(\*)**  
-[**Winky诗 \- 不枉**](https://www.youtube.com/watch?v=yNlJCR0KTdY)**(\*)**  
+[**Winky詩 \- 不枉**](https://www.youtube.com/watch?v=yNlJCR0KTdY)**(\*)**  
 [**張杰 \- 三生三世**](https://www.youtube.com/watch?v=s-CcFyyPJiY)  
 [**關大洲 \- 少年遊**](https://www.youtube.com/watch?v=L98PWk_uc_k)**(\*)**  
 [**楊培安 \- 我相信**](https://www.youtube.com/watch?v=xl7enIAM4Go)  
 [**MDP \- Fake Love**](https://www.youtube.com/watch?v=jEdFoYb5Ssw)  
 [**阿冗 \- 你的答案**](https://www.youtube.com/watch?v=ye4jAQ0uxcQ)  
-[**萧炎 \- 斗破苍穹**](https://www.youtube.com/watch?v=-LgaQL7ccfA)  
+[**蕭炎 \- 鬥破蒼穹**](https://www.youtube.com/watch?v=-LgaQL7ccfA)  
 [**滿漢原創 \- 承劍**](https://www.youtube.com/watch?v=MZ47-WmEhWQ)  
 [**鐘嵐珠 \- Eutopia**](https://www.youtube.com/watch?v=dNcD5khGRnE)**(\*)**  
 [**薩頂頂 \- 左手指月**](https://www.youtube.com/watch?v=AbiMe64zeGM)  
@@ -885,7 +885,7 @@ Charmer (暫無連結) | The Advisors Alliance Main Theme (暫無連結)
 [**Warriyo \- Mortals**](https://www.youtube.com/watch?v=zFXl1sjTdms)  
 [**Zoru Beat \- Light**](https://www.youtube.com/watch?v=fpCrYhOqs74&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=35)  
 [**周華健 \- 瀟瀟雨未歇**](https://www.youtube.com/watch?v=lkPFsJ4p0XY&ab_channel=%E6%BB%BE%E7%9F%B3%E5%94%B1%E7%89%87ROCKRECORDS)  
-[**范瑋琪 \- 最初的夢想**](https://www.youtube.com/watch?v=wGAmgmZg-48)  
+[**範瑋琪 \- 最初的夢想**](https://www.youtube.com/watch?v=wGAmgmZg-48)  
 [**F Be I \- 將進酒李白**](https://www.youtube.com/watch?v=yMkCd0x7VGA)  
 [**阿YueYue \- 不負人間**](https://www.youtube.com/watch?v=T0JW1T7-v5U)  
 [**Varien \- Future Funk**](https://www.youtube.com/watch?v=q1AVyOUzZJY)  
@@ -934,17 +934,17 @@ Charmer (暫無連結) | The Advisors Alliance Main Theme (暫無連結)
 
 ### **財閥家的小兒子-OST**
 
-[**【财阀家的小儿子】配乐 from S01E01 / 第02分30秒 韩剧背景音乐总谱&分谱**](https://www.bilibili.com/video/BV18R4y1r75Z/?spm_id_from=trigger_reload&vd_source=b8d0b3132fd1a83c2e7501bd16a674d1)  
-[**【财阀家的小儿子】Main Theme 总谱&分谱 韩剧配乐**](https://www.bilibili.com/video/BV1WM411z7ab/?spm_id_from=333.788.recommend_more_video.1&vd_source=b8d0b3132fd1a83c2e7501bd16a674d1)  
-[**宋仲基 2022JTBC 背景音乐**](https://www.bilibili.com/video/BV1eD4y1e7uk?p=2&vd_source=b8d0b3132fd1a83c2e7501bd16a674d1)
+[**【財閥家的小兒子】配樂 from S01E01 / 第02分30秒 韓劇背景音樂總譜&分譜**](https://www.bilibili.com/video/BV18R4y1r75Z/?spm_id_from=trigger_reload&vd_source=b8d0b3132fd1a83c2e7501bd16a674d1)  
+[**【財閥家的小兒子】Main Theme 總譜&分譜 韓劇配樂**](https://www.bilibili.com/video/BV1WM411z7ab/?spm_id_from=333.788.recommend_more_video.1&vd_source=b8d0b3132fd1a83c2e7501bd16a674d1)  
+[**宋仲基 2022JTBC 背景音樂**](https://www.bilibili.com/video/BV1eD4y1e7uk?p=2&vd_source=b8d0b3132fd1a83c2e7501bd16a674d1)
 
 ### **慶餘年-BGM**
 
-[**庆余年BGM选集**](https://www.bilibili.com/video/BV1ma4y1W7NS?p=2&vd_source=b8d0b3132fd1a83c2e7501bd16a674d1)
+[**慶餘年BGM選集**](https://www.bilibili.com/video/BV1ma4y1W7NS?p=2&vd_source=b8d0b3132fd1a83c2e7501bd16a674d1)
 
 ### **古風**
 
-[**『古韵遗风』渺渺兮予怀，望美人兮天一方**](https://music.163.com/#/playlist?id=1984937420)
+[**『古韻遺風』渺渺兮予懷，望美人兮天一方**](https://music.163.com/#/playlist?id=1984937420)
 
 ---
 
