@@ -25,6 +25,12 @@
 | `data-organization-expert_detailed.md` | v2.0 | 詳細版本，包含完整的六大核心執行策略 | 需要全面、系統化整理複雜資料時使用 |
 | `data-organization-expert_accessible.md` | v3.0 | 無障礙版本，新增螢幕閱讀器相容規範 | 需要產出無障礙報告或服務視障用戶時使用 |
 
+### 聊天助理 & 實用提示詞 (Chat Assistants & Utilities)
+
+| 檔案 | 說明 | 適用情境 |
+|------|------|----------|
+| `chat-assistants_collection.md` | 各種實用 AI 提示詞集合，包含角色扮演、工作輔助等 | 需要特定風格的聊天助理或開發工具輔助時使用 |
+
 ## 💡 使用建議
 
 1. **選擇適合的版本**：根據任務需求選擇對應的變體
