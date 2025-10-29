@@ -52,6 +52,7 @@
     - [**五月天 (憂,失)**](#五月天-憂失)
     - [**銀臨 (憂,失)**](#銀臨-憂失)
     - [**洋瀾一 (憂,失)**](#洋瀾一-憂失)
+    - [**一只白羊 (憂,失)**](#一只白羊-憂失)
     - [**其他歌手**](#其他歌手)
   - [**懷舊與回憶 Nostalgia \& Memories**](#懷舊與回憶-nostalgia--memories)
     - [**July (懷,憶)**](#july-懷憶)
@@ -207,6 +208,10 @@
 
 [化風行萬裡](https://www.youtube.com/watch?v=MiOjTw1sQ1o) | [風的憂傷只有雲知道](https://www.youtube.com/watch?v=V8MxeCefJjU)
 
+### **一只白羊 (憂,失)**
+
+[黑嫁衣](https://www.youtube.com/watch?v=YAHF33ah-nc) **(\*)** | [紅線囚](https://www.youtube.com/watch?v=CL1Q3SAH3nI) | [逃](https://www.youtube.com/watch?v=30-dSS29wwU) **(\*)** | [沖喜](https://www.youtube.com/watch?v=mjquafG3S9Y) | [遇見你就像天空的雲](https://www.youtube.com/watch?v=ZbFfC3VpFB8) **(\*)** | [河伯說](https://www.youtube.com/watch?v=c9cYziRITZU) **(\*)**
+
 ### **其他歌手**
 
 [**陳黥語 \- 懲罰**](https://www.youtube.com/watch?v=zDXeL70o9js)  
@@ -285,7 +290,6 @@
 [**Dr Dre, Eminem and Skylar Gray. \- I need a doctor**](https://www.youtube.com/watch?v=6m3vtWYCuMg&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=32)  
 [**鞠文嫻 \- BINGBIAN**](https://www.youtube.com/watch?v=ZFw6rTEw1hA)  
 [**李一桐 \- 等**](https://www.youtube.com/watch?v=18Bft1SfK8I)  
-[**一只白羊 \- 黑嫁衣**](https://www.youtube.com/watch?v=YAHF33ah-nc) **(\*)**  
 [**周林楓 \- 魑魅魍魎**](https://www.youtube.com/watch?v=JLmBQdtlYzw) **(\*)**
 
 ## **懷舊與回憶 Nostalgia & Memories**
