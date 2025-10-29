@@ -10,20 +10,15 @@
 ## Table of Contents
 
 - [Method List - A Knowledge Base of Technical Methods and Solutions](#method-list---a-knowledge-base-of-technical-methods-and-solutions)
-  - [Table of Contents](#-table-of-contents)
-  - [Introduction](#-introduction)
-  - [Folder Structure](#-folder-structure)
-  - [Content Overview](#-content-overview)
-    - [Topics](#-topics)
-      - [AI (topics/ai/)](#-ai-topicsai)
-      - [Development (topics/development/)](#-development-topicsdevelopment)
-      - [Quantum Technology (topics/quantum/)](#️-quantum-technology-topicsquantum)
-      - [Information Security (topics/security/)](#-information-security-topicssecurity)
-      - [Technical Q&A (topics/technology/)](#-technical-qa-topicstechnology)
-    - [Resources](#-resources)
-  - [Contribution Guidelines](#-contribution-guidelines)
-  - [Contact](#-contact)
-  - [License](#-license)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Folder Structure](#folder-structure)
+  - [Content Overview](#content-overview)
+    - [📚 Topics](#-topics)
+    - [🗂️ Resources](#️-resources)
+  - [Contribution Guidelines](#contribution-guidelines)
+  - [Contact](#contact)
+  - [License](#license)
 
 ## Introduction
 
@@ -35,92 +30,44 @@ Method List is a knowledge base dedicated to collecting and organizing technical
 Method-List/
 ├── README.md
 ├── resources/
-│   ├── media/
-│   │   ├── media-channel-classification.md
-│   │   ├── music-collection.md
-│   │   └── video-collection.md
-│   ├── online/
-│   │   └── software-tools-web.md
-│   ├── software/
-│   │   ├── software-tools-computer.md
-│   │   └── software-tools-phone.md
-│   └── tools/
-│       └── computer-commands-reference.md
+│   ├── media/          # Media channels and collections
+│   ├── online/         # Web tools and services
+│   ├── software/       # Software recommendations
+│   ├── system-prompts/ # AI assistant prompt templates
+│   └── tools/          # Command references and shortcuts
 └── topics/
-    ├── ai/
-    │   ├── classification-frameworks-comparison.md
-    │   ├── machine-learning-concepts.md
-    │   ├── schools-symbolic-connectionist.md
-    │   └── azure-openai-analyze-pdf.md
-    ├── development/
-    │   ├── docker-desktop-connection-error.md
-    │   ├── github-clone-failed.md
-    │   ├── python-environment-error.md
-    │   └── vs2022-import-excel.md
-    ├── quantum/
-    │   └── research.md
-    ├── security/
-    │   └── information-security-notes.md
-    └── technology/
-        ├── hardware-qa.md
-        └── software-tools-qa.md
+    ├── ai/             # AI and machine learning
+    ├── data-engineering/ # Data engineering concepts
+    ├── development/    # Development troubleshooting
+    ├── quantum/        # Quantum computing research
+    ├── security/       # Information security
+    └── technology/     # Hardware and software Q&A
 ```
 
 ## Content Overview
 
-This knowledge base is mainly divided into two core parts: `topics` provides in-depth technical articles, and `resources` compiles various practical resources.
+This knowledge base is divided into two main sections:
 
-### Topics
+### 📚 Topics
 
-This section contains in-depth discussions, tutorials, notes, and solutions for specific technical topics.
+In-depth technical articles, tutorials, and problem-solving solutions organized by domain:
 
-#### AI ([topics/ai/](topics/ai/))
+- **AI** ([topics/ai/](topics/ai/)) - Artificial intelligence, machine learning, Azure OpenAI
+- **Data Engineering** ([topics/data-engineering/](topics/data-engineering/)) - Data processing and engineering concepts
+- **Development** ([topics/development/](topics/development/)) - Programming troubleshooting and development tools
+- **Quantum** ([topics/quantum/](topics/quantum/)) - Quantum computing research
+- **Security** ([topics/security/](topics/security/)) - Information security concepts and practices
+- **Technology** ([topics/technology/](topics/technology/)) - Hardware and software Q&A
 
-| File Name | Description |
-|---|---|
-| [Azure OpenAI PDF Analysis](topics/ai/azure-openai-analyze-pdf.md) | A complete tutorial on analyzing PDF files using Azure OpenAI |
-| [AI Field Knowledge Map](topics/ai/machine-learning-concepts.md) | Conceptual analysis of Artificial Intelligence, Machine Learning, and various learning methods |
-| [Three Major Schools of AI Thought](topics/ai/schools-symbolic-connectionist.md) | Analysis of the ideas behind Symbolism, Connectionism, and Behaviorism, the three major schools of AI |
-| [Comparison of AI Classification Frameworks](topics/ai/classification-frameworks-comparison.md) | A comparison and methodological discussion of function-oriented and thought-system-based classifications |
+### 🗂️ Resources
 
-#### Development ([topics/development/](topics/development/))
+Curated collections of tools, software, media, and reference materials:
 
-| File Name | Description |
-|---|---|
-| [Import Excel in VS2022](topics/development/vs2022-import-excel.md) | Method for importing Excel data into SQL Server in Visual Studio 2022 |
-| [GitHub Clone Failed](topics/development/github-clone-failed.md) | Solution for resolving GitHub project cloning failures |
-| [Python Environment Error](topics/development/python-environment-error.md) | Solutions for Python package installation and environment issues |
-| [Docker Desktop Connection Error](topics/development/docker-desktop-connection-error.md) | Solution for the issue where Docker Desktop cannot connect to the Docker engine |
-
-#### Quantum Technology ([topics/quantum/](topics/quantum/))
-
-| File Name | Description |
-|---|---|
-| [Quantum Research Notes](topics/quantum/research.md) | Research notes on cutting-edge technologies like quantum computing and quantum communication |
-
-#### Information Security ([topics/security/](topics/security/))
-
-| File Name | Description |
-|---|---|
-| [Information Security Notes](topics/security/information-security-notes.md) | Notes on concepts and practices related to information security |
-
-#### Technical Q&A ([topics/technology/](topics/technology/))
-
-| File Name | Description |
-|---|---|
-| [Hardware Q&A](topics/technology/hardware-qa.md) | Questions and answers related to hardware |
-| [Software Tools Q&A](topics/technology/software-tools-qa.md) | Questions and answers related to software tools |
-
-### Resources
-
-This section organizes various software, online services, and media resources used during development and learning.
-
-| Category | File | Description |
-|---|---|---|
-| Media | [Media Channel Classification](resources/media/media-channel-classification.md) | A collection of quality channels from YouTube, Bilibili, etc. |
-| Online | [Web Tools & Services](resources/online/software-tools-web.md) | A collection of online tools and web services |
-| Software | [Computer/Phone Software](resources/software/) | Recommendations for useful computer and mobile software |
-| Commands | [Computer Commands Reference](resources/tools/computer-commands-reference.md) | A collection of commonly used commands for CMD, PowerShell, Git, etc. |
+- **Media** ([resources/media/](resources/media/)) - YouTube channels, music, and video collections
+- **Online** ([resources/online/](resources/online/)) - Web-based tools and services
+- **Software** ([resources/software/](resources/software/)) - Computer and mobile app recommendations
+- **System Prompts** ([resources/system-prompts/](resources/system-prompts/)) - AI assistant prompt templates → [Details](resources/system-prompts/)
+- **Tools** ([resources/tools/](resources/tools/)) - Command references, shortcuts, and tips → [Details](resources/tools/)
 
 ## Contribution Guidelines
 

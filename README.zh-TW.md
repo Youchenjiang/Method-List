@@ -10,20 +10,15 @@
 ## 目錄
 
 - [Method List - 技術方法與解決方案知識庫](#method-list---技術方法與解決方案知識庫)
-  - [目錄](#-目錄)
-  - [專案介紹](#-專案介紹)
-  - [資料夾結構](#-資料夾結構)
-  - [內容概覽](#-內容概覽)
-    - [topics - 主題文章](#-topics---主題文章)
-      - [AI (topics/ai/)](#-ai-topicsai)
-      - [開發 (topics/development/)](#-開發-topicsdevelopment)
-      - [量子科技 (topics/quantum/)](#️-量子科技-topicsquantum)
-      - [資訊安全 (topics/security/)](#-資訊安全-topicssecurity)
-      - [技術問答 (topics/technology/)](#-技術問答-topicstechnology)
-    - [resources - 資源彙整](#-resources---資源彙整)
-  - [貢獻指南](#-貢獻指南)
-  - [聯絡資訊](#-聯絡資訊)
-  - [授權條款](#-授權條款)
+  - [目錄](#目錄)
+  - [專案介紹](#專案介紹)
+  - [資料夾結構](#資料夾結構)
+  - [內容概覽](#內容概覽)
+    - [📚 Topics - 主題文章](#-topics---主題文章)
+    - [🗂️ Resources - 資源彙整](#️-resources---資源彙整)
+  - [貢獻指南](#貢獻指南)
+  - [聯絡資訊](#聯絡資訊)
+  - [授權條款](#授權條款)
 
 ## 專案介紹
 
@@ -35,92 +30,44 @@ Method List 是一個專門收集和整理技術方法、工具資源和問題�
 Method-List/
 ├── README.md
 ├── resources/
-│   ├── media/
-│   │   ├── media-channel-classification.md
-│   │   ├── music-collection.md
-│   │   └── video-collection.md
-│   ├── online/
-│   │   └── software-tools-web.md
-│   ├── software/
-│   │   ├── software-tools-computer.md
-│   │   └── software-tools-phone.md
-│   └── tools/
-│       └── computer-commands-reference.md
+│   ├── media/          # 媒體頻道與收藏
+│   ├── online/         # 網頁工具與服務
+│   ├── software/       # 軟體推薦
+│   ├── system-prompts/ # AI 助理提示詞模板
+│   └── tools/          # 指令參考與快捷鍵
 └── topics/
-    ├── ai/
-    │   ├── classification-frameworks-comparison.md
-    │   ├── machine-learning-concepts.md
-    │   ├── schools-symbolic-connectionist.md
-    │   └── azure-openai-analyze-pdf.md
-    ├── development/
-    │   ├── docker-desktop-connection-error.md
-    │   ├── github-clone-failed.md
-    │   ├── python-environment-error.md
-    │   └── vs2022-import-excel.md
-    ├── quantum/
-    │   └── research.md
-    ├── security/
-    │   └── information-security-notes.md
-    └── technology/
-        ├── hardware-qa.md
-        └── software-tools-qa.md
+    ├── ai/             # AI 與機器學習
+    ├── data-engineering/ # 資料工程概念
+    ├── development/    # 開發除錯
+    ├── quantum/        # 量子計算研究
+    ├── security/       # 資訊安全
+    └── technology/     # 硬體與軟體問答
 ```
 
 ## 內容概覽
 
-本知識庫主要分為兩大核心部分：`topics` 提供深入的技術文章，`resources` 彙整各類實用資源。
+本知識庫主要分為兩大部分：
 
-### topics - 主題文章
+### 📚 Topics - 主題文章
 
-此區塊存放針對特定技術主題的深入探討、教學、筆記與解決方案。
+依領域組織的深入技術文章、教學與問題解決方案：
 
-#### AI ([topics/ai/](topics/ai/))
+- **AI** ([topics/ai/](topics/ai/)) - 人工智慧、機器學習、Azure OpenAI
+- **資料工程** ([topics/data-engineering/](topics/data-engineering/)) - 資料處理與工程概念
+- **開發** ([topics/development/](topics/development/)) - 程式除錯與開發工具
+- **量子** ([topics/quantum/](topics/quantum/)) - 量子計算研究
+- **安全** ([topics/security/](topics/security/)) - 資訊安全概念與實踐
+- **技術** ([topics/technology/](topics/technology/)) - 硬體與軟體問答
 
-| 文件名稱 | 描述 |
-|---|---|
-| [Azure OpenAI PDF 分析](topics/ai/azure-openai-analyze-pdf.md) | 使用 Azure OpenAI 分析 PDF 文件的完整教學 |
-| [AI 領域知識全景圖](topics/ai/machine-learning-concepts.md) | 人工智慧、機器學習與各種學習方式的概念解析 |
-| [AI 思想體系三大學派](topics/ai/schools-symbolic-connectionist.md) | 符號主義、連結主義、行為主義三大AI學派的思想分析 |
-| [AI 分類框架對比分析](topics/ai/classification-frameworks-comparison.md) | 功能導向與思想體系分類的對比與方法論探討 |
+### 🗂️ Resources - 資源彙整
 
-#### 開發 ([topics/development/](topics/development/))
+精選的工具、軟體、媒體與參考資料集合：
 
-| 文件名稱 | 描述 |
-|---|---|
-| [VS2022 匯入 Excel](topics/development/vs2022-import-excel.md) | Visual Studio 2022 匯入 Excel 資料到 SQL Server 的方法 |
-| [GitHub Clone 失敗](topics/development/github-clone-failed.md) | 解決 GitHub 專案複製失敗的問題 |
-| [Python 環境錯誤](topics/development/python-environment-error.md) | Python 套件安裝和環境問題解決方案 |
-| [Docker Desktop 連線錯誤](topics/development/docker-desktop-connection-error.md) | 解決 Docker Desktop 無法連線到 Docker 引擎的問題 |
-
-#### 量子科技 ([topics/quantum/](topics/quantum/))
-
-| 文件名稱 | 描述 |
-|---|---|
-| [量子研究筆記](topics/quantum/research.md) | 量子計算、量子通訊等前沿科技研究筆記 |
-
-#### 資訊安全 ([topics/security/](topics/security/))
-
-| 文件名稱 | 描述 |
-|---|---|
-| [資訊安全筆記](topics/security/information-security-notes.md) | 資訊安全相關概念與實踐筆記 |
-
-#### 技術問答 ([topics/technology/](topics/technology/))
-
-| 文件名稱 | 描述 |
-|---|---|
-| [硬體問答](topics/technology/hardware-qa.md) | 硬體相關問題與解答 |
-| [軟體工具問答](topics/technology/software-tools-qa.md) | 軟體工具相關問題與解答 |
-
-### resources - 資源彙整
-
-此區塊整理了開發與學習過程中使用的各種軟體、線上服務與媒體資源。
-
-| 分類 | 文件 | 描述 |
-|---|---|---|
-| 媒體 | [影音頻道分類](resources/media/media-channel-classification.md) | YouTube、Bilibili 等優質頻道整理 |
-| 線上 | [網頁工具服務](resources/online/software-tools-web.md) | 線上工具和網頁服務整理 |
-| 軟體 | [電腦/手機軟體](resources/software/) | 電腦與手機的實用軟體推薦 |
-| 指令 | [電腦指令參考](resources/tools/computer-commands-reference.md) | CMD、PowerShell、Git 等常用指令整理 |
+- **媒體** ([resources/media/](resources/media/)) - YouTube 頻道、音樂與影片收藏
+- **線上** ([resources/online/](resources/online/)) - 網頁工具與服務
+- **軟體** ([resources/software/](resources/software/)) - 電腦與手機應用程式推薦
+- **系統提示詞** ([resources/system-prompts/](resources/system-prompts/)) - AI 助理提示詞模板 → [詳細內容](resources/system-prompts/)
+- **工具** ([resources/tools/](resources/tools/)) - 指令參考、快捷鍵與技巧 → [詳細內容](resources/tools/)
 
 ## 貢獻指南
 
