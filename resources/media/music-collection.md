@@ -290,7 +290,8 @@
 [**Dr Dre, Eminem and Skylar Gray. \- I need a doctor**](https://www.youtube.com/watch?v=6m3vtWYCuMg&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=32)  
 [**鞠文嫻 \- BINGBIAN**](https://www.youtube.com/watch?v=ZFw6rTEw1hA)  
 [**李一桐 \- 等**](https://www.youtube.com/watch?v=18Bft1SfK8I)  
-[**周林楓 \- 魑魅魍魎**](https://www.youtube.com/watch?v=JLmBQdtlYzw) **(\*)**
+[**周林楓 \- 魑魅魍魎**](https://www.youtube.com/watch?v=JLmBQdtlYzw) **(\*)**  
+[**Jang Jea In \- Hallucination**](https://www.youtube.com/watch?v=tVoE9_eN8TE) **(\*)**
 
 ## **懷舊與回憶 Nostalgia & Memories**
 
