@@ -1,6 +1,6 @@
-[Read in English](README.md)
-
 # Method List - 技術方法與解決方案知識庫
+
+[Read in English](README.md)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Method--List-blue)](https://github.com/Youchenjiang/Method-List)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)

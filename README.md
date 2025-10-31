@@ -1,6 +1,6 @@
-[閱讀繁體中文版](README.zh-TW.md)
-
 # Method List - A Knowledge Base of Technical Methods and Solutions
+
+[閱讀繁體中文版](README.zh-TW.md)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Method--List-blue)](https://github.com/Youchenjiang/Method-List)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
