@@ -140,6 +140,11 @@ irm 'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/a
 git diff --cached > gitDiffCached.txt
 ```
 
+將最近 14 筆 commit 紀錄（包含所有分支）的圖形化歷史紀錄覆寫至檔案中：
+```powershell
+git log -n 14 --graph --all > .\last_commit_changes.txt
+```
+
 ---
 
 ## Anaconda 套件管理
