@@ -13,7 +13,7 @@
 
 ## CMD 指令
 
-### 更改資料檔名
+### CMD更改資料檔名
 
 `ren *.doc *.java` (將所有doc檔改成java檔)  
 `FOR %a in (109*.*) DO REN "%~a" "0%~nxa"` (將所有109開頭檔檔名加上0)
@@ -58,7 +58,7 @@ sfc /scannow
 
 ## PowerShell 指令
 
-### 更改資料檔名
+### PowerShell更改資料檔名
 
 ```powershell
 Get-ChildItem -Path $directory -Filter "[懷舊與回憶]*.*" | Rename-Item -NewName {"[懷舊]" + ($_.BaseName -replace "^\[懷舊與回憶\]", "") +$_.Extension}
@@ -124,11 +124,13 @@ irm https://get.activated.win | iex
 ```
 
 確認腳本內容-1:
+
 ```powershell
 irm https://get.activated.win -OutFile .\check-script.ps1
 ```
 
 確認腳本內容-2:
+
 ```powershell
 irm 'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/ab6b572af940fa0ea4255b327eb6f69a274d6725/MAS/All-In-One-Version-KL/MAS_AIO.cmd' -OutFile .\MAS_AIO.cmd
 ```
@@ -136,11 +138,13 @@ irm 'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/a
 ### Git 指令
 
 將變更快取結果覆寫至檔案中:
+
 ```powershell
 git diff --cached > gitDiffCached.txt
 ```
 
 將最近 14 筆 commit 紀錄（包含所有分支）的圖形化歷史紀錄覆寫至檔案中：
+
 ```powershell
 git log -n 14 --graph --all > .\last_commit_changes.txt
 ```
@@ -152,6 +156,7 @@ git log -n 14 --graph --all > .\last_commit_changes.txt
 ### 升級 conda
 
 升級Anaconda前需要先升級conda:
+
 ```bash
 conda update conda
 ```
@@ -189,6 +194,7 @@ conda update package
 ### 查詢指令說明
 
 使用 `-h` 後綴查詢某個 conda 指令:
+
 ```bash
 conda update -h
 ```
@@ -200,16 +206,19 @@ conda update -h
 ### Revo Dev Cli
 
 #### 查詢版本號
+
 ```bash
 acli --version
 ```
 
 #### 授權
+
 ```bash
 acli rovodev auth login
 ```
 
 #### 執行
+
 ```bash
 acli rovodev run
 ```
@@ -217,6 +226,7 @@ acli rovodev run
 ### bmad-method
 
 #### 安裝
+
 ```bash
 npx bmad-method install
 ```
@@ -228,6 +238,7 @@ npx bmad-method install
 這些指令可以直接在對應的命令列介面中執行。建議在執行不熟悉的指令前先備份重要資料。
 
 **版本資訊**
+
 - 創建日期: 2025-10-29
 - 來源: 從 computer-commands-reference.md 拆分
 - 用途: 快速參考常用命令列指令
