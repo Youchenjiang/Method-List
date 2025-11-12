@@ -160,7 +160,8 @@
 [**Two Steps From Hell \- Dark Ages**](https://www.youtube.com/watch?v=dU-q4Ifntnk)  
 [**Derek Fiechter \- Papyrus Scrolls**](https://www.youtube.com/watch?v=R47YbIL9_wU)  
 [**Michael Giacchino \- Light The Fuse**](https://www.youtube.com/watch?v=x0BWklF1MG4)  
-[**迪鹿 \- 吉時已到**](https://www.youtube.com/watch?v=Iw5bZQRrY4Q)**(\*)**
+[**迪鹿 \- 吉時已到**](https://www.youtube.com/watch?v=Iw5bZQRrY4Q)**(\*)**  
+[**於貞 - 粒子們**](https://www.youtube.com/watch?v=6cU-MVJflio)
 
 ## **憂傷與失落 Melancholy & Loss**
 
@@ -292,6 +293,8 @@
 [**李一桐 \- 等**](https://www.youtube.com/watch?v=18Bft1SfK8I)  
 [**周林楓 \- 魑魅魍魎**](https://www.youtube.com/watch?v=JLmBQdtlYzw) **(\*)**  
 [**Jang Jea In \- Hallucination**](https://www.youtube.com/watch?v=tVoE9_eN8TE) **(\*)**
+[**BolBBalgan4 \- Dream**](https://www.youtube.com/watch?v=5F_FeAPoDf0)
+[**Jun Hyung \- Nightmare**](https://www.youtube.com/watch?v=CVTCIwMy-Nw)
 
 ## **懷舊與回憶 Nostalgia & Memories**
 
@@ -393,6 +396,7 @@
 
 ### **其他歌手 (懷,憶)**
 
+[**袁小葳 - 晚風親吻山海**](https://www.youtube.com/watch?v=JiyrAPr__fo)  
 [**趙晨 \- 秋葉**](https://www.youtube.com/watch?v=FYon5jLgE2M)**(\*)**  
 [**李煒 \- 劍魂**](https://www.youtube.com/watch?v=gHXiR8YlYmA)  
 [**光良 \- 童話**](https://www.youtube.com/watch?v=OSCuOsaOE48)  
@@ -706,6 +710,7 @@ Charmer (暫無連結) | The Advisors Alliance Main Theme (暫無連結)
 
 ### **其他歌手 (愉,活)**
 
+[**菲菲公主 - 寂寞寂寞不好**](https://www.youtube.com/watch?v=wezm_bhn-wE)  
 [**浠Mizuki \- 失眠飛行**](https://www.youtube.com/watch?v=JZz4Kxdcx5w)  
 [**Tobu \- Life**](https://www.youtube.com/watch?v=bQOmKD-sMt8)  
 [**于果 \- 極光**](https://www.youtube.com/watch?v=WLvgWB1V5Jg)  
@@ -806,6 +811,7 @@ Charmer (暫無連結) | The Advisors Alliance Main Theme (暫無連結)
 
 ### **其他歌手 (激,奮)**
 
+[**汪蘇瀧 - 劍魂**](https://www.youtube.com/watch?v=s0gXT-w3Bt0)  
 [**李佳薇 \- 碧蒼**](https://www.youtube.com/watch?v=hO2TqDxGyjE)  
 [**劉宇寧 \- 無雙**](https://www.youtube.com/watch?v=FevzV91zt0M)  
 [**鄭魚 \- 荒**](https://www.youtube.com/watch?v=CDo-BTZFrcc)  
