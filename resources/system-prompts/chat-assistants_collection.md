@@ -90,6 +90,22 @@
 
 幫我好好看看這些變更都是真的有需要的嗎 ？如果全部都需要 請以英文分批次生成commit 訊息 ，並且注意標題的提交類型 以及內容必須是數字列點
 
+### Bmad-agent-bmm-dev 開發流程(以2-5 Story為例)
+
+0. 確認相依性
+幫我確認一下，在2-4 2-5開發完成前，2-6是否可以同步開工
+1. 準備開發環境
+請查看 config.yaml workflow.yaml workflow.xml story-context workflow 以及 過去 Story 的 md 和 context
+開始撰寫context檔案，為開發2-5 Story做準備
+2. 確認 Context 內容
+請再確定一次context 內容
+3. 實作 Story
+開始實作 Story 2-5
+4. 自我測試
+請生成測試腳本自我測試Story 2-5 後端
+5. Review 前最終確認
+在review 前你還有要修改或補充的嗎
+
 ---
 
 ## 生活輔助
