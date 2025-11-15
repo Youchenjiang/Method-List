@@ -86,25 +86,46 @@
 
 ## 開發工具
 
-### 生成英文 Commit 訊息
+### **生成英文 Commit 訊息**
 
-很好 請根據這次新增和修改的所有檔案 寫成英文 commit 訊息 記得內容要數字列點及注意標題的類型
+請依據這次所有新增和修改的檔案，**全自動**完成所有 Git 提交。
 
-幫我好好看看這些變更都是真的有需要的嗎 ？如果全部都需要 請以英文分批次生成commit 訊息 ，並且注意標題的提交類型 以及內容必須是數字列點
+**核心要求：** 嚴格遵循以下步驟，從分析到最終提交，**全程自動執行，無需任何中途確認**。
+
+1. **分析與分組**：  
+   - 全面分析所有變更，並自動排除**不應提交**的檔案（例如：本地設定、產生檔）。  
+   - 將剩下需要提交的變更，根據其**關聯性與目的**，在內部分析並劃分成數個**提交批次 (commit batches)**。  
+2. **循環自動提交**：  
+   - **依序處理**分析出的**每一個批次**，直到全部完成：  
+   - **a. 暫存檔案 (Stage Files)**：  
+     - 執行 `git add <file_paths...>`，僅加入**當前批次**的檔案。  
+   - **b. 生成 Commit 訊息 (Generate Commit Message)**：  
+     - 分析暫存區，生成一則符合 **Conventional Commits** 規範的英文訊息。  
+     - **標題 (Header)**：格式必須是 `type: subject`（`type` 需從 `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore` 中選擇）。  
+     - **內文 (Body)**：  
+       - 必須使用**數字列點 (Numbered List)**。  
+       - 詳細、清晰地說明此批次中每一項主要變更的內容與原因。  
+   - **c. 執行提交 (Execute Commit)**：  
+     - 使用上面生成的訊息，執行 `git commit`。
 
 ### Bmad-agent-bmm-dev 開發流程(以2-5 Story為例)
 
 0. 確認相依性
 幫我確認一下，在2-4 2-5開發完成前，2-6是否可以同步開工
+
 1. 準備開發環境
 請查看 config.yaml workflow.yaml workflow.xml story-context workflow 以及 過去 Story 的 md 和 context
 開始撰寫context檔案，為開發2-5 Story做準備
+
 2. 確認 Context 內容
 請再確定一次context 內容
+
 3. 實作 Story
-開始實作 Story 2-5
+開始實作 Story 2-5，記得完成一個功能就分析所有檔案變更，將其分為數個相關批次，並全自動為每一批次依序產生符合 Conventional Commits 規範（標題、數字列點內文）的訊息來執行 git commit，無需任何中途確認。
+
 4. 自我測試
 請生成測試腳本自我測試Story 2-5 後端
+
 5. Review 前最終確認
 在review 前你還有要修改或補充的嗎
 
