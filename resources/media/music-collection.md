@@ -150,6 +150,7 @@
 
 ### **其他歌手 (神,疑)**
 
+[**Faun - Egil Saga**](https://www.youtube.com/watch?v=LgGIOZiVCVU)
 [**Yanni \- Voyage**](https://www.youtube.com/watch?v=cFX-KcksGEg)  
 [**周杰倫 \- 夜的第七章**](https://www.youtube.com/watch?v=AdkkF6MT0R0&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=25)  
 [**許昊珂 \- 浩然正氣**](https://www.youtube.com/watch?v=g73_JDStzfA)  
@@ -601,6 +602,7 @@
 [**Snigellin \- When i see the light at that time**](https://www.youtube.com/watch?v=BcxhMWYaTwA)  
 [**Japanese Fantasy Music \- Princess of the Moon**](https://www.youtube.com/watch?v=gDwb2liNKlU)  
 [**Samuel Kim & Lorien \- I Really Want to Stay at Your House**](https://www.youtube.com/watch?v=9B0yX0UIN9M&t=246s)
+[**Secret Garden \- Steps**](https://www.youtube.com/watch?v=K4kUFsAqw9E)  
 
 ## **釋放與解脫 Release & Liberation**
 
@@ -712,6 +714,7 @@ Charmer (暫無連結) | The Advisors Alliance Main Theme (暫無連結)
 
 [**菲菲公主 - 寂寞寂寞不好**](https://www.youtube.com/watch?v=wezm_bhn-wE)  
 [**浠Mizuki \- 失眠飛行**](https://www.youtube.com/watch?v=JZz4Kxdcx5w)  
+[**COOL \- Before Sadness Comes**](https://www.youtube.com/watch?v=Ywei9QIg6sE)  
 [**Tobu \- Life**](https://www.youtube.com/watch?v=bQOmKD-sMt8)  
 [**于果 \- 極光**](https://www.youtube.com/watch?v=WLvgWB1V5Jg)  
 [**夢然 \- 少年**](https://www.youtube.com/watch?v=LGzDEu7Sh5g&ab_channel=BobaBeats)  
