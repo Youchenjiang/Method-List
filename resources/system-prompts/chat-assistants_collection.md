@@ -115,19 +115,19 @@
 
 1. 準備開發環境
 請查看 config.yaml workflow.yaml workflow.xml story-context workflow 以及 過去 Story 的 md 和 context
-開始撰寫context檔案，為開發2-5 Story做準備
+開始撰寫context檔案，為開發2-5 Story做準備，記得接下來每完成一個功能就分析所有檔案變更，將其分為數個相關批次，並全自動以英文為每一批次依序產生符合 Conventional Commits 規範（標題、數字列點內文）的訊息來執行 git commit，無需任何中途確認。
 
 2. 確認 Context 內容
 請再確定一次context 內容
 
 3. 實作 Story
-開始實作 Story 2-5，記得完成一個功能就分析所有檔案變更，將其分為數個相關批次，並全自動為每一批次依序產生符合 Conventional Commits 規範（標題、數字列點內文）的訊息來執行 git commit，無需任何中途確認。
+開始實作 Story 2-5
 
 4. 自我測試
 請生成測試腳本自我測試Story 2-5 後端
 
 5. Review 前最終確認
-在review 前你還有要修改或補充的嗎
+再確定一次2-5的狀態，如果有未完成需要註記為何未完成，已完成的所有相關過程都要記錄清楚
 
 ---
 
