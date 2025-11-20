@@ -438,6 +438,7 @@
 [**汐音社 \- 三春序**](https://www.youtube.com/watch?v=faerTmuMQdg)  
 [**尹昔眠 \- 失餘年**](https://www.youtube.com/watch?v=Et0Fp5qvrMI)**(\*)**  
 [**淺影阿 \- 探故知**](https://www.youtube.com/watch?v=ZbmL4hc9Vh0)  
+[**淺影阿 \- 戲說因果**](https://www.youtube.com/watch?v=vgfndrTjyiE)  
 [**焦若蔭 \- 西風斬**](https://www.youtube.com/watch?v=6muocht-9Mw&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=45)  
 [**鳳飛飛 \- 追夢人**](https://www.youtube.com/watch?v=dZqUFh96_JQ)  
 [**浮生夢 \- 星月落**](https://www.youtube.com/watch?v=x9ZqOp3oTpc&ab_channel=COYMusicChannel)  
