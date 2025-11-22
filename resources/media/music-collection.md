@@ -296,6 +296,7 @@
 [**Jang Jea In \- Hallucination**](https://www.youtube.com/watch?v=tVoE9_eN8TE) **(\*)**
 [**BolBBalgan4 \- Dream**](https://www.youtube.com/watch?v=5F_FeAPoDf0)
 [**Jun Hyung \- Nightmare**](https://www.youtube.com/watch?v=CVTCIwMy-Nw)
+[**格雷西西西 \- 提線傀儡**](https://www.youtube.com/watch?v=U4oMWHDhSaE)**(\*)**
 
 ## **懷舊與回憶 Nostalgia & Memories**
 
