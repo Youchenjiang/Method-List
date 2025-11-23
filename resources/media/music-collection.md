@@ -760,6 +760,7 @@ Charmer (暫無連結) | The Advisors Alliance Main Theme (暫無連結)
 [**Wiz Khalifa ft. Charlie Puth \- See You Again**](https://www.youtube.com/watch?v=HOtCQA6S0NA)  
 [**Frederik Wiedmann \- When The Going Gets Tough**](https://www.youtube.com/watch?v=HfsjDuMx9wE)  
 [**蕭全 \- 不僅僅是喜歡**](https://www.youtube.com/watch?v=N_9DQTpVwxQ)**(\*)**  
+[**Crash Adams \- New Heart**](https://www.youtube.com/watch?v=PVSSFhtlZkk)
 
 ## **激勵與奮鬥 Inspiration & Struggle**
 
