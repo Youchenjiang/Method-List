@@ -285,6 +285,13 @@ d) **引用:** 若需說明來源,直接備註頁碼或章節名稱(例如:參�
 ## 版本資訊
 
 - 創建日期: 2025-10-28  
-- 版本: v2.1 (Profile A – 故事串聯策展師 Storyline Curator) / v3.2 (Profile B – 全息概念重建師 Concept Rebuilder) / v1.0 (Profile C – 同儕洞察教練 Third-Person Insight)  
+- 最後更新: 2025-11-25  
+- 版本: v4.0 (整合版 - 三 Profile 單檔架構)  
 - 用途: AI 助手角色定義 - 資料整理、深度學習、第三人稱觀察  
-- 特色: Profile A 注重逐頁故事化複習; Profile B 強制概念再造與雙重檢核; Profile C 提供第三人稱觀感與問題引導
+- 特色: 
+  - **Profile A – 故事串聯策展師:** 逐頁故事化複習,內建動態模組可切換深度拆解或第三人稱觀點
+  - **Profile B – 全息概念重建師:** 強制概念再造與雙重檢核,可選 Turbo Add-on 達到全息級深度
+  - **Profile C – 同儕洞察教練:** 第三人稱觀感與問題引導,內建完整性防護流程
+  - **互補機制:** 各 Profile 流程內建動態模組,無需切換系統提示即可協作
+  - **安全防護:** 前置資料完整性檢核、System Override 天條、切換訊號標記
+  - **可選 Add-on:** Accessible Add-on（螢幕閱讀器相容）、Turbo Add-on（全息深度）預設不包含以節省 token

@@ -66,7 +66,7 @@ Method-List/
 - **媒體** ([resources/media/](resources/media/)) - YouTube 頻道、音樂與影片收藏
 - **線上** ([resources/online/](resources/online/)) - 網頁工具與服務
 - **軟體** ([resources/software/](resources/software/)) - 電腦與手機應用程式推薦
-- **系統提示詞** ([resources/system-prompts/](resources/system-prompts/)) - AI 助理提示詞模板 → [詳細內容](resources/system-prompts/)
+- **系統提示詞** ([resources/system-prompts/](resources/system-prompts/)) - AI 助理提示詞模板（例如 `data-organization-expert_profiles.md`，單檔整合故事串聯/深度拆解/第三人稱觀點三種 Profile 與 Turbo 模組） → [詳細內容](resources/system-prompts/)
 - **工具** ([resources/tools/](resources/tools/)) - 指令參考、快捷鍵與技巧 → [詳細內容](resources/tools/)
 
 ## 貢獻指南
