@@ -21,7 +21,7 @@
 
 | 檔案 | 版本 | 說明 | 適用情境 |
 |------|------|------|----------|
-| `data-organization-expert_profiles.md` | v4.0 | 單檔整合三個 Profile（故事串聯策展師 / 全息概念重建師 + Turbo / 同儕洞察教練），內建動態模組互相補充、前置防護檢核、System Override 天條，可選 Accessible/Turbo Add-on | 從考前複習、深度拆解到第三人稱觀點都可以在一次輸出中完成，支援螢幕閱讀器相容與全息級深度模式 |
+| `data-organization-expert_profiles.md` | v4.1 | 單檔整合三個 Profile（故事串聯策展師 / 全息概念重建師 + Turbo / 同儕洞察教練），內建動態模組互相補充、結構與敘事平衡、圖示標記節制使用 | 從考前複習、深度拆解到第三人稱觀點都可以在一次輸出中完成，支援自然流暢的教學節奏 |
 
 ### 聊天助理 & 實用提示詞 (Chat Assistants & Utilities)
 
@@ -35,12 +35,6 @@
 2. **保留所有版本**：不要刪除舊版本，方便日後對比和回溯
 3. **記錄差異**：建立新變體時，在此 README 中記錄其特點與用途
 4. **實驗性版本**：可以使用 `_experimental` 後綴來標記正在測試的版本
-
-## 📖 提示詞設計指南
-
-| 文件 | 說明 |
-|------|------|
-| [prompt-design-best-practices.md](./prompt-design-best-practices.md) | 提示詞設計最佳實踐、常見問題與解決方案，包含實際案例（Profile B 優化歷程）與設計檢查清單 |
 
 ## 🔄 版本演進追蹤
 
@@ -65,4 +59,4 @@
 
 ---
 
-**最後更新：2025-11-25**（data-organization-expert_profiles.md 升級至 v4.0）
+**最後更新：2025-11-25**（data-organization-expert_profiles.md 升級至 v4.1）
