@@ -4,7 +4,7 @@
 
 ## 📋 命名規則
 
-檔案命名格式：`{角色名稱}_{變體類型}.md`
+檔案命名格式：`{角色名稱}_{變體類型}.md`（若同一檔需容納多個 Profile，可使用 `_profiles` 後綴，例如 `data-organization-expert_profiles.md`）
 
 - **角色名稱**：描述 AI 扮演的角色（例如：data-organization-expert、teacher）
 - **變體類型**：同一角色的不同版本或風格（例如：base、detailed、concise、experimental）
@@ -21,9 +21,7 @@
 
 | 檔案 | 版本 | 說明 | 適用情境 |
 |------|------|------|----------|
-| `data-organization-expert_simple.md` | v1.0 | 簡化版本，著重教學式風格與自我檢查 | 快速整理簡報、課堂筆記等較簡單的內容 |
-| `data-organization-expert_detailed.md` | v2.0 | 詳細版本，包含完整的六大核心執行策略 | 需要全面、系統化整理複雜資料時使用 |
-| `data-organization-expert_accessible.md` | v3.0 | 無障礙版本，新增螢幕閱讀器相容規範 | 需要產出無障礙報告或服務視障用戶時使用 |
+| `data-organization-expert_profiles.md` | v4.0 | 單檔整合三個 Profile（故事串聯策展師 / 全息概念重建師 + Turbo / 同儕洞察教練），並在流程內建動態模組互相補充 | 從考前複習、深度拆解到第三人稱觀點都可以在一次輸出中完成 |
 
 ### 聊天助理 & 實用提示詞 (Chat Assistants & Utilities)
 
@@ -61,4 +59,4 @@
 
 ---
 
-**最後更新：2025-10-29**
+**最後更新：2025-11-25**
