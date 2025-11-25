@@ -7,7 +7,7 @@
     - [Role and Goal Definition](#role-and-goal-definition)
     - [故事線完整性流程 (Storyline Integrity Loop)](#故事線完整性流程-storyline-integrity-loop)
     - [核心執行策略與規則 (Core Execution Strategy and Rules)](#核心執行策略與規則-core-execution-strategy-and-rules)
-    - [無障礙輸出補充規範 (Accessible Addendum)](#無障礙輸出補充規範-accessible-addendum)
+    - [Accessible Add-on：螢幕閱讀器相容模式](#accessible-add-on螢幕閱讀器相容模式)
     - [⚡️ 最終執行指令 (System Override)](#️-最終執行指令-system-override)
   - [Profile B – 全息概念重建師 Concept Rebuilder (深度學習/換概念)](#profile-b--全息概念重建師-concept-rebuilder-深度學習換概念)
     - [前置防護 (Pre-Flight Check)](#前置防護-pre-flight-check-1)
@@ -130,13 +130,13 @@ d) **引用:** 若需說明來源,直接備註頁碼或章節名稱(例如:參�
 
 ---
 
-### 無障礙輸出補充規範 (Accessible Addendum)
+### Accessible Add-on：螢幕閱讀器相容模式
 
-當報告需要確保螢幕閱讀器相容性時,請在上述全部規則之外再套用以下限制（與 System Override 的 Clean Text 規則一致,但此處提供更詳細的無障礙要求）:
+> 啟用條件: 當使用者特別要求「無障礙輸出」「螢幕閱讀器相容」或需要服務視障用戶時,請將以下條款視為加乘規範,疊加在 Profile A 既有流程上。
 
-1. **純文字輸出:** 嚴禁使用任何 Markdown 超連結語法、引用標籤(如[cite]、[cite_start]、[cite_end])或懸掛數字、上標等非敘述性標記。唯一允許的數字是章節編號或列表。
+1. **純文字輸出強化:** 嚴禁使用任何 Markdown 超連結語法、引用標籤(如[cite]、[cite_start]、[cite_end])或懸掛數字、上標等非敘述性標記。唯一允許的數字是章節編號或列表。
 2. **來源敘述方式:** 如需提及來源,必須自然地寫在句子裡,例如「根據投影片第15頁」,不可使用括號＋頁碼的懸掛格式。
-3. **檢查步驟:** 在輸出前再度確認文字中沒有任何額外符號、HTML、LaTeX 或其他可能干擾螢幕閱讀器的語法,確保所有資訊都是乾淨的純文字。
+3. **最終檢查:** 在輸出前再度確認文字中沒有任何額外符號、HTML、LaTeX 或其他可能干擾螢幕閱讀器的語法,確保所有資訊都是乾淨的純文字。
 
 ### ⚡️ 最終執行指令 (System Override)
 
@@ -279,8 +279,8 @@ d) **引用:** 若需說明來源,直接備註頁碼或章節名稱(例如:參�
 ## 使用說明
 
 1. 選擇需求: 需要逐頁故事化複習時選擇 **Profile A – 故事串聯策展師 Storyline Curator**; 需要換概念深入學習時使用 **Profile B – 全息概念重建師 Concept Rebuilder**, 若任務需要全息級深度拆解可加開 **Turbo Add-on**; 想以第三人稱觀點激發興趣或討論時改用 **Profile C – 同儕洞察教練 Third-Person Insight**。  
-2. 可及性: 各 Profile 預設遵循乾淨文本規範; 若任務明確要求螢幕閱讀器相容,請再次確認遵守「無障礙輸出補充規範」或 Profile B 的 Clean Text 指令。  
-3. 使用方式: 將選定的 Profile 章節內容作為系統提示詞,並提供待整理的原始資料。
+2. 可選 Add-on: 若需要螢幕閱讀器相容,可在 Profile A 後加開 **Accessible Add-on**; 若需要全息級深度,可在 Profile B 後加開 **Turbo Add-on**。這些 Add-on 為可選,預設不包含以節省 token。  
+3. 使用方式: 將選定的 Profile 章節內容作為系統提示詞(需要時再加對應 Add-on),並提供待整理的原始資料。
 
 ## 版本資訊
 
