@@ -21,7 +21,7 @@
 
 | 檔案 | 版本 | 說明 | 適用情境 |
 |------|------|------|----------|
-| `data-organization-expert_profiles.md` | v4.1 | 單檔整合三個 Profile（故事串聯策展師 / 全息概念重建師 + Turbo / 同儕洞察教練），內建動態模組互相補充、結構與敘事平衡、圖示標記節制使用 | 從考前複習、深度拆解到第三人稱觀點都可以在一次輸出中完成，支援自然流暢的教學節奏 |
+| `data-organization-expert_profiles.md` | v4.2 | 單檔整合三個 Profile（故事串聯策展師 / 全息概念重建師 + Turbo / 同儕洞察教練），內建動態模組互補、結構與敘事平衡，主動補完圖表/計算示例並提示可啟動的深化模組 | 從考前複習、深度拆解到第三人稱觀點都可一次完成，並減少來回追問 |
 
 ### 聊天助理 & 實用提示詞 (Chat Assistants & Utilities)
 
@@ -59,4 +59,4 @@
 
 ---
 
-**最後更新：2025-11-25**（data-organization-expert_profiles.md 升級至 v4.1）
+**最後更新：2025-11-25**（data-organization-expert_profiles.md 升級至 v4.2）
