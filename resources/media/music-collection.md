@@ -717,8 +717,6 @@ Charmer (暫無連結) | The Advisors Alliance Main Theme (暫無連結)
 
 [**尹昔眠 - 落在生命裡的光**](https://www.youtube.com/watch?v=F2nd69GiShc)  
 [**菲菲公主 - 寂寞寂寞不好**](https://www.youtube.com/watch?v=wezm_bhn-wE)
-
-[**菲菲公主 - 寂寞寂寞不好**](https://www.youtube.com/watch?v=wezm_bhn-wE)  
 [**浠Mizuki \- 失眠飛行**](https://www.youtube.com/watch?v=JZz4Kxdcx5w)  
 [**COOL \- Before Sadness Comes**](https://www.youtube.com/watch?v=Ywei9QIg6sE)  
 [**Tobu \- Life**](https://www.youtube.com/watch?v=bQOmKD-sMt8)  
