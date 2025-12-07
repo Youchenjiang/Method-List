@@ -604,8 +604,9 @@
 [**MALIQ & D'Essentials \- Kita Bikin Romantis**](https://www.youtube.com/watch?v=48C3VWfLadM)  
 [**Snigellin \- When i see the light at that time**](https://www.youtube.com/watch?v=BcxhMWYaTwA)  
 [**Japanese Fantasy Music \- Princess of the Moon**](https://www.youtube.com/watch?v=gDwb2liNKlU)  
-[**Samuel Kim & Lorien \- I Really Want to Stay at Your House**](https://www.youtube.com/watch?v=9B0yX0UIN9M&t=246s)
+[**Samuel Kim & Lorien \- I Really Want to Stay at Your House**](https://www.youtube.com/watch?v=9B0yX0UIN9M&t=246s)  
 [**Secret Garden \- Steps**](https://www.youtube.com/watch?v=K4kUFsAqw9E)  
+[**靈魂配樂師 \- 溯**](https://www.youtube.com/watch?v=7g0n0rEStGM)  
 
 ## **釋放與解脫 Release & Liberation**
 
