@@ -6,7 +6,7 @@
 
 本音樂收藏採用情感導向的分類系統，主要分為以下七大類：
 
-- **神秘與懸疑** (Mystery & Suspense) - 閱讀推理小說、看懸疑影片、創作構思
+- **神秘與懸疑** (Mystery & Suspense) - 黑暗氛圍、詭異敘事、懸疑推理、恐怖元素、超自然意象；適合閱讀推理/驚悚小說、觀看懸疑影片、深夜探索情境
 - **憂傷與失落** (Melancholy & Loss) - 適合雨天獨處、深夜思考、情感低潮時的陪伴音樂
 - **懷舊與回憶** (Nostalgia & Memories) - 翻閱舊照片、日記回憶、安靜散步
 - **平靜與舒緩** (Peaceful & Soothing) - 學習專注、睡前放鬆、冥想瑜伽、減壓療癒
@@ -39,6 +39,7 @@
     - [**Hearts of Iron IV (神,疑)**](#hearts-of-iron-iv-神疑)
     - [**Europa Universalis IV (神,疑)**](#europa-universalis-iv-神疑)
     - [**Jennifer Thomas (神,疑)**](#jennifer-thomas-神疑)
+    - [**一只白羊 (神,疑)**](#一只白羊-神疑)
     - [**其他歌手 (神,疑)**](#其他歌手-神疑)
   - [**憂傷與失落 Melancholy \& Loss**](#憂傷與失落-melancholy--loss)
     - [**殘雪 (憂,失)**](#殘雪-憂失)
@@ -148,6 +149,10 @@
 
 [Illumination](https://www.youtube.com/watch?v=PEw629Bp7vU) | [Requiem For a Dream](https://www.youtube.com/watch?v=qmizqVj7TWk)
 
+### **一只白羊 (神,疑)**
+
+[黑嫁衣](https://www.youtube.com/watch?v=YAHF33ah-nc) **(*)** | [紅線囚](https://www.youtube.com/watch?v=CL1Q3SAH3nI)
+
 ### **其他歌手 (神,疑)**
 
 [**Faun - Egil Saga**](https://www.youtube.com/watch?v=LgGIOZiVCVU)
@@ -162,7 +167,9 @@
 [**Derek Fiechter \- Papyrus Scrolls**](https://www.youtube.com/watch?v=R47YbIL9_wU)  
 [**Michael Giacchino \- Light The Fuse**](https://www.youtube.com/watch?v=x0BWklF1MG4)  
 [**迪鹿 \- 吉時已到**](https://www.youtube.com/watch?v=Iw5bZQRrY4Q)**(\*)**  
-[**於貞 - 粒子們**](https://www.youtube.com/watch?v=6cU-MVJflio)
+[**於貞 - 粒子們**](https://www.youtube.com/watch?v=6cU-MVJflio)  
+[**一顆狼星 \- 白嫁衣**](https://www.youtube.com/watch?v=7CPT4xVypyA)**(\\*)**  
+[**周林楓 \- 魑魅魍魎**](https://www.youtube.com/watch?v=JLmBQdtlYzw)**(\\*)**
 
 ## **憂傷與失落 Melancholy & Loss**
 
@@ -184,7 +191,7 @@
 
 ### **一顆狼星 (憂,失)**
 
-[白嫁衣](https://www.youtube.com/watch?v=7CPT4xVypyA)**(*)** | [無人區玫瑰](https://www.youtube.com/watch?v=V89xw9kmQDs)**(*)** | [沙漠孤心](https://www.youtube.com/watch?v=8nNHVEkDssA)
+[無人區玫瑰](https://www.youtube.com/watch?v=V89xw9kmQDs)**(*)** | [沙漠孤心](https://www.youtube.com/watch?v=8nNHVEkDssA)
 
 ### **本兮 (憂,失)**
 
@@ -212,7 +219,7 @@
 
 ### **一只白羊 (憂,失)**
 
-[黑嫁衣](https://www.youtube.com/watch?v=YAHF33ah-nc) **(\*)** | [紅線囚](https://www.youtube.com/watch?v=CL1Q3SAH3nI) | [逃](https://www.youtube.com/watch?v=30-dSS29wwU) **(\*)** | [沖喜](https://www.youtube.com/watch?v=mjquafG3S9Y) | [遇見你就像天空的雲](https://www.youtube.com/watch?v=ZbFfC3VpFB8) **(\*)** | [河伯說](https://www.youtube.com/watch?v=c9cYziRITZU) **(\*)**
+[逃](https://www.youtube.com/watch?v=30-dSS29wwU) **(\*)** | [沖喜](https://www.youtube.com/watch?v=mjquafG3S9Y) | [遇見你就像天空的雲](https://www.youtube.com/watch?v=ZbFfC3VpFB8) **(\*)** | [河伯說](https://www.youtube.com/watch?v=c9cYziRITZU) **(\*)**
 
 ### **其他歌手**
 
@@ -292,7 +299,6 @@
 [**Dr Dre, Eminem and Skylar Gray. \- I need a doctor**](https://www.youtube.com/watch?v=6m3vtWYCuMg&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=32)  
 [**鞠文嫻 \- BINGBIAN**](https://www.youtube.com/watch?v=ZFw6rTEw1hA)  
 [**李一桐 \- 等**](https://www.youtube.com/watch?v=18Bft1SfK8I)  
-[**周林楓 \- 魑魅魍魎**](https://www.youtube.com/watch?v=JLmBQdtlYzw) **(\*)**  
 [**Jang Jea In \- Hallucination**](https://www.youtube.com/watch?v=tVoE9_eN8TE) **(\*)**
 [**BolBBalgan4 \- Dream**](https://www.youtube.com/watch?v=5F_FeAPoDf0)
 [**Jun Hyung \- Nightmare**](https://www.youtube.com/watch?v=CVTCIwMy-Nw)
