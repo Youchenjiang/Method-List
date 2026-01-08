@@ -66,11 +66,15 @@ Get-ChildItem -Path $directory -Filter "[懷舊與回憶]*.*" | Rename-Item -New
 
 將所有[懷舊與回憶]開頭檔檔名將[懷舊與回憶]改為[懷舊]
 
-### 下載最新版的 PowerShell
+### 下載或強制升級 PowerShell
 
 ```powershell
 winget search Microsoft.PowerShell
 winget install --id Microsoft.Powershell.Preview --source winget
+
+# 若無法自動升級 (例如版本號不匹配)，可嘗試強制安裝指定版本
+winget source update
+winget install --id Microsoft.PowerShell.Preview --version <Version> --force
 ```
 
 ### 為目前的 PowerShell 提升至管理員權限
