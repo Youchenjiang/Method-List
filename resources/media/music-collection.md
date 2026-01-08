@@ -197,7 +197,8 @@
 [**迪鹿 \- 吉時已到**](https://www.youtube.com/watch?v=Iw5bZQRrY4Q)**(\*)**  
 [**於貞 - 粒子們**](https://www.youtube.com/watch?v=6cU-MVJflio)  
 [**一顆狼星 \- 白嫁衣**](https://www.youtube.com/watch?v=7CPT4xVypyA)**(\\*)**  
-[**周林楓 \- 魑魅魍魎**](https://www.youtube.com/watch?v=JLmBQdtlYzw)**(\\*)**
+[**周林楓 \- 魑魅魍魎**](https://www.youtube.com/watch?v=JLmBQdtlYzw)**(\\*)**  
+[**指尖笑 \- 詭新娘**](https://www.youtube.com/watch?v=hK8e2aZAq80)
 
 ## **憂傷與失落 Melancholy & Loss**
 
