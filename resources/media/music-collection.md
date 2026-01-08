@@ -199,7 +199,8 @@
 [**一顆狼星 \- 白嫁衣**](https://www.youtube.com/watch?v=7CPT4xVypyA)**(\\*)**  
 [**周林楓 \- 魑魅魍魎**](https://www.youtube.com/watch?v=JLmBQdtlYzw)**(\\*)**  
 [**指尖笑 \- 詭新娘**](https://www.youtube.com/watch?v=hK8e2aZAq80)  
-[**格雷西西西 \- 提線傀儡**](https://www.youtube.com/watch?v=U4oMWHDhSaE)**(*)**
+[**格雷西西西 \- 提線傀儡**](https://www.youtube.com/watch?v=U4oMWHDhSaE)**(*)**  
+[**Alexander Okunev \- Shards Of Memories**](https://www.youtube.com/watch?v=IpVrOwupGyQ)
 
 ## **憂傷與失落 Melancholy & Loss**
 
