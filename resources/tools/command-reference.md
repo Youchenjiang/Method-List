@@ -8,6 +8,9 @@
   - [📋 目錄](#-目錄)
   - [CMD 指令](#cmd-指令)
     - [CMD更改資料檔名](#cmd更改資料檔名)
+    - [合併 Markdown 檔案](#合併-markdown-檔案)
+      - [1. 純文字合併 (PowerShell - 免安裝)](#1-純文字合併-powershell---免安裝)
+      - [2. 轉檔並合併 (Pandoc - 需安裝)](#2-轉檔並合併-pandoc---需安裝)
     - [IP位置查詢](#ip位置查詢)
     - [查詢本機 ARP 快取](#查詢本機-arp-快取)
     - [網路無法連線](#網路無法連線)
@@ -45,6 +48,17 @@
 
 `ren *.doc *.java` (將所有doc檔改成java檔)  
 `FOR %a in (109*.*) DO REN "%~a" "0%~nxa"` (將所有109開頭檔檔名加上0)
+
+### 合併 Markdown 檔案
+
+#### 1. 純文字合併 (PowerShell - 免安裝)
+僅將文字串接，適合整理筆記：
+`Get-Content *.md | Set-Content merged_all.md`
+
+#### 2. 轉檔並合併 (Pandoc - 需安裝)
+合併並轉換為可閱讀的文件格式 (Word/PDF)：
+`pandoc *.md -o merged.docx`
+`pandoc *.md -o merged.pdf`
 
 ### IP位置查詢
 
