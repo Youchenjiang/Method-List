@@ -198,7 +198,8 @@
 [**於貞 - 粒子們**](https://www.youtube.com/watch?v=6cU-MVJflio)  
 [**一顆狼星 \- 白嫁衣**](https://www.youtube.com/watch?v=7CPT4xVypyA)**(\\*)**  
 [**周林楓 \- 魑魅魍魎**](https://www.youtube.com/watch?v=JLmBQdtlYzw)**(\\*)**  
-[**指尖笑 \- 詭新娘**](https://www.youtube.com/watch?v=hK8e2aZAq80)
+[**指尖笑 \- 詭新娘**](https://www.youtube.com/watch?v=hK8e2aZAq80)  
+[**格雷西西西 \- 提線傀儡**](https://www.youtube.com/watch?v=U4oMWHDhSaE)**(*)**
 
 ## **憂傷與失落 Melancholy & Loss**
 
@@ -330,8 +331,7 @@
 [**李一桐 \- 等**](https://www.youtube.com/watch?v=18Bft1SfK8I)  
 [**Jang Jea In \- Hallucination**](https://www.youtube.com/watch?v=tVoE9_eN8TE) **(\*)**
 [**BolBBalgan4 \- Dream**](https://www.youtube.com/watch?v=5F_FeAPoDf0)
-[**Jun Hyung \- Nightmare**](https://www.youtube.com/watch?v=CVTCIwMy-Nw)
-[**格雷西西西 \- 提線傀儡**](https://www.youtube.com/watch?v=U4oMWHDhSaE)**(\*)**
+[**Jun Hyung \- Nightmare**](https://www.youtube.com/watch?v=CVTCIwMy-Nw)  
 [**夏婉安 \- 怎麼**](https://www.youtube.com/watch?v=Xl554Lyy00w)
 
 ## **懷舊與回憶 Nostalgia & Memories**
