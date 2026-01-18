@@ -307,7 +307,7 @@
 
    - #### 虛擬機工具
 
-     [VMware Workstation 17 Pro](https://www.vmware.com/tw/products/workstation-pro/workstation-pro-evaluation.html)（虛擬機）[(破解)](https://www.bilibili.com/video/BV1uP41137wV/?spm_id_from=333.788&vd_source=b8d0b3132fd1a83c2e7501bd16a674d1)
+     [VMware Workstation Pro 25H2 for Windows](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true)（虛擬機）[(破解)](https://www.bilibili.com/video/BV1uP41137wV/?spm_id_from=333.788&vd_source=b8d0b3132fd1a83c2e7501bd16a674d1)
 
    - #### 軟件套件修復工具
 
