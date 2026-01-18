@@ -241,6 +241,10 @@
 
      - [HitPaw Video Enhancer](https://www.hitpaw.com/hitpaw-video-enhancer.html)（影片畫質增強軟件） [(破解)](https://www.jb51.net/softs/833594.html#downintro2)
 
+   - #### 直播與音訊增強
+
+     - [NVIDIA Broadcast](https://www.nvidia.com/zh-tw/geforce/broadcasting/broadcast-app/)（AI 音視訊增強）
+
 5. ### **Music Score Software**
 
    - #### 樂譜製作軟件
