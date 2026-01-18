@@ -103,7 +103,8 @@
 
      - [豆包](https://www.doubao.com/chat/)（AI翻譯、AI總結、AI比對）  
      - [Kimi](https://kimi.moonshot.cn/)（AI搜尋工具）  
-     - [Rovo Dev CLI](https://developer.atlassian.com/cloud/acli/guides/install-windows/)
+     - [Rovo Dev CLI](https://developer.atlassian.com/cloud/acli/guides/install-windows/)  
+     - [Antigravity](https://antigravity.google/download)（AI 程式助手）
 
 2. ### **Download Tools**
 
@@ -339,7 +340,7 @@
    - #### Java開發工具
 
      - [Java Development Kit](https://www.oracle.com/tw/java/technologies/downloads/)  
-     - [JSE\&JDK](https://www.oracle.com/java/technologies/downloads/#jdk18-windows)  
+     - [JSE&JDK](https://www.oracle.com/java/technologies/downloads/#jdk18-windows)  
      - [Eclipse](https://www.eclipse.org/downloads/)  
      - [Apache Tomcat](https://tomcat.apache.org/download-10.cgi)
 
@@ -479,7 +480,8 @@
 
 4. ### **Mind Mapping Software**
 
-   - [Xmind](https://xmind.app/download/)（心智圖軟件）
+   - [Xmind](https://xmind.app/download/)（心智圖軟件）  
+   - [Draw.io](https://github.com/jgraph/drawio-desktop/releases)（流程圖繪製工具）
 
 5. ### **Operation Assistant Tools**
 
