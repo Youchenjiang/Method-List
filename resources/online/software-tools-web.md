@@ -65,7 +65,8 @@
 
 ### 安全檢測
 
-[Virustotal](https://www.virustotal.com/gui/home/upload)：檢測檔案病毒
+[Virustotal](https://www.virustotal.com/gui/home/upload)：檢測檔案病毒  
+[Have I Been Pwned](https://haveibeenpwned.com/Passwords)：檢測密碼是否洩漏
 
 ### 系統工具
 
