@@ -20,7 +20,8 @@
 
 ### 學術研究
 
-[Scispace](https://typeset.io/)：論文寫作幫手
+[Scispace](https://typeset.io/)：論文寫作幫手  
+[ReadThisPaper](https://readthispaper.com/zh-tw/)：論文閱讀幫手
 
 ### 學習社群
 
