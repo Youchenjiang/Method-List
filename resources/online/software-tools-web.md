@@ -21,7 +21,8 @@
 ### 學術研究
 
 [Scispace](https://typeset.io/)：論文寫作幫手  
-[ReadThisPaper](https://readthispaper.com/zh-tw/)：論文閱讀幫手
+[ReadThisPaper](https://readthispaper.com/zh-tw/)：論文閱讀幫手  
+[ConnectedPapers](https://www.connectedpapers.com/)：論文關聯圖譜視覺化
 
 ### 學習社群
 
