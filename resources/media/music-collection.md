@@ -647,6 +647,7 @@
 [**Samuel Kim & Lorien \- I Really Want to Stay at Your House**](https://www.youtube.com/watch?v=9B0yX0UIN9M&t=246s)  
 [**Secret Garden \- Steps**](https://www.youtube.com/watch?v=K4kUFsAqw9E)  
 [**靈魂配樂師 \- 溯**](https://www.youtube.com/watch?v=7g0n0rEStGM)  
+[**王宇宙Leto \& 喬浚丞 \- 若月亮沒來**](https://www.youtube.com/watch?v=9fa3uL5qzpY)**(*)**  
 
 ## **釋放與解脫 Release & Liberation**
 
