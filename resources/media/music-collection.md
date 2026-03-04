@@ -543,8 +543,7 @@
 [**Richard Clayderman \- 秋日私語**](https://www.youtube.com/watch?v=26e3yaPIEWs)  
 [**Crusader Kings II \- The Byzantine Empire**](https://www.youtube.com/watch?v=fdsN80yoRMs)  
 [**Sweet Rain \- The Days Falling Like a Rain**](https://www.youtube.com/watch?v=89cd1cSINcY)  
-[**陳奕迅 \& 王菲 \- 因為愛情**](https://www.youtube.com/watch?v=VdwAkhNdZi8)**(*)**  
-[**盛哲 \- 在你的身邊**](https://www.youtube.com/watch?v=1hOfUcLaqxs)
+[**陳奕迅 \& 王菲 \- 因為愛情**](https://www.youtube.com/watch?v=VdwAkhNdZi8)**(*)**
 
 ## **平靜與舒緩 Peaceful & Soothing**
 
@@ -649,6 +648,7 @@
 [**Secret Garden \- Steps**](https://www.youtube.com/watch?v=K4kUFsAqw9E)  
 [**靈魂配樂師 \- 溯**](https://www.youtube.com/watch?v=7g0n0rEStGM)  
 [**王宇宙Leto \& 喬浚丞 \- 若月亮沒來**](https://www.youtube.com/watch?v=9fa3uL5qzpY)**(*)**  
+[**Beyoncé \- Halo**](https://www.youtube.com/watch?v=bnVUHWCynig)
 
 ## **釋放與解脫 Release & Liberation**
 
