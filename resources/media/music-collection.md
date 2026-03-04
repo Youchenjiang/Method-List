@@ -336,7 +336,8 @@
 [**夏婉安 \- 怎麼**](https://www.youtube.com/watch?v=Xl554Lyy00w)  
 [**柳爽 \- 漠河舞廳**](https://www.youtube.com/watch?v=HFR6XcsFlII)**(*)**  
 [**好樂團 \- 他們說我是沒有用的年輕人**](https://www.youtube.com/watch?v=FNJG6MsKO0k)  
-[**張敬軒 \- 只是太愛你**](https://www.youtube.com/watch?v=k2rVffhNd0E)
+[**張敬軒 \- 只是太愛你**](https://www.youtube.com/watch?v=k2rVffhNd0E)  
+[**秦海清 \- 不如**](https://www.youtube.com/watch?v=tHv9XMzEnjo)
 
 ## **懷舊與回憶 Nostalgia & Memories**
 
