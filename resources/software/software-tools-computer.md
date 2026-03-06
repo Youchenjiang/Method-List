@@ -103,7 +103,8 @@
 
      - [豆包](https://www.doubao.com/chat/)（AI翻譯、AI總結、AI比對）  
      - [Kimi](https://kimi.moonshot.cn/)（AI搜尋工具）  
-     - [Rovo Dev CLI](https://developer.atlassian.com/cloud/acli/guides/install-windows/)
+     - [Rovo Dev CLI](https://developer.atlassian.com/cloud/acli/guides/install-windows/)  
+     - [Antigravity](https://antigravity.google/download)（AI 程式助手）
 
 2. ### **Download Tools**
 
@@ -240,6 +241,10 @@
 
      - [HitPaw Video Enhancer](https://www.hitpaw.com/hitpaw-video-enhancer.html)（影片畫質增強軟件） [(破解)](https://www.jb51.net/softs/833594.html#downintro2)
 
+   - #### 直播與音訊增強
+
+     - [NVIDIA Broadcast](https://www.nvidia.com/zh-tw/geforce/broadcasting/broadcast-app/)（AI 音視訊增強）
+
 5. ### **Music Score Software**
 
    - #### 樂譜製作軟件
@@ -302,7 +307,7 @@
 
    - #### 虛擬機工具
 
-     [VMware Workstation 17 Pro](https://www.vmware.com/tw/products/workstation-pro/workstation-pro-evaluation.html)（虛擬機）[(破解)](https://www.bilibili.com/video/BV1uP41137wV/?spm_id_from=333.788&vd_source=b8d0b3132fd1a83c2e7501bd16a674d1)
+     [VMware Workstation Pro 25H2 for Windows](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true)（虛擬機）[(破解)](https://www.bilibili.com/video/BV1uP41137wV/?spm_id_from=333.788&vd_source=b8d0b3132fd1a83c2e7501bd16a674d1)
 
    - #### 軟件套件修復工具
 
@@ -339,7 +344,7 @@
    - #### Java開發工具
 
      - [Java Development Kit](https://www.oracle.com/tw/java/technologies/downloads/)  
-     - [JSE\&JDK](https://www.oracle.com/java/technologies/downloads/#jdk18-windows)  
+     - [JSE&JDK](https://www.oracle.com/java/technologies/downloads/#jdk18-windows)  
      - [Eclipse](https://www.eclipse.org/downloads/)  
      - [Apache Tomcat](https://tomcat.apache.org/download-10.cgi)
 
@@ -479,7 +484,8 @@
 
 4. ### **Mind Mapping Software**
 
-   - [Xmind](https://xmind.app/download/)（心智圖軟件）
+   - [Xmind](https://xmind.app/download/)（心智圖軟件）  
+   - [Draw.io](https://github.com/jgraph/drawio-desktop/releases)（流程圖繪製工具）
 
 5. ### **Operation Assistant Tools**
 

@@ -20,7 +20,9 @@
 
 ### 學術研究
 
-[Scispace](https://typeset.io/)：論文寫作幫手
+[Scispace](https://typeset.io/)：論文寫作幫手  
+[ReadThisPaper](https://readthispaper.com/zh-tw/)：論文閱讀幫手  
+[ConnectedPapers](https://www.connectedpapers.com/)：論文關聯圖譜視覺化
 
 ### 學習社群
 
@@ -65,7 +67,8 @@
 
 ### 安全檢測
 
-[Virustotal](https://www.virustotal.com/gui/home/upload)：檢測檔案病毒
+[Virustotal](https://www.virustotal.com/gui/home/upload)：檢測檔案病毒  
+[Have I Been Pwned](https://haveibeenpwned.com/Passwords)：檢測密碼是否洩漏
 
 ### 系統工具
 

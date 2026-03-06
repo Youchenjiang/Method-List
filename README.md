@@ -67,7 +67,7 @@ Curated collections of tools, software, media, and reference materials:
 - **Online** ([resources/online/](resources/online/)) - Web-based tools and services
 - **Software** ([resources/software/](resources/software/)) - Computer and mobile app recommendations
 - **System Prompts** ([resources/system-prompts/](resources/system-prompts/)) - AI assistant prompt templates (例如 `data-organization-expert_profiles.md`，單檔整合 Storyline/Deep Dive/Third-Person 三種 Profile 與 Turbo 模組) → [Details](resources/system-prompts/)
-- **Tools** ([resources/tools/](resources/tools/)) - Command references, shortcuts, and tips → [Details](resources/tools/)
+- **Tools** ([resources/tools/](resources/tools/)) - Command references, shortcuts, and **quick-fix commands** → [Details](resources/tools/)
 
 ## Contribution Guidelines
 

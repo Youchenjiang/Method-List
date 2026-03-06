@@ -6,15 +6,42 @@
 
 本音樂收藏採用情感導向的分類系統，主要分為以下七大類：
 
-- **神秘與懸疑** (Mystery & Suspense) - 閱讀推理小說、看懸疑影片、創作構思
-- **憂傷與失落** (Melancholy & Loss) - 適合雨天獨處、深夜思考、情感低潮時的陪伴音樂
-- **懷舊與回憶** (Nostalgia & Memories) - 翻閱舊照片、日記回憶、安靜散步
-- **平靜與舒緩** (Peaceful & Soothing) - 學習專注、睡前放鬆、冥想瑜伽、減壓療癒
-- **釋放與解脫** (Release & Liberation) - 運動健身、情緒宣洩、新階段重新開始
-- **愉悅與活力** (Joy & Vitality) - 日常工作、聚會派對、清晨起床、提升心情
-- **激勵與奮鬥** (Inspiration & Struggle) - 學習衝刺、工作加班、面對挑戰、追求目標
+- **神秘與懸疑** (Mystery & Suspense) - 黑暗氛圍、詭異敘事、懸疑推理、恐怖元素、超自然意象；適合閱讀推理/驚悚小說、觀看懸疑影片、深夜探索情境
+- **憂傷與失落** (Melancholy & Loss) - 悲傷情緒、失戀痛楚、人生遺憾、溫柔抒情、感性旋律；適合雨天獨處、深夜思考、情感低潮、失戀療傷時的陪伴音樂
+- **懷舊與回憶** (Nostalgia & Memories) - 時光流逝、舊事重溫、淡淡憂傷、溫暖回想、古風意境；適合翻閱舊照片、日記回憶、安靜散步、追憶往事時聆聽
+- **平靜與舒緩** (Peaceful & Soothing) - 心靈平靜、舒緩旋律、輕柔節奏、自然聲響、治癒氛圍；適合學習專注、睡前放鬆、冥想瑜伽、減壓療癒、工作背景音樂
+- **釋放與解脫** (Release & Liberation) - 紓解情緒、壓力消散、漸入寧靜、舒展身心、如釋重負；適合運動健身、情緒宣洩、告別過去、新階段重新開始
+- **愉悅與活力** (Joy & Vitality) - 輕快節奏、正能量、明亮旋律、活潑氛圍、愉快心情；適合日常工作、聚會派對、清晨起床、提升心情、輕鬆娛樂
+- **激勵與奮鬥** (Inspiration & Struggle) - 雄壯氣勢、激昂旋律、奮鬥精神、史詩編曲、戰鬥意志；適合學習衝刺、工作加班、面對挑戰、追求目標、克服困難時激勵自我
+
+### **分類關係圖**
+
+**【所有7個分類的能量與情感分布】**
+```
+                    【正面情感】
+    
+    激勵與奮鬥 ──→ 釋放與解脫 ──→ 平靜與舒緩
+    [高能激昂]     [過渡寧靜]     [低能平和]
+         
+    愉悅與活力 ────────────────────┘
+    [輕快明亮]      (能量逐漸下降)
+
+
+                    【暗色調】
+    
+    神秘與懸疑      憂傷與失落      懷舊與回憶
+    [緊張詭異]      [悲傷沉重]      [淡淡憂傷]
+    中高能          低能            低能
+```
+
+**【快速判斷法】**
+1. 有恐怖/詭異感？ → 神秘與懸疑
+2. 深度悲傷/失戀？ → 憂傷與失落  
+3. 懷念過去/時光感？ → 懷舊與回憶
+4. 以上都不是 → 看能量：高能選激勵/愉悅，過渡選釋放，低能選平靜
 
 ### **歌手分組規則**
+
 
 - 每個情感分類下，按歌手進行子分類
 - 當同一歌手有 **2首或以上** 歌曲時，建立專門的歌手子分類：`### **歌手名 (分類縮寫)**`
@@ -32,6 +59,7 @@
 - [**音樂收藏(作者-曲名)**](#音樂收藏作者-曲名)
   - [**分類規則說明**](#分類規則說明)
     - [**情感分類系統**](#情感分類系統)
+    - [**分類關係圖**](#分類關係圖)
     - [**歌手分組規則**](#歌手分組規則)
     - [**格式規範**](#格式規範)
   - [**神秘與懸疑 Mystery \& Suspense**](#神秘與懸疑-mystery--suspense)
@@ -39,6 +67,7 @@
     - [**Hearts of Iron IV (神,疑)**](#hearts-of-iron-iv-神疑)
     - [**Europa Universalis IV (神,疑)**](#europa-universalis-iv-神疑)
     - [**Jennifer Thomas (神,疑)**](#jennifer-thomas-神疑)
+    - [**一只白羊 (神,疑)**](#一只白羊-神疑)
     - [**其他歌手 (神,疑)**](#其他歌手-神疑)
   - [**憂傷與失落 Melancholy \& Loss**](#憂傷與失落-melancholy--loss)
     - [**殘雪 (憂,失)**](#殘雪-憂失)
@@ -148,6 +177,10 @@
 
 [Illumination](https://www.youtube.com/watch?v=PEw629Bp7vU) | [Requiem For a Dream](https://www.youtube.com/watch?v=qmizqVj7TWk)
 
+### **一只白羊 (神,疑)**
+
+[黑嫁衣](https://www.youtube.com/watch?v=YAHF33ah-nc) **(*)** | [紅線囚](https://www.youtube.com/watch?v=CL1Q3SAH3nI)
+
 ### **其他歌手 (神,疑)**
 
 [**Faun - Egil Saga**](https://www.youtube.com/watch?v=LgGIOZiVCVU)
@@ -162,7 +195,12 @@
 [**Derek Fiechter \- Papyrus Scrolls**](https://www.youtube.com/watch?v=R47YbIL9_wU)  
 [**Michael Giacchino \- Light The Fuse**](https://www.youtube.com/watch?v=x0BWklF1MG4)  
 [**迪鹿 \- 吉時已到**](https://www.youtube.com/watch?v=Iw5bZQRrY4Q)**(\*)**  
-[**於貞 - 粒子們**](https://www.youtube.com/watch?v=6cU-MVJflio)
+[**於貞 - 粒子們**](https://www.youtube.com/watch?v=6cU-MVJflio)  
+[**一顆狼星 \- 白嫁衣**](https://www.youtube.com/watch?v=7CPT4xVypyA)**(\\*)**  
+[**周林楓 \- 魑魅魍魎**](https://www.youtube.com/watch?v=JLmBQdtlYzw)**(\\*)**  
+[**指尖笑 \- 詭新娘**](https://www.youtube.com/watch?v=hK8e2aZAq80)  
+[**格雷西西西 \- 提線傀儡**](https://www.youtube.com/watch?v=U4oMWHDhSaE)**(*)**  
+[**Alexander Okunev \- Shards Of Memories**](https://www.youtube.com/watch?v=IpVrOwupGyQ)
 
 ## **憂傷與失落 Melancholy & Loss**
 
@@ -184,7 +222,7 @@
 
 ### **一顆狼星 (憂,失)**
 
-[白嫁衣](https://www.youtube.com/watch?v=7CPT4xVypyA)**(*)** | [無人區玫瑰](https://www.youtube.com/watch?v=V89xw9kmQDs)**(*)** | [沙漠孤心](https://www.youtube.com/watch?v=8nNHVEkDssA)
+[無人區玫瑰](https://www.youtube.com/watch?v=V89xw9kmQDs)**(*)** | [沙漠孤心](https://www.youtube.com/watch?v=8nNHVEkDssA)
 
 ### **本兮 (憂,失)**
 
@@ -212,7 +250,7 @@
 
 ### **一只白羊 (憂,失)**
 
-[黑嫁衣](https://www.youtube.com/watch?v=YAHF33ah-nc) **(\*)** | [紅線囚](https://www.youtube.com/watch?v=CL1Q3SAH3nI) | [逃](https://www.youtube.com/watch?v=30-dSS29wwU) **(\*)** | [沖喜](https://www.youtube.com/watch?v=mjquafG3S9Y) | [遇見你就像天空的雲](https://www.youtube.com/watch?v=ZbFfC3VpFB8) **(\*)** | [河伯說](https://www.youtube.com/watch?v=c9cYziRITZU) **(\*)**
+[逃](https://www.youtube.com/watch?v=30-dSS29wwU) **(\*)** | [沖喜](https://www.youtube.com/watch?v=mjquafG3S9Y) | [遇見你就像天空的雲](https://www.youtube.com/watch?v=ZbFfC3VpFB8) **(\*)** | [河伯說](https://www.youtube.com/watch?v=c9cYziRITZU) **(\*)**
 
 ### **其他歌手**
 
@@ -292,12 +330,14 @@
 [**Dr Dre, Eminem and Skylar Gray. \- I need a doctor**](https://www.youtube.com/watch?v=6m3vtWYCuMg&list=PLjoWqaOyqJaG9ll2s3ZKC2yoxAK9XMH3b&index=32)  
 [**鞠文嫻 \- BINGBIAN**](https://www.youtube.com/watch?v=ZFw6rTEw1hA)  
 [**李一桐 \- 等**](https://www.youtube.com/watch?v=18Bft1SfK8I)  
-[**周林楓 \- 魑魅魍魎**](https://www.youtube.com/watch?v=JLmBQdtlYzw) **(\*)**  
 [**Jang Jea In \- Hallucination**](https://www.youtube.com/watch?v=tVoE9_eN8TE) **(\*)**
 [**BolBBalgan4 \- Dream**](https://www.youtube.com/watch?v=5F_FeAPoDf0)
-[**Jun Hyung \- Nightmare**](https://www.youtube.com/watch?v=CVTCIwMy-Nw)
-[**格雷西西西 \- 提線傀儡**](https://www.youtube.com/watch?v=U4oMWHDhSaE)**(\*)**
-[**夏婉安 \- 怎麼**](https://www.youtube.com/watch?v=Xl554Lyy00w)
+[**Jun Hyung \- Nightmare**](https://www.youtube.com/watch?v=CVTCIwMy-Nw)  
+[**夏婉安 \- 怎麼**](https://www.youtube.com/watch?v=Xl554Lyy00w)  
+[**柳爽 \- 漠河舞廳**](https://www.youtube.com/watch?v=HFR6XcsFlII)**(*)**  
+[**好樂團 \- 他們說我是沒有用的年輕人**](https://www.youtube.com/watch?v=FNJG6MsKO0k)  
+[**張敬軒 \- 只是太愛你**](https://www.youtube.com/watch?v=k2rVffhNd0E)  
+[**秦海清 \- 不如**](https://www.youtube.com/watch?v=tHv9XMzEnjo)
 
 ## **懷舊與回憶 Nostalgia & Memories**
 
@@ -503,7 +543,8 @@
 [**Lightscape \- Collapsing World**](https://www.youtube.com/watch?v=rT-AqiJ-tVM)  
 [**Richard Clayderman \- 秋日私語**](https://www.youtube.com/watch?v=26e3yaPIEWs)  
 [**Crusader Kings II \- The Byzantine Empire**](https://www.youtube.com/watch?v=fdsN80yoRMs)  
-[**Sweet Rain \- The Days Falling Like a Rain**](https://www.youtube.com/watch?v=89cd1cSINcY)
+[**Sweet Rain \- The Days Falling Like a Rain**](https://www.youtube.com/watch?v=89cd1cSINcY)  
+[**陳奕迅 \& 王菲 \- 因為愛情**](https://www.youtube.com/watch?v=VdwAkhNdZi8)**(*)**
 
 ## **平靜與舒緩 Peaceful & Soothing**
 
@@ -607,6 +648,8 @@
 [**Samuel Kim & Lorien \- I Really Want to Stay at Your House**](https://www.youtube.com/watch?v=9B0yX0UIN9M&t=246s)  
 [**Secret Garden \- Steps**](https://www.youtube.com/watch?v=K4kUFsAqw9E)  
 [**靈魂配樂師 \- 溯**](https://www.youtube.com/watch?v=7g0n0rEStGM)  
+[**王宇宙Leto \& 喬浚丞 \- 若月亮沒來**](https://www.youtube.com/watch?v=9fa3uL5qzpY)**(*)**  
+[**Beyoncé \- Halo**](https://www.youtube.com/watch?v=bnVUHWCynig)
 
 ## **釋放與解脫 Release & Liberation**
 
@@ -762,7 +805,8 @@ Charmer (暫無連結) | The Advisors Alliance Main Theme (暫無連結)
 [**Wiz Khalifa ft. Charlie Puth \- See You Again**](https://www.youtube.com/watch?v=HOtCQA6S0NA)  
 [**Frederik Wiedmann \- When The Going Gets Tough**](https://www.youtube.com/watch?v=HfsjDuMx9wE)  
 [**蕭全 \- 不僅僅是喜歡**](https://www.youtube.com/watch?v=N_9DQTpVwxQ)**(\*)**  
-[**Crash Adams \- New Heart**](https://www.youtube.com/watch?v=PVSSFhtlZkk)
+[**Crash Adams \- New Heart**](https://www.youtube.com/watch?v=PVSSFhtlZkk)  
+[**芊芊龍 \- 一點點**](https://www.youtube.com/watch?v=_Xqe_RtB68A)
 
 ## **激勵與奮鬥 Inspiration & Struggle**
 
