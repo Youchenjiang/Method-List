@@ -184,7 +184,8 @@
    - #### 網站管理與滲透測試工具
 
      - [AntSword](https://github.com/AntSwordProject/AntSword-Loader)（網站管理及滲透測試工具）  
-     - [Burp Suite](https://portswigger.net/burp/releases)（滲透測試工具） [(破解)](https://www.cnblogs.com/heiyu-sec/p/16987974.html)
+     - [Burp Suite](https://portswigger.net/burp/releases)（滲透測試工具） [(破解)](https://www.cnblogs.com/heiyu-sec/p/16987974.html)  
+     - [Steghide](https://steghide.sourceforge.net/download.php)（隱寫術工具）
 
    - #### 網路資訊蒐集工具
 
