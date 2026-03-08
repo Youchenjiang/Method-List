@@ -116,7 +116,8 @@
    - #### 雲端硬碟下載工具
 
      - [百度雲端硬碟](https://pan.baidu.com/download#win)（分享資源下載）  
-     - [夸克雲端硬碟](https://pan.quark.cn/)（分享資源下載）
+     - [夸克雲端硬碟](https://pan.quark.cn/)（分享資源下載）  
+     - [Google Drive](https://support.google.com/a/users/answer/13022292?hl=zh-Hant)（雲端硬碟備份與同步處理）
 
    - #### 通用檔案下載工具
 
