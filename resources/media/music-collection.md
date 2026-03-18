@@ -650,7 +650,8 @@
 [**Secret Garden \- Steps**](https://www.youtube.com/watch?v=K4kUFsAqw9E)  
 [**靈魂配樂師 \- 溯**](https://www.youtube.com/watch?v=7g0n0rEStGM)  
 [**王宇宙Leto \& 喬浚丞 \- 若月亮沒來**](https://www.youtube.com/watch?v=9fa3uL5qzpY)**(*)**  
-[**Beyoncé \- Halo**](https://www.youtube.com/watch?v=bnVUHWCynig)
+[**Beyoncé \- Halo**](https://www.youtube.com/watch?v=bnVUHWCynig)  
+[**Epic Music VN \- MOONLIGHT ON THE DREAM WORLD**](https://www.youtube.com/watch?v=U2uB0NYqGas)
 
 ## **釋放與解脫 Release & Liberation**
 
