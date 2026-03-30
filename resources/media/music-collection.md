@@ -651,7 +651,8 @@
 [**靈魂配樂師 \- 溯**](https://www.youtube.com/watch?v=7g0n0rEStGM)  
 [**王宇宙Leto \& 喬浚丞 \- 若月亮沒來**](https://www.youtube.com/watch?v=9fa3uL5qzpY)**(*)**  
 [**Beyoncé \- Halo**](https://www.youtube.com/watch?v=bnVUHWCynig)  
-[**Epic Music VN \- MOONLIGHT ON THE DREAM WORLD**](https://www.youtube.com/watch?v=U2uB0NYqGas)
+[**Epic Music VN \- MOONLIGHT ON THE DREAM WORLD**](https://www.youtube.com/watch?v=U2uB0NYqGas)  
+[**Aure \- The shire**](https://www.youtube.com/watch?v=5meAob0fJYY)
 
 ## **釋放與解脫 Release & Liberation**
 
