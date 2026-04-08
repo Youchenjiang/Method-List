@@ -6,7 +6,8 @@
 
 [W3schools](https://www.w3schools.com/)：程式碼學習  
 [Can I Use](https://caniuse.com/)：程式碼學習  
-[MIT App Inventor](https://appinventor.mit.edu/)：製作安卓手機APP
+[MIT App Inventor](https://appinventor.mit.edu/)：製作安卓手機APP  
+[Hello Algo](https://www.hello-algo.com/)：動畫圖解教學，快速入門資料結構與演算法
 
 ### 語言學習
 
@@ -81,7 +82,8 @@
 ### 開發者工具
 
 [Amazon Cognito](https://aws.amazon.com/cognito/)：將使用者註冊、登入和存取控制新增至 Web 和行動應用程式  
-[Jules](https://jules.google.com/session)：協助開發的網站，能讀取GitHub來源並將修改完的提交回去作為新分支
+[Jules](https://jules.google.com/session)：協助開發的網站，能讀取GitHub來源並將修改完的提交回去作為新分支  
+[Webhook.site](https://webhook.site/)：測試與除錯 Webhook
 
 ## **推薦工具**
 
