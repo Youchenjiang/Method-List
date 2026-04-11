@@ -1,62 +1,59 @@
 # System Prompts 系統提示詞集合
 
-此資料夾存放各種 AI 助手的系統提示詞（System Prompts），用於定義 AI 的角色、行為準則與回應風格。
+此資料夾存放各式系統提示詞（System Prompts），用於定義 AI 的角色、專業領域與核心邏輯。
 
-## 📋 命名規則
+## 📋 命名規範
 
-檔案命名格式：`{角色名稱}_{變體類型}.md`（若同一檔需容納多個 Profile，可使用 `_profiles` 後綴，例如 `data-organization-expert_profiles.md`）
+檔案命名統一遵循：`{角色名稱}_{變體類型}.md`
 
-- **角色名稱**：描述 AI 扮演的角色（例如：data-organization-expert、teacher）
-- **變體類型**：同一角色的不同版本或風格（例如：base、detailed、concise、experimental）
-
-### 範例
-- `data-organization-expert_base.md` - 資料整理專家的基礎版本
-- `data-organization-expert_detailed.md` - 資料整理專家的詳細版本
-- `teacher_base.md` - 教師角色的基礎版本
-- `teacher_casual.md` - 教師角色的輕鬆版本
-
-## 📚 現有提示詞
-
-### 資料整理專家 (Data Organization Expert)
-
-| 檔案 | 版本 | 說明 | 適用情境 |
-|------|------|------|----------|
-| `data-organization-expert_profiles.md` | v4.2 | 單檔整合三個 Profile（故事串聯策展師 / 全息概念重建師 + Turbo / 同儕洞察教練），內建動態模組互補、結構與敘事平衡，主動補完圖表/計算示例並提示可啟動的深化模組 | 從考前複習、深度拆解到第三人稱觀點都可一次完成，並減少來回追問 |
-
-### 聊天助理 & 實用提示詞 (Chat Assistants & Utilities)
-
-| 檔案 | 說明 | 適用情境 |
-|------|------|----------|
-| `chat-assistants_collection.md` | 各種實用 AI 提示詞集合，包含角色扮演、工作輔助等 | 需要特定風格的聊天助理或開發工具輔助時使用 |
-
-## 💡 使用建議
-
-1. **選擇適合的版本**：根據任務需求選擇對應的變體
-2. **保留所有版本**：不要刪除舊版本，方便日後對比和回溯
-3. **記錄差異**：建立新變體時，在此 README 中記錄其特點與用途
-4. **實驗性版本**：可以使用 `_experimental` 後綴來標記正在測試的版本
-
-## 🔄 版本演進追蹤
-
-如需記錄某個角色提示詞的演進歷史，建議在對應的檔案中加入版本資訊區塊：
-
-```markdown
-## 版本資訊
-- 創建日期: YYYY-MM-DD
-- 最後更新: YYYY-MM-DD
-- 版本: v1.0
-- 變更記錄: [簡述主要變更]
-```
-
-## 📝 新增提示詞指南
-
-當您要新增一個新的系統提示詞時：
-
-1. 確定角色名稱和變體類型
-2. 建立對應的 `.md` 檔案
-3. 在本 README 的「現有提示詞」區塊中更新表格
-4. 在檔案末尾加入版本資訊
+- **角色名稱**：描述 AI 的核心職能（例如：`doc-processor`、`exam-consultant`）。
+- **變體類型**：區分功能版本（例如：`profiles` 表示包含多個子角色、`base` 表示基礎版、`holographic` 表示全息深度版）。
 
 ---
 
-**最後更新：2025-11-25**（data-organization-expert_profiles.md 升級至 v4.2）
+## 📚 提示詞分類導覽
+
+### 1. 知識消化與文件處理 (Document Digestion)
+用於將大量原始資料轉化為結構化知識。
+
+| 檔案 | 包含角色 (Profiles) | 核心用途 | 適用情境 |
+| :--- | :--- | :--- | :--- |
+| **[data-organization-expert_profiles.md](file:///c:/Users/g1014308/Documents/GitHub/Youchen/Method-List/resources/system-prompts/data-organization-expert_profiles.md)** | A, B, C, D | 讀取教材、摘要、深度原理重建、大文件拆解。 | 從零開始學習新文件，或需要將 100 頁以上的資料分段深潛。 |
+
+> **Profile 說明：**
+> *   **Profile A (Storyline)**: 串連前後文故事線。
+> *   **Profile B (Concept)**: 原子級深度拆解，強制不簡化。
+> *   **Profile C (Insight)**: 模擬同學/導師給予第三人稱回饋。
+> *   **Profile D (Progressive)**: **分段閱讀器**，解決 Token 爆掉問題，分段強拆極厚文件。
+
+### 2. 互動式學科教練 (Interactive Subject Coaching)
+用於針對特定問題進行深度解答、解題或研究引導。
+
+| 檔案 | 名稱 | 核心功能 | 適用情境 |
+| :--- | :--- | :--- | :--- |
+| **[exam-consultant_holographic.md](file:///c:/Users/g1014308/Documents/GitHub/Youchen/Method-List/resources/system-prompts/exam-consultant_holographic.md)** | 全息教材考題教練 | **答題器**：找證據、分析選項、理科運算與協議圖繪製。 | 準備考古題、練習作業題，需要 AI 展現 LaTeX 計算細節與證據溯源。 |
+| **[research-advisor_base.md](file:///c:/Users/g1014308/Documents/GitHub/Youchen/Method-List/resources/system-prompts/research-advisor_base.md)** | 研究顧問助理 | **提案引導**：蘇格拉底式提問、研究動機與 SOTA 查核。 | 撰寫期末報告提案、碩博士論文研究開發階段。 |
+
+### 3. 通用助理與開發工具 (Utilities)
+
+| 檔案 | 說明 | 適用情境 |
+| :--- | :--- | :--- |
+| **[chat-assistants_collection.md](file:///c:/Users/g1014308/Documents/GitHub/Youchen/Method-List/resources/system-prompts/chat-assistants_collection.md)** | 包含喵大人、狐小健、林老師等角色，以及 Git Commit 自動生成器。 | 日常對話趣味性、Git 提交流程自動化。 |
+
+### 4. 元提示詞指南 (Meta-Prompting)
+
+| 檔案 | 說明 | 適用情境 |
+| :--- | :--- | :--- |
+| **[prompt-design-best-practices.md](file:///c:/Users/g1014308/Documents/GitHub/Youchen/Method-List/resources/system-prompts/prompt-design-best-practices.md)** | 提示詞設計的最佳實踐與規範。 | 當你需要自己設計或修改系統提示詞時的參考手冊。 |
+
+---
+
+## ⚡ 核心守則 (Global Guardrails)
+所有專業 Profiles 皆受以下「天條」約束：
+1. **No Hallucination**: 禁止捏造數據與引用。
+2. **Pedagogical Logic**: 非僅給答案，而是透過深度解析引導學習。
+3. **Depth Mandate**: 寧可詳細論述也不可點到為止，嚴禁暗示性的跳過（如「以此類推」）。
+4. **Traditional Chinese**: 全程繁體中文輸出。
+
+---
+**最後更新：2026-04-11** (整合 Crypto 邏輯、區分 D 讀與教練答、統一命名規範)
