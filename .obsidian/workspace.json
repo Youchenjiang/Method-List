@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7f3fb744ae85ba54",
+        "id": "07ab3f2a9f02c6d4",
         "type": "tabs",
         "children": [
           {
-            "id": "14b8db9674785541",
+            "id": "8d28db57fbe2ba96",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 283.5
   },
   "right": {
     "id": "e9f02469e3fa81be",
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "topics/ai/machine-learning/Related Works for [A1].md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向連結"
+              "title": "Related Works for [A1] 的反向連結"
             }
           },
           {
@@ -108,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "topics/ai/machine-learning/Karate-BOLA-Guard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "對外連結"
+              "title": "Karate-BOLA-Guard 的對外連結"
             }
           },
           {
@@ -150,20 +152,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
+                "file": "未命名.base",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大綱"
+              "title": "未命名 的大綱"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,16 +179,26 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "14b8db9674785541",
+  "active": "66f32881f5c4331c",
   "lastOpenFiles": [
+    "未命名.base",
+    "topics/ai/machine-learning/未命名 1.md",
+    "resources/system-prompts/未命名.md",
+    "commit_msg.txt",
+    "topics/mindset/fortunes.md",
+    "topics/mindset",
+    "topics/ai/machine-learning/review-feature-filter-methods-in-predicting-student.md",
+    "topics/ai/machine-learning/review-feature-filter-methods-in-cancer-detection.md",
+    "topics/ai/machine-learning/Related Works for [A1].md",
+    "topics/ai/machine-learning/Related Works for [A1] - backup.md",
+    "topics/ai/machine-learning/Related Works for [A1] - 複製.md",
+    "topics/ai/machine-learning/Karate-BOLA-Guard.md",
+    "topics/ai/machine-learning/未命名.md",
     "commit_msg_batch2.txt",
     "commit_msg_batch1.txt",
-    "topics/ai/machine-learning/review_feature_filter_methods.md",
-    "topics/ai/machine-learning/未命名.md",
     "resources/system-prompts/chat-assistants_collection.md",
     "topics/ai/machine-learning/Review and Experimental of Using Feature Selection Filter Methods in Predicting Student Performance Dataset.md",
     "topics/ai/machine-learning",
-    "commit_msg.txt",
     "status.txt",
     "README.zh-TW.md",
     "README.md",
