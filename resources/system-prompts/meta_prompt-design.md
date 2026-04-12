@@ -295,7 +295,8 @@ This represents a standard, monolithic harness approach.
 
 ## 🔗 相關資源
 
-- [data-organization-expert_profiles.md](./data-organization-expert_profiles.md) - 實際應用這些最佳實踐的提示詞範例
+- [digest_storyline-curator.md](./digest_storyline-curator.md) - 分段消化提示詞範例
+- [digest_concept-rebuilder_holographic.md](./digest_concept-rebuilder_holographic.md) - 全息重建提示詞範例
 - [Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) - OpenAI 的提示詞工程指南
 
 ---
