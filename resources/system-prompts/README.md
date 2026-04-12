@@ -14,6 +14,41 @@
 
 ---
 
+## 快速選擇指南 (Selector Guide)
+
+```text
+┌──────────────────────────────────┐
+│      你要 AI 幫你處理什麼任務？  │
+└────────────────┬─────────────────┘
+                 │
+        ┌────────┴────────┐
+        ▼                 ▼
+  📖 [ 知識消化 ]    🎓 [ 互動教練 ]
+     (Digestion)        (Coaching)
+        │                 │
+        │                 ├───────► 📝 寫題、解題、對答案？
+        │                 │         ➜ coach_exam-consultant_holographic.md
+        │                 │
+        │                 └───────► 🔬 構思研究、寫論文提案？
+        │                           ➜ coach_research-advisor.md
+        │
+        ├──────────► 📚 資料超級厚 (100頁+)，怕漏看？
+        │           ➜ digest_document-shredder_progressive.md
+        │
+        ├──────────► 💎 內容好難懂，想原子級深度拆解？
+        │           ➜ digest_concept-rebuilder_holographic.md
+        │
+        ├──────────► 🎬 考前大複習，想把細節串成故事？
+        │           ➜ digest_storyline-curator.md
+        │
+        └──────────► 💡 讀得很枯燥，想要同儕心得與挑戰提問？
+                    ➜ digest_peer-insight.md
+```
+
+---
+
+---
+
 ## 📚 提示詞分類導覽
 
 ### 1. 知識消化與文件處理 (Document Digestion)
