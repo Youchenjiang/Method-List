@@ -108,6 +108,7 @@
     - [**AniFace (懷,憶)**](#aniface-懷憶)
     - [**BrunuhVille (懷,憶)**](#brunuhville-懷憶)
     - [**周深 (懷,憶)**](#周深-懷憶)
+    - [**GatiS (懷,憶)**](#gatis-懷憶)
     - [**其他歌手 (懷,憶)**](#其他歌手-懷憶)
   - [**平靜與舒緩 Peaceful \& Soothing**](#平靜與舒緩-peaceful--soothing)
     - [**CMJ (平,緩)**](#cmj-平緩)
@@ -438,6 +439,10 @@
 
 [餘情](https://www.youtube.com/watch?v=bo8JMu_Kn5I) | [時間之海](https://www.youtube.com/watch?v=uMEOAzBVG8A) | [繭](https://www.youtube.com/watch?v=UGCXbVHxgrc)
 
+### **GatiS (懷,憶)**
+
+[Rainland. Theme](https://www.youtube.com/watch?v=xXFeN7Ioh6U)**(*)** | [Memories Of You. Theme](https://www.youtube.com/watch?v=h-INiWQ_6dQ)
+
 ### **其他歌手 (懷,憶)**
 
 [**袁小葳 - 晚風親吻山海**](https://www.youtube.com/watch?v=JiyrAPr__fo)  
@@ -545,8 +550,7 @@
 [**Richard Clayderman \- 秋日私語**](https://www.youtube.com/watch?v=26e3yaPIEWs)  
 [**Crusader Kings II \- The Byzantine Empire**](https://www.youtube.com/watch?v=fdsN80yoRMs)  
 [**Sweet Rain \- The Days Falling Like a Rain**](https://www.youtube.com/watch?v=89cd1cSINcY)  
-[**陳奕迅 & 王菲 - 因為愛情**](https://www.youtube.com/watch?v=VdwAkhNdZi8)**(*)**  
-[**GatiS \- Rainland. Theme**](https://www.youtube.com/watch?v=xXFeN7Ioh6U)**(*)**
+[**陳奕迅 & 王菲 - 因為愛情**](https://www.youtube.com/watch?v=VdwAkhNdZi8)**(*)**
 
 ## **平靜與舒緩 Peaceful & Soothing**
 
