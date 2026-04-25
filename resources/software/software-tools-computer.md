@@ -64,7 +64,8 @@
 
      - [Kali](https://www.kali.org/)（整合滲透工具的Linux系統） [(密碼)](https://www.bilibili.com/read/cv10217865)[(中文化)](https://www.youtube.com/watch?v=JUN3VNHG-ik)  
      - [Ubuntu](https://ubuntu.com/download)（以桌面應用為主的Linux系統）  
-     - [MediaCreationToolW11](https://answers.microsoft.com/zh-hans/windows/forum/windows_11-wintop_update/%e4%bd%bf%e7%94%a8mediacreationtoolw11%e5%8d%87/dcf5f197-d41a-4ccb-8d12-3cf104572f89)（Win11修復/安裝工具）
+     - [MediaCreationToolW11](https://answers.microsoft.com/zh-hans/windows/forum/windows_11-wintop_update/%e4%bd%bf%e7%94%a8mediacreationtoolw11%e5%8d%87/dcf5f197-d41a-4ccb-8d12-3cf104572f89)（Win11修復/安裝工具）  
+     - [tiny10 23H2](https://archive.org/details/tiny-10-23-h2)（精簡版 Windows 10 系統）
 
    - #### 開機隨身碟製作工具
 
