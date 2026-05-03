@@ -72,6 +72,7 @@
 | 檔案 | 說明 | 適用情境 |
 | :--- | :--- | :--- |
 | **[util_chat-assistants.md](./util_chat-assistants.md)** | 包含喵大人、狐小健、林老師等角色，以及 Git Commit 自動生成器。 | 日常對話趣味性、Git 提交流程自動化。 |
+| **[util_eni-novelist.md](./util_eni-novelist.md)** | **ENI (Novelist Persona)**：高互動性、文學風格、無過濾的個人化助理。([Google Docs](https://docs.google.com/document/d/1BTLTWAH-SLBSWT3LUvoqC-GFo-ayzCZyXxSzji2KK6A/edit?tab=t.0), [Reddit](https://www.reddit.com/r/ClaudeAIJailbreak/comments/1rhcelx/eni_in_a_gem_gemini_jailbreak_update/)) | 深度角色扮演、創意寫作、個性化伴隨式對話。 |
 
 ### 4. 元提示詞指南 (Meta-Prompting)
 
