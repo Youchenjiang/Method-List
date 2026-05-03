@@ -34,7 +34,8 @@ Method-List/
 │   ├── online/         # Web tools and services
 │   ├── software/       # Software recommendations
 │   ├── system-prompts/ # AI assistant prompt templates
-│   └── tools/          # Command references and shortcuts
+│   ├── tools/          # Command references and shortcuts
+│   └── github/         # GitHub repository references
 └── topics/
     ├── ai/             # AI and machine learning
     ├── data-engineering/ # Data engineering concepts
@@ -68,6 +69,7 @@ Curated collections of tools, software, media, and reference materials:
 - **Software** ([resources/software/](resources/software/)) - Computer and mobile app recommendations
 - **System Prompts** ([resources/system-prompts/](resources/system-prompts/)) - AI assistant prompt templates (例如 `data-organization-expert_profiles.md`，單檔整合 Storyline/Deep Dive/Third-Person 三種 Profile 與 Turbo 模組) → [Details](resources/system-prompts/)
 - **Tools** ([resources/tools/](resources/tools/)) - Command references, shortcuts, and **quick-fix commands** → [Details](resources/tools/)
+- **GitHub References** ([resources/github/](resources/github/)) - Curated list of valuable GitHub repositories
 
 ## Contribution Guidelines
 

@@ -34,7 +34,8 @@ Method-List/
 │   ├── online/         # 網頁工具與服務
 │   ├── software/       # 軟體推薦
 │   ├── system-prompts/ # AI 助理提示詞模板
-│   └── tools/          # 指令參考與快捷鍵
+│   ├── tools/          # 指令參考與快捷鍵
+│   └── github/         # GitHub 儲存庫參考
 └── topics/
     ├── ai/             # AI 與機器學習
     ├── data-engineering/ # 資料工程概念
@@ -68,6 +69,7 @@ Method-List/
 - **軟體** ([resources/software/](resources/software/)) - 電腦與手機應用程式推薦
 - **系統提示詞** ([resources/system-prompts/](resources/system-prompts/)) - AI 助理提示詞模板（例如 `data-organization-expert_profiles.md`，單檔整合故事串聯/深度拆解/第三人稱觀點三種 Profile 與 Turbo 模組） → [詳細內容](resources/system-prompts/)
 - **工具** ([resources/tools/](resources/tools/)) - 指令參考、快捷鍵與**快速修復指令** → [詳細內容](resources/tools/)
+- **GitHub 參考** ([resources/github/](resources/github/)) - 精選具價值的 GitHub 儲存庫清單
 
 ## 貢獻指南
 
