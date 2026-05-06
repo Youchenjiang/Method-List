@@ -403,6 +403,7 @@
 
    - #### 程式逆向工程工具
 
+     - [IDA 9.1 Pro](https://bbs.kanxue.com/thread-285999.htm)（靜態反組譯與動態除錯工具）  
      - [de4dot](https://www.52pojie.cn/thread-1297009-1-1.html)（.NET反混淆和脫殼工具）  
      - [JADX](https://github.com/skylot/jadx/releases)（Android APK反編譯工具）
 
@@ -506,3 +507,6 @@
    - [Teams](https://www.microsoft.com/zh-tw/microsoft-teams/download-app)  
    - [Lark](https://www.larksuite.com/zh_cn/download?from=navbar)
 
+8. ### **Music & Audio Players**
+
+   - [汽水音樂](https://www.qishui.com/download)（抖音旗下音樂平台）
