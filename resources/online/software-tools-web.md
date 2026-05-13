@@ -73,7 +73,9 @@
 
 ### 資安與 CTF
 
-[Webhook.site](https://webhook.site/)：即時接收與解析 HTTP 請求，常用於 CTF 比賽中接收 OOB (Out-of-Band) 資訊，例如 XSS 竊取 Cookie 或 SSRF 請求回傳。
+[Webhook.site](https://webhook.site/)：即時接收與解析 HTTP 請求，常用於 CTF 比賽中接收 OOB (Out-of-Band) 資訊，例如 XSS 竊取 Cookie 或 SSRF 請求回傳。  
+[CrackStation](https://crackstation.net/)：線上 Hash 破解工具，擁有龐大的 Rainbow Tables，可用於破解 MD5、SHA1 等多種常見雜湊。  
+[CyberChef](https://gchq.github.io/CyberChef/)：資安界的「瑞士刀」，支援編解碼、加解密、格式轉換等多種資料處理功能。
 
 ### 系統工具
 
