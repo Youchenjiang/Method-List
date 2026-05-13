@@ -71,6 +71,10 @@
 [Virustotal](https://www.virustotal.com/gui/home/upload)：檢測檔案病毒  
 [Have I Been Pwned](https://haveibeenpwned.com/Passwords)：檢測密碼是否洩漏
 
+### 資安與 CTF
+
+[Webhook.site](https://webhook.site/)：即時接收與解析 HTTP 請求，常用於 CTF 比賽中接收 OOB (Out-of-Band) 資訊，例如 XSS 竊取 Cookie 或 SSRF 請求回傳。
+
 ### 系統工具
 
 [Online link generator for Microsoft Store](https://store.rg-adguard.net/)：微軟商店套件
@@ -82,8 +86,7 @@
 ### 開發者工具
 
 [Amazon Cognito](https://aws.amazon.com/cognito/)：將使用者註冊、登入和存取控制新增至 Web 和行動應用程式  
-[Jules](https://jules.google.com/session)：協助開發的網站，能讀取GitHub來源並將修改完的提交回去作為新分支  
-[Webhook.site](https://webhook.site/)：測試與除錯 Webhook
+[Jules](https://jules.google.com/session)：協助開發的網站，能讀取GitHub來源並將修改完的提交回去作為新分支
 
 ## **推薦工具**
 
