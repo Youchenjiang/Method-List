@@ -110,4 +110,5 @@
 [AHA Music](https://chrome.google.com/webstore/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf)：判斷目前播放的曲名  
 [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)：阻擋廣告  
 [UltraSurf Security](https://chrome.google.com/webstore/detail/ultrasurf-security-privac/mjnbclmflcpookeapghfhapeffmpodij?hl=zh-TW)：連接代理美國ip  
-[Infinite Volume Booster](https://chrome.google.com/webstore/detail/infinite-volume-booster/nipbnfmgpgcabijookcnoienpfodnmhc/related?utm_source=ext_app_menu)：分頁音量控制
+[Infinite Volume Booster](https://chrome.google.com/webstore/detail/infinite-volume-booster/nipbnfmgpgcabijookcnoienpfodnmhc/related?utm_source=ext_app_menu)：分頁音量控制  
+[GoFullPage](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)：完整網頁螢幕截圖工具
