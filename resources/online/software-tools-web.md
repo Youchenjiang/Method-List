@@ -75,11 +75,14 @@
 
 [Webhook.site](https://webhook.site/)：即時接收與解析 HTTP 請求，常用於 CTF 比賽中接收 OOB (Out-of-Band) 資訊，例如 XSS 竊取 Cookie 或 SSRF 請求回傳。  
 [CrackStation](https://crackstation.net/)：線上 Hash 破解工具，擁有龐大的 Rainbow Tables，可用於破解 MD5、SHA1 等多種常見雜湊。  
-[CyberChef](https://gchq.github.io/CyberChef/)：資安界的「瑞士刀」，支援編解碼、加解密、格式轉換等多種資料處理功能。
+[CyberChef](https://gchq.github.io/CyberChef/)：資安界的「瑞士刀」，支援編解碼、加解密、格式轉換等多種資料處理功能。  
+[Shodan](https://www.shodan.io/)：物聯網裝置搜尋引擎，可用於搜尋曝露在網際網路上的伺服器、路由器、監視器等設備及其開放的埠口與服務資訊。  
+[DNSDumpster](https://dnsdumpster.com/)：DNS 偵察與研究工具，可快速查詢目標網域之 DNS 紀錄、子網域、IP 位址並視覺化呈現網域關係圖。
 
 ### 系統工具
 
-[Online link generator for Microsoft Store](https://store.rg-adguard.net/)：微軟商店套件
+[Online link generator for Microsoft Store](https://store.rg-adguard.net/)：微軟商店套件  
+[v86](https://copy.sh/v86/)：純瀏覽器端運行的 x86 虛擬機，支援在瀏覽器中直接啟動並執行 Linux、Windows、BSD 等多種作業系統。
 
 ### 知識分享
 
@@ -111,4 +114,5 @@
 [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)：阻擋廣告  
 [UltraSurf Security](https://chrome.google.com/webstore/detail/ultrasurf-security-privac/mjnbclmflcpookeapghfhapeffmpodij?hl=zh-TW)：連接代理美國ip  
 [Infinite Volume Booster](https://chrome.google.com/webstore/detail/infinite-volume-booster/nipbnfmgpgcabijookcnoienpfodnmhc/related?utm_source=ext_app_menu)：分頁音量控制  
-[GoFullPage](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)：完整網頁螢幕截圖工具
+[GoFullPage](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)：完整網頁螢幕截圖工具  
+[Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=zh-TW)：網頁技術分析工具，可偵測網站所使用的 CMS、網頁伺服器、程式語言、分析工具與 JavaScript 框架等技術。
