@@ -11,6 +11,7 @@
 | 文件 | 說明 | 適用情境 |
 |------|------|----------|
 | [command-reference.md](command-reference.md) | CMD、PowerShell、Anaconda、Git 等指令 | 需要執行命令列操作時查閱 |
+| [agent-cli-reference.md](agent-cli-reference.md) | AI Agent CLI / 專用助理設定路徑與說明 | 設定或微調 AI 助理（Codex, Gemini, Antigravity）的 MCP 與 Instructions 時查閱 |
 
 ### ⌨️ 快捷鍵與工具
 
@@ -40,6 +41,7 @@
 - **開發工具:** command-reference.md
 - **數據處理:** excel-reference.md
 - **瀏覽器:** browser-flags-reference.md
+- **AI 助理設定:** agent-cli-reference.md
 
 ### 按工具查找
 
@@ -66,6 +68,7 @@
 resources/tools/
 ├── README.md                        (本文件 - 導覽索引)
 ├── command-reference.md             (命令列指令)
+├── agent-cli-reference.md           (AI Agent 設定路徑)
 ├── shortcuts-reference.md           (快捷鍵與工具)
 ├── excel-reference.md               (Excel 參考)
 └── browser-flags-reference.md       (瀏覽器設定)
