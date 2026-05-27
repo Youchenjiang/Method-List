@@ -5,6 +5,7 @@
 | 儲存庫 | 說明 | 主要特點 |
 | :--- | :--- | :--- |
 | [Humanizer-zh-TW](Humanizer-zh-TW.md) | AI 寫作人性化工具（繁體中文版）。 | 安裝方式 (add-skill 支援 Antigravity/Claude)、使用範例。 |
+| [Andrej Karpathy Skills](andrej-karpathy-skills.md) | 優化 AI 編碼代理工具行為的設定規範 (CLAUDE.md)。 | 先思考再寫、極簡至上、精準修改 (Surgical)、目標導向。 |
 
 ## 資訊安全與 OSINT
 | 儲存庫 | 說明 | 主要特點 |

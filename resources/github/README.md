@@ -5,6 +5,7 @@
 | Repository | Description | Key Features |
 | :--- | :--- | :--- |
 | [Humanizer-zh-TW](Humanizer-zh-TW.md) | AI writing humanizer tool (Traditional Chinese). | Installation (add-skill for Antigravity/Claude), Usage. |
+| [Andrej Karpathy Skills](andrej-karpathy-skills.md) | Guidelines for optimizing AI coding agent behaviors. | Think Before Coding, Simplicity, Surgical Changes. |
 
 ## Security & OSINT
 | Repository | Description | Key Features |
