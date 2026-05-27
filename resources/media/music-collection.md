@@ -223,7 +223,7 @@
 
 ### **一顆狼星 (憂,失)**
 
-[無人區玫瑰](https://www.youtube.com/watch?v=V89xw9kmQDs)**(*)** | [沙漠孤心](https://www.youtube.com/watch?v=8nNHVEkDssA)
+[無人區玫瑰](https://www.youtube.com/watch?v=V89xw9kmQDs)**(*)** | [沙漠孤心](https://www.youtube.com/watch?v=8nNHVEkDssA) | [精衛](https://www.youtube.com/watch?v=dKRwMm0ktJs)
 
 ### **本兮 (憂,失)**
 
