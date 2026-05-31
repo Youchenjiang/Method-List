@@ -109,6 +109,7 @@
     - [**BrunuhVille (懷,憶)**](#brunuhville-懷憶)
     - [**周深 (懷,憶)**](#周深-懷憶)
     - [**GatiS (懷,憶)**](#gatis-懷憶)
+    - [**等什麼君 (懷,憶)**](#等什麼君-懷憶)
     - [**其他歌手 (懷,憶)**](#其他歌手-懷憶)
   - [**平靜與舒緩 Peaceful \& Soothing**](#平靜與舒緩-peaceful--soothing)
     - [**CMJ (平,緩)**](#cmj-平緩)
@@ -444,6 +445,10 @@
 
 [Rainland. Theme](https://www.youtube.com/watch?v=xXFeN7Ioh6U)**(*)** | [Memories Of You. Theme](https://www.youtube.com/watch?v=h-INiWQ_6dQ)
 
+### **等什麼君 (懷,憶)**
+
+[赤伶](https://www.youtube.com/watch?v=IaqgR0e-ra0) | [春庭雪](https://www.youtube.com/watch?v=Tj34AFR3YK0)
+
 ### **其他歌手 (懷,憶)**
 
 [**袁小葳 - 晚風親吻山海**](https://www.youtube.com/watch?v=JiyrAPr__fo)  
@@ -493,7 +498,6 @@
 [**浮生夢 \- 星月落**](https://www.youtube.com/watch?v=x9ZqOp3oTpc&ab_channel=COYMusicChannel)  
 [**黃詩扶 \- 良辰夜**](https://www.youtube.com/watch?v=jkBNn_wcW_Q)  
 [**伊格賽聽 \- 識途**](https://www.youtube.com/watch?v=2zGTM2LzgpQ)  
-[**等什麼君 \- 赤伶**](https://www.youtube.com/watch?v=IaqgR0e-ra0)  
 [**Ayasa \- 告白之夜**](https://www.youtube.com/watch?v=qDvKVxFe7VA)  
 [**郭靜 \- 該忘的日子**](https://www.youtube.com/watch?v=HO56HomZBtA)  
 [**藍心羽 \- 星空剪影**](https://www.youtube.com/watch?v=euwpeHyWwTI)  
