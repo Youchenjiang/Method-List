@@ -11,6 +11,10 @@
 | [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | Advanced MCP server for AI agents to run 150+ cybersecurity tools. | Security agent integration, tool bridging, autonomous pentesting. |
 | [omi](https://github.com/BasedHardware/omi) | AI agent that sees your screen, listens to conversations and gives prompts. | Screen/audio capturing, wearable device integration, real-time advice. |
 | [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Curated collection of 100+ runnable AI Agent and RAG applications. | AI templates, multi-framework examples, deploy-ready code. |
+| [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | Bash-based nano Claude Code-like agent harness built from scratch. | Simple bash script structure, AI agent harness, minimal tool loops. |
+| [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Collection of system prompts and internal tools used by major AI products. | Comprehensive prompt database (Cursor, Claude Code, Devin, Perplexity, etc.), model references. |
+| [Operit](https://github.com/AAswordman/Operit) | Highly powerful and long-standing AI Agent and chat application on Android. | Native Android integration, LLM chat client, agent workflows. |
+| [screenpipe](https://github.com/screenpipe/screenpipe) | Local, private 24/7 recording of everything you see, say, or hear, designed for AI integration. | Screen recording, audio transcription, local API, privacy-first storage. |
 
 ## Security, Pentesting & OSINT
 | Repository | Description | Key Features |
@@ -20,6 +24,9 @@
 | [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Software reverse engineering (SRE) suite developed by the NSA. | Disassembly, decompilation, graph visualization, multi-platform analysis. |
 | [strix](https://github.com/usestrix/strix) | Open-source AI hackers to find and patch application vulnerabilities. | Vulnerability discovery, automatic code patching, AI security auditing. |
 | [OneForAll](https://github.com/shmilylty/OneForAll) | Comprehensive and powerful subdomain collection tool for pentesting. | Multi-module gatherers, high speed, DNS resolution, output formatting. |
+| [MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) | Curated repository of various malware samples and collections for research. | Malware index, source code collections, educational security repository. |
+| [BitlockMove](https://github.com/rtecCyberSec/BitlockMove) | Lateral movement technique via Bitlocker DCOM interfaces and COM hijacking. | Active Directory pivoting, DCOM scripting, Bitlocker abuse vectors. |
+| [COSCUP2025-PT-LAB](https://github.com/William957-web/COSCUP2025-PT-LAB) | Security testing lab exercises and Docker environments for COSCUP 2025. | Containerized labs, penetration testing practices, educational setup. |
 
 ## Document Processing, OCR & Translation
 | Repository | Description | Key Features |
@@ -38,6 +45,13 @@
 | [CV](https://github.com/AccumulateMore/CV) | Comprehensive deep learning notebook library and tutorials. | PyTorch lessons, agent architectures, large model study logs. |
 | [qlib](https://github.com/microsoft/qlib) | AI-oriented quantitative investment platform for quant research. | ML model pipeline, market simulation, RD-Agent automation. |
 | [index-tts](https://github.com/index-tts/index-tts) | Industrial-level controllable and efficient zero-shot text-to-speech system. | Zero-shot speech synthesis, high quality audio generation, voice cloning. |
+| [Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) | Creative visual generation examples using the Gemini 2.5 Flash Image model. | Image generation prompts, model showcases, dataset releases (Nano-consistent-150K). |
+| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | Curriculum containing 21 lessons to get started with Generative AI development. | Jupyter Notebooks, AI development foundation, Microsoft Azure integration. |
+| [Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) | NeurIPS 2025 paper-to-poster multi-agent pipeline generator. | Scientific poster generation, LLM multi-agent framework, automatic layout. |
+| [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | PyTorch step-by-step implementation of a ChatGPT-like LLM from scratch. | PyTorch coding guides, transformer architecture details, weights loading. |
+| [mad-professor-public](https://github.com/LYiHub/mad-professor-public) | AI reading companion designed for analyzing and digesting scientific papers. | Interactive paper reading, AI notes generator, reference citation mapping. |
+| [BiliNote](https://github.com/JefferyHcool/BiliNote) | AI tool for generating structured summaries and study notes from Bilibili videos. | Video transcription, structured summaries, interactive study cards. |
+| [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) | Collection of images and detailed prompts generated with GPT-4o and Sora. | Prompt engineering templates, visual showcases, video prompt collections. |
 
 ## Developer Tools & Applications
 | Repository | Description | Key Features |
@@ -55,3 +69,19 @@
 | [GameHub](https://github.com/ThanatosJun/GameHub) | Game center administration and hosting portal. | Multi-game hosting, client integration, user registration. |
 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | CS curriculum, algorithm guides, system design resources. |
 | [mkcert](https://github.com/FiloSottile/mkcert) | Zero-config tool to generate locally trusted development SSL certificates. | CA installation, multi-domain support, works on localhost instantly. |
+| [Anime-Imprimatura](https://github.com/ThanatosJun/Anime-Imprimatura) | Custom anime image/rendering style application. | Rendering filters, anime aesthetics, python-based preprocessing. |
+| [FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | Portal and scripts for registering free subdomains and domain redirects. | Dynamic DNS, domain redirection, free registrar integrations. |
+| [lightway](https://github.com/expressvpn/lightway) | ExpressVPN's open-source Rust implementation of the Lightway VPN protocol. | Ultra-lightweight VPN, high performance, cross-platform Rust library. |
+| [IinvitationSystemPractice](https://github.com/cin-gf/IinvitationSystemPractice) | Practice system implementing invitation codes and referral tracking in Java. | Invitation logic, database schema design, enterprise Java setup. |
+| [n8n-free-templates](https://github.com/wassupjay/n8n-free-templates) | Curated collection of 200+ free workflows combining n8n with AI stacks. | Ready-to-import JSONs, Vector DB nodes, automated AI workflows. |
+| [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Multi-platform scraper for Xiaohongshu, Douyin, Kuaishou, Bilibili, Weibo, Zhihu. | Social media crawling, post/video details scraping, comment extraction. |
+| [TDD_practice](https://github.com/andyyouts/TDD_practice) | C# TDD coding exercises and unit testing practices. | Unit testing suite, mock object implementation, developer exercises. |
+| [allinssl](https://github.com/allinssl/allinssl) | All-in-one platform for SSL/TLS certificate application, deployment and monitoring. | Automated Let's Encrypt renewal, multicloud deployment, expiry monitoring. |
+| [public-apis](https://github.com/public-apis/public-apis) | Collective and massive list of public APIs for developers. | API catalog, categorized references, free endpoints. |
+| [carnac](https://github.com/Code52/carnac) | Key press utility displaying keyboard shortcuts on-screen during presentations. | On-screen overlay, shortcut mapping, developer utility. |
+| [vcard](https://github.com/1chooo/vcard) | Digital vCard generator for creating interactive business profiles. | Responsive profile page, customizable templates, TypeScript based. |
+| [BongoCat](https://github.com/ayangweb/BongoCat) | Cute cross-platform interactive desktop companion pet (Bongo Cat). | Vue-powered UI, mouse/keyboard tracking reaction, desktop widget. |
+| [free-for-dev](https://github.com/ripienaar/free-for-dev) | Huge index of SaaS, PaaS, and IaaS offerings providing free tiers for developers. | Cost-saving index, developer resources, cloud credits collections. |
+| [wasp](https://github.com/wasp-lang/wasp) | Full-stack framework combining React, Node.js and Prisma with declarative code. | Automated auth, background job orchestration, end-to-end type safety. |
+| [winutil](https://github.com/ChrisTitusTech/winutil) | Windows customization and utility toolbox for debloating, installing and tweaking. | Package manager integrations, debloat scripts, system adjustments. |
+| [HowToCook](https://github.com/Anduin2017/HowToCook) | A cooking guidebook for programmers outlining structured, reproducible recipes. | Logical recipes, measurement tables, clear cooking instructions. |
