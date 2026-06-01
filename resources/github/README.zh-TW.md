@@ -1,87 +1,174 @@
 # GitHub 參考清單
-*精選具有價值的 GitHub 儲存庫彙整。*
+*精選具有價值的 GitHub 儲存庫彙整，並依照專業領域進行細粒度分類。*
 
-## Agent Skills (代理程式技能)
-| 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
-| :--- | :--- | :--- |
-| [Humanizer-zh-TW](Humanizer-zh-TW.md) | Python | 12 | 2 | 2026-05-31 | AI 寫作人性化工具（繁體中文版）。 | 安裝方式 (add-skill 支援 Antigravity/Claude)、使用範例。 |
-| [Andrej Karpathy Skills](andrej-karpathy-skills.md) | Markdown | 85 | 10 | 2026-05-23 | 優化 AI 編碼代理工具行為的設定規範 (CLAUDE.md)。 | 先思考再寫、極簡至上、精準修改 (Surgical)、目標導向。 |
-| [agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 106,662 | 17,601 | 2026-06-01 | 完整的 AI 代理機構，包含前端、社群等多種領域的專業代理。 | 基於角色的工作流、已驗證的交付件。 |
-| [autoresearch](https://github.com/karpathy/autoresearch) | Python | 84,536 | 12,277 | 2026-06-01 | 在單張 GPU 上自動運行 nanochat 訓練研究的 AI 代理。 | 自動化機器學習研究、單卡最佳化、自主閉環。 |
-| [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | Python | 9,069 | 1,969 | 2026-06-01 | 讓 AI 代理能夠自主運行 150+ 種網路安全與滲透測試工具的 MCP 伺服器。 | 安全代理整合、工具橋接、自主滲透測試。 |
-| [omi](https://github.com/BasedHardware/omi) | Dart | 12,683 | 2,010 | 2026-06-01 | 能看見螢幕、傾聽對話並提供指引與提示的個人 AI 穿戴式代理。 | 螢幕與音訊捕捉、穿戴式硬體整合、即時建議。 |
-| [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 112,494 | 16,693 | 2026-06-01 | 超過 100 個可直接運行、客製化與部署的 AI Agent 和 RAG 應用程式。 | AI 範本、多框架支援、即裝即用程式碼。 |
-| [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | Python | 64,073 | 10,469 | 2026-06-01 | 基於 Bash 從零構建的類似 Claude Code 的奈米級代理主控工作框架。 | 簡易的 Bash 程式架構、AI 代理控制、簡約的工具循環。 |
-| [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Markdown | 138,668 | 34,512 | 2026-06-01 | 收集了各大主流 AI 產品與工具內部所使用的系統提示詞 (System Prompts) 與模型配置。 | 完整的提示詞資料庫（含 Cursor, Claude Code, Devin, Perplexity 等）、模型調用參考。 |
-| [Operit](https://github.com/AAswordman/Operit) | Kotlin | 4,944 | 403 | 2026-06-01 | Android 平台上能力最強大、發展歷史最悠久的 AI 智慧型代理與聊天軟體。 | 原生 Android 系統整合、LLM 聊天客戶端、Agent 工作流。 |
-| [screenpipe](https://github.com/screenpipe/screenpipe) | Rust | 19,044 | 1,782 | 2026-06-01 | 24 小時不間斷地記錄你所看到、說出或聽到的內容，專為結合 AI 應用的本地隱私記錄器。 | 螢幕畫面記錄、音訊聽寫、本地 API 接口、隱私優先儲存。 |
+> [!NOTE]
+> 專案的星星數（Stars）與分支數（Forks）等數據最後更新於：`2026-06-02`。
 
-## 資訊安全、滲透測試與 OSINT
+## AI 智慧代理與 LLM 工作流工具
+### 自主代理與開發框架
 | 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
-| :--- | :--- | :--- |
-| [Maigret](maigret.md) | Python | 11,050 | 1,200 | 2026-06-01 | 進階 OSINT 使用者名稱搜尋工具。 | 支援 3000+ 網站、遞迴搜尋、網頁 UI、多種報告格式。 |
-| [cve](https://github.com/0xMarcio/cve) | Python | 1,297 | 154 | 2026-06-01 | 最新 CVE 漏洞及其概念驗證 (PoC) 利用工具收集。 | 即時 CVE 索引、PoC 代碼庫、安全參考資料。 |
-| [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | 69,081 | 7,593 | 2026-06-01 | 美國國家安全局 (NSA) 開源的軟體逆向工程 (SRE) 套件。 | 反彙編、反編譯、流程圖視覺化、多平台架構分析。 |
-| [strix](https://github.com/usestrix/strix) | Python | 25,709 | 2,879 | 2026-06-01 | 開源的 AI 駭客，用於自動檢測並修復應用程式安全漏洞。 | 漏洞挖掘、程式碼自動修補、AI 安全審計。 |
-| [OneForAll](https://github.com/shmilylty/OneForAll) | Python | 9,810 | 1,432 | 2026-06-01 | 功能強大且全方位的子網域名稱 (Subdomain) 收集工具。 | 多模組搜集器、高效掃描、DNS 解析、報表導出。 |
-| [MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) | Python | 2,830 | 589 | 2026-06-01 | 用於研究與教育目的的各類惡意軟體樣本及代碼資料庫。 | 惡意軟體索引、原始碼存檔、安全教育儲存庫。 |
-| [BitlockMove](https://github.com/rtecCyberSec/BitlockMove) | C# | 443 | 54 | 2026-06-01 | 透過 Bitlocker DCOM 介面與 COM 劫持實現橫向移動的安全性檢測工具。 | 域控橫向移動、DCOM 腳本技術、Bitlocker 機制漏洞研究。 |
-| [COSCUP2025-PT-LAB](https://github.com/William957-web/COSCUP2025-PT-LAB) | Dockerfile | 7 | 0 | 2026-04-24 | 2025 年 COSCUP 大會上的滲透測試實驗室環境與 Docker 設定檔。 | 容器化實驗靶機、安全滲透演練、教育訓練環境。 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python | 184,695 | 46,197 | 2026-06-02 | 用於建構、測試與運行自主性 AI Agent 的著名開源框架。 | 自主運作工作流、插件生態系、網頁抓取與任務執行工具。 |
+| [agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 106,662 | 17,601 | 2026-06-01 | Shell | 106,662 |
+| [autoresearch](https://github.com/karpathy/autoresearch) | Python | 84,536 | 12,277 | 2026-06-01 | Python | 84,536 |
 
-## 文件處理、OCR 與翻譯
+### 編碼助手與提示詞工具
 | 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
-| :--- | :--- | :--- |
-| [PDFMathTranslate](pdf-math-translate.md) | Python | 5,620 | 485 | 2026-06-01 | 保留排版與公式的 PDF 學術論文翻譯工具。 | 雙語 PDF 生成、CLI/GUI、版面保留、公式保留。 |
-| [OpenDataLoader PDF](opendataloader-pdf.md) | TypeScript | 324 | 32 | 2026-06-01 | AI 驅動的 PDF 結構化解析與提取工具 (Markdown/JSON/HTML)。 | 本地處理保障隱私、OCR、適合 RAG 的數據提取、表格/圖表識別。 |
-| [liteparse](https://github.com/run-llama/liteparse) | Rust | 8,651 | 513 | 2026-06-01 | 快速、好用且開源的文檔解析器 (Document Parser)。 | Markdown 格式化、高性能、結構化文本提取。 |
-| [chandra](https://github.com/datalab-to/chandra) | Python | 11,060 | 1,148 | 2026-06-01 | 支援複雜表格、表單、手寫字體以及完整版面分析的 OCR 模型。 | 高精度表格解析、表單結構提取、手寫 OCR 辨識。 |
-| [ghostpdf](https://github.com/RodrigoZepeda/ghostpdf) | R | 4 | 1 | 2026-03-14 | 使用 Ghostscript 處理與操控 PDF / EPS 檔案的 R 語言封裝。 | PDF 文件操作、EPS 提取、輕量化 R 介面。 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Humanizer-zh-TW](Humanizer-zh-TW.md) | Python | 12 | 2 | 2026-05-31 | Python | 12 |
+| [Andrej Karpathy Skills](andrej-karpathy-skills.md) | Markdown | 85 | 10 | 2026-05-23 | Markdown | 85 |
+| [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | Python | 64,073 | 10,469 | 2026-06-01 | Python | 64,073 |
+| [Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/doggy8088/Mastering-GitHub-Copilot-for-Paired-Programming) | Python | 68 | 14 | 2025-02-15 | 完整掌握將 GitHub Copilot 作為 AI 協同開發 Paired Programming 資源的 9 堂課指南。 | 9堂課架構、協同開發規範、實用提示語指令。 |
+| [resumx](https://github.com/resumx/resumx) | TypeScript | 154 | 19 | 2026-05-30 | TypeScript | 154 |
 
-## 人工智慧、深度學習與語音
+### LLM 應用生態圈
 | 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
-| :--- | :--- | :--- |
-| [minimind](https://github.com/jingyaogong/minimind) | Python | 50,964 | 6,522 | 2026-06-01 | 在 2 小時內從零開始訓練一個 64M 參數小模型的教學專案。 | 教育性代碼、輕量化訓練循環、預訓練與 SFT。 |
-| [ml-sharp](https://github.com/apple/ml-sharp) | Python | 8,454 | 612 | 2026-06-01 | 可以在不到一秒內完成的高解析度單目視角合成技術。 | 快速視角彩現、單張圖像輸入、高保真視角合成。 |
-| [CV](https://github.com/AccumulateMore/CV) | Jupyter Notebook | 21,510 | 2,462 | 2026-06-01 | 超級全面的深度學習筆記與教學儲存庫。 | PyTorch 教學、Agent 架構、大模型學習筆記。 |
-| [qlib](https://github.com/microsoft/qlib) | Python | 43,893 | 6,917 | 2026-06-01 | 用於量化研究的 AI 導向量化投資平台。 | 機器學習模型流水線、市場模擬、RD-Agent 自動化研發。 |
-| [index-tts](https://github.com/index-tts/index-tts) | Python | 20,894 | 2,587 | 2026-06-01 | 工業級、可控且高效的零樣本 (Zero-Shot) 語音合成系統。 | 零樣本語音合成、高品質音訊生成、聲音克隆。 |
-| [Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) | Markdown | 22,923 | 2,367 | 2026-06-01 | 精選基於 Gemini 2.5 Flash Image 視覺生成模型所產出的有趣圖片與提示詞。 | 視覺提示詞範例、效果展示、開源 Nano-consistent-150K 資料集。 |
-| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | Jupyter Notebook | 111,565 | 59,881 | 2026-06-01 | 微軟官方開源的生成式 AI 入門指南，內含 21 堂實作課程。 | Jupyter Notebook 互動教學、生成式 AI 開發基礎、結合 Azure 應用。 |
-| [Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) | Python | 3,744 | 275 | 2026-06-01 | [NeurIPS 2025] 透過多代理 (Multi-agent) 系統將學術論文自動生成海報的工具。 | 學術海報自動生成、LLM 多代理框架、視覺版面編排。 |
-| [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Jupyter Notebook | 96,457 | 14,757 | 2026-06-01 | 在 PyTorch 中從頭一步步實現類似 ChatGPT 的大語言模型。 | PyTorch 編碼指南、Transformer 架構剖析、權重加載。 |
-| [mad-professor-public](https://github.com/LYiHub/mad-professor-public) | JavaScript | 1,589 | 201 | 2026-06-01 | 專為學者與研究人員開發的 AI 學術論文閱讀與分析助理。 | 互動式論文導讀、AI 筆記摘要、參考文獻自動關聯。 |
-| [BiliNote](https://github.com/JefferyHcool/BiliNote) | TypeScript | 6,210 | 807 | 2026-06-01 | AI 影片筆記生成工具，能將 Bilibili 等影片內容自動總結並產出學習筆記。 | 影片語音轉文本、結構化摘要生成、互動式學習卡片。 |
-| [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) | JavaScript | 8,062 | 1,799 | 2026-06-01 | 精選由 GPT-4o 和 Sora 生成的優質影像與相對應的提示詞彙整。 | 提示詞工程範本、精緻圖片生成範例、Sora 影片提示展示。 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 112,494 | 16,693 | 2026-06-01 | Python | 112,494 |
+| [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | Markdown | 88,307 | 10,985 | 2026-05-26 | 精選的模型上下文協定 (Model Context Protocol, MCP) 伺服器列表目錄。 | 伺服器整合列表、AI 智慧體適配、豐富的開發工具集。 |
+| [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | TypeScript | 30,254 | 3,536 | 2026-05-29 | 用於改寫並優化 AI 提示詞以獲得更佳 AI 輸出效果的工具。 | 提示詞自動優化、效果增強、開發工作流整合。 |
+| [PromptJailbreakManual](https://github.com/Acmesec/PromptJailbreakManual) | Markdown | 3,464 | 352 | 2024-12-17 | 大語言模型 (LLM) 提示詞越獄 (Prompt Jailbreak) 指南與手冊。 | 越獄方法整理、提示詞安全性、防範與防禦指南。 |
+| [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Markdown | 138,668 | 34,512 | 2026-06-01 | Markdown | 138,668 |
 
-## 開發工具與應用程式
+### 穿戴式與桌面代理
 | 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
-| :--- | :--- | :--- |
-| [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | TypeScript | 30,630 | 3,207 | 2026-06-01 | 結合 AI 輔助與 draw.io 流程圖繪製的 Next.js 應用程式。 | 文本生成圖表、互動式編輯、AI 自動排版調整。 |
-| [pose-nudge](https://github.com/DDULDDUCK/pose-nudge) | TypeScript | 177 | 11 | 2026-06-01 | 基於視訊鏡頭偵測頭部前傾姿勢並進行即時提醒的桌面 App。 | 頸部前傾偵測、本地相機影像處理、桌面彈窗通知。 |
-| [gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) | TypeScript | 18,484 | 583 | 2026-06-01 | Google Gemini & AI Studio 的全能瀏覽器增強插件。 | 時間軸導航、對話文件夾管理、聊天記錄導出。 |
-| [resumx](https://github.com/resumx/resumx) | TypeScript | 154 | 19 | 2026-05-30 | 專為 Claude Code 設計的履歷彩現工具。 | 快速履歷格式化、CLI 友善版面、標準樣式輸出。 |
-| [Meeting-Room-Booking-System](https://github.com/tommygood/Meeting-Room-Booking-System) | JavaScript | 2 | 2 | 2026-01-17 | 供國立中央大學 (NCU) 秘書室使用的會議室預約系統。 | 會議日程管理、預約流程處理、後台管理 UI。 |
-| [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) | Shell | 7,282 | 1,003 | 2026-06-01 | 多功能的 ReVanced 編譯器，可直接生成 Magisk 模組 and APK 檔。 | 自動編譯指令碼、Magisk 模組整合、每日更新維護。 |
-| [llm-stock-trader-trainer](https://github.com/jason8745/llm-stock-trader-trainer) | Python | 22 | 8 | 2026-05-22 | 整合真實新聞事件與歷史股價重播的台股模擬交易練習器。 | 歷史股價重播、台股規則適配、即時新聞整合。 |
-| [lost-found-app](https://github.com/star2643/lost-found-app) | TypeScript | Private/N/A | Private/N/A | N/A | 遺失物公會 - 線上失物招領與申報檢索平台。 | 遺失物清單管理、匹配演算法、通報系統。 |
-| [obamify](https://github.com/Spu7Nix/obamify) | Rust | 2,066 | 152 | 2026-05-31 | 將任何圖片轉換為歐巴馬 (Obama) 頭像的有趣 Rust 處理工具。 | 圖像像素映射、Rust 高效處理、趣味濾鏡效果。 |
-| [cctdd_poker](https://github.com/bearhsu2/cctdd_poker) | Java | 17 | 1 | 2026-05-15 | 在 Claude Code 輔助下進行測試驅動開發 (TDD) 的撲克牌專案。 | TDD 開發歷程、撲克牌規則實作、AI 協同開發展示。 |
-| [GameHub](https://github.com/ThanatosJun/GameHub) | JavaScript | Private/N/A | Private/N/A | N/A | 遊戲中心 (Game Center) 託管與後台管理入口網站。 | 多遊戲託管支援、客戶端整合、用戶註冊模組。 |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | Markdown | 348,168 | 83,035 | 2026-06-01 | 極為知名的電腦科學自學指南與軟體工程師面試準備路線圖。 | CS 完整課程指南、演算法與資料結構、系統設計資源。 |
-| [mkcert](https://github.com/FiloSottile/mkcert) | Go | 58,997 | 3,125 | 2026-06-01 | 本地開發環境快速生成受信任 SSL/TLS 憑證的免設定工具。 | 本地 CA 安裝、多網域憑證簽發、localhost 憑證即刻啟用。 |
-| [Anime-Imprimatura](https://github.com/ThanatosJun/Anime-Imprimatura) | Python | 3 | 1 | 2025-10-15 | 動漫化圖像風格轉換與渲染工具。 | Style 渲染濾鏡、二次元美學、Python 預處理模組。 |
-| [FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 173,232 | 3,422 | 2026-06-01 | 提供免費二級網域名稱註冊與跳轉解析的入口網站與工具集。 | 動態 DNS、網域名稱跳轉、支援多種免費域名註冊商整合。 |
-| [lightway](https://github.com/expressvpn/lightway) | Rust | 203 | 25 | 2026-05-29 | ExpressVPN 官方開源的輕量化 Lightway VPN 協議 Rust 實作模組。 | 極輕量化 VPN、高性能、跨平台 Rust 程式庫。 |
-| [IinvitationSystemPractice](https://github.com/cin-gf/IinvitationSystemPractice) | Java | 1 | 0 | 2025-08-05 | 基於 Java 實作的邀請碼產生與推薦人分銷追蹤練習系統。 | 邀請邀請邏輯、資料庫結構設計、標準 Java Web 架構。 |
-| [n8n-free-templates](https://github.com/wassupjay/n8n-free-templates) | JSON | 5,837 | 1,574 | 2026-06-01 | 精選 200+ 個隨插即用的免費 n8n 工作流，將傳統自動化與現代 AI 工作流無縫融合。 | 可直接匯入的 JSON 範本、向量資料庫節點配置、自動化 AI 代理流程。 |
-| [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Python | 50,533 | 10,640 | 2026-06-01 | 支援小紅書、抖音、快手、B站、微博、貼吧、知乎的多平台主流社交媒體爬虫。 | 社交媒體數據搜集、圖文/影片詳情獲取、評論內容抓取。 |
-| [TDD_practice](https://github.com/andyyouts/TDD_practice) | C# | 1 | 0 | 2025-06-21 | 基於 C# 進行測試驅動開發 (TDD) 與單元測試撰寫的練習項目。 | 單元測試套件、Mock 模擬物件實作、開發者實戰演練。 |
-| [allinssl](https://github.com/allinssl/allinssl) | TypeScript | 3,496 | 371 | 2026-06-01 | SSL/TLS 憑證申請、自動部署、即時監控與過期告警的一站式生命週期管理平台。 | Let's Encrypt 自動續簽、多雲端平台自動部署、過期通知監控。 |
-| [public-apis](https://github.com/public-apis/public-apis) | Python | 438,441 | 48,049 | 2026-06-01 | 開發者必備的全球免費、公開 API 介面大全列表。 | 豐富的 API 分類目錄、開發者調用接口清單。 |
-| [carnac](https://github.com/Code52/carnac) | C# | 4,519 | 526 | 2026-06-01 | 能夠在螢幕上即時顯示當前鍵盤快捷鍵輸入的實用演示輔助工具。 | 螢幕半透明覆蓋、按鍵快捷鍵對應、技術演講必備小工具。 |
-| [vcard](https://github.com/1chooo/vcard) | TypeScript | 315 | 44 | 2026-05-18 | 電子名片 (vCard) 產生器與線上個人互動式主頁模板。 | 響應式個人檔案網頁、自訂義主題樣式、基於 TypeScript 實作。 |
-| [BongoCat](https://github.com/ayangweb/BongoCat) | Vue | 21,156 | 990 | 2026-06-01 | 精緻又可愛的跨平台滑鼠鍵盤連動互動桌寵 (Bongo Cat)。 | Vue 介面、滑鼠游標與按鍵即時反饋、桌面小元件。 |
-| [free-for-dev](https://github.com/ripienaar/free-for-dev) | HTML | 122,851 | 12,904 | 2026-06-01 | 專為開發人員與 DevOps 工程師彙整的免費 SaaS、PaaS 及 IaaS 雲服務清單。 | 節省開發成本索引、免費資源彙整、雲端免費套餐額度指南。 |
-| [wasp](https://github.com/wasp-lang/wasp) | TypeScript | 18,372 | 1,448 | 2026-06-01 | AI 時代全棧 React, Node.js 與 Prisma 聲明式 Web 開發框架。 | 自動身分驗證、背景任務排程、端到端類型安全 (Type-safety)。 |
-| [winutil](https://github.com/ChrisTitusTech/winutil) | PowerShell | 55,388 | 3,130 | 2026-06-01 | Windows 系統一鍵優化、常用軟體安裝、停用臃腫服務的整合實用工具箱。 | 套件管理器串接、去臃腫 Debloat 腳本、系統層調整。 |
-| [HowToCook](https://github.com/Anduin2017/HowToCook) | Markdown | 100,434 | 10,968 | 2026-06-01 | 專為程式設計師撰寫的在家做飯指南，提供高可重現性與邏輯性的菜譜。 | 邏輯性步驟指南、計量單位換算表、精準做飯說明。 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [omi](https://github.com/BasedHardware/omi) | Dart | 12,683 | 2,010 | 2026-06-01 | Dart | 12,683 |
+| [Operit](https://github.com/AAswordman/Operit) | Kotlin | 4,944 | 403 | 2026-06-01 | Kotlin | 4,944 |
+| [screenpipe](https://github.com/screenpipe/screenpipe) | Rust | 19,044 | 1,782 | 2026-06-01 | Rust | 19,044 |
+
+## 資訊安全、逆向工程與開源情報
+### 逆向工程與漏洞審計
+| 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | 69,081 | 7,593 | 2026-06-01 | Java | 69,081 |
+| [strix](https://github.com/usestrix/strix) | Python | 25,709 | 2,879 | 2026-06-01 | Python | 25,709 |
+| [cve](https://github.com/0xMarcio/cve) | Python | 1,297 | 154 | 2026-06-01 | Python | 1,297 |
+| [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | Python | 9,069 | 1,969 | 2026-06-01 | Python | 9,069 |
+
+### 開源情報與子網域收集
+| 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Maigret](maigret.md) | Python | 11,050 | 1,200 | 2026-06-01 | Python | 11,050 |
+| [OneForAll](https://github.com/shmilylty/OneForAll) | Python | 9,810 | 1,432 | 2026-06-01 | Python | 9,810 |
+
+### 漏洞利用與安全性實驗室
+| 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) | Python | 2,830 | 589 | 2026-06-01 | Python | 2,830 |
+| [BitlockMove](https://github.com/rtecCyberSec/BitlockMove) | C# | 443 | 54 | 2026-06-01 | C# | 443 |
+| [COSCUP2025-PT-LAB](https://github.com/William957-web/COSCUP2025-PT-LAB) | Dockerfile | 7 | 0 | 2026-04-24 | Dockerfile | 7 |
+| [ph-ctf](https://github.com/mt-hack/ph-ctf) | CSS | 1 | 0 | 2020-12-11 | 屏東黑客松 CTF (Pingtung Hacker CTF) 歷屆題目與解析公開庫。 | CTF 安全挑戰、資安題目演練、競賽靶場環境。 |
+
+## 文檔智能與視覺 GUI 解析
+### 文檔解析與數據提取
+| 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [liteparse](https://github.com/run-llama/liteparse) | Rust | 8,651 | 513 | 2026-06-01 | Rust | 8,651 |
+| [MinerU](https://github.com/opendatalab/MinerU) | Python | 65,962 | 5,565 | 2026-06-01 | 一站式將 PDF 及 Office 複雜文檔轉換為適合 LLM 代理工作流的 Markdown/JSON 工具。 | 佈局版面分析、表格提取、PDF 轉 Markdown、RAG 數據優化。 |
+| [OpenDataLoader PDF](opendataloader-pdf.md) | TypeScript | 324 | 32 | 2026-06-01 | TypeScript | 324 |
+
+### 視覺 GUI 解析與光學字元識別
+| 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [OmniParser](https://github.com/microsoft/OmniParser) | Jupyter Notebook | 24,835 | 2,174 | 2026-04-14 | 微軟開源的螢幕畫面解析與圖標識別工具，專為基於視覺的 GUI 代理設計。 | OCR 文字偵測、可互動圖標匹配、螢幕座標映射。 |
+| [chandra](https://github.com/datalab-to/chandra) | Python | 11,060 | 1,148 | 2026-06-01 | Python | 11,060 |
+
+### 文檔翻譯與檔案操作
+| 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [PDFMathTranslate](pdf-math-translate.md) | Python | 5,620 | 485 | 2026-06-01 | Python | 5,620 |
+| [co-op-translator](https://github.com/Azure/co-op-translator) | Python | 616 | 95 | 2026-05-19 | 基於 Azure AI 服務的專案文檔多語言自動化翻譯管線。 | 文檔本地化、Markdown 翻譯、自動 Pull Request 整合。 |
+| [ghostpdf](https://github.com/RodrigoZepeda/ghostpdf) | R | 4 | 1 | 2026-03-14 | R | 4 |
+
+## 語音、音訊與影片 AI
+### 語音合成與音訊處理
+| 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [index-tts](https://github.com/index-tts/index-tts) | Python | 20,894 | 2,587 | 2026-06-01 | Python | 20,894 |
+
+### 影片字幕與語音轉寫
+| 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) | Python | 14,836 | 1,226 | 2026-05-26 | 基於大語言模型 (LLM) 的智慧影片字幕助手，涵蓋生成、斷句、校正與字幕翻譯。 | 結合 Whisper 語音轉文本、LLM 智能翻譯、完整字幕製作流。 |
+| [BiliNote](https://github.com/JefferyHcool/BiliNote) | TypeScript | 6,210 | 807 | 2026-06-01 | TypeScript | 6,210 |
+
+## 深度學習基礎與量化金融
+### LLM 架構與電腦視覺
+| 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [minimind](https://github.com/jingyaogong/minimind) | Python | 50,964 | 6,522 | 2026-06-01 | Python | 50,964 |
+| [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Jupyter Notebook | 96,457 | 14,757 | 2026-06-01 | Jupyter Notebook | 96,457 |
+| [ml-sharp](https://github.com/apple/ml-sharp) | Python | 8,454 | 612 | 2026-06-01 | Python | 8,454 |
+| [Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) | Markdown | 22,923 | 2,367 | 2026-06-01 | Markdown | 22,923 |
+| [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) | JavaScript | 8,062 | 1,799 | 2026-06-01 | JavaScript | 8,062 |
+| [Anime-Imprimatura](https://github.com/ThanatosJun/Anime-Imprimatura) | Python | 3 | 1 | 2025-10-15 | Python | 3 |
+
+### 量化交易與金融研究
+| 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [qlib](https://github.com/microsoft/qlib) | Python | 43,893 | 6,917 | 2026-06-01 | Python | 43,893 |
+| [llm-stock-trader-trainer](https://github.com/jason8745/llm-stock-trader-trainer) | Python | 22 | 8 | 2026-05-22 | Python | 22 |
+
+### 深度學習教科書與學習筆記
+| 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [d2l-zh](https://github.com/d2l-ai/d2l-zh) | Python | 78,125 | 12,266 | 2024-07-30 | 《動手學深度學習》中文版官方儲存庫：互動式且能運行的深度學習教科書。 | PyTorch/TensorFlow 程式碼、深度學習理論、豐富的中文討論社群。 |
+| [CV](https://github.com/AccumulateMore/CV) | Jupyter Notebook | 21,510 | 2,462 | 2026-06-01 | Jupyter Notebook | 21,510 |
+| [aie-book](https://github.com/chiphuyen/aie-book) | Jupyter Notebook | 15,867 | 2,293 | 2025-02-13 | AI 工程師必讀的《AI Engineering》圖書實作與參考資源庫。 | AI 工程架構、模型評估指標、生產環境規模化設計。 |
+| [spreadsheets-are-all-you-need](https://github.com/ianand/spreadsheets-are-all-you-need) | HTML | 1,612 | 229 | 2025-11-01 | 僅使用 Excel 試算表（Spreadsheet）視覺化並演示完整的 GPT-2 Transformer 推理架構。 | 免程式碼演示、模型權重載入、Transformer 運算流程圖解。 |
+| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | Jupyter Notebook | 111,565 | 59,881 | 2026-06-01 | Jupyter Notebook | 111,565 |
+
+## 開發者工具與系統生產力
+### 系統客製化與桌面實用工具
+| 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [winutil](https://github.com/ChrisTitusTech/winutil) | PowerShell | 55,388 | 3,130 | 2026-06-01 | PowerShell | 55,388 |
+| [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) | Shell | 7,282 | 1,003 | 2026-06-01 | Shell | 7,282 |
+| [pose-nudge](https://github.com/DDULDDUCK/pose-nudge) | TypeScript | 177 | 11 | 2026-06-01 | TypeScript | 177 |
+| [carnac](https://github.com/Code52/carnac) | C# | 4,519 | 526 | 2026-06-01 | C# | 4,519 |
+| [BongoCat](https://github.com/ayangweb/BongoCat) | Vue | 21,156 | 990 | 2026-06-01 | Vue | 21,156 |
+| [obamify](https://github.com/Spu7Nix/obamify) | Rust | 2,066 | 152 | 2026-05-31 | Rust | 2,066 |
+
+### 開發工作流與資源服務
+| 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [mkcert](https://github.com/FiloSottile/mkcert) | Go | 58,997 | 3,125 | 2026-06-01 | Go | 58,997 |
+| [allinssl](https://github.com/allinssl/allinssl) | TypeScript | 3,496 | 371 | 2026-06-01 | TypeScript | 3,496 |
+| [GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | Markdown | 38,284 | 2,657 | 2026-05-19 | 免費接入 DeepSeek, GPT4, Claude 等主流大模型的 API Proxy 金鑰服務。 | 免費 LLM 轉發金鑰、多模型適配、個人開發測試首選。 |
+| [public-apis](https://github.com/public-apis/public-apis) | Python | 438,441 | 48,049 | 2026-06-01 | Python | 438,441 |
+| [free-for-dev](https://github.com/ripienaar/free-for-dev) | HTML | 122,851 | 12,904 | 2026-06-01 | HTML | 122,851 |
+| [FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 173,232 | 3,422 | 2026-06-01 | HTML | 173,232 |
+| [lightway](https://github.com/expressvpn/lightway) | Rust | 203 | 25 | 2026-05-29 | Rust | 203 |
+
+### 全棧框架與 Web 應用系統
+| 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [wasp](https://github.com/wasp-lang/wasp) | TypeScript | 18,372 | 1,448 | 2026-06-01 | TypeScript | 18,372 |
+| [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | TypeScript | 30,630 | 3,207 | 2026-06-01 | TypeScript | 30,630 |
+| [Meeting-Room-Booking-System](https://github.com/tommygood/Meeting-Room-Booking-System) | JavaScript | 2 | 2 | 2026-01-17 | JavaScript | 2 |
+| [lost-found-app](https://github.com/star2643/lost-found-app) | TypeScript | Private/N/A | Private/N/A | N/A | TypeScript | Private/N/A |
+| [GameHub](https://github.com/ThanatosJun/GameHub) | JavaScript | Private/N/A | Private/N/A | N/A | JavaScript | Private/N/A |
+| [SteamSouthYo](https://github.com/IOmeow/SteamSouthYo) | HTML | 1 | 0 | 2024-07-07 | 個人前台網頁 SteamSouthYo 專案展示與整合入口網站。 | 基本 HTML5 結構、響應式佈局模板、前台元件應用。 |
+| [vcard](https://github.com/1chooo/vcard) | TypeScript | 315 | 44 | 2026-05-18 | TypeScript | 315 |
+| [n8n-free-templates](https://github.com/wassupjay/n8n-free-templates) | JSON | 5,837 | 1,574 | 2026-06-01 | JSON | 5,837 |
+| [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Python | 50,533 | 10,640 | 2026-06-01 | Python | 50,533 |
+| [IinvitationSystemPractice](https://github.com/cin-gf/IinvitationSystemPractice) | Java | 1 | 0 | 2025-08-05 | Java | 1 |
+| [gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) | TypeScript | 18,484 | 583 | 2026-06-01 | TypeScript | 18,484 |
+
+### 智能合約與區塊鏈開發
+| 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [sui-mover-2024](https://github.com/Bucket-Protocol/sui-mover-2024) | Move | 14 | 9 | 2024-08-25 | 2024 年度 Sui 智能合約與 Move 程式語言開發實戰課程資源。 | Move 語言基礎、Sui 區塊鏈合約調用、Sui 代幣與資產操作。 |
+
+### 生活與職涯指南
+| 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | Markdown | 348,168 | 83,035 | 2026-06-01 | Markdown | 348,168 |
+| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 510,236 | 48,381 | 2026-02-21 | 彙整精選開源教程，指引開發者從零開始手寫重建熱門底層技術的指南。 | 涵蓋自建 Git/編譯器/數據庫/Docker等、支援多種主要程式語言。 |
+| [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) | JavaScript | 35,159 | 5,836 | 2025-01-02 | 黑客Eric S. Raymond 經典名作《提問的智慧》繁體中文翻譯手冊。 | 社群提問原則、疑難排除方法、技術社群溝通藝術。 |
+| [HowToCook](https://github.com/Anduin2017/HowToCook) | Markdown | 100,434 | 10,968 | 2026-06-01 | Markdown | 100,434 |
+| [cctdd_poker](https://github.com/bearhsu2/cctdd_poker) | Java | 17 | 1 | 2026-05-15 | Java | 17 |
+| [TDD_practice](https://github.com/andyyouts/TDD_practice) | C# | 1 | 0 | 2025-06-21 | C# | 1 |
+| [WebAPI-Practice](https://github.com/Youchenjiang/WebAPI-Practice) | C# | 1 | 0 | 2025-02-23 | 個人用於 ASP.NET Core Web API 開發模式練習與研究的程式碼沙盒。 | API 路由配置、依賴注入實踐、標準後台 C# 架構。 |
+| [mad-professor-public](https://github.com/LYiHub/mad-professor-public) | JavaScript | 1,589 | 201 | 2026-06-01 | JavaScript | 1,589 |
