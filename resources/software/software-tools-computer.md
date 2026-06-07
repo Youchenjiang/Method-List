@@ -509,4 +509,4 @@
 
 8. ### **Music & Audio Players**
 
-   - [汽水音樂](https://www.qishui.com/download)（抖音旗下音樂平台）
+   - [汽水音樂](https://www.douyin.com/qishui/)（抖音官方音樂平台）
