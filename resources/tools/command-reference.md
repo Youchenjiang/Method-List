@@ -172,6 +172,71 @@ irm https://get.activated.win | iex
   git log -n 14 --graph --all > .\last_commit_changes.txt
   ```
 
+- **專案 Commit 格式校驗 (Git commit-msg Hook)**:
+  為了確保開發團隊與 AI 協同代理程式 (Agent) 均能遵守 Conventional Commits 與「分批且列點說明」的規範，我們在專案中使用了 Git `commit-msg` Hook。此機制會在執行 `git commit` 時自動驗證您的提交訊息是否符合規範，若不符則會自動阻擋 (Block)。
+
+  > [!NOTE]
+  > **校驗規則概要：**
+  > 1. **標頭 (Header)**：必須符合 `type(scope): subject` 或 `type: subject` 格式。支援的類型包含 `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`。
+  > 2. **內文 (Body)**：必須以英文的數字列點（以 `1. ` 為起點的列表）詳細說明變更內容，忽略註解行（以 `#` 開頭的行）。
+
+  #### ⚙️ 部署與設定方法
+  請在您**需要啟用校驗的 Git 專案根目錄**下開啟終端機（如 Git Bash），複製並執行以下指令。此指令會自動在該專案的 `.git/hooks/commit-msg` 寫入校驗腳本，並給予可執行權限：
+
+  ```bash
+  # 1. 確保 hooks 目錄存在
+  mkdir -p .git/hooks
+
+  # 2. 寫入並啟用 commit-msg hook
+  cat << 'EOF' > .git/hooks/commit-msg
+  #!/bin/sh
+
+  # 取得 Commit 訊息暫存檔路徑
+  commit_msg_file="$1"
+
+  # 讀取首行標頭
+  header=$(head -n 1 "$commit_msg_file")
+
+  # 1. 驗證標頭是否符合 Conventional Commits
+  if ! echo "$header" | grep -qE "^(feat|fix|docs|style|refactor|test|chore)(\([^)]+\))?: .+$"; then
+    echo "========================================= [COMMIT BLOCKED] ========================================="
+    echo "ERROR: Invalid commit message header format."
+    echo "Header must follow Conventional Commits: 'type(scope): subject' or 'type: subject'"
+    echo "Valid types: feat, fix, docs, style, refactor, test, chore"
+    echo "Given header: '$header'"
+    echo "===================================================================================================="
+    exit 1
+  fi
+
+  # 2. 驗證內文是否包含以 '1. ' 開始的英文數字列點
+  # 過濾以 # 開頭的註解，並跳過首行標頭進行檢查
+  if ! grep -vE "^#" "$commit_msg_file" | tail -n +2 | grep -qE "^\s*1[\.\)]\s+"; then
+    echo "========================================= [COMMIT BLOCKED] ========================================="
+    echo "ERROR: Commit message body must contain a numbered list in English starting with '1. '"
+    echo "Example:"
+    echo "  feat(scraper): add scraping functionality"
+    echo "  "
+    echo "  1. Introduce fetchUrl for HTTP GET requests."
+    echo "  2. Implement HTML parser."
+    echo "===================================================================================================="
+    exit 1
+  fi
+
+  exit 0
+  EOF
+
+  # 3. 賦予可執行權限
+  chmod +x .git/hooks/commit-msg
+  echo "✓ 已成功為此專案啟用 Commit 格式校驗 Hook"
+  ```
+
+  > [!TIP]
+  > **如何暫時繞過校驗？**
+  > 如果在特殊緊急情況下，您需要強制提交而不進行格式檢查，可以在 `git commit` 時加上 `--no-verify` 參數：
+  > ```bash
+  > git commit -m "temp bypass commit" --no-verify
+  > ```
+
 ### Anaconda 套件管理
 
 | 動作              | 指令                    | 備註                     |
