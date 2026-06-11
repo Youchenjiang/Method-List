@@ -58,6 +58,8 @@
 | **[digest_concept-rebuilder_holographic.md](./digest_concept-rebuilder_holographic.md)** | 全息概念重建師 | 原子級拆解、圖表翻譯、生活化比喻。 | 深度學習難懂章節、重新建構核心概念。 |
 | **[digest_peer-insight.md](./digest_peer-insight.md)** | 同儕洞察教練 | 第三人稱觀點、心得分享、質性提問。 | 激發思考興趣、從不同視角檢視內容。 |
 | **[digest_document-shredder_progressive.md](./digest_document-shredder_progressive.md)** | 分段深潛導師 | **分段閱讀器**：先地圖後拆解，突破 Token 限制。 | 面對極厚（100頁+）或極艱澀的專業文獻。 |
+| **[digest_academic-slides-curator.md](./digest_academic-slides-curator.md)** | 學術簡報架構師 | 將學術論文/文獻轉換為 15-20 頁深度學術簡報，含演說指引與 Q&A。 | 碩士 Meeting、實驗室匯報。 |
+| **[digest_news-slides-curator.md](./digest_news-slides-curator.md)** | 新聞簡報轉譯師 | 將科技與安全新聞轉換為 5-10 頁技術快報簡報，聚焦手法特點與繞過機制。 | 實驗室 Meeting、技術專題分享。 |
 
 ### 2. 互動式學科教練 (Interactive Subject Coaching)
 用於針對特定問題進行深度解答、解題或研究引導。
