@@ -27,7 +27,9 @@
 | [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 112,494 | 16,693 | 2026-06-01 | Python | 112,494 |
 | [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | Markdown | 88,307 | 10,985 | 2026-05-26 | A curated directory of Model Context Protocol (MCP) servers. | Server directory, agent integrations, developer tools. |
 | [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | TypeScript | 30,254 | 3,536 | 2026-05-29 | AI prompt optimizer for writing better prompts and getting better AI results. | Prompt tuning, result enhancement, developer workflow. |
+| [headroom](https://github.com/chopratejas/headroom) | Python | 26,723 | 1,790 | 2026-06-14 | Tool to compress tool outputs, logs, files, and RAG chunks before sending them to the LLM. | 60-95% token reduction, library/proxy/MCP support, preserves output quality. |
 | [PromptJailbreakManual](https://github.com/Acmesec/PromptJailbreakManual) | Markdown | 3,464 | 352 | 2024-12-17 | A handbook collecting prompt jailbreaking techniques and security guidelines for large language models. | Jailbreak manuals, prompt safety, vulnerability assessments. |
+| [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | 3,463 | 363 | 2026-06-14 | High-performance code intelligence MCP server that indexes codebases into a persistent knowledge graph. | Millisecond indexing, 158 languages support, low token cost, zero-dependency static binary. |
 | [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Markdown | 138,668 | 34,512 | 2026-06-01 | Markdown | 138,668 |
 
 ### Device & Desktop Agents
@@ -49,7 +51,7 @@
 ### OSINT & Subdomain Gathering
 | Repository | Language | Stars | Forks | Last Updated | Description | Key Features |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Maigret](maigret.md) | Python | 11,050 | 1,200 | 2026-06-01 | Python | 11,050 |
+| [Maigret](maigret.md) | Python | 33,027 | 2,425 | 2026-06-14 | Collect a dossier on a person by username from 3000+ sites. | 3000+ sites search, recursive account lookup, structured report output. |
 | [OneForAll](https://github.com/shmilylty/OneForAll) | Python | 9,810 | 1,432 | 2026-06-01 | Python | 9,810 |
 
 ### Exploitation & Security Labs
@@ -64,6 +66,7 @@
 ### Document Parsers & Data Extractors
 | Repository | Language | Stars | Forks | Last Updated | Description | Key Features |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [markitdown](https://github.com/microsoft/markitdown) | Python | 152,948 | 10,579 | 2026-06-14 | Python tool for converting files and office documents to Markdown. | Multi-format support, easy RAG integration, Microsoft official utility. |
 | [liteparse](https://github.com/run-llama/liteparse) | Rust | 8,651 | 513 | 2026-06-01 | Rust | 8,651 |
 | [MinerU](https://github.com/opendatalab/MinerU) | Python | 65,962 | 5,565 | 2026-06-01 | High-quality document parser converting PDFs/documents into structured markdown/JSON for agentic workflows. | PDF-to-Markdown, layout analysis, table parsing, RAG optimization. |
 | [OpenDataLoader PDF](opendataloader-pdf.md) | TypeScript | 324 | 32 | 2026-06-01 | TypeScript | 324 |
@@ -79,12 +82,14 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | [PDFMathTranslate](pdf-math-translate.md) | Python | 5,620 | 485 | 2026-06-01 | Python | 5,620 |
 | [co-op-translator](https://github.com/Azure/co-op-translator) | Python | 616 | 95 | 2026-05-19 | Automated translation pipeline for project documentation powered by Azure AI. | Document localization, markdown translation, automated pull requests. |
+| [jt-doc-tools](https://github.com/jasoncheng7115/jt-doc-tools) | Python | 192 | 44 | 2026-06-14 | Integrated PDF & Office document processing platform. | Multi-format conversion, self-hosted deployment, privacy-focused. |
 | [ghostpdf](https://github.com/RodrigoZepeda/ghostpdf) | R | 4 | 1 | 2026-03-14 | R | 4 |
 
 ## Speech, Audio & Video AI
 ### Speech Synthesis & Audio Processing
 | Repository | Language | Stars | Forks | Last Updated | Description | Key Features |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 29,006 | 3,278 | 2026-06-14 | Tokenizer-free TTS for multilingual speech generation and voice cloning. | Tokenizer-free architecture, multilingual speech synthesis, high-fidelity cloning. |
 | [index-tts](https://github.com/index-tts/index-tts) | Python | 20,894 | 2,587 | 2026-06-01 | Python | 20,894 |
 
 ### Video Subtitling & Transcription
@@ -102,6 +107,7 @@
 | [ml-sharp](https://github.com/apple/ml-sharp) | Python | 8,454 | 612 | 2026-06-01 | Python | 8,454 |
 | [Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) | Markdown | 22,923 | 2,367 | 2026-06-01 | Markdown | 22,923 |
 | [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) | JavaScript | 8,062 | 1,799 | 2026-06-01 | JavaScript | 8,062 |
+| [stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) | Python | 1,834 | 211 | 2026-06-14 | A platform for reproducible world model research and evaluation. | World model benchmarks, reinforcement learning research, modular evaluation framework. |
 | [Anime-Imprimatura](https://github.com/ThanatosJun/Anime-Imprimatura) | Python | 3 | 1 | 2025-10-15 | Python | 3 |
 
 ### Quantitative Research & Trading
@@ -167,6 +173,7 @@
 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | Markdown | 348,168 | 83,035 | 2026-06-01 | Markdown | 348,168 |
 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 510,236 | 48,381 | 2026-02-21 | Directory of guides to master programming by recreating popular tech from scratch. | Rebuild databases/git/Docker/compilers, language-agnostic tutorials. |
 | [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) | JavaScript | 35,159 | 5,836 | 2025-01-02 | Chinese translation of Eric S. Raymond's classic essay on technical communication. | Troubleshooting guides, communication best practices, hacker culture. |
+| [career-ops](https://github.com/santifer/career-ops) | JavaScript | 53,605 | 10,671 | 2026-06-14 | AI-powered job search system built on Claude Code. | 14 skill modes, Go dashboard, PDF resume generation, batch processing. |
 | [HowToCook](https://github.com/Anduin2017/HowToCook) | Markdown | 100,434 | 10,968 | 2026-06-01 | Markdown | 100,434 |
 | [cctdd_poker](https://github.com/bearhsu2/cctdd_poker) | Java | 17 | 1 | 2026-05-15 | Java | 17 |
 | [TDD_practice](https://github.com/andyyouts/TDD_practice) | C# | 1 | 0 | 2025-06-21 | C# | 1 |

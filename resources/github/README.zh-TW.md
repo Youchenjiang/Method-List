@@ -27,7 +27,9 @@
 | [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 112,494 | 16,693 | 2026-06-01 | Python | 112,494 |
 | [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | Markdown | 88,307 | 10,985 | 2026-05-26 | 精選的模型上下文協定 (Model Context Protocol, MCP) 伺服器列表目錄。 | 伺服器整合列表、AI 智慧體適配、豐富的開發工具集。 |
 | [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | TypeScript | 30,254 | 3,536 | 2026-05-29 | 用於改寫並優化 AI 提示詞以獲得更佳 AI 輸出效果的工具。 | 提示詞自動優化、效果增強、開發工作流整合。 |
+| [headroom](https://github.com/chopratejas/headroom) | Python | 26,723 | 1,790 | 2026-06-14 | 用於在傳送給 LLM 之前壓縮工具輸出、日誌、檔案和 RAG 文本段落的工具，可減少 60-95% 的 Token。 | 高效 Token 壓縮、支援程式庫/代理伺服器/MCP 伺服器、保持回答準確度。 |
 | [PromptJailbreakManual](https://github.com/Acmesec/PromptJailbreakManual) | Markdown | 3,464 | 352 | 2024-12-17 | 大語言模型 (LLM) 提示詞越獄 (Prompt Jailbreak) 指南與手冊。 | 越獄方法整理、提示詞安全性、防範與防禦指南。 |
+| [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | 3,463 | 363 | 2026-06-14 | 高性能的程式碼智能 MCP 伺服器，可將程式庫索引至持久化知識圖譜中。 | 毫秒級程式庫索引、支援 158 種語言、超低 Token 消耗、無依賴單一靜態二進制檔。 |
 | [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Markdown | 138,668 | 34,512 | 2026-06-01 | Markdown | 138,668 |
 
 ### 穿戴式與桌面代理
@@ -49,7 +51,7 @@
 ### 開源情報與子網域收集
 | 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Maigret](maigret.md) | Python | 11,050 | 1,200 | 2026-06-01 | Python | 11,050 |
+| [Maigret](maigret.md) | Python | 33,027 | 2,425 | 2026-06-14 | 透過使用者名稱從 3000 多個網站中蒐集該使用者的個人檔案與開源情報 (OSINT)。 | 3000+ 網站覆蓋、遞迴帳號搜尋、結構化報告輸出。 |
 | [OneForAll](https://github.com/shmilylty/OneForAll) | Python | 9,810 | 1,432 | 2026-06-01 | Python | 9,810 |
 
 ### 漏洞利用與安全性實驗室
@@ -64,6 +66,7 @@
 ### 文檔解析與數據提取
 | 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [markitdown](https://github.com/microsoft/markitdown) | Python | 152,948 | 10,579 | 2026-06-14 | 用於將各種檔案及 Office 文件轉換為 Markdown 的 Python 工具。 | 支援多種檔案格式、易於整合 RAG 工作流、官方微軟維護。 |
 | [liteparse](https://github.com/run-llama/liteparse) | Rust | 8,651 | 513 | 2026-06-01 | Rust | 8,651 |
 | [MinerU](https://github.com/opendatalab/MinerU) | Python | 65,962 | 5,565 | 2026-06-01 | 一站式將 PDF 及 Office 複雜文檔轉換為適合 LLM 代理工作流的 Markdown/JSON 工具。 | 佈局版面分析、表格提取、PDF 轉 Markdown、RAG 數據優化。 |
 | [OpenDataLoader PDF](opendataloader-pdf.md) | TypeScript | 324 | 32 | 2026-06-01 | TypeScript | 324 |
@@ -79,12 +82,14 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | [PDFMathTranslate](pdf-math-translate.md) | Python | 5,620 | 485 | 2026-06-01 | Python | 5,620 |
 | [co-op-translator](https://github.com/Azure/co-op-translator) | Python | 616 | 95 | 2026-05-19 | 基於 Azure AI 服務的專案文檔多語言自動化翻譯管線。 | 文檔本地化、Markdown 翻譯、自動 Pull Request 整合。 |
+| [jt-doc-tools](https://github.com/jasoncheng7115/jt-doc-tools) | Python | 192 | 44 | 2026-06-14 | 整合式 PDF 與 Office 文件處理平台，提供自架、開源且高度可控的解決方案。 | 多格式文件轉換、隱私安全保護、自架部署友善。 |
 | [ghostpdf](https://github.com/RodrigoZepeda/ghostpdf) | R | 4 | 1 | 2026-03-14 | R | 4 |
 
 ## 語音、音訊與影片 AI
 ### 語音合成與音訊處理
 | 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 29,006 | 3,278 | 2026-06-14 | 無需 Tokenizer 的多語言語音生成、聲音設計與真實聲音複製 TTS 系統。 | 無 Tokenizer 架構、多語言語音合成、高保真聲音克隆。 |
 | [index-tts](https://github.com/index-tts/index-tts) | Python | 20,894 | 2,587 | 2026-06-01 | Python | 20,894 |
 
 ### 影片字幕與語音轉寫
@@ -102,6 +107,7 @@
 | [ml-sharp](https://github.com/apple/ml-sharp) | Python | 8,454 | 612 | 2026-06-01 | Python | 8,454 |
 | [Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) | Markdown | 22,923 | 2,367 | 2026-06-01 | Markdown | 22,923 |
 | [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) | JavaScript | 8,062 | 1,799 | 2026-06-01 | JavaScript | 8,062 |
+| [stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) | Python | 1,834 | 211 | 2026-06-14 | 用於可重複性世界模型 (World Model) 研究與評估的平台。 | 世界模型基準測試、強化學習研究、模組化評估框架。 |
 | [Anime-Imprimatura](https://github.com/ThanatosJun/Anime-Imprimatura) | Python | 3 | 1 | 2025-10-15 | Python | 3 |
 
 ### 量化交易與金融研究
@@ -167,6 +173,7 @@
 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | Markdown | 348,168 | 83,035 | 2026-06-01 | Markdown | 348,168 |
 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 510,236 | 48,381 | 2026-02-21 | 彙整精選開源教程，指引開發者從零開始手寫重建熱門底層技術的指南。 | 涵蓋自建 Git/編譯器/數據庫/Docker等、支援多種主要程式語言。 |
 | [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) | JavaScript | 35,159 | 5,836 | 2025-01-02 | 黑客Eric S. Raymond 經典名作《提問的智慧》繁體中文翻譯手冊。 | 社群提問原則、疑難排除方法、技術社群溝通藝術。 |
+| [career-ops](https://github.com/santifer/career-ops) | JavaScript | 53,605 | 10,671 | 2026-06-14 | 基於 Claude Code 開發的 AI 驅動求職與職涯規劃系統。 | 14 種技能模式、Go 儀表板、PDF 履歷生成、批次任務處理。 |
 | [HowToCook](https://github.com/Anduin2017/HowToCook) | Markdown | 100,434 | 10,968 | 2026-06-01 | Markdown | 100,434 |
 | [cctdd_poker](https://github.com/bearhsu2/cctdd_poker) | Java | 17 | 1 | 2026-05-15 | Java | 17 |
 | [TDD_practice](https://github.com/andyyouts/TDD_practice) | C# | 1 | 0 | 2025-06-21 | C# | 1 |
