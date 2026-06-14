@@ -181,8 +181,10 @@ irm https://get.activated.win | iex
   > 2. **內文 (Body)**：必須以英文的數字列點（以 `1. ` 為起點的列表）詳細說明變更內容，忽略註解行（以 `#` 開頭的行）。
 
   #### ⚙️ 部署與設定方法
-  請在您**需要啟用校驗的 Git 專案根目錄**下開啟終端機（如 Git Bash），複製並執行以下指令。此指令會自動在該專案的 `.git/hooks/commit-msg` 寫入校驗腳本，並給予可執行權限：
+  請在您**需要啟用校驗的 Git 專案根目錄**下，依據您所使用的終端機環境選擇以下對應指令複製並執行：
 
+  ##### 1. Bash / Git Bash 環境
+  複製並執行以下 Bash 指令：
   ```bash
   # 1. 確保 hooks 目錄存在
   mkdir -p .git/hooks
@@ -228,6 +230,63 @@ irm https://get.activated.win | iex
   # 3. 賦予可執行權限
   chmod +x .git/hooks/commit-msg
   echo "✓ 已成功為此專案啟用 Commit 格式校驗 Hook"
+  ```
+
+  ##### 2. PowerShell 環境 (Windows 推薦)
+  如果使用 Windows PowerShell，請複製並執行以下指令：
+  ```powershell
+  # 1. 確保目前目錄下的 .git/hooks 資料夾存在
+  New-Item -ItemType Directory -Force -Path ".\.git\hooks"
+
+  # 2. 定義 Hook 腳本內容
+  $hookContent = @'
+  #!/bin/sh
+
+  # 取得 Commit 訊息暫存檔路徑
+  commit_msg_file="$1"
+
+  # 讀取首行標頭
+  header=$(head -n 1 "$commit_msg_file")
+
+  # 1. 驗證標頭是否符合 Conventional Commits
+  if ! echo "$header" | grep -qE "^(feat|fix|docs|style|refactor|test|chore)(\([^)]+\))?: .+$"; then
+     echo "========================================= [COMMIT BLOCKED] ========================================="
+     echo "ERROR: Invalid commit message header format."        
+     echo "Header must follow Conventional Commits: 'type(scope): subject' or 'type: subject'"
+     echo "Valid types: feat, fix, docs, style, refactor, test, chore"
+     echo "Given header: '$header'"
+     echo "===================================================================================================="
+     exit 1
+  fi
+
+  # 2. 驗證內文是否包含以 '1. ' 開始的英文數字列點
+  # 過濾以 # 開溫的註解，並跳過首行標頭進行檢查
+  if ! grep -vE "^#" "$commit_msg_file" | tail -n +2 | grep -qE "^\s*1[\.\)]\s+"; then
+     echo "========================================= [COMMIT BLOCKED] ========================================="
+     echo "ERROR: Commit message body must contain a numbered list in English starting with '1. '"
+     echo "Example:"
+     echo "  feat(scraper): add scraping functionality"
+     echo "  "
+     echo "  1. Introduce fetchUrl for HTTP GET requests."      
+     echo "  2. Implement HTML parser."
+     echo "===================================================================================================="
+     exit 1
+  fi
+
+  exit 0
+  '@
+
+  # 3. 寫入檔案（使用 PowerShell 原生路徑解析，並強制無 BOM 的 UTF-8 編碼）
+  $hookContent | Out-File -FilePath ".\.git\hooks\commit-msg" -Encoding utf8NoBOM
+
+  # 4. 讓 Git 標記該檔案為可執行檔
+  git update-index --chmod=+x .\.git\hooks\commit-msg
+
+  # 5. 輸出成功訊息
+  Write-Host "✓ 已成功為此專案啟用 Commit 格式校驗 Hook！" -ForegroundColor Green
+
+  # 6. (選用) 驗證 Hook 檔案內容
+  Get-Content .\.git\hooks\commit-msg
   ```
 
   > [!TIP]
