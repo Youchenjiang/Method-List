@@ -345,7 +345,8 @@
 [**張敬軒 \- 只是太愛你**](https://www.youtube.com/watch?v=k2rVffhNd0E)  
 [**秦海清 \- 不如**](https://www.youtube.com/watch?v=tHv9XMzEnjo)  
 [**指尖笑 \- 青衣**](https://www.youtube.com/watch?v=DkKUyXtRKMo)  
-[**L (桃籽) \- 此去半生**](https://www.youtube.com/watch?v=Kr5bZkxVkgo)
+[**L (桃籽) \- 此去半生**](https://www.youtube.com/watch?v=Kr5bZkxVkgo)  
+[**光澤 \- 空心**](https://www.youtube.com/watch?v=IslhmC1Sw-I)
 
 ## **懷舊與回憶 Nostalgia & Memories**
 
