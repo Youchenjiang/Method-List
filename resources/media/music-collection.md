@@ -81,6 +81,7 @@
     - [**五月天 (憂,失)**](#五月天-憂失)
     - [**銀臨 (憂,失)**](#銀臨-憂失)
     - [**洋瀾一 (憂,失)**](#洋瀾一-憂失)
+    - [**張碧晨 (憂,失)**](#張碧晨-憂失)
     - [**一只白羊 (憂,失)**](#一只白羊-憂失)
     - [**其他歌手**](#其他歌手)
   - [**懷舊與回憶 Nostalgia \& Memories**](#懷舊與回憶-nostalgia--memories)
@@ -250,6 +251,10 @@
 
 [化風行萬裡](https://www.youtube.com/watch?v=MiOjTw1sQ1o) | [風的憂傷只有雲知道](https://www.youtube.com/watch?v=V8MxeCefJjU)
 
+### **張碧晨 (憂,失)**
+
+[黑月光](https://www.youtube.com/watch?v=qtbf_1pjenE)**(\*)** | [只要平凡](https://www.youtube.com/watch?v=5a1THie2dAk)**(\*)**
+
 ### **一只白羊 (憂,失)**
 
 [逃](https://www.youtube.com/watch?v=30-dSS29wwU) **(\*)** | [沖喜](https://www.youtube.com/watch?v=mjquafG3S9Y) | [遇見你就像天空的雲](https://www.youtube.com/watch?v=ZbFfC3VpFB8) **(\*)** | [河伯說](https://www.youtube.com/watch?v=c9cYziRITZU) **(\*)**
@@ -290,7 +295,6 @@
 [**蔣雪兒 \- 燕無歇**](https://www.youtube.com/watch?v=XOqHoje9czk)  
 [**周深 \- 此生惟你**](https://www.youtube.com/watch?v=_4cWMY3397I)  
 [**鄧紫棋 \- 桃花諾**](https://www.youtube.com/watch?v=Sauj2kt3TP0)  
-[**張碧晨 \- 黑月光**](https://www.youtube.com/watch?v=qtbf_1pjenE)**(\*)**  
 [**一支榴蓮 \- 海底**](https://www.youtube.com/watch?v=v5gK8np-OTA)**(\*)**  
 [**S.H.E \- 不想長大**](https://www.youtube.com/watch?v=KV17QLB2BJs)**(\*)**  
 [**陳粒 \- 易燃易爆炸**](https://www.youtube.com/watch?v=jiCldCcf2r0)  
