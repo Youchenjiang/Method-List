@@ -159,6 +159,7 @@
 | [vcard](https://github.com/1chooo/vcard) | TypeScript | 315 | 44 | 2026-05-18 | 基於 TypeScript 的個人數位名片 (vCard) 與響應式履歷展示網站。 | 響應式名片佈局、乾淨的現代風格、支援一鍵静态部署。 |
 | [n8n-free-templates](https://github.com/wassupjay/n8n-free-templates) | JSON | 5,837 | 1,574 | 2026-06-01 | 收錄 200 多個 n8n 自動化工作流範本，無縫整合 LLM、向量資料庫與 API 自動化。 | 200+ 範本隨插即用、提供 RAG 與 AI 助理流程、一鍵導入 JSON。 |
 | [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Python | 50,533 | 10,640 | 2026-06-01 | 支援小紅書、抖音、快手、B站、微博等主流社群平台的影音與評論數據爬蟲。 | 支援評論與筆記抓取、非同步協程併發、提供圖形化驗證碼繞過。 |
+| [linejs](https://github.com/evex-dev/linejs) | TypeScript | 271 | 63 | 2026-05-31 | 用於建立 LINE SelfBot 的 JavaScript 函式庫，支援 Node.js、Deno 與 Bun。 | LINE SelfBot 客戶端、多運行時支援、TypeScript 類型完整、Thrift 協議處理。 |
 | [IinvitationSystemPractice](https://github.com/cin-gf/IinvitationSystemPractice) | Java | 1 | 0 | 2025-08-05 | 基於 Java 的邀請碼系統實作練習，涵蓋防重複生成、權限校驗與代碼結構設計。 | 邀請碼演算法、資料庫約束設計、簡易 Spring Boot 後台。 |
 | [gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) | TypeScript | 18,484 | 583 | 2026-06-01 | 適用於 Google Gemini 與 AI Studio 的全功能增強瀏覽器擴充功能。 | 聊天歷史時間軸、對話資料夾分類、內建提示詞庫、支援導出 Markdown。 |
 
