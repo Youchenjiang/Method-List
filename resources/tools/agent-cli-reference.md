@@ -16,6 +16,7 @@
 | | `%USERPROFILE%\.gemini\GEMINI.md` | Gemini 全域指令與偏好 | |
 | **Antigravity** | `%USERPROFILE%\.gemini\antigravity\mcp_config.json` | 專案模式的專用 MCP 設定 | `explorer %USERPROFILE%\.gemini\antigravity` |
 | | `%USERPROFILE%\.gemini\antigravity\AGENTS.md` | Antigravity 核心 Pair 準則 | |
+| **MiMoCode** | `%USERPROFILE%\.config\mimocode\config.json` | MCP 伺服器連接設定 | `explorer %USERPROFILE%\.config\mimocode` |
 
 > 📌 **說明**：`%USERPROFILE%` 在 Windows 系統中會自動解析為使用者的家目錄（本機路徑：`C:\Users\g1014308\`）。
 
@@ -26,6 +27,22 @@
 ### Gemini CLI - BeforeTool Hook
 * **作用**：在執行工具前觸發。
 * **主要用途**：做為行為提醒機制（如：提醒優先使用 MCP 關係圖工具而非傳統 Grep 搜尋）。
+
+### MiMoCode - config.json
+```json
+{
+    "$schema": "https://opencode.ai/config.json",
+    "mcp": {
+        "codebase-memory-mcp": {
+            "type": "local",
+            "command": [
+                "C:\\Users\\g1014308\\.local\\bin\\codebase-memory-mcp.exe"
+            ],
+            "enabled": true
+        }
+    }
+}
+```
 
 ---
 
