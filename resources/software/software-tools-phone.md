@@ -94,12 +94,23 @@
 [Photo CamAI：AI照片編輯器](https://apps.apple.com/tw/app/photo-camai-ai%E7%85%A7%E7%89%87%E7%B7%A8%E8%BC%AF%E5%99%A8/id6755936591)(裝置端AI一鍵照片編輯)
 [LiveGrab](https://apps.apple.com/tw/app/livegrab/id6757843677)(從影片Live Photo抓取靜態照片)
 [SClips: Save Short Videos](https://apps.apple.com/tw/app/sclips-save-short-videos/id6754238068)(Apple Watch即時錄製短片精華)
+[Blackmagic Camera](https://apps.apple.com/tw/app/blackmagic-camera/id6449580241)(專業電影級攝影機APP)
+[Body progress photos - Bod Pic](https://apps.apple.com/tw/app/body-progress-photos-bod-pic/id6744179293)(健身進度照片追蹤)
+[Neon Photo Booth 360 Event](https://apps.apple.com/tw/app/neon-photo-booth-360-event/id6744656614)(360度霓虹拍照亭)
+[畫質修復](https://apps.apple.com/tw/app/%E7%95%AB%E8%B3%AA%E4%BF%AE%E5%BE%A9/id6736931330)(AI畫質修復提升解析度)
+[Photo Cleaner: 圖庫清理](https://apps.apple.com/tw/app/photo-cleaner-%E5%9C%96%E5%BA%AB%E6%B8%85%E7%90%86/id6751339446)(AI辨識清理重複模糊照片)
+[Photo & Video Collage Editor](https://apps.apple.com/tw/app/photo-video-collage-editor/id6749278005)(照片影片拼貼編輯器)
+[Resolution Changer: Image Size](https://apps.apple.com/tw/app/resolution-changer-image-size/id6526476383)(調整圖片解析度尺寸)
+[Loomi: Photo & Video Editor](https://apps.apple.com/tw/app/loomi-photo-video-editor/id6748413115)(照片影片AI編輯器)
+[壓縮照片和圖片](https://apps.apple.com/tw/app/%E5%A3%93%E7%B8%AE%E7%85%A7%E7%89%87%E5%92%8C%E5%9C%96%E7%89%87/id6748318959)(批次壓縮照片圖片)
+[Image & Video File compressor](https://apps.apple.com/tw/app/image-video-file-compressor/id6748017475)(圖片影片檔案壓縮)
 
 ### iPhone-鈴聲製作
 
 [Garage Ringtones](https://apps.apple.com/app/garage-ringtones-music-2024/id6467181227)(手機鈴聲下載剪輯)
 [The Ringtoner: Create Ringtones](https://apps.apple.com/us/app/the-ringtoner-create-ringtones/id6736897940?l=zh-Hant-TW)(手機鈴聲製作)
 [手機鈴聲製作: MP4轉MP3轉換器，降噪，音樂擷取](https://apps.apple.com/tw/app/%E6%89%8B%E6%A9%9F%E9%88%B4%E8%81%B2%E8%A3%BD%E4%BD%9C-mp4%E8%BD%89mp3%E8%BD%89%E6%8F%9B%E5%99%A8-%E9%99%8D%E5%99%AA-%E9%9F%B3%E6%A8%82%E6%93%B7%E5%8F%96/id6755627371)(影片轉MP3降噪鈴聲製作)
+[Song Recorder](https://apps.apple.com/tw/app/song-recorder/id6749884448)(錄製歌曲旋律靈感)
 
 ### iPhone-任務管理
 
@@ -115,6 +126,11 @@
 [EchoDay: AI Calendar Planner](https://apps.apple.com/tw/app/echoday-ai-calendar-planner/id6751630276)(裝置端AI行事曆轉可執行計畫)
 [ArcFocus](https://apps.apple.com/tw/app/arcfocus/id6755542190)(專注計時器任務規劃習慣追蹤)
 [語音待辦AI：智慧任務清單](https://apps.apple.com/tw/app/%E8%AA%9E%E9%9F%B3%E5%BE%85%E8%BE%A6ai-%E6%99%BA%E6%85%A7%E4%BB%BB%E5%8B%99%E6%B8%85%E5%96%AE/id6755624768)(語音快速建立AI待辦清單)
+[PaperCal](https://apps.apple.com/tw/app/papercal/id1543127868)(簡約行事曆規劃)
+[GoalSteps | Goal Tracker](https://apps.apple.com/tw/app/goalsteps-goal-tracker/id6749514026)(目標追蹤步數規劃)
+[Tempus: ADHD Daily Planner](https://apps.apple.com/tw/app/tempus-adhd-daily-planner/id6751440902)(ADHD友善每日規劃)
+[Things To Do: Wishlist Maker](https://apps.apple.com/tw/app/things-to-do-wishlist-maker/id6738828343)(願望清單待辦事項)
+[Decision Logic - Michi](https://apps.apple.com/tw/app/decision-logic-michi/id6748796286)(邏輯決策輔助工具)
 
 ### iPhone-螢幕投屏
 
@@ -160,6 +176,11 @@
 [Jeff Galloway Jeffing](https://apps.apple.com/tw/app/jeff-galloway-jeffing/id6758525974)(跑走跑訓練法個人化計畫)
 [Push Up Counter.](https://apps.apple.com/tw/app/push-up-counter/id6758037844)(AI鏡頭偵測伏地挺身自動計數)
 [健身故事](https://apps.apple.com/tw/app/%E5%81%A5%E8%BA%AB%E6%95%85%E4%BA%8B/id6748090363)(Apple Health数据分析趨勢圖)
+[SRUN - Run with your partner](https://apps.apple.com/tw/app/srun-run-with-your-partner/id6751200407)(雙人跑步夥伴 Accountability)
+[Body Weight Loss Goal Tracker](https://apps.apple.com/tw/app/body-weight-loss-goal-tracker/id6753177900)(體重減重目標追蹤)
+[动动计步器 行走大师: StepsGo](https://apps.apple.com/tw/app/%E5%8A%A8%E5%8A%A8%E8%AE%A1%E6%AD%A5%E5%99%A8-%E8%A1%8C%E8%B5%B0%E5%A4%A7%E5%B8%88-stepsgo/id1148577639)(計步器行走記錄)
+[Ertigo: Flexibility Stretching](https://apps.apple.com/tw/app/ertigo-flexibility-stretching/id1550788893)(柔軟度伸展訓練)
+[Growth Charts: baby & child](https://apps.apple.com/tw/app/growth-charts-baby-child/id1628054048)(嬰幼兒成長曲線追蹤)
 
 ### iPhone-語文教學
 
@@ -175,6 +196,7 @@
 [Articulate: AI Pronunciation](https://apps.apple.com/tw/app/articulate-ai-pronunciation/id6753924420)(AI發音教練即時回饋口音)
 [Business Speak AI: Job English](https://apps.apple.com/tw/app/business-speak-ai-job-english/id6759009234)(AI職場英語面試簡報練習)
 [Voice Translator: Transcribe](https://apps.apple.com/tw/app/voice-translator-transcribe/id6753816386)(100+語言即時翻譯雙向對話)
+[AI 英語會話學習：B1–C2 口說聽力考試準備學英文](https://apps.apple.com/tw/app/ai-%E8%8B%B1%E8%AA%9E%E6%9C%83%E8%A9%B1%E5%AD%B8%E7%BF%92-b1-c2-%E5%8F%A3%E8%AA%AA%E8%81%BD%E5%8A%9B%E8%80%83%E8%A9%A6%E6%BA%96%E5%82%99%E5%AD%B8%E8%8B%B1%E6%96%87/id6744363860)(AI英語會話口說聽力考試)
 
 ### iPhone-活力加持
 
@@ -212,6 +234,10 @@
 [Sleep & Meditation Sounds](https://apps.apple.com/tw/app/sleep-meditation-sounds/id6742779548)(自然聲音白噪音助眠放鬆)
 [Calm Arcade – Relaxing Games](https://apps.apple.com/tw/app/calm-arcade-relaxing-games/id6756086676)(ASMR風格零壓力舒壓小遊戲)
 [Sleep Games: Sleepytime Raven](https://apps.apple.com/tw/app/sleep-games-sleepytime-raven/id6751362761)(互動式音訊遊戲引導入眠)
+[Mindful: Meditation & Calm](https://apps.apple.com/tw/app/mindful-meditation-calm/id6752755732)(冥想專注放鬆)
+[NoPhone - Digital Detox](https://apps.apple.com/tw/app/nophone-digital-detox/id6742640564)(數位排毒放下手機)
+[Calm & Breathing Exercises Zoe](https://apps.apple.com/tw/app/calm-breathing-exercises-zoe/id6752790182)(呼吸練習放鬆減壓)
+[Ikigai Habits](https://apps.apple.com/tw/app/ikigai-habits/id6749894705)(生活意義習慣養成)
 
 ### iPhone-財務
 
@@ -225,6 +251,9 @@
 [JetRise Invoice Pro](https://apps.apple.com/tw/app/jetrise-invoice-pro/id6761400694)(專業發票開立追蹤管理)
 [Profit AI trading signals bot](https://apps.apple.com/tw/app/profit-ai-trading-signals-bot/id6755719093)(AI交易訊號技術分析)
 [MoneyTime: Budget Planner App](https://apps.apple.com/tw/app/moneytime-budget-planner-app/id1632869872)(預算規劃支出追蹤儲蓄目標)
+[Subscription Tracker - Submind](https://apps.apple.com/tw/app/subscription-tracker-submind/id6752399847)(訂閱服務追蹤管理)
+[掃描收據記帳: ReceiptGenie](https://apps.apple.com/tw/app/%E6%8E%83%E6%8F%8F%E6%94%B6%E6%93%9A%E8%A8%98%E5%B8%B3-receiptgenie/id6740299816)(AI收據掃描自動記帳)
+[Budget & Spending Tracker](https://apps.apple.com/tw/app/budget-spending-tracker/id6746949168)(預算開銷追蹤)
 
 ### iPhone-介面美觀
 
@@ -235,6 +264,7 @@
 [Wigion: Notion Widgets](https://apps.apple.com/us/app/wigion-notion-widgets/id6578453601?l=zh-Hant-TW)(Notion桌面小工具)
 [LED 字幕](https://apps.apple.com/us/app/led-%E5%AD%97%E5%B9%95/id6743670144?l=zh-Hant-TW)(手機LED跑馬燈)
 [時間](https://apps.apple.com/tw/app/%E6%99%82%E9%96%93/id6757921127)(藝術時鐘數百種視覺場景)
+[動態實時壁紙4K高清手機主題](https://apps.apple.com/tw/app/%E5%8B%95%E6%85%8B%E5%AF%A6%E6%99%82%E5%A3%81%E7%B4%994k%E9%AB%98%E6%B8%85%E6%89%8B%E6%A9%9F%E4%B8%BB%E9%A1%8C/id1517801369)(4K動態壁紙手機主題)
 
 ### iPhone-筆記軟體
 
@@ -253,6 +283,10 @@
 [v2md 錄音轉文字筆記](https://apps.apple.com/tw/app/v2md-%E9%8C%84%E9%9F%B3%E8%BD%89%E6%96%87%E5%AD%97%E7%AD%86%E8%A8%98/id6744820344)(語音轉Markdown筆記匯出Obsidian)
 [HippoCam: Remember Every Thing](https://apps.apple.com/tw/app/hippocam-remember-every-thing/id6745417251)(拍照標籤記住物品位置)
 [Mangonote: AI Meeting Notes](https://apps.apple.com/tw/app/mangonote-ai-meeting-notes/id6754817801)(AI語音會議筆記智慧摘要)
+[NoteSpeak: AI語音轉文字·會議記錄](https://apps.apple.com/tw/app/notespeak-ai%E8%AA%9E%E9%9F%B3%E8%BD%89%E6%96%87%E5%AD%97-%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84/id6752627437)(AI語音轉文字會議記錄)
+[從影片擷取文字](https://apps.apple.com/tw/app/%E5%BE%9E%E5%BD%B1%E7%89%87%E6%93%B7%E5%8F%96%E6%96%87%E5%AD%97/id6740410080)(影片截圖OCR擷取文字)
+[ReadBay: Book Summaries](https://apps.apple.com/tw/app/readbay-book-summaries/id6499073338)(書籍摘要快速閱讀)
+[Ephemeron](https://apps.apple.com/tw/app/ephemeron/id6754211841)(時光膠囊記錄回憶)
 
 ### iPhone-遊戲
 
@@ -268,6 +302,9 @@
 [Word Craft - Open World Game](https://apps.apple.com/tw/app/word-craft-open-world-game/id6761182473)(填字拼字開放世界遊戲)
 [Arrow Master - Maze Escape Out](https://apps.apple.com/tw/app/arrow-master-maze-escape-out/id6760633183)(箭頭迷宮逃脫益智遊戲)
 [Letter Flow: Word Puzzle Game](https://apps.apple.com/tw/app/letter-flow-word-puzzle-game/id6753643265)(液體動畫英文單字解謎)
+[5 Second Rule - Fun Group Game](https://apps.apple.com/tw/app/5-second-rule-fun-group-game/id6747068887)(5秒團體派對遊戲)
+[Kids Cooking Games Sushi Maker](https://apps.apple.com/tw/app/kids-cooking-games-sushi-maker/id6743082965)(兒童壽司製作烹飪遊戲)
+[Conversation Starters -Qurious](https://apps.apple.com/tw/app/conversation-starters-qurious/id6745204949)(對話開啟話題卡牌遊戲)
 
 ### iPhone-地理
 
@@ -279,6 +316,7 @@
 
 [Photo Vault](https://apps.apple.com/app/keepsafe-photo-vault-spv-lock/id6736627526)(專屬媒體密碼)
 [私密相簿 - 私圖](https://apps.apple.com/tw/app/%E7%A7%81%E5%AF%86%E7%9B%B8%E7%B0%BF-%E7%A7%81%E5%9C%96/id1595672907)(256-bit加密照片影片保險箱)
+[隱藏照片影片 私密保險箱](https://apps.apple.com/tw/app/%E9%9A%B1%E8%97%8F%E7%85%A7%E7%89%87%E5%BD%B1%E7%89%87-%E7%A7%81%E5%AF%86%E4%BF%9D%E9%9A%AA%E7%AE%B1/id951324809)(隱藏私密照片影片保險箱)
 
 ### iPhone-遙控
 
@@ -291,6 +329,7 @@
 [Inscreen](https://apps.apple.com/us/app/screen-time-control-inscreen/id6737131495)(螢幕時間控制)
 [StepBloc: Screen Time Blocker](https://apps.apple.com/us/app/stepbloc-screen-time-blocker/id6480580480?l=zh-Hant-TW)(螢幕時間限制)
 [Run for Fun: Screen Time Focus](https://apps.apple.com/us/app/run-for-fun-screen-time-focus/id6743376966?l=zh-Hant-TW)(螢幕時間控制與專注)
+[Screen Recording](https://apps.apple.com/tw/app/screen-recording/id6746417023)(螢幕錄影工具)
 
 ### iPhone-飲食
 
@@ -298,6 +337,8 @@
 [Meal Planner and Grocery List](https://apps.apple.com/us/app/meal-planner-and-grocery-list/id1619509620?l=zh-Hant-TW)(規劃飲食及購物清單)
 [Fast & Bear It：168斷食計時器](https://apps.apple.com/tw/app/fast-bear-it-168%E6%96%B7%E9%A3%9F%E8%A8%88%E6%99%82%E5%99%A8/id6757264135)(168斷食計時追蹤)
 [按時吃藥 - 吃藥提醒·用藥記錄](https://apps.apple.com/tw/app/%E6%8C%89%E6%99%82%E5%90%83%E8%97%A5-%E5%90%83%E8%97%A5%E6%8F%90%E9%86%92-%E7%94%A8%E8%97%A5%E8%A8%98%E9%8C%84/id6755893116)(用藥提醒服藥記錄掃描辨識)
+[食物標籤掃描器: Ryla](https://apps.apple.com/tw/app/%E9%A3%9F%E7%89%A9%E6%A8%99%E7%B1%A4%E6%8E%83%E6%8F%8F%E5%99%A8-ryla/id6749587214)(AI掃描食物標籤營養分析)
+[Noot: AI Calorie Diet Coach](https://apps.apple.com/tw/app/noot-ai-calorie-diet-coach/id6744554229)(AI卡路里飲食教練)
 
 ### iPhone-設計
 
@@ -307,6 +348,8 @@
 [尺寸快記 - 標注尺寸，繪製尺寸圖，快速量尺記錄](https://apps.apple.com/tw/app/%E5%B0%BA%E5%AF%B8%E5%BF%AB%E8%A8%98-%E6%A8%99%E6%B3%A8%E5%B0%BA%E5%AF%B8-%E7%B9%AA%E8%A3%BD%E5%B0%BA%E5%AF%B8%E5%9C%96-%E5%BF%AB%E9%80%9F%E9%87%8F%E5%B0%BA%E8%A8%98%E9%8C%84/id1668527468)(圖片標注尺寸繪製尺寸圖)
 [Passport Photo+](https://apps.apple.com/tw/app/passport-photo/id6472762578)(AI護照照片製作多種證件尺寸)
 [AR Drawing – Draw Art Sketches](https://apps.apple.com/tw/app/ar-drawing-draw-art-sketches/id6450997517)(AR擴增實境投影描繪繪圖)
+[Poster design - 商标设计软件](https://apps.apple.com/tw/app/poster-design-%E5%95%86%E6%A0%87%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6/id1513309695)(海報商標設計軟體)
+[Business Card Maker·](https://apps.apple.com/tw/app/business-card-maker/id6502953049)(名片設計製作)
 
 ### iPhone-排水
 
@@ -321,6 +364,7 @@
 [Lullabye - Sleep Sounds](https://apps.apple.com/tw/app/lullabye-sleep-sounds/id6761353314)(環境音混合助眠)
 [FlexiAlarm: Watch Alarm](https://apps.apple.com/tw/app/flexialarm-watch-alarm/id6502886443)(Apple Watch彈性排程鬧鐘)
 [CountX: Countdown & Reminders](https://apps.apple.com/tw/app/countx-countdown-reminders/id6743341927)(主畫面鎖定畫面即時倒數)
+[Svegliare: Smart Alarm Clock](https://apps.apple.com/tw/app/svegliare-smart-alarm-clock/id6451311364)(智慧鬧鐘多種鈴聲)
 
 ### iPhone-辨識
 
@@ -330,6 +374,9 @@
 [收據掃描翻譯器](https://apps.apple.com/tw/app/%E6%94%B6%E6%93%9A%E6%8E%83%E6%8F%8F%E7%BF%BB%E8%AD%AF%E5%99%A8/id6756390257)(AI OCR收據掃描100+語言翻譯)
 [貓鍵盤](https://apps.apple.com/tw/app/%E8%B2%93%E9%8D%B5%E7%9B%A4/id6477843068)(自訂鍵盤快速輸入常用語句)
 [噪音分貝計 - 聲音分貝測試專家](https://apps.apple.com/tw/app/%E5%99%AA%E9%9F%B3%E5%88%86%E8%B2%9D%E8%A8%88-%E8%81%B2%E9%9F%B3%E5%88%86%E8%B2%9D%E6%B8%AC%E8%A9%A6%E5%B0%88%E5%AE%B6/id6744018521)(即時分貝測量環境音量統計)
+[掃描二維碼 - 掃描器](https://apps.apple.com/tw/app/%E6%8E%83%E6%8F%8F%E4%BA%8C%E7%B6%AD%E7%A2%BC-%E6%8E%83%E6%8F%8F%E5%99%A8/id6736467057)(QR碼條碼掃描器)
+[分貝計－噪音檢測儀](https://apps.apple.com/tw/app/%E5%88%86%E8%B2%9D%E8%A8%88-%E5%99%AA%E9%9F%B3%E6%AA%A2%E6%B8%AC%E5%84%80/id6468837339)(環境噪音分貝檢測)
+[植物辨識・植物醫生與植物養護指南 Plant ID](https://apps.apple.com/tw/app/%E6%A4%8D%E7%89%A9%E8%BE%A8%E8%AD%98-%E6%A4%8D%E7%89%A9%E9%86%AB%E7%94%9F%E8%88%87%E6%A4%8D%E7%89%A9%E9%A4%8A%E8%AD%B7%E6%8C%87%E5%8D%97-plant-id/id6450924488)(AI植物辨識養護指南)
 
 ### iPhone-音樂
 
@@ -343,6 +390,8 @@
 [Air Drum – Motion Drum Kit](https://apps.apple.com/tw/app/air-drum-motion-drum-kit/id6757678185)(動作感應揮手演奏架子鼓)
 [手機用音量放大器和等化器](https://apps.apple.com/tw/app/%E6%89%8B%E6%A9%9F%E7%94%A8%E9%9F%B3%E9%87%8F%E6%94%BE%E5%A4%A7%E5%99%A8%E5%92%8C%E7%AD%89%E5%8C%96%E5%99%A8/id6749623406)(擴音器低音增強20+等化器預設)
 [LiveMic: Bluetooth Speaker Mic](https://apps.apple.com/tw/app/livemic-bluetooth-speaker-mic/id6754826510)(iPhone變無線藍牙麥克風)
+[音樂標籤編輯器：AI搜尋封面和歌詞](https://apps.apple.com/tw/app/%E9%9F%B3%E6%A8%82%E6%A8%99%E7%B1%A4%E7%B7%A8%E8%BC%AF%E5%99%A8-ai%E6%90%9C%E5%B0%8B%E5%B0%81%E9%9D%A2%E5%92%8C%E6%AD%8C%E8%A9%9E/id6738013677)(AI搜尋封面歌詞編輯標籤)
+[音訊轉換器: VoxCut](https://apps.apple.com/tw/app/%E9%9F%B3%E8%A8%8A%E8%BD%89%E6%8F%9B%E5%99%A8-voxcut/id6752537092)(音訊格式轉換剪輯工具)
 
 ### iPhone-生成
 
@@ -360,6 +409,17 @@
 [Echovo - TTS & Voice Cloning](https://apps.apple.com/tw/app/echovo-tts-voice-cloning/id6758773035)(裝置端文字轉語音聲音複製)
 [使用 人工 智能 為 任何 視頻 生成 現代 字幕](https://apps.apple.com/tw/app/%E4%BD%BF%E7%94%A8-%E4%BA%BA%E5%B7%A5-%E6%99%BA%E8%83%BD-%E7%82%BA-%E4%BB%BB%E4%BD%95-%E8%A6%96%E9%A0%BB-%E7%94%9F%E6%88%90-%E7%8F%BE%E4%BB%A3-%E5%AD%97%E5%B9%95/id6739069099)(AI即時語音轉字幕多種樣式)
 [解壓專家Pro - zip、rar、7z 壓縮解壓](https://apps.apple.com/tw/app/%E8%A7%A3%E5%A3%93%E5%B0%88%E5%AE%B6pro-zip-rar-7z-%E5%A3%93%E7%B8%AE%E8%A7%A3%E5%A3%93/id1501798473)(專業檔案壓縮解壓OCR瀏覽器)
+[PDF Scanner Document Convert +](https://apps.apple.com/tw/app/pdf-scanner-document-convert/id6753771856)(PDF掃描文件轉換)
+[Image to PDF Pro - PDFast](https://apps.apple.com/tw/app/image-to-pdf-pro-pdfast/id6753763233)(圖片轉PDF專業版)
+[PDF Editor & Scanner:PDF Tools](https://apps.apple.com/tw/app/pdf-editor-scanner-pdf-tools/id6752439246)(PDF編輯掃描工具)
+[Edit Documents: Sign PDF](https://apps.apple.com/tw/app/edit-documents-sign-pdf/id6752355046)(編輯文件簽署PDF)
+[簽署文件與簽名](https://apps.apple.com/tw/app/%E7%B0%BD%E7%BD%B2%E6%96%87%E4%BB%B6%E8%88%87%E7%B0%BD%E5%90%8D/id6749072748)(電子簽署文件簽名)
+[簽名: 電子簽名 - 郵票](https://apps.apple.com/tw/app/%E7%B0%BD%E5%90%8D-%E9%9B%BB%E5%AD%90%E7%B0%BD%E5%90%8D-%E9%83%B5%E7%A5%A8/id6748340697)(電子簽名郵票設計)
+[Video Compressor - Resizer](https://apps.apple.com/tw/app/video-compressor-resizer/id6753058015)(影片壓縮調整尺寸)
+[影片壓縮器 - ShrinkIt](https://apps.apple.com/tw/app/%E5%BD%B1%E7%89%87%E5%A3%93%E7%B8%AE%E5%99%A8-shrinkit/id6751767040)(影片智慧壓縮)
+[Copy My Data Smart Switch](https://apps.apple.com/tw/app/copy-my-data-smart-switch/id6748068771)(手機資料轉移備份)
+[Zip File Manager: Zip & Files](https://apps.apple.com/tw/app/zip-file-manager-zip-files/id6749278269)(ZIP檔案管理解壓)
+[RAR Opener](https://apps.apple.com/tw/app/rar-opener/id6738619804)(RAR檔案開啟解壓)
 
 ### iPhone-截圖
 
@@ -382,6 +442,7 @@
 
 [LinkedIn](https://apps.apple.com/tw/app/linkedin/id288429040)(職涯人脈與求職平台)
 [Unigent - 大學生校園社群](https://apps.apple.com/tw/app/unigent-%E5%A4%A7%E5%AD%B8%E7%94%9F%E6%A0%A1%E5%9C%92%E7%A4%BE%E7%BE%A4/id6757976384)(大學生校園社交資源平台)
+[WhatsWeb Dual Messenger: Waduo](https://apps.apple.com/tw/app/whatsweb-dual-messenger-waduo/id6746672075)(雙開WhatsApp訊息管理)
 
 ### iPhone-腦力訓練
 
@@ -391,6 +452,7 @@
 [Sudoku: Daily Brain Workout](https://apps.apple.com/tw/app/sudoku-daily-brain-workout/id6748236600)(每日數獨四種模式排行榜)
 [Times Tables: Math for Kids](https://apps.apple.com/tw/app/times-tables-math-for-kids/id6741796505)(兒童乘法練習五種遊戲模式)
 [Bits AI：閃卡與測驗](https://apps.apple.com/tw/app/bits-ai-%E9%96%83%E5%8D%A1%E8%88%87%E6%B8%AC%E9%A9%97/id6738059151)(AI閃卡間隔重複PDF轉卡片)
+[Speed Reading & Memory Trainer](https://apps.apple.com/tw/app/speed-reading-memory-trainer/id6737622922)(速讀記憶訓練)
 
 ### iPhone-限時免費
 
