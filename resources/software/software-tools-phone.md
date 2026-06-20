@@ -28,6 +28,10 @@
     - [iPhone-截圖](#iphone-截圖)
     - [iPhone-程式設計](#iphone-程式設計)
     - [iPhone-搜尋](#iphone-搜尋)
+    - [iPhone-旅遊](#iphone-旅遊)
+    - [iPhone-商業](#iphone-商業)
+    - [iPhone-腦力訓練](#iphone-腦力訓練)
+    - [iPhone-限時免費](#iphone-限時免費)
   - [**Android**](#android)
     - [Android-電池監測](#android-電池監測)
     - [Android-Google](#android-google)
@@ -80,6 +84,9 @@
 [Erasee - AI照片去背 & 摳圖換背景](https://apps.apple.com/us/app/erasee-ai%E7%85%A7%E7%89%87%E5%8E%BB%E8%83%8C-%E6%91%B3%E5%9C%96%E6%8F%9B%E8%83%8C%E6%99%AF/id6502436500?l=zh-Hant-TW)(AI去背與更換背景)
 [Light Paint Timelapse Camera](https://apps.apple.com/us/app/light-paint-timelapse-camera/id6746681444?l=zh-Hant-TW)(光繪與縮時攝影)
 [Compress Photos Pro](https://apps.apple.com/us/app/compress-photos-pro/id6748705091?l=zh-Hant-TW)(照片壓縮)
+[修復舊照片和圖像](https://apps.apple.com/tw/app/%E4%BF%AE%E5%BE%A9%E8%88%8A%E7%85%A7%E7%89%87%E5%92%8C%E5%9C%96%E5%83%8F/id6760696554)(AI修復受損照片)
+[出圈拼圖 - Live實況動態拼圖神器](https://apps.apple.com/tw/app/%E5%87%BA%E5%9C%88%E6%8B%BC%E5%9C%96-live%E5%AF%A6%E6%B3%81%E5%8B%95%E6%85%8B%E6%8B%BC%E5%9C%96%E7%A5%9E%E5%99%A8-%E4%B9%9D%E5%AE%AE%E6%A0%BC%E6%8B%BC%E5%9C%96-%E6%84%9B%E5%BF%83%E6%8B%BC%E5%9C%96/id6761013690)(AI智能出圈拼圖)
+[Squeeze - 影片壓縮](https://apps.apple.com/tw/app/squeeze-%E5%BD%B1%E7%89%87%E5%A3%93%E7%B8%AE/id6761681524)(影片壓縮90%無損畫質)
 
 ### iPhone-鈴聲製作
 
@@ -93,6 +100,7 @@
 [Country Days Calendar Tracker](https://apps.apple.com/us/app/country-days-calendar-tracker/id6738502107?l=zh-Hant-TW)(特定國家的節日)  
 [Dog & Cat Tracker - PetNoter](https://apps.apple.com/us/app/dog-cat-tracker-petnoter/id1580581463%3Fl%3Dzh-Hant-TW)(寵物照護追蹤)
 [Cupla: Apps for Couples](https://apps.apple.com/us/app/cupla-apps-for-couples/id1557764033?l=zh-Hant-TW)(情侶共享行事曆與待辦)
+[CalendarSpeak: Voice Planner](https://apps.apple.com/tw/app/calendarspeak-voice-planner/id6768933110)(語音行程規劃AI自動解析)
 
 ### iPhone-螢幕投屏
 
@@ -104,6 +112,7 @@
 
 [Unpluggd](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.newmobilelife.com%2F2024%2F12%2F28%2Funpluggd-%25e9%2599%2590%25e6%2599%2582%25e5%2585%258d%25e8%25b2%25bb%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR2vYFZlnwVHiQDcyKQEMlplTG1SiJy3afQrckzHd2eSaqt0laUBsIOKcxI_aem_s9Fgmkn0M3H4A8ftdvEtNw&h=AT2Ni4D7K33sJIJihgf6JiP9jG4OAvOu78u8E6ahu9pzENMUIRO4JgdFkWQXL8WIqUSNA7oxUVg1yAvb0WcsHvNukU73-3y4ohzVD1hv0wCRI0CcpaQhXyz2jDKgfQSrVdP3oQ)
 [Ampere - 電池充電檢查工具](https://apps.apple.com/us/app/ampere-%E9%9B%BB%E6%B1%A0%E5%85%85%E9%9B%BB%E6%AA%A2%E6%9F%A5%E5%B7%A5%E5%85%B7/id1317191964?l=zh-Hant-TW)(電池健康與充電檢測)
+[Battery Life Health: Pro Check](https://apps.apple.com/tw/app/battery-life-health-pro-check/id6757500486)(電池診斷與效能基準測試)
 
 ### iPhone-運動健康
 
@@ -129,6 +138,11 @@
 [Calorie AI - Protein Tracker](https://apps.apple.com/us/app/calorie-ai-protein-tracker/id6737493244?l=zh-Hant-TW)(AI卡路里與蛋白質追蹤)
 [Health App Widgets & Watch](https://apps.apple.com/us/app/health-app-widgets-watch/id6745725161?l=zh-Hant-TW)(健康數據桌面小工具)
 [My Plate AI: Calorie Tracking](https://apps.apple.com/us/app/my-plate-ai-calorie-tracking/id6744751535?l=zh-Hant-TW)(AI拍照計算卡路里)
+[Kim: Personal Health Assistant](https://apps.apple.com/tw/app/kim-personal-health-assistant/id6763202025)(AI健康助手語音記錄)
+[Checkin: Fitness Tracker Game](https://apps.apple.com/tw/app/checkin-fitness-tracker-game/id6478579365)(健身遊戲化領地爭奪)
+[OnTrack - Gym Accountability](https://apps.apple.com/tw/app/ontrack-gym-accountability/id6756861706)(健身夥伴 Accountability)
+[SunDose：紫外線與曬膚](https://apps.apple.com/tw/app/sundose-%E7%B4%AB%E5%A4%96%E7%B7%9A%E8%88%87%E6%9B%AC%E8%86%9A/id6761016357)(UV指數與曬膚計時)
+[Pixel Islands: 計步器](https://apps.apple.com/tw/app/pixel-islands-%E8%A8%88%E6%AD%A5%E5%99%A8/id6760819710)(步數驅動像素島嶼進化)
 
 ### iPhone-語文教學
 
@@ -139,6 +153,7 @@
 [AI Flashcards - Braindeck](https://apps.apple.com/us/app/ai-flashcards-braindeck/id6476791990?l=zh-Hant-TW)(AI生成學習字卡)
 [Word of the Day: Flashcards](https://apps.apple.com/us/app/word-of-the-day-flashcards/id6472224596?l=zh-Hant-TW)(每日一字與單字卡)
 [Geometry Solver](https://apps.apple.com/us/app/geometry-solver/id1226352729?l=zh-Hant-TW)(幾何問題求解)
+[AI演講教練：清晰流利表達](https://apps.apple.com/tw/app/ai%E6%BC%94%E8%AC%9B%E6%95%99%E7%B7%B4-%E6%B8%85%E6%99%B0%E6%B5%81%E5%88%A9%E8%A1%A8%E9%81%94/id6761376662)(減少口頭禪提升表達力)
 
 ### iPhone-活力加持
 
@@ -168,6 +183,10 @@
 [CalmTrack: Cozy Habit Tracker](https://apps.apple.com/us/app/calmtrack-cozy-habit-tracker/id6744504658?l=zh-Hant-TW)(習慣追蹤)
 [Daily life organizer: Prostir](https://apps.apple.com/us/app/daily-life-organizer-prostir/id6535696029?l=zh-Hant-TW)(日常事務規劃)
 [To-do list: Todo Reminders](https://apps.apple.com/us/app/to-do-list-todo-reminders/id6749473691?l=zh-Hant-TW)(待辦清單與提醒)
+[StellarDay: Gratitude Journal](https://apps.apple.com/tw/app/stellarday-gratitude-journal/id6761923744)(感恩日記與自我反思)
+[Oasis: Find your calm](https://apps.apple.com/tw/app/oasis-find-your-calm/id6751190869)(科學實證聲景放鬆)
+[Soundscaper - 放鬆聲音與雷暴模擬](https://apps.apple.com/tw/app/soundscaper-%E6%94%BE%E9%AC%86%E8%81%B2%E9%9F%B3%E8%88%87%E9%9B%B7%E6%9A%B4%E6%A8%A1%E6%93%AC/id6443425167)(80+放鬆音效雷暴模式)
+[Habit Huski](https://apps.apple.com/tw/app/habit-huski/id6772803750)(無壓力習慣養成無連續天數)
 
 ### iPhone-財務
 
@@ -197,6 +216,9 @@
 [Notebook AI](https://apps.apple.com/app/notebook-ai-meeting-notes/id6535696830?platform=iphone)(AI轉錄與摘要)  
 [Teleprompter Top](https://apps.apple.com/app/teleprompter-top-script-reader/id6636538421)(演講台詞草擬)
 [Video Teleprompter - Evelize](https://apps.apple.com/us/app/video-teleprompter-evelize/id6446815796?l=zh-Hant-TW)(錄影提詞機)
+[語音轉文字離線錄音](https://apps.apple.com/tw/app/%E8%AA%9E%E9%9F%B3%E8%BD%89%E6%96%87%E5%AD%97%E9%9B%A2%E7%B7%9A%E9%8C%84%E9%9F%B3/id6767256118)(完全離線語音轉文字)
+[AI Lecture Note Taker](https://apps.apple.com/tw/app/ai-lecture-note-taker/id1624460253)(AI即時轉錄講座筆記)
+[NoteOS：語音筆記與待辦](https://apps.apple.com/tw/app/noteos-%E8%AA%9E%E9%9F%B3%E7%AD%86%E8%A8%98%E8%88%87%E5%BE%85%E8%BE%A6/id6761012123)(AI語音筆記待辦習慣追蹤)
 
 ### iPhone-遊戲
 
@@ -208,6 +230,8 @@
 [ASMR Games - Relief Stress](https://apps.apple.com/us/app/asmr-games-relief-stress/id6478853004?l=zh-Hant-TW)(ASMR舒壓遊戲)
 [10+ Puzzle Games Offline: PGQ](https://apps.apple.com/us/app/10-puzzle-games-offline-pgq/id6474549464?l=zh-Hant-TW)(離線益智遊戲合輯)
 [Colouring games for kids](https://apps.apple.com/us/app/colouring-games-for-kids/id6476297325?l=zh-Hant-TW)(兒童著色遊戲)
+[Tick00: Endless Math Puzzle](https://apps.apple.com/tw/app/tick00-endless-math-puzzle/id6776347738)(數學益智連線湊方程式)
+[Word Craft - Open World Game](https://apps.apple.com/tw/app/word-craft-open-world-game/id6761182473)(填字拼字開放世界遊戲)
 
 ### iPhone-地理
 
@@ -250,6 +274,8 @@
 ### iPhone-鬧鐘
 
 [Step Out Smart Alarm Clock](https://apps.apple.com/us/app/step-out-smart-alarm-clock/id673120263)(需要實際走動)
+[Dew - Affirmation Alarm](https://apps.apple.com/tw/app/dew-affirmation-alarm/id6761745674)(需要打字稱讚自己才關鬧鐘)
+[Lullabye - Sleep Sounds](https://apps.apple.com/tw/app/lullabye-sleep-sounds/id6761353314)(環境音混合助眠)
 
 ### iPhone-辨識
 
@@ -278,6 +304,7 @@
 [iPrint and Scan - Print Photo](https://apps.apple.com/us/app/iprint-and-scan-print-photo/id6446086183?l=zh-Hant-TW)(無線列印與掃描)
 [QR Code Maker](https://apps.apple.com/us/app/qr-code-maker/id6736972682?l=zh-Hant-TW)(QR碼生成器)
 [MagicKit Pro: AI智慧工具箱](https://apps.apple.com/us/app/magickit-pro-ai%E6%99%BA%E6%85%A7%E5%B7%A5%E5%85%B7%E7%AE%B1/id6746649752?l=zh-Hant-TW)(AI多功能工具箱)
+[PDFix: Edit, Sign, Convert PDF](https://apps.apple.com/tw/app/pdfix-edit-sign-convert-pdf/id6768568142)(免費PDF編輯簽署轉換)
 
 ### iPhone-截圖
 
@@ -290,6 +317,23 @@
 ### iPhone-搜尋
 
 [Browser Watch: Wrist Search](https://apps.apple.com/us/app/browser-watch-wrist-search/id6466570949?l=zh-Hant-TW)(Apple Watch瀏覽器與搜尋)
+
+### iPhone-旅遊
+
+[World eSIM｜海外eSIM旅遊上網首選](https://apps.apple.com/tw/app/world-esim-%E6%B5%B7%E5%A4%96esim%E6%97%85%E9%81%8A%E4%B8%8A%E7%B6%B2%E9%A6%96%E9%81%B8/id6449734253)(海外eSIM免實體卡上網)
+
+### iPhone-商業
+
+[LinkedIn](https://apps.apple.com/tw/app/linkedin/id288429040)(職涯人脈與求職平台)
+
+### iPhone-腦力訓練
+
+[Fallacy: Brain Training Logic](https://apps.apple.com/tw/app/fallacy-brain-training-logic/id6743923575)(邏輯謬誤訓練提升批判思考)
+[OffShelf: Learn & Focus](https://apps.apple.com/tw/app/offshelf-learn-focus/id6767906574)(番茄鐘學習字卡排行榜)
+
+### iPhone-限時免費
+
+[限時情報王](https://apps.apple.com/tw/app/%E9%99%90%E6%99%82%E6%83%85%E5%A0%B1%E7%8E%8B/id1119596304)(每日限時優惠情報通知)
 
 ## **Android**
 
