@@ -85,7 +85,7 @@
 [Light Paint Timelapse Camera](https://apps.apple.com/us/app/light-paint-timelapse-camera/id6746681444?l=zh-Hant-TW)(光繪與縮時攝影)
 [Compress Photos Pro](https://apps.apple.com/us/app/compress-photos-pro/id6748705091?l=zh-Hant-TW)(照片壓縮)
 [修復舊照片和圖像](https://apps.apple.com/tw/app/%E4%BF%AE%E5%BE%A9%E8%88%8A%E7%85%A7%E7%89%87%E5%92%8C%E5%9C%96%E5%83%8F/id6760696554)(AI修復受損照片)
-[出圈拼圖 - Live實況動態拼圖神器](https://apps.apple.com/tw/app/%E5%87%BA%E5%9C%88%E6%8B%BC%E5%9C%96-live%E5%AF%A6%E6%B3%81%E5%8B%95%E6%85%8B%E6%8B%BC%E5%9C%96%E7%A5%9E%E5%99%A8-%E4%B9%9D%E5%AE%AE%E6%A0%BC%E6%8B%BC%E5%9C%96-%E6%84%9B%E5%BF%83%E6%8B%BC%E5%9C%96/id6761013690)(AI智能出圈拼圖)
+[出圈拼圖 - Live實況動態拼圖神器，九宮格拼圖，愛心拼圖](https://apps.apple.com/tw/app/%E5%87%BA%E5%9C%88%E6%8B%BC%E5%9C%96-live%E5%AF%A6%E6%B3%81%E5%8B%95%E6%85%8B%E6%8B%BC%E5%9C%96%E7%A5%9E%E5%99%A8-%E4%B9%9D%E5%AE%AE%E6%A0%BC%E6%8B%BC%E5%9C%96-%E6%84%9B%E5%BF%83%E6%8B%BC%E5%9C%96/id6761013690)(AI智能出圈拼圖)
 [Squeeze - 影片壓縮](https://apps.apple.com/tw/app/squeeze-%E5%BD%B1%E7%89%87%E5%A3%93%E7%B8%AE/id6761681524)(影片壓縮90%無損畫質)
 [AI Cleaner: Photo Delete Swipe](https://apps.apple.com/tw/app/ai-cleaner-photo-delete-swipe/id6744400945)(AI辨識刪除重複模糊照片)
 [時光琥珀 - USB 照片與影片備份](https://apps.apple.com/tw/app/%E6%99%82%E5%85%89%E7%90%A5%E7%8F%80-usb-%E7%85%A7%E7%89%87%E8%88%87%E5%BD%B1%E7%89%87%E5%82%99%E4%BB%BD/id6760618605)(USB離線備份照片影片)
@@ -304,7 +304,7 @@
 [Art Space](https://apps.apple.com/tw/app/%E8%97%9D%E8%A1%93%E7%A9%BA%E9%96%93-%E8%97%9D%E8%A1%93%E5%93%81%E8%88%87%E5%9C%96%E7%89%87%E9%A0%90%E8%A6%BD%E5%B0%8F%E6%A8%A3%E7%94%9F%E6%88%90%E5%99%A8/id585692981)(藝術空間)  
 [Resume Maker: CV Maker](https://apps.apple.com/us/app/resume-maker-cv-maker/id6468965114?l=zh-Hant-TW)(個人履歷和求職信)
 [Logo Maker: Icon, Brand & Art](https://apps.apple.com/us/app/logo-maker-icon-brand-art/id6743794789?l=zh-Hant-TW)(Logo與圖示設計)
-[尺寸快記](https://apps.apple.com/tw/app/%E5%B0%BA%E5%AF%B8%E5%BF%AB%E8%A8%98-%E6%A8%99%E6%B3%A8%E5%B0%BA%E5%AF%B8-%E7%B9%AA%E8%A3%BD%E5%B0%BA%E5%AF%B8%E5%9C%96-%E5%BF%AB%E9%80%9F%E9%87%8F%E5%B0%BA%E8%A8%98%E9%8C%84/id1668527468)(圖片標注尺寸繪製尺寸圖)
+[尺寸快記 - 標注尺寸，繪製尺寸圖，快速量尺記錄](https://apps.apple.com/tw/app/%E5%B0%BA%E5%AF%B8%E5%BF%AB%E8%A8%98-%E6%A8%99%E6%B3%A8%E5%B0%BA%E5%AF%B8-%E7%B9%AA%E8%A3%BD%E5%B0%BA%E5%AF%B8%E5%9C%96-%E5%BF%AB%E9%80%9F%E9%87%8F%E5%B0%BA%E8%A8%98%E9%8C%84/id1668527468)(圖片標注尺寸繪製尺寸圖)
 [Passport Photo+](https://apps.apple.com/tw/app/passport-photo/id6472762578)(AI護照照片製作多種證件尺寸)
 [AR Drawing – Draw Art Sketches](https://apps.apple.com/tw/app/ar-drawing-draw-art-sketches/id6450997517)(AR擴增實境投影描繪繪圖)
 
