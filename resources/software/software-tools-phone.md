@@ -111,6 +111,10 @@
 [AI Magic Eraser: AiRetouch](https://apps.apple.com/tw/app/ai-magic-eraser-airetouch/id6461419148)(AI魔法消除移除物件)
 [Gallery Cleaner: Purgo](https://apps.apple.com/tw/app/gallery-cleaner-purgo/id6739306985)(AI相簿清理重複照片)
 [Presets for Lightroom: Preseto](https://apps.apple.com/tw/app/presets-for-lightroom-preseto/id6745164571)(Lightroom預設濾鏡)
+[Resize Photos·](https://apps.apple.com/app/id1610518849)(調整照片尺寸)
+[Blur Photo.](https://apps.apple.com/app/id1624436697)(照片模糊處理)
+[Restore Old Photos Ai](https://apps.apple.com/app/id6746146457)(AI修復舊照片)
+[Linx: Camera Effects App](https://apps.apple.com/app/id6737527239)(相機特效濾鏡)
 
 ### iPhone-鈴聲製作
 
@@ -143,6 +147,8 @@
 [時間寶：時間計算器](https://apps.apple.com/tw/app/%E6%99%82%E9%96%93%E5%AF%B6-%E6%99%82%E9%96%93%E8%A8%88%E7%AE%97%E5%99%A8/id6748468456)(時間計算器差異計算)
 [番茄專注計時器：Krono](https://apps.apple.com/tw/app/%E7%95%AA%E8%8C%84%E5%B0%88%E6%B3%A8%E8%A8%88%E6%99%82%E5%99%A8-krono/id6744065868)(番茄鐘專注計時器)
 [hocus.](https://apps.apple.com/tw/app/hocus/id1030548464)(專注計時器任務管理)
+[Calendar planner CircleTime](https://apps.apple.com/app/id535887902)(行事曆規劃圓形時間)
+[Focus Dial](https://apps.apple.com/app/id6739151372)(專注撥盤計時器)
 
 ### iPhone-螢幕投屏
 
@@ -196,6 +202,9 @@
 [BeastInterval：HIIT間歇訓練健身計時器助手](https://apps.apple.com/tw/app/beastinterval-hiit%E9%96%93%E6%AD%87%E8%A8%93%E7%B7%B4%E5%81%A5%E8%BA%AB%E8%A8%88%E6%99%82%E5%99%A8%E5%8A%A9%E6%89%8B/id6744288215)(HIIT間歇訓練計時器)
 [Stress Tracker - Apex Athletic](https://apps.apple.com/tw/app/stress-tracker-apex-athletic/id6738960708)(壓力追蹤運動分析)
 [Heart Rate Monitor](https://apps.apple.com/tw/app/heart-rate-monitor/id1591295637)(心率監測即時追蹤)
+[Pedometer Walking Challenge](https://apps.apple.com/app/id6742652108)(計步器行走挑戰)
+[Jump Counter & Rebound](https://apps.apple.com/app/id6708239674)(跳繩計數器)
+[Blood Pressure Pulse Monitor](https://apps.apple.com/app/id6474854633)(血壓心率檢測)
 
 ### iPhone-語文教學
 
@@ -261,6 +270,10 @@
 [Sunny Sea Ocean Sleep Sounds](https://apps.apple.com/tw/app/sunny-sea-ocean-sleep-sounds/id916540089)(海洋聲音助眠)
 [Relaxing Sounds - Radio Nature](https://apps.apple.com/tw/app/relaxing-sounds-radio-nature/id6746090087)(自然聲音放鬆電台)
 [Habit Tracker.](https://apps.apple.com/tw/app/habit-tracker/id6661028276)(習慣追蹤養成)
+[SobrMate: Days Clean Tracker](https://apps.apple.com/app/id6744226342)(清醒日數追蹤)
+[Habit Tracker - Horizon](https://apps.apple.com/app/id1524155304)(習慣追蹤地平線)
+[Afternoon: Habit Tracker](https://apps.apple.com/app/id6743663885)(午後習慣追蹤)
+[Calm](https://apps.apple.com/app/id571800810)(睡眠冥想放鬆)
 
 ### iPhone-財務
 
@@ -281,6 +294,7 @@
 [發票製作 - Invofy](https://apps.apple.com/tw/app/%E7%99%BC%E7%A5%A8%E8%A3%BD%E4%BD%9C-invofy/id6745889829)(發票製作管理)
 [Invoice Creator - Invie](https://apps.apple.com/tw/app/invoice-creator-invie/id6747674832)(發票創造器)
 [貨幣轉換器| 匯率](https://apps.apple.com/tw/app/%E8%B2%A8%E5%B9%A3%E8%BD%89%E6%8F%9B%E5%99%A8-%E5%8C%AF%E7%8E%87/id6590633533)(貨幣匯率即時轉換)
+[Coinverter+ Crypto & Currency](https://apps.apple.com/app/id6747053393)(加密貨幣法幣轉換)
 
 ### iPhone-介面美觀
 
@@ -294,6 +308,8 @@
 [動態實時壁紙4K高清手機主題](https://apps.apple.com/tw/app/%E5%8B%95%E6%85%8B%E5%AF%A6%E6%99%82%E5%A3%81%E7%B4%994k%E9%AB%98%E6%B8%85%E6%89%8B%E6%A9%9F%E4%B8%BB%E9%A1%8C/id1517801369)(4K動態壁紙手機主題)
 [Color Wheel](https://apps.apple.com/tw/app/color-wheel/id1449736609)(色彩輪盤配色工具)
 [iShrug: Kaomoji and ASCII Art](https://apps.apple.com/tw/app/ishrug-kaomoji-and-ascii-art/id1194298361)(顏文字ASCII藝術)
+[Wallpapers for Dynamic Island.](https://apps.apple.com/app/id6447361729)(動態島專屬桌布)
+[FontFlex: Fonts for Safari](https://apps.apple.com/app/id1597034898)(Safari瀏覽器字體更換)
 
 ### iPhone-筆記軟體
 
@@ -317,6 +333,7 @@
 [ReadBay: Book Summaries](https://apps.apple.com/tw/app/readbay-book-summaries/id6499073338)(書籍摘要快速閱讀)
 [Ephemeron](https://apps.apple.com/tw/app/ephemeron/id6754211841)(時光膠囊記錄回憶)
 [Quick Notes & Draft - Nanonote](https://apps.apple.com/tw/app/quick-notes-draft-nanonote/id1575376162)(快速筆記草稿)
+[Clipboard : Keyboard Manager](https://apps.apple.com/app/id1633027266)(剪貼簿鍵盤管理)
 
 ### iPhone-遊戲
 
@@ -338,6 +355,7 @@
 [Kindergarten Learning Games+](https://apps.apple.com/tw/app/kindergarten-learning-games/id6470336123)(幼兒學習遊戲合輯)
 [Jumble Joy: Anagrams Word game](https://apps.apple.com/tw/app/jumble-joy-anagrams-word-game/id6744644052)(字母重組單字解謎)
 [KM Animal Sounds: Learn & Play](https://apps.apple.com/tw/app/km-animal-sounds-learn-play/id6742056685)(動物聲音學習遊戲)
+[One Hit.](https://apps.apple.com/app/id1450743822)(一擊必殺動作遊戲)
 
 ### iPhone-地理
 
@@ -365,6 +383,7 @@
 [StepBloc: Screen Time Blocker](https://apps.apple.com/us/app/stepbloc-screen-time-blocker/id6480580480?l=zh-Hant-TW)(螢幕時間限制)
 [Run for Fun: Screen Time Focus](https://apps.apple.com/us/app/run-for-fun-screen-time-focus/id6743376966?l=zh-Hant-TW)(螢幕時間控制與專注)
 [Screen Recording](https://apps.apple.com/tw/app/screen-recording/id6746417023)(螢幕錄影工具)
+[Screen Time Control: PureFocus](https://apps.apple.com/app/id6737169958)(阻止應用程式純粹專注)
 
 ### iPhone-飲食
 
@@ -374,6 +393,7 @@
 [按時吃藥 - 吃藥提醒·用藥記錄](https://apps.apple.com/tw/app/%E6%8C%89%E6%99%82%E5%90%83%E8%97%A5-%E5%90%83%E8%97%A5%E6%8F%90%E9%86%92-%E7%94%A8%E8%97%A5%E8%A8%98%E9%8C%84/id6755893116)(用藥提醒服藥記錄掃描辨識)
 [食物標籤掃描器: Ryla](https://apps.apple.com/tw/app/%E9%A3%9F%E7%89%A9%E6%A8%99%E7%B1%A4%E6%8E%83%E6%8F%8F%E5%99%A8-ryla/id6749587214)(AI掃描食物標籤營養分析)
 [Noot: AI Calorie Diet Coach](https://apps.apple.com/tw/app/noot-ai-calorie-diet-coach/id6744554229)(AI卡路里飲食教練)
+[AI Meal Scanner](https://apps.apple.com/app/id6744321779)(AI食物掃描卡路里)
 [Calorie Counter: Zorest AI](https://apps.apple.com/tw/app/calorie-counter-zorest-ai/id6741715754)(AI卡路里計數器)
 [Water Tracker - WaterBit](https://apps.apple.com/tw/app/water-tracker-waterbit/id6639589010)(喝水追蹤提醒)
 [Teafinity: Tea Timer & AI ID](https://apps.apple.com/tw/app/teafinity-tea-timer-ai-id/id6747925058)(茶葉計時器AI辨識)
@@ -391,6 +411,7 @@
 [Flowpaper: Drawing & Animation](https://apps.apple.com/tw/app/flowpaper-drawing-animation/id424499611)(流體繪圖與動畫)
 [藝術創作工具](https://apps.apple.com/tw/app/%E8%97%9D%E8%A1%93%E5%89%B5%E4%BD%9C%E5%B7%A5%E5%85%B7/id1556981526)(藝術創作繪圖工具)
 [CV Builder・Resume Maker](https://apps.apple.com/tw/app/cv-builder-resume-maker/id6746317928)(履歷製作求職信)
+[Snap Markup - Annotation Tool](https://apps.apple.com/app/id1012363691)(圖片註釋標記工具)
 
 ### iPhone-排水
 
@@ -423,6 +444,7 @@
 [QR Code Creator ™](https://apps.apple.com/tw/app/qr-code-creator/id6745818824)(QR碼生成器)
 [Image to Text Scanner OCR Scan](https://apps.apple.com/tw/app/image-to-text-scanner-ocr-scan/id6451406772)(圖片OCR文字辨識掃描)
 [NFC Tools](https://apps.apple.com/tw/app/nfc-tools/id1252962749)(NFC標籤讀寫工具)
+[Bar Code Reader ™](https://apps.apple.com/app/id6746192971)(條碼掃描閱讀器)
 
 ### iPhone-音樂
 
@@ -440,6 +462,9 @@
 [音訊轉換器: VoxCut](https://apps.apple.com/tw/app/%E9%9F%B3%E8%A8%8A%E8%BD%89%E6%8F%9B%E5%99%A8-voxcut/id6752537092)(音訊格式轉換剪輯工具)
 [自學鋼琴-KeyTap電子琴鋼琴教學彈唱](https://apps.apple.com/tw/app/%E8%87%AA%E5%AD%B8%E9%8B%BC%E7%90%B4-keytap%E9%9B%BB%E5%AD%90%E7%90%B4%E9%8B%BC%E7%90%B4%E6%95%99%E5%AD%B8%E5%BD%88%E5%94%B1/id1623315458)(電子琴鋼琴自學教學)
 [和弦與調音器: Guitar Wiz](https://apps.apple.com/tw/app/%E5%92%8C%E5%BC%A6%E8%88%87%E8%AA%BF%E9%9F%B3%E5%99%A8-guitar-wiz/id6740015002)(吉他和弦調音器)
+[Music Visualizer - Spectrum FX](https://apps.apple.com/app/id6741367331)(音樂視覺化光譜特效)
+[Music : Simple Music Streaming](https://apps.apple.com/app/id1481685496)(簡單音樂串流播放)
+[Electric Guitar Tuner ™](https://apps.apple.com/app/id6743861925)(電吉他調音器)
 
 ### iPhone-生成
 
@@ -478,6 +503,9 @@
 [Ai humanizer humanize ai text](https://apps.apple.com/tw/app/ai-humanizer-humanize-ai-text/id6737443697)(AI文字人性化改寫)
 [AI Humanizer - Paraphrase Tool](https://apps.apple.com/tw/app/ai-humanizer-paraphrase-tool/id6747260009)(AI改寫 paraphrase 工具)
 [AI Humanizer・Detector](https://apps.apple.com/tw/app/ai-humanizer-detector/id6741908201)(AI文字偵測與人性化)
+[PDF Viewer: Reader and Editor](https://apps.apple.com/app/id6720703022)(PDF閱讀器編輯器)
+[Convert Photo to PDF | Scan](https://apps.apple.com/app/id6738585254)(圖片轉PDF掃描)
+[Video Teleprompter & Captions](https://apps.apple.com/app/id6476161551)(影片提詞機字幕)
 
 ### iPhone-截圖
 
@@ -503,6 +531,8 @@
 [Unigent - 大學生校園社群](https://apps.apple.com/tw/app/unigent-%E5%A4%A7%E5%AD%B8%E7%94%9F%E6%A0%A1%E5%9C%92%E7%A4%BE%E7%BE%A4/id6757976384)(大學生校園社交資源平台)
 [WhatsWeb Dual Messenger: Waduo](https://apps.apple.com/tw/app/whatsweb-dual-messenger-waduo/id6746672075)(雙開WhatsApp訊息管理)
 [SuperVPN - Cool VPN Proxy](https://apps.apple.com/tw/app/supervpn-cool-vpn-proxy/id6746751405)(VPN代理翻牆工具)
+[LINE](https://apps.apple.com/app/id443904275)(即時通訊軟體)
+[TV & Movie Tracker - Epoch](https://apps.apple.com/app/id6502776057)(影視追蹤紀錄)
 
 ### iPhone-腦力訓練
 
