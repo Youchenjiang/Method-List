@@ -387,6 +387,7 @@
 [Resize Photos·](https://apps.apple.com/app/id1610518849)(調整照片尺寸)
 [Photo Cleaner: Swipely](https://apps.apple.com/app/id6502081709)(AI照片清理滑動刪除)
 [PDF to JPEG ™](https://apps.apple.com/app/id6517354462)(PDF轉JPEG圖片)
+[清理助手 - 清理重複照片與大視頻](https://apps.apple.com/app/id1458573191)(清理重複照片與大視頻)
 
 ### iPhone-相機
 
@@ -420,6 +421,8 @@
 [Sketcho: AR Sketch & Trace](https://apps.apple.com/app/id6472798077)(AR素描描繪)
 [Job AI: Pro Business Headshot](https://apps.apple.com/app/id6736762952)(AI專業證件照)
 [Invitation Maker| Digital RSVP](https://apps.apple.com/app/id1465210016)(電子請帖邀請卡)
+[Hairstyle Try On - AI](https://apps.apple.com/app/id6763931913)(AI髮型試戴)
+[Inked](https://apps.apple.com/app/id1537777979)(刺青設計工具)
 
 ### iPhone-音樂
 
@@ -528,6 +531,7 @@
 [Magibook: Reading & Audio book](https://apps.apple.com/app/id6480576897)(電子書有聲書閱讀)
 [UltraNotes - Note Taking & PDF](https://apps.apple.com/app/id6468902627)(筆記PDF閱讀)
 [Google NotebookLM](https://apps.apple.com/app/id6737527615)(Google智慧筆記)
+[Otter Transcribe Voice Notes](https://apps.apple.com/app/id1276437113)(AI語音轉文字筆記)
 
 ### iPhone-腦力訓練
 
