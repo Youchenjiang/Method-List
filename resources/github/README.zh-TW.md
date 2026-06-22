@@ -146,6 +146,7 @@
 | [free-for-dev](https://github.com/ripienaar/free-for-dev) | HTML | 122,851 | 12,904 | 2026-06-01 | 彙整了市面上所有提供免費額度 (Free Tiers) 的 SaaS、PaaS、IaaS 雲端服務清單。 | 超過 50 種服務類別、定期更新、降低個人開發與運維成本。 |
 | [FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 173,232 | 3,422 | 2026-06-01 | 彙整免費網域註冊、免費 DNS 解析與二級網域服務的開發者資源清單。 | 免費網域服務商整理、DNS 代管推薦、免費用戶指南。 |
 | [lightway](https://github.com/expressvpn/lightway) | Rust | 203 | 25 | 2026-05-29 | ExpressVPN 開源的 Lightway VPN 協議 Rust 核心實現，主打輕量與高效。 | 程式碼輕量緊湊、連線效能優化、Rust 安全防護。 |
+| [GitHub CLI](https://github.com/cli/cli) | Go | 45,000 | 8,600 | 2026-06-17 | GitHub 官方命令列工具，將 PR、Issue 等 GitHub 概念帶入終端機。 | 完整 GitHub API 支援、跨平台、可腳本化與自訂別名、支援 GitHub Enterprise。 |
 
 ### 全棧框架與 Web 應用系統
 | 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
