@@ -311,6 +311,27 @@ irm https://get.activated.win | iex
 
 ### 開發工具 CLI
 
+#### ClawdBot
+
+```bash
+# 安裝 / 更新
+npm install -g clawdbot@latest
+
+# 設定檔位置
+cat ~/.clawdbot/clawdbot.json          # Linux/macOS
+notepad $HOME\.clawdbot\clawdbot.json  # Windows
+
+# 診斷與修復
+clawdbot doctor
+clawdbot doctor --fix
+
+# Gateway 管理
+clawdbot gateway restart
+
+# 即時檢視日誌（Windows PowerShell）
+Get-Content -Path "C:\tmp\clawdbot\clawdbot-2026-06-28.log" -Tail 20 -Wait
+```
+
 #### Revo Dev Cli
 - `acli --version` (查詢版本)
 - `acli rovodev auth login` (授權)
