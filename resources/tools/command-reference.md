@@ -20,6 +20,7 @@
     - [Git 版本控制](#git-版本控制)
     - [Anaconda 套件管理](#anaconda-套件管理)
     - [開發工具 CLI](#開發工具-cli)
+  - [🔌 API 快速測試 (API Quick Test)](#-api-快速測試-api-quick-test)
   - [使用說明](#使用說明)
 
 ---
@@ -317,6 +318,49 @@ irm https://get.activated.win | iex
 
 #### bmad-method
 - `npx bmad-method install` (安裝)
+
+---
+
+## 🔌 API 快速測試 (API Quick Test)
+
+### LLM API (OpenAI-compatible)
+
+使用 `curl` 快速測試 LLM API 是否可用：
+
+```powershell
+curl.exe -i https://api.example.com/v1/chat/completions `
+  -H "Content-Type: application/json" `
+  -H "Authorization: Bearer YOUR_API_KEY" `
+  -d '{ "model": "model-name", "messages": [{"role": "user", "content": "hi"}] }'
+```
+
+| 參數 | 說明 |
+| :--- | :--- |
+| `-i` | 顯示回應 Header（含 HTTP 狀態碼） |
+| `-H "Content-Type: application/json"` | 指定請求格式為 JSON |
+| `-H "Authorization: Bearer ..."` | API 金鑰認證 |
+| `-d '{...}'` | POST 請求 body |
+
+#### 常見 LLM API 端點
+
+| 服務 | 端點 | 模型範例 |
+| :--- | :--- | :--- |
+| **SiliconFlow** | `https://api.siliconflow.cn/v1/chat/completions` | `Qwen/Qwen3.5-9B` |
+| **OpenAI** | `https://api.openai.com/v1/chat/completions` | `gpt-4o` |
+| **Groq** | `https://api.groq.com/openai/v1/chat/completions` | `llama-3.3-70b-versatile` |
+| **OpenRouter** | `https://openrouter.ai/api/v1/chat/completions` | `anthropic/claude-sonnet-4` |
+
+> [!TIP]
+> **Windows PowerShell 注意事項**
+> - 使用 `curl.exe`（而非 `curl`），避免 PowerShell 內建别名的問題
+> - 多行指令使用反引號 `` ` `` 換行（而非 `\`）
+> - 也可使用 `Invoke-RestMethod` 取代 curl：
+>   ```powershell
+>   Invoke-RestMethod -Uri "https://api.example.com/v1/chat/completions" `
+>     -Method POST `
+>     -Headers @{"Authorization"="Bearer YOUR_API_KEY"; "Content-Type"="application/json"} `
+>     -Body '{"model":"model-name","messages":[{"role":"user","content":"hi"}]}'
+>   ```
 
 ---
 
