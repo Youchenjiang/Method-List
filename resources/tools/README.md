@@ -12,6 +12,7 @@
 |------|------|----------|
 | [command-reference.md](command-reference.md) | CMD、PowerShell、Anaconda、Git 等指令 | 需要執行命令列操作時查閱 |
 | [agent-cli-reference.md](agent-cli-reference.md) | AI Agent CLI / 專用助理設定路徑與說明 | 設定或微調 AI 助理（Codex, Gemini, Antigravity）的 MCP 與 Instructions 時查閱 |
+| [github-apps.md](github-apps.md) | GitHub Marketplace Apps 工具推薦 | 尋找自動化 PR 審查等 GitHub App 時查閱 |
 
 ### ⌨️ 快捷鍵與工具
 
@@ -69,6 +70,7 @@ resources/tools/
 ├── README.md                        (本文件 - 導覽索引)
 ├── command-reference.md             (命令列指令)
 ├── agent-cli-reference.md           (AI Agent 設定路徑)
+├── github-apps.md                   (GitHub Apps 工具)
 ├── shortcuts-reference.md           (快捷鍵與工具)
 ├── excel-reference.md               (Excel 參考)
 └── browser-flags-reference.md       (瀏覽器設定)
