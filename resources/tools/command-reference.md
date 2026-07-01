@@ -311,41 +311,62 @@ irm https://get.activated.win | iex
 
 ### 開發工具 CLI
 
-#### 通用工具安裝模板（GitHub Release ZIP）
+#### 通用工具安裝模板（GitHub Release 自動下載最新版）
 
-從 GitHub Release 下載 ZIP 工具並安裝到指定目錄，只需替換三個參數即可重用：
+透過 GitHub API 自動偵測最新 Release 並下載安裝，只需替換兩個參數即可重用：
 
 ```powershell
-# ===== 參數（替換這三個即可） =====
-$Url        = "https://github.com/OJ/gobuster/releases/download/v3.8.2/gobuster_Windows_x86_64.zip"  # 下載連結
-$InstallDir = "C:\MyAPP\gobuster"     # 安裝目錄
-$ExeName    = "gobuster.exe"          # 可執行檔名稱（驗證用）
+# ===== 參數（替換這兩個即可） =====
+$Repo    = "OJ/gobuster"                      # GitHub 倉庫 (owner/repo)
+$Asset   = "gobuster_Windows_x86_64.zip"       # Release 資產檔名
 # ================================
 
-# 1. 下載
-Invoke-WebRequest -Uri $Url -OutFile "$env:TEMP\tool.zip" -UseBasicParsing
+# 自動取得最新版下載連結
+$api = Invoke-RestMethod "https://api.github.com/repos/$Repo/releases/latest" -UseBasicParsing
+$dl = $api.assets | Where-Object Name -eq $Asset | Select -ExpandProperty browser_download_url
+$zip = "$env:TEMP\$Asset"
+$installDir = "C:\MyAPP\$($Repo.Split('/')[1])"
 
-# 2. 解壓縮
-New-Item -ItemType Directory -Path $InstallDir -Force | Out-Null
-Expand-Archive -Path "$env:TEMP\tool.zip" -DestinationPath $InstallDir -Force
-Remove-Item "$env:TEMP\tool.zip" -Force
+# 下載 + 解壓縮
+Invoke-WebRequest $dl -OutFile $zip -UseBasicParsing
+if (Test-Path $installDir) { Remove-Item $installDir -Recurse -Force }
+Expand-Archive $zip -DestinationPath $installDir -Force
+Remove-Item $zip
 
-# 3. 加入系統 PATH（需管理員權限）
-$currentPath = [Environment]::GetEnvironmentVariable("Path", "Machine")
-if ($currentPath -notlike "*$InstallDir*") {
-    [Environment]::SetEnvironmentVariable("Path", "$currentPath;$InstallDir", "Machine")
-    Write-Host "[OK] 已加入系統 PATH" -ForegroundColor Green
+# 加入系統 PATH（管理員執行）
+$sysPath = [Environment]::GetEnvironmentVariable("Path", "Machine")
+if ($sysPath -notlike "*$installDir*") {
+    [Environment]::SetEnvironmentVariable("Path", "$sysPath;$installDir", "Machine")
 }
+$env:Path += ";$installDir"
 
-# 4. 驗證
-if (Test-Path (Join-Path $InstallDir $ExeName)) {
-    Write-Host "[OK] $ExeName 安裝成功" -ForegroundColor Green
-} else {
-    Write-Host "[!!] 找不到 $ExeName，請檢查目錄結構" -ForegroundColor Red
-}
+# 驗證
+$exeName = $Asset -replace '\.zip$'
+& $exeName --version
 ```
 
-> **替換範例**：把 `$Url` 改成其他工具的 Release ZIP 連結，`$InstallDir` 改成安裝路徑，`$ExeName` 改成可執行檔名稱即可。
+> **替換範例**：把 `$Repo` 改成 `owner/repo`，`$Asset` 改成 Release 中的 ZIP 檔名即可。永遠安裝最新版本，無需手動更新 URL。
+
+#### 通用倉庫安裝模板（Git Clone 最新版）
+
+透過 `git clone --depth 1` 淺克隆倉庫，適合字型檔、字典檔、範例集等以 git 分發的資源：
+
+```powershell
+# ===== 參數（替換這兩個即可） =====
+$Repo    = "https://github.com/danielmiessler/SecLists.git"  # 倉庫 URL
+$DirName = "SecLists"                                          # 本地目錄名稱
+# ================================
+
+$installDir = "C:\MyAPP\$DirName"
+
+# 淺克隆（只抓最新版，不下歷史）
+if (Test-Path $installDir) { Remove-Item $installDir -Recurse -Force }
+git clone --depth 1 $Repo $installDir
+
+Write-Host "[OK] 已安裝到 $installDir" -ForegroundColor Green
+```
+
+> **替換範例**：把 `$Repo` 改成 git 倉庫 URL，`$DirName` 改成本地目錄名稱即可。適合 SecLists、字型檔庫、Wordlist 等以 git 分發的資源。
 
 #### Gobuster（目錄/DNS/虛擬主機暴力枚舉）
 
