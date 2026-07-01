@@ -311,6 +311,51 @@ irm https://get.activated.win | iex
 
 ### 開發工具 CLI
 
+#### 通用工具安裝模板（GitHub Release ZIP）
+
+從 GitHub Release 下載 ZIP 工具並安裝到指定目錄，只需替換三個參數即可重用：
+
+```powershell
+# ===== 參數（替換這三個即可） =====
+$Url        = "https://github.com/OJ/gobuster/releases/download/v3.8.2/gobuster_Windows_x86_64.zip"  # 下載連結
+$InstallDir = "C:\MyAPP\gobuster"     # 安裝目錄
+$ExeName    = "gobuster.exe"          # 可執行檔名稱（驗證用）
+# ================================
+
+# 1. 下載
+Invoke-WebRequest -Uri $Url -OutFile "$env:TEMP\tool.zip" -UseBasicParsing
+
+# 2. 解壓縮
+New-Item -ItemType Directory -Path $InstallDir -Force | Out-Null
+Expand-Archive -Path "$env:TEMP\tool.zip" -DestinationPath $InstallDir -Force
+Remove-Item "$env:TEMP\tool.zip" -Force
+
+# 3. 加入系統 PATH（需管理員權限）
+$currentPath = [Environment]::GetEnvironmentVariable("Path", "Machine")
+if ($currentPath -notlike "*$InstallDir*") {
+    [Environment]::SetEnvironmentVariable("Path", "$currentPath;$InstallDir", "Machine")
+    Write-Host "[OK] 已加入系統 PATH" -ForegroundColor Green
+}
+
+# 4. 驗證
+if (Test-Path (Join-Path $InstallDir $ExeName)) {
+    Write-Host "[OK] $ExeName 安裝成功" -ForegroundColor Green
+} else {
+    Write-Host "[!!] 找不到 $ExeName，請檢查目錄結構" -ForegroundColor Red
+}
+```
+
+> **替換範例**：把 `$Url` 改成其他工具的 Release ZIP 連結，`$InstallDir` 改成安裝路徑，`$ExeName` 改成可執行檔名稱即可。
+
+#### Gobuster（目錄/DNS/虛擬主機暴力枚舉）
+
+```powershell
+gobuster dir -u https://target.com -w wordlist.txt -x php,html,js
+gobuster dns -do example.com -w wordlist.txt -t 50
+gobuster vhost -u https://example.com --append-domain -w wordlist.txt
+gobuster s3 -w bucket-names.txt
+```
+
 #### ClawdBot
 
 ```bash
