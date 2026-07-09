@@ -406,6 +406,7 @@
      - [IDA 9.1 Pro](https://bbs.kanxue.com/thread-285999.htm)（靜態反組譯與動態除錯工具）  
      - [de4dot](https://www.52pojie.cn/thread-1297009-1-1.html)（.NET反混淆和脫殼工具）  
      - [JADX](https://github.com/skylot/jadx/releases)（Android APK反編譯工具）
+     - [Resource Hacker](https://www.angusj.com/resourcehacker/)（Windows PE 資源編輯與反編譯工具，支援 exe/dll 的資源檢視、編譯與腳本化操作）
 
    - #### 程式語言鑑定工具
 
