@@ -15,4 +15,30 @@
 
 ---
 
-**最後更新：2026-06-28**
+## 🔐 安全掃描 (Security Scanning)
+
+> ⚠️ 以下為 GitHub Actions，需在 `.github/workflows/` 下建立 YAML 檔案才能啟用，與上方直接安裝的 GitHub Apps 不同。
+
+| 工具 | 連結 | 說明 |
+| :--- | :--- | :--- |
+| **TruffleHog** | [GitHub Action](https://github.com/marketplace/actions/trufflehog-oss) | 掃描 Git/Docker/S3 等來源的洩漏憑證，可驗證密鑰是否有效，支援 700+ 憑證類型 |
+
+```yaml
+# .github/workflows/trufflehog.yml
+name: Secret Scanning
+on: [push, pull_request]
+jobs:
+  trufflehog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: trufflesecurity/trufflehog@main
+        with:
+          extra_args: --results=verified,unknown
+```
+
+---
+
+**最後更新：2026-07-09**
