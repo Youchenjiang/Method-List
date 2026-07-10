@@ -21,7 +21,7 @@
 
 | 工具 | 連結 | 說明 |
 | :--- | :--- | :--- |
-| **PR Agent** | [GitHub Action](https://github.com/marketplace/actions/the-pr-agent) | 開源 AI PR 審查，支援 Describe/Review/Improve/Ask 四種模式，需 OpenAI API Key |
+| **PR Agent** | [GitHub Action](https://github.com/marketplace/actions/the-pr-agent) | 開源 AI PR 審查，支援 Describe/Review/Improve/Ask 四種模式，可接 OpenAI/Claude/Qwen 等多種模型 |
 
 ```yaml
 # .github/workflows/pr-agent.yml
@@ -39,6 +39,8 @@ jobs:
         OPENAI_KEY: ${{ secrets.OPENAI_KEY }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
+
+> 💡 **使用其他模型（如 Qwen via SiliconFlow）**：設定環境變數 `OPENAI_API_BASE` 指向 API 端點，或在 `.secrets.toml` 的 `[openai]` 區塊設定 `api_base`。
 
 ---
 
