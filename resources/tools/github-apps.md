@@ -15,6 +15,33 @@
 
 ---
 
+## 🔍 AI 程式碼審查 Actions (PR Review Actions)
+
+> ⚠️ 以下為 GitHub Actions，需在 `.github/workflows/` 下建立 YAML 檔案才能啟用，與上方直接安裝的 GitHub Apps 不同。
+
+| 工具 | 連結 | 說明 |
+| :--- | :--- | :--- |
+| **PR Agent** | [GitHub Action](https://github.com/marketplace/actions/the-pr-agent) | 開源 AI PR 審查，支援 Describe/Review/Improve/Ask 四種模式，需 OpenAI API Key |
+
+```yaml
+# .github/workflows/pr-agent.yml
+name: PR Agent
+on:
+  pull_request:
+    types: [opened, synchronize]
+jobs:
+  pr_agent_job:
+    runs-on: ubuntu-latest
+    steps:
+    - name: PR Agent action step
+      uses: the-pr-agent/pr-agent@main
+      env:
+        OPENAI_KEY: ${{ secrets.OPENAI_KEY }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
 ## 🔐 安全掃描 (Security Scanning)
 
 > ⚠️ 以下為 GitHub Actions，需在 `.github/workflows/` 下建立 YAML 檔案才能啟用，與上方直接安裝的 GitHub Apps 不同。
