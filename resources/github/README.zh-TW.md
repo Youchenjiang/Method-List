@@ -61,6 +61,7 @@
 | [BitlockMove](https://github.com/rtecCyberSec/BitlockMove) | C# | 443 | 54 | 2026-06-01 | 利用 Windows Bitlocker 的 DCOM 介面與 COM 劫持技術實現內網橫向移動的安全性驗證工具。 | 橫向移動繞過、Bitlocker DCOM 利用、COM 劫持模擬。 |
 | [COSCUP2025-PT-LAB](https://github.com/William957-web/COSCUP2025-PT-LAB) | Dockerfile | 7 | 0 | 2026-04-24 | COSCUP 2025 滲透測試與靶場實作練習環境設定。 | Docker 容器化靶場、CTF 題目演練、安全防禦實踐。 |
 | [ph-ctf](https://github.com/mt-hack/ph-ctf) | CSS | 1 | 0 | 2020-12-11 | 屏東黑客松 CTF (Pingtung Hacker CTF) 歷屆題目與解析公開庫。 | CTF 安全挑戰、資安題目演練、競賽靶場環境。 |
+| [Hacking-Bug-Bounty-Books](https://github.com/Kalyan-Deva/Hacking-Bug-Bounty-Books) | Markdown | 209 | 57 | 2026-06-01 | 彙整公開的道德駭客、Linux、資安、漏洞賞金、滲透測試與網路相關電子書。 | 豐富 PDF 書籍資源、涵蓋 Kali Linux/Metasploit/OWASP/惡意軟體分析等主題。 |
 
 ## 文檔智能與視覺 GUI 解析
 ### 文檔解析與數據提取
