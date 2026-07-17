@@ -141,6 +141,7 @@
     - [**Taylor Swift (愉,活)**](#taylor-swift-愉活)
     - [**S.E.N.S. Project (愉,活)**](#sens-project-愉活)
     - [**封茗囧菌 (愉,活)**](#封茗囧菌-愉活)
+    - [**Ed Sheeran (愉,活)**](#ed-sheeran-愉活)
     - [**其他歌手 (愉,活)**](#其他歌手-愉活)
   - [**激勵與奮鬥 Inspiration \& Struggle**](#激勵與奮鬥-inspiration--struggle)
     - [**Europa Universalis IV (激,奮)**](#europa-universalis-iv-激奮)
@@ -777,6 +778,10 @@ Charmer (暫無連結) | The Advisors Alliance Main Theme (暫無連結)
 
 [有何不可](https://www.youtube.com/watch?v=DKYpSNS2rM8) | [靜悄悄](https://www.youtube.com/watch?v=W1aT20Hp-M0)
 
+### **Ed Sheeran (愉,活)**
+
+[Perfect](https://www.youtube.com/watch?v=2Vv-BfVoq4g)**(\*)** | [Shape of You](https://www.youtube.com/watch?v=JGwWNGJdvx8)
+
 ### **其他歌手 (愉,活)**
 
 [**尹昔眠 - 落在生命裡的光**](https://www.youtube.com/watch?v=F2nd69GiShc)  
@@ -796,7 +801,7 @@ Charmer (暫無連結) | The Advisors Alliance Main Theme (暫無連結)
 [**TheFatRat \- Monody**](https://www.youtube.com/watch?v=B7xai5u_tnk)  
 [**逆時針向 \- 風搖盛夏**](https://www.youtube.com/watch?v=bKpDcfSUvRE)  
 [**김성율 \- Model Taxi**](https://www.youtube.com/watch?v=1SUNVWSpOUA)  
-[**Ed Sheeran \- Perfect**](https://www.youtube.com/watch?v=2Vv-BfVoq4g)**(\*)**  
+[**Golden (KPop Demon Hunters) \- Official Lyric Video**](https://www.youtube.com/watch?v=yebNIHKAC4A)  
 [**大可 \- 永遠吵不散的人**](https://www.youtube.com/watch?v=cz8sfMypixk&ab_channel=PenQMusic)  
 [**鳳凰傳奇 \- 最炫民族風**](https://www.youtube.com/watch?v=Ynypvs5s75Y)  
 [**Tony Igy \- Astronomia**](https://www.youtube.com/watch?v=--cxZbnmmoc)  
