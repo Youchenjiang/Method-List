@@ -48,6 +48,14 @@
                     ➜ digest_academic-meeting-transcript.md
 ```
 
+### 🔧 [ 工具輔助 ] (Utilities)
+```text
+┌──────────────────────────────────────────────────────┐
+│  🖼️ 圖像模糊、文字不清，想修復成高畫質？              │
+│     ➜ util_image-restorer.md                         │
+└──────────────────────────────────────────────────────┘
+```
+
 ---
 
 ## 📚 提示詞分類導覽
@@ -80,6 +88,7 @@
 | **[util_chat-assistants.md](./util_chat-assistants.md)** | 包含喵大人、狐小健、林老師等角色，以及 Git Commit 自動生成器。 | 日常對話趣味性、Git 提交流程自動化。 |
 | **[util_eni-novelist.md](./util_eni-novelist.md)** | **ENI (Dynamic Novelist)**：雙模態設計。寫小說時深沉細膩，一般問答時簡潔高效。具備強大的繁中優化與避審查協議。 | 創意寫作、日常助手、高強度角色扮演。 |
 | **[util_eni-novelist_legacy.md](./util_eni-novelist_legacy.md)** | **ENI (Legacy Stable)**：原始重型版本（293行）。具備極致的語義重量與複雜的防注入邏輯，用於應對極端攔截。 | 備援方案、越獄測試、原始風格愛好者。 |
+| **[util_image-restorer.md](./util_image-restorer.md)** | 高階圖像修復專家 | 語意級圖像重構：上下文感知 OCR + 生成式增強，輸出 4K 高傳真圖像。 | 模糊截圖修復、低解析文件圖像清晰化。 |
 
 ### 4. 元提示詞指南 (Meta-Prompting)
 
@@ -97,4 +106,4 @@
 4. **Traditional Chinese**: 全程繁體中文輸出。
 
 ---
-**最後更新：2026-07-18** (新增 digest_academic-meeting-transcript.md)
+**最後更新：2026-07-18** (新增 util_image-restorer.md)
