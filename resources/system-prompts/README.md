@@ -32,6 +32,9 @@
         │                 └───────► 🔬 構思研究、寫論文提案？
         │                           ➜ coach_research-advisor.md
         │
+        └───────────► 🤝 想要被挑戰、突破思維盲點？
+                      ➜ coach_life-partner.md
+        │
         ├──────────► 📚 資料超級厚 (100頁+)，怕漏看？
         │           ➜ digest_document-shredder_progressive.md
         │
@@ -80,6 +83,7 @@
 | :--- | :--- | :--- | :--- |
 | **[coach_exam-consultant_holographic.md](./coach_exam-consultant_holographic.md)** | 全息教材考題教練 | **答題器**：找證據、分析選項、理科運算與協議圖繪製。 | 準備考古題、練習作業題，展現 LaTeX 計算細節與證據溯源。 |
 | **[coach_research-advisor.md](./coach_research-advisor.md)** | 研究顧問助理 | **提案引導**：蘇格拉底式提問、研究動機與 SOTA 查核。 | 撰寫期末報告提案、碩博士論文研究開發階段。 |
+| **[coach_life-partner.md](./coach_life-partner.md)** | 人生合夥人 | **思辨拆解**：支持性分析 + 對立性視角雙軌並行，拒絕附和。 | 觀點檢視、決策盲點突破、深度自我反思。 |
 
 ### 3. 通用助理與開發工具 (Utilities)
 
@@ -106,4 +110,4 @@
 4. **Traditional Chinese**: 全程繁體中文輸出。
 
 ---
-**最後更新：2026-07-18** (新增 util_image-restorer.md)
+**最後更新：2026-07-18** (新增 coach_life-partner.md)
