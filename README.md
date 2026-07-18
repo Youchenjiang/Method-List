@@ -30,6 +30,7 @@ Method List is a knowledge base dedicated to collecting and organizing technical
 Method-List/
 ├── README.md
 ├── resources/
+│   ├── agent-rules/     # AI agent behavior rules (copy-paste into CLAUDE.md / AGENTS.md)
 │   ├── media/          # Media channels and collections
 │   ├── online/         # Web tools and services
 │   ├── software/       # Software recommendations
@@ -38,9 +39,12 @@ Method-List/
 │   └── github/         # GitHub repository references
 └── topics/
     ├── ai/             # AI and machine learning
+    │   └── machine-learning/  # ML assignments, paper reviews
     ├── data-engineering/ # Data engineering concepts
     ├── development/    # Development troubleshooting
+    ├── mindset/        # Personal mindset and reflection
     ├── quantum/        # Quantum computing research
+    ├── research-method/ # Research methodology course notes
     ├── security/       # Information security
     └── technology/     # Hardware and software Q&A
 ```
@@ -54,9 +58,12 @@ This knowledge base is divided into two main sections:
 In-depth technical articles, tutorials, and problem-solving solutions organized by domain:
 
 - **AI** ([topics/ai/](topics/ai/)) - Artificial intelligence, machine learning, Azure OpenAI
+  - **Machine Learning** ([topics/ai/machine-learning/](topics/ai/machine-learning/)) - ML assignments, paper reviews, feature selection research
 - **Data Engineering** ([topics/data-engineering/](topics/data-engineering/)) - Data processing and engineering concepts
 - **Development** ([topics/development/](topics/development/)) - Programming troubleshooting and development tools
+- **Mindset** ([topics/mindset/](topics/mindset/)) - Personal mindset and reflection
 - **Quantum** ([topics/quantum/](topics/quantum/)) - Quantum computing research
+- **Research Methods** ([topics/research-method/](topics/research-method/)) - Research methodology course notes (中央大學)
 - **Security** ([topics/security/](topics/security/)) - Information security concepts and practices
 - **Technology** ([topics/technology/](topics/technology/)) - Hardware and software Q&A
 
@@ -64,6 +71,7 @@ In-depth technical articles, tutorials, and problem-solving solutions organized 
 
 Curated collections of tools, software, media, and reference materials:
 
+- **Agent Rules** ([resources/agent-rules/](resources/agent-rules/)) - Reusable behavior rules for AI agents. Copy-paste into your CLAUDE.md / AGENTS.md to improve agent problem-solving.
 - **Media** ([resources/media/](resources/media/)) - YouTube channels, music, and video collections
 - **Online** ([resources/online/](resources/online/)) - Web-based tools and services
 - **Software** ([resources/software/](resources/software/)) - Computer and mobile app recommendations

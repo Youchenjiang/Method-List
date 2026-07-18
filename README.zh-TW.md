@@ -30,6 +30,7 @@ Method List 是一個專門收集和整理技術方法、工具資源和問題�
 Method-List/
 ├── README.md
 ├── resources/
+│   ├── agent-rules/     # AI agent 行為規則（可貼進 CLAUDE.md / AGENTS.md）
 │   ├── media/          # 媒體頻道與收藏
 │   ├── online/         # 網頁工具與服務
 │   ├── software/       # 軟體推薦
@@ -38,9 +39,12 @@ Method-List/
 │   └── github/         # GitHub 儲存庫參考
 └── topics/
     ├── ai/             # AI 與機器學習
+    │   └── machine-learning/  # ML 作業報告、論文摘要
     ├── data-engineering/ # 資料工程概念
     ├── development/    # 開發除錯
+    ├── mindset/        # 個人心態與反思
     ├── quantum/        # 量子計算研究
+    ├── research-method/ # 研究方法課程學習筆記
     ├── security/       # 資訊安全
     └── technology/     # 硬體與軟體問答
 ```
@@ -54,9 +58,12 @@ Method-List/
 依領域組織的深入技術文章、教學與問題解決方案：
 
 - **AI** ([topics/ai/](topics/ai/)) - 人工智慧、機器學習、Azure OpenAI
+  - **機器學習** ([topics/ai/machine-learning/](topics/ai/machine-learning/)) - ML 作業報告、論文摘要、特徵選擇研究
 - **資料工程** ([topics/data-engineering/](topics/data-engineering/)) - 資料處理與工程概念
 - **開發** ([topics/development/](topics/development/)) - 程式除錯與開發工具
+- **心態** ([topics/mindset/](topics/mindset/)) - 個人心態與反思
 - **量子** ([topics/quantum/](topics/quantum/)) - 量子計算研究
+- **研究方法** ([topics/research-method/](topics/research-method/)) - 研究方法課程學習筆記（中央大學）
 - **安全** ([topics/security/](topics/security/)) - 資訊安全概念與實踐
 - **技術** ([topics/technology/](topics/technology/)) - 硬體與軟體問答
 
@@ -64,6 +71,7 @@ Method-List/
 
 精選的工具、軟體、媒體與參考資料集合：
 
+- **Agent 行為規則** ([resources/agent-rules/](resources/agent-rules/)) - 可複用的 AI agent 行為規則。複製貼上到你的 CLAUDE.md / AGENTS.md 即可改善 agent 的問題解決能力。
 - **媒體** ([resources/media/](resources/media/)) - YouTube 頻道、音樂與影片收藏
 - **線上** ([resources/online/](resources/online/)) - 網頁工具與服務
 - **軟體** ([resources/software/](resources/software/)) - 電腦與手機應用程式推薦
