@@ -20,6 +20,7 @@
 | [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | Python | 64,073 | 10,469 | 2026-06-01 | 基於 Bash 腳本從零到一建構的輕量級類 Claude Code 代理控制框架。 | 純 Bash 輕量級實作、Agent 核心控制架構、易於理解與修改。 |
 | [Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/doggy8088/Mastering-GitHub-Copilot-for-Paired-Programming) | Python | 68 | 14 | 2025-02-15 | 完整掌握將 GitHub Copilot 作為 AI 協同開發 Paired Programming 資源的 9 堂課指南。 | 9堂課架構、協同開發規範、實用提示語指令。 |
 | [resumx](https://github.com/resumx/resumx) | TypeScript | 154 | 19 | 2026-05-30 | 專為 Claude Code 設計的履歷渲染與格式化工具。 | Claude Code 相容、Markdown 轉精美履歷、本地快速排版渲染。 |
+| [ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 88,100 | 4,800 | 2026-06-29 | AI 編碼代理的 YAGNI skill，讓代理寫最少必要代碼。 | 減少 54% 代碼量、降低成本 20%、提速 27%，支援 Claude Code/Codex/Copilot 等多平台。 |
 
 ### LLM 應用生態圈
 | 儲存庫 | 主要語言 | 星數 | 分支數 | 最後更新 | 說明 | 主要特點 |
