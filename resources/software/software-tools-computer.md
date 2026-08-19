@@ -44,6 +44,10 @@
      - [Memtest86](https://www.memtest86.com/)（記憶體測試工具） [(教學)](https://blog.gtwang.org/useful-tools/memtest86-memory-test-tool/)  
      - [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)（硬碟速度測試軟件）
 
+   - #### 記憶體分析與優化工具
+
+     - [RAMMap](https://learn.microsoft.com/zh-tw/sysinternals/downloads/rammap)（微軟實體記憶體使用分析與快取釋放工具）
+
    - #### 系統連接管理工具
 
      - [TCPView v4.17](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)（系統連接端點查看器）  
