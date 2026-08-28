@@ -132,7 +132,8 @@
    - #### 特定平台下載工具
 
      - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader/releases/tag/v3.7h)（影片下載工具）  
-     - [ByClick Downloader](https://www.byclickdownloader.com/zh/)（Bilibili影片下載工具）
+     - [ByClick Downloader](https://www.byclickdownloader.com/zh/)（Bilibili影片下載工具）  
+     - [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/)（Discord 表情符號與貼圖下載工具）
 
    - #### 高速下載工具
 
@@ -140,7 +141,9 @@
 
    - #### Android 軟體
 
-     - [騰訊應用寶](https://sj.qq.com/)
+     - [騰訊應用寶](https://sj.qq.com/)  
+     - [APKCombo](https://apkcombo.com/tw/)（Android APK / XAPK 安裝包下載平台）  
+     - [Aurora Store](https://auroraoss.com/aurora-store)（開源 Google Play 商店替代客戶端，免 GMS 支援匿名下載）
 
 3. ### **Transfer & Remote Control**
 
