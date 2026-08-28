@@ -46,10 +46,11 @@
 
 ## **多媒體與下載工具**
 
-### 影音下載
+### 影音與資源下載
 
 [Tuberipper](https://tuberipper.com/36/save/mp3)：下載 Youtube 音樂/影片  
-[Steam Workshop Downloader](https://ggntw.com/steam)：下載工作坊模組
+[Steam Workshop Downloader](https://ggntw.com/steam)：下載工作坊模組  
+[Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/)：下載 Discord 伺服器表情符號與貼圖
 
 ### YouTube 相關工具
 
