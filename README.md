@@ -64,7 +64,12 @@ In-depth technical articles, tutorials, and problem-solving solutions organized 
 - **Mindset** ([topics/mindset/](topics/mindset/)) - Personal mindset and reflection
 - **Quantum** ([topics/quantum/](topics/quantum/)) - Quantum computing research
 - **Research Methods** ([topics/research-method/](topics/research-method/)) - Research methodology course notes (中央大學)
-- **Security** ([topics/security/](topics/security/)) - Information security concepts and practices
+- **Security** ([topics/security/](topics/security/)) - Information security concepts, lab platforms, and ops cheatsheets
+  - **Labs & Platforms** ([topics/security/cybersecurity-labs-and-platforms.md](topics/security/cybersecurity-labs-and-platforms.md)) - TryHackMe, HTB, DVWA, Vulnhub online/local labs
+  - **CTF Beginner Guide** ([topics/security/ctf-beginner-guide.md](topics/security/ctf-beginner-guide.md)) - 6 core categories, 8 competition formats, and solution SOP
+  - **Exam & Terminology Notes** ([topics/security/information-security-notes.md](topics/security/information-security-notes.md)) - Auth protocols (OAuth/SAML/OIDC), AAA, and high-frequency exam points
+  - **Ops Cheatsheet** ([topics/security/network-security-cheatsheet.md](topics/security/network-security-cheatsheet.md)) - Nmap scanning, Wireshark/tcpdump filtering, and firewall rules
+  - **Automation Security Analysis** ([topics/security/automation-analysis-logic.md](topics/security/automation-analysis-logic.md)) - Phase 1 intent analysis and taint tracking logic
 - **Technology** ([topics/technology/](topics/technology/)) - Hardware and software Q&A
 
 ### 🗂️ Resources

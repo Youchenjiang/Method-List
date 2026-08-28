@@ -64,7 +64,12 @@ Method-List/
 - **心態** ([topics/mindset/](topics/mindset/)) - 個人心態與反思
 - **量子** ([topics/quantum/](topics/quantum/)) - 量子計算研究
 - **研究方法** ([topics/research-method/](topics/research-method/)) - 研究方法課程學習筆記（中央大學）
-- **安全** ([topics/security/](topics/security/)) - 資訊安全概念與實踐
+- **安全** ([topics/security/](topics/security/)) - 資訊安全概念、靶場實戰與維運指令
+  - **學習平台與靶場** ([topics/security/cybersecurity-labs-and-platforms.md](topics/security/cybersecurity-labs-and-platforms.md)) - TryHackMe, HTB, DVWA 等線上/本地靶場
+  - **CTF 競賽指南** ([topics/security/ctf-beginner-guide.md](topics/security/ctf-beginner-guide.md)) - 6 大領域題型、8 大賽制模式與解題 SOP
+  - **考試與名詞速查** ([topics/security/information-security-notes.md](topics/security/information-security-notes.md)) - 認證協定（OAuth/SAML/OIDC）、AAA 與高頻考點對比
+  - **維運指令 Cheatsheet** ([topics/security/network-security-cheatsheet.md](topics/security/network-security-cheatsheet.md)) - Nmap 掃描、Wireshark/tcpdump 過濾與防火牆規則
+  - **自動化安全分析** ([topics/security/automation-analysis-logic.md](topics/security/automation-analysis-logic.md)) - 程式碼安全測試 Phase 1 意圖分析與污點追蹤邏輯
 - **技術** ([topics/technology/](topics/technology/)) - 硬體與軟體問答
 
 ### 🗂️ Resources - 資源彙整
