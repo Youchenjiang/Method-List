@@ -47,6 +47,9 @@
         ├──────────► 💡 讀得很枯燥，想要同儕心得與挑戰提問？
         │           ➜ digest_peer-insight.md
         │
+        ├──────────► 🛡️ 大量資安新聞，只想推送真正必讀的事件？
+        │           ➜ digest_security-news-editor.md
+        │
         └──────────► 🎙️ 會議錄音太冗長，想萃取修改清單與口試策略？
                     ➜ digest_academic-meeting-transcript.md
 ```
@@ -74,6 +77,7 @@
 | **[digest_document-shredder_progressive.md](./digest_document-shredder_progressive.md)** | 分段深潛導師 | **分段閱讀器**：先地圖後拆解，突破 Token 限制。 | 面對極厚（100頁+）或極艱澀的專業文獻。 |
 | **[digest_academic-slides-curator.md](./digest_academic-slides-curator.md)** | 學術簡報架構師 | 將學術論文/文獻轉換為 15-20 頁深度學術簡報，含演說指引與 Q&A。 | 碩士 Meeting、實驗室匯報。 |
 | **[digest_news-slides-curator.md](./digest_news-slides-curator.md)** | 新聞簡報轉譯師 | 將科技與安全新聞轉換為 5-10 頁技術快報簡報，聚焦手法特點與繞過機制。 | 實驗室 Meeting、技術專題分享。 |
+| **[digest_security-news-editor.md](./digest_security-news-editor.md)** | 資安新聞必讀編輯 | 先以證據篩出必讀事件，再產生精練公開敘事與完整攻擊鏈。 | Discord 讀書會新聞 bot、自動新聞編輯流程。 |
 | **[digest_academic-meeting-transcript.md](./digest_academic-meeting-transcript.md)** | 學術會議記錄助手 | 從冗長會議音訊中萃取高濃度論文修改清單與口試策略，嚴格遵循精煉句型。 | 口試前會議錄音、教授指導會議記錄。 |
 
 ### 2. 互動式學科教練 (Interactive Subject Coaching)
@@ -110,4 +114,4 @@
 4. **Traditional Chinese**: 全程繁體中文輸出。
 
 ---
-**最後更新：2026-07-18** (新增 coach_life-partner.md)
+**最後更新：2026-09-01**（新增資安新聞必讀篩選與編輯提示詞）
