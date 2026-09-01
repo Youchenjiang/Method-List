@@ -39,13 +39,15 @@ Method-List/
 │   └── github/         # GitHub repository references
 └── topics/
     ├── ai/             # AI and machine learning
-    │   └── machine-learning/  # ML assignments, paper reviews
+    │   └── machine-learning/  # ML assignments, paper reviews, feature selection
+    ├── android/        # Android security & automated testing architecture
+    │   └── pentest/    # Android LLM-augmented pentesting framework (01-07)
     ├── data-engineering/ # Data engineering concepts
-    ├── development/    # Development troubleshooting
+    ├── development/    # Development troubleshooting & SOPs
     ├── mindset/        # Personal mindset and reflection
     ├── quantum/        # Quantum computing research
-    ├── research-method/ # Research methodology course notes
-    ├── security/       # Information security
+    ├── research-method/ # Research methodology course notes & exam prep
+    ├── security/       # Information security & ops cheatsheets
     └── technology/     # Hardware and software Q&A
 ```
 
@@ -58,18 +60,22 @@ This knowledge base is divided into two main sections:
 In-depth technical articles, tutorials, and problem-solving solutions organized by domain:
 
 - **AI** ([topics/ai/](topics/ai/)) - Artificial intelligence, machine learning, Azure OpenAI
-  - **Machine Learning** ([topics/ai/machine-learning/](topics/ai/machine-learning/)) - ML assignments, paper reviews, feature selection research
+  - **Machine Learning** ([topics/ai/machine-learning/](topics/ai/machine-learning/)) - ML assignments, paper reviews (AutoVulnPHP, STAF), and feature selection research → [Details](topics/ai/machine-learning/README.md)
+- **Android** ([topics/android/](topics/android/)) - Android mobile security & automated analysis
+  - **Augmented Pentesting Framework** ([topics/android/pentest/](topics/android/pentest/)) - 7-part architecture combining LLM, Agentic workflows, and Frida instrumentation → [Details](topics/android/pentest/README.md)
 - **Data Engineering** ([topics/data-engineering/](topics/data-engineering/)) - Data processing and engineering concepts
-- **Development** ([topics/development/](topics/development/)) - Programming troubleshooting and development tools
+- **Development** ([topics/development/](topics/development/)) - Programming troubleshooting, Docker, Git, and Conda environment SOPs
 - **Mindset** ([topics/mindset/](topics/mindset/)) - Personal mindset and reflection
 - **Quantum** ([topics/quantum/](topics/quantum/)) - Quantum computing research
-- **Research Methods** ([topics/research-method/](topics/research-method/)) - Research methodology course notes (中央大學)
-- **Security** ([topics/security/](topics/security/)) - Information security concepts, lab platforms, and ops cheatsheets
+- **Research Methods** ([topics/research-method/](topics/research-method/)) - Research methodology complete course notes (Lectures 01-08) & exam prep (NCU) → [Details](topics/research-method/README.md)
+- **Security** ([topics/security/](topics/security/)) - Information security concepts, lab platforms, and ops cheatsheets → [Details](topics/security/README.md)
   - **Labs & Platforms** ([topics/security/cybersecurity-labs-and-platforms.md](topics/security/cybersecurity-labs-and-platforms.md)) - TryHackMe, HTB, DVWA, Vulnhub online/local labs
   - **CTF Beginner Guide** ([topics/security/ctf-beginner-guide.md](topics/security/ctf-beginner-guide.md)) - 6 core categories, 8 competition formats, and solution SOP
   - **Exam & Terminology Notes** ([topics/security/information-security-notes.md](topics/security/information-security-notes.md)) - Auth protocols (OAuth/SAML/OIDC), AAA, and high-frequency exam points
   - **Ops Cheatsheet** ([topics/security/network-security-cheatsheet.md](topics/security/network-security-cheatsheet.md)) - Nmap scanning, Wireshark/tcpdump filtering, and firewall rules
   - **Automation Security Analysis** ([topics/security/automation-analysis-logic.md](topics/security/automation-analysis-logic.md)) - Phase 1 intent analysis and taint tracking logic
+  - **PDF Standard Encryption Cracking** ([topics/security/pdf-encryption-cracking.md](topics/security/pdf-encryption-cracking.md)) - Key derivation algorithms, MD5+RC4 cryptanalysis, and multiprocessing cracking
+  - **Web Security Assessment Workflow** ([topics/security/web-application-security-assessment.md](topics/security/web-application-security-assessment.md)) - End-to-end security assessment methodology (Recon, Auth, API Fuzzing, TLS Review)
 - **Technology** ([topics/technology/](topics/technology/)) - Hardware and software Q&A
 
 ### 🗂️ Resources

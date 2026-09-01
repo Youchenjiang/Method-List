@@ -29,6 +29,7 @@ Method List 是一個專門收集和整理技術方法、工具資源和問題�
 ```tree
 Method-List/
 ├── README.md
+├── README.zh-TW.md
 ├── resources/
 │   ├── agent-rules/     # AI agent 行為規則（可貼進 CLAUDE.md / AGENTS.md）
 │   ├── media/          # 媒體頻道與收藏
@@ -39,13 +40,15 @@ Method-List/
 │   └── github/         # GitHub 儲存庫參考
 └── topics/
     ├── ai/             # AI 與機器學習
-    │   └── machine-learning/  # ML 作業報告、論文摘要
+    │   └── machine-learning/  # ML 作業報告、論文研讀、特徵選擇研究
+    ├── android/        # Android 安全分析與自動化架構
+    │   └── pentest/    # Android LLM 增強型滲透測試框架 (01-07)
     ├── data-engineering/ # 資料工程概念
-    ├── development/    # 開發除錯
+    ├── development/    # 開發除錯與環境 SOP
     ├── mindset/        # 個人心態與反思
     ├── quantum/        # 量子計算研究
-    ├── research-method/ # 研究方法課程學習筆記
-    ├── security/       # 資訊安全
+    ├── research-method/ # 研究方法課程學習筆記與考試重點
+    ├── security/       # 資訊安全與維運指令
     └── technology/     # 硬體與軟體問答
 ```
 
@@ -58,18 +61,22 @@ Method-List/
 依領域組織的深入技術文章、教學與問題解決方案：
 
 - **AI** ([topics/ai/](topics/ai/)) - 人工智慧、機器學習、Azure OpenAI
-  - **機器學習** ([topics/ai/machine-learning/](topics/ai/machine-learning/)) - ML 作業報告、論文摘要、特徵選擇研究
+  - **機器學習** ([topics/ai/machine-learning/](topics/ai/machine-learning/)) - ML 作業報告、論文研讀 (AutoVulnPHP, STAF)、特徵選擇與基因預測研究 → [詳細導覽](topics/ai/machine-learning/README.md)
+- **Android** ([topics/android/](topics/android/)) - Android 行動安全與智慧自動化分析
+  - **增強型滲透測試框架** ([topics/android/pentest/](topics/android/pentest/)) - 結合 LLM、Agentic Workflow 與 Frida 插樁的 7 大分層架構 → [詳細導覽](topics/android/pentest/README.md)
 - **資料工程** ([topics/data-engineering/](topics/data-engineering/)) - 資料處理與工程概念
-- **開發** ([topics/development/](topics/development/)) - 程式除錯與開發工具
+- **開發** ([topics/development/](topics/development/)) - 程式除錯、Docker、Git 與 Conda 環境修復 SOP
 - **心態** ([topics/mindset/](topics/mindset/)) - 個人心態與反思
 - **量子** ([topics/quantum/](topics/quantum/)) - 量子計算研究
-- **研究方法** ([topics/research-method/](topics/research-method/)) - 研究方法課程學習筆記（中央大學）
-- **安全** ([topics/security/](topics/security/)) - 資訊安全概念、靶場實戰與維運指令
+- **研究方法** ([topics/research-method/](topics/research-method/)) - 研究方法課程完整講義（Lectures 01-08）與中央大學考試衝刺重點 → [詳細導覽](topics/research-method/README.md)
+- **安全** ([topics/security/](topics/security/)) - 資訊安全概念、靶場實戰與維運指令 → [詳細導覽](topics/security/README.md)
   - **學習平台與靶場** ([topics/security/cybersecurity-labs-and-platforms.md](topics/security/cybersecurity-labs-and-platforms.md)) - TryHackMe, HTB, DVWA 等線上/本地靶場
   - **CTF 競賽指南** ([topics/security/ctf-beginner-guide.md](topics/security/ctf-beginner-guide.md)) - 6 大領域題型、8 大賽制模式與解題 SOP
   - **考試與名詞速查** ([topics/security/information-security-notes.md](topics/security/information-security-notes.md)) - 認證協定（OAuth/SAML/OIDC）、AAA 與高頻考點對比
   - **維運指令 Cheatsheet** ([topics/security/network-security-cheatsheet.md](topics/security/network-security-cheatsheet.md)) - Nmap 掃描、Wireshark/tcpdump 過濾與防火牆規則
   - **自動化安全分析** ([topics/security/automation-analysis-logic.md](topics/security/automation-analysis-logic.md)) - 程式碼安全測試 Phase 1 意圖分析與污點追蹤邏輯
+  - **PDF Standard 加密原理與破解** ([topics/security/pdf-encryption-cracking.md](topics/security/pdf-encryption-cracking.md)) - PDF Revision 2~4 Standard Security Handler 演算法推導、MD5+RC4 Key Derivation 與高速暴力破解技術
+  - **Web 應用安全評估與滲透流程** ([topics/security/web-application-security-assessment.md](topics/security/web-application-security-assessment.md)) - 涵蓋 Recon、TLS 審查、Auth/Session、IDOR、API Fuzzing 與安全標頭強化的標準評估流程
 - **技術** ([topics/technology/](topics/technology/)) - 硬體與軟體問答
 
 ### 🗂️ Resources - 資源彙整
