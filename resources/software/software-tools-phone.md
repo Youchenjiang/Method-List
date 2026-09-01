@@ -54,7 +54,7 @@
     - [iPhone-電池監測](#iphone-電池監測)
     - [iPhone-限時免費](#iphone-限時免費)
   - [**Android**](#android)
-    - [Android-應用商店與安裝包下載](#android-應用商店與安裝包下載)
+    - [Android-應用商店客戶端](#android-應用商店客戶端)
     - [Android-電池監測](#android-電池監測)
     - [Android-Google](#android-google)
     - [Android-VPN](#android-vpn)
@@ -763,10 +763,9 @@
 
 ## **Android**
 
-### Android-應用商店與安裝包下載
+### Android-應用商店客戶端
 
 [Aurora Store](https://auroraoss.com/aurora-store)(開源 Google Play 商店客戶端)
-[APKCombo](https://apkcombo.com/tw/)(APK/XAPK 安裝包下載)
 
 ### Android-電池監測
 
