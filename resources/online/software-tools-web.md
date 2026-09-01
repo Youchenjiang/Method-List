@@ -51,7 +51,8 @@
 [Tuberipper](https://tuberipper.com/36/save/mp3)：下載 Youtube 音樂/影片  
 [Steam Workshop Downloader](https://ggntw.com/steam)：下載工作坊模組  
 [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/)：下載 Discord 伺服器表情符號與貼圖  
-[APKCombo](https://apkcombo.com/tw/)：Android APK / XAPK 線上安裝包提取與下載平台
+[APKCombo](https://apkcombo.com/tw/)：Android APK / XAPK 線上安裝包提取與下載平台  
+[Aurora Store](https://auroraoss.com/aurora-store)：開源 Google Play 商店客戶端官方網站與下載頁
 
 ### YouTube 相關工具
 
