@@ -15,7 +15,7 @@
 ### Coding Assistants & Prompts
 | Repository | Language | Stars | Forks | Last Updated | Description | Key Features |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Humanizer-zh-TW](Humanizer-zh-TW.md) | Python | 12 | 2 | 2026-05-31 | Python | 12 |
+| [Humanizer-zh-TW](humanizer-zh-tw.md) | Python | 12 | 2 | 2026-05-31 | Python | 12 |
 | [Andrej Karpathy Skills](andrej-karpathy-skills.md) | Markdown | 85 | 10 | 2026-05-23 | Markdown | 85 |
 | [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | Python | 64,073 | 10,469 | 2026-06-01 | A nano Claude Code-like agent harness built from scratch in Bash. | Lightweight Bash core, agent harness framework, step-by-step learning resource. |
 | [Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/doggy8088/Mastering-GitHub-Copilot-for-Paired-Programming) | Python | 68 | 14 | 2025-02-15 | A course teaching everything you need to know about harnessing GitHub Copilot as an AI pair programming resource. | 9-Lesson curriculum, pair-programming guidelines, prompt techniques. |
