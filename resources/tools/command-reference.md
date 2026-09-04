@@ -9,6 +9,7 @@
   - [📁 檔案管理 (File Management)](#-檔案管理-file-management)
     - [批次更名 (Rename)](#批次更名-rename)
     - [合併檔案 (Merge)](#合併檔案-merge)
+    - [強制刪除龐大或巢狀目錄 (Force Delete)](#強制刪除龐大或巢狀目錄-force-delete)
   - [🌐 網路與連線 (Network & Connectivity)](#-網路與連線-network--connectivity)
     - [狀態查詢](#狀態查詢)
     - [連線修復](#連線修復)
@@ -53,6 +54,19 @@ Get-Content *.md | Set-Content merged_all.md
 pandoc *.md -o merged.docx
 pandoc *.md -o merged.pdf
 ```
+
+### 強制刪除龐大或巢狀目錄 (Force Delete)
+
+當 Windows 刪除龐大或巢狀目錄導致檔案總管卡死或回應緩慢時，可使用 PowerShell 強制快速遞迴刪除：
+
+```powershell
+Remove-Item -LiteralPath "你的資料夾完整路徑" -Recurse -Force
+```
+
+> [!TIP]
+> - `-LiteralPath`：精確指定路徑，避免路徑包含特殊字元（如中括號 `[]` 或空白）時被當作萬用字元解析錯誤。
+> - `-Recurse`：遞迴刪除目錄內的所有子資料夾與檔案。
+> - `-Force`：強制刪除隱藏檔或唯讀檔案。
 
 ---
 
